@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/bar-carts.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-01-03T15:15:27+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8127053922540</id>
+    <published>2024-01-03T15:15:27+08:00</published>
+    <updated>2024-01-03T15:15:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/billie-metal-bar-cart"/>
+    <title>Billie Metal Bar Cart</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Billiemetalbarcart.webp?v=1704266010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            271.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Billie Metal Bar Cart exudes chic sophistication with its black round metal frame and glass shelves, making it a stylish and functional addition to your entertaining space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar cart</s:tag>
+    <s:tag>black bar cart</s:tag>
+    <s:tag>cocktail bar</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8127053922540</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">271.20</s:price>
+      <s:sku>408583</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7951166931180</id>
+    <published>2023-07-19T10:19:54+08:00</published>
+    <updated>2023-07-19T10:19:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/marais-marble-metal-bar-cart"/>
+    <title>Marais Marble/Metal Bar Cart</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/KW2089-MaraisMarbleMetalBarCart.jpg?v=1689730864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            359.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A sleek, modern bar cart featuring dark marble shelves and a metal frame.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar cart</s:tag>
+    <s:tag>bar trolley</s:tag>
+    <s:tag>black bar cart</s:tag>
+    <s:tag>cocktail bar</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7951166931180</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">359.20</s:price>
+      <s:sku>452652</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7914530603244</id>
+    <published>2023-05-04T08:24:25+08:00</published>
+    <updated>2023-05-04T08:24:25+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/gatsby-bar-cart-gold"/>
+    <title>Gatsby Bar Cart - Gold</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/FT.069.GD-GatsbyBarcartWB.jpg?v=1682393005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            319.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">With a glamorous aesthetic reminiscent of the Gatsby party era, this <a href="https://thefurnituregallery.com.au/collections/bar-carts">bar cart</a> is a gorgeous piece to store your favourite drinks.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar cart</s:tag>
+    <s:tag>bar trolley</s:tag>
+    <s:tag>cocktail bar</s:tag>
+    <s:tag>gold bar cart</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7914530603244</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">319.20</s:price>
+      <s:sku>452410</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7904872890604</id>
+    <published>2023-05-03T14:20:18+08:00</published>
+    <updated>2023-05-03T14:20:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/kroon-coach-wheel-bar-cart"/>
+    <title>Kroon Coach Wheel Bar Cart</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/QBKRCB-KroonCoachWheelBarCart-black.jpg?v=1680670560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            263.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>The Kroon Black Coach Wheel <a href="https://thefurnituregallery.com.au/collections/bar-carts">Bar Cart</a> features 2 shelves and castor wheels for easy movement, making it a great accessory for entertaining and storing your favourite drinks.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar trolley</s:tag>
+    <s:tag>black bar cart</s:tag>
+    <s:tag>cocktail bar</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7904872890604</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">263.20</s:price>
+      <s:sku>448931</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7913363865836</id>
+    <published>2023-04-21T10:02:48+08:00</published>
+    <updated>2023-04-21T10:02:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/arden"/>
+    <title>Arden Drinks Trolley</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/ScreenShot2023-04-24at3.21.53pm.png?v=1682318873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            376.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">In an antique silver finish, this gorgeous <a href="https://thefurnituregallery.com.au/collections/bar-carts">drinks trolley</a> is a wonderful addition to your home and great for entertaining.<meta charset="utf-8">
+<div data-mce-fragment="1" data-min-height="6" class="js-read-more-block margin_md_bottom">
+<p data-mce-fragment="1" class="truncate"> </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar cart</s:tag>
+    <s:tag>bar trolley</s:tag>
+    <s:tag>cocktail bar</s:tag>
+    <s:tag>Silver bar cart</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7913363865836</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">376.00</s:price>
+      <s:sku>451155</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7912057176300</id>
+    <published>2023-04-19T12:36:43+08:00</published>
+    <updated>2023-04-19T12:36:43+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/yale-frameless-oval-bar-cart"/>
+    <title>Yale Frameless Oval Bar Cart</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/QBYAGO-YaleFramelessOvalbarcart.jpg?v=1681875977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            399.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>The Yale Frameless Oval Bar Cart features glamorous gold legs, with wheels for easy movement.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar cart</s:tag>
+    <s:tag>bar trolley</s:tag>
+    <s:tag>cocktail bar</s:tag>
+    <s:tag>gold bar cart</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7912057176300</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.20</s:price>
+      <s:sku>451099</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7912048296172</id>
+    <published>2023-04-19T12:36:05+08:00</published>
+    <updated>2023-04-19T12:36:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/piaf-clear-bar-cart-gold"/>
+    <title>Piaf Clear Bar Cart - Gold</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/QBPIBG-Piafbarcartgold.jpg?v=1681874730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            279.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">A luxurious two-tiered bar cart crafted in champagne gold metal with clear glass shelves, offering both elegance and functionality for stylish entertaining in any space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar trolley</s:tag>
+    <s:tag>cocktail bar</s:tag>
+    <s:tag>gold bar cart</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7912048296172</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">279.20</s:price>
+      <s:sku>449512</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7912060485868</id>
+    <published>2023-04-19T12:35:54+08:00</published>
+    <updated>2023-04-19T12:35:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/wills"/>
+    <title>Wills Frameless Round Bar Cart</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/QBWISR_002_-Willsframelessroundbarcart.jpg?v=1681876694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            319.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar cart</s:tag>
+    <s:tag>bar trolley</s:tag>
+    <s:tag>cocktail bar</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7912060485868</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">319.20</s:price>
+      <s:sku>451098</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7904874037484</id>
+    <published>2023-04-19T12:34:51+08:00</published>
+    <updated>2023-04-19T12:34:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/wills-frameless-oval-bar-cart-silver"/>
+    <title>Wills Frameless Oval Bar Cart - Silver</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/QBWISO-WillsFramelessOvalBarCart.jpg?v=1680670933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            399.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A stunning frameless <a href="https://thefurnituregallery.com.au/collections/bar-carts">bar cart</a> on silver legs, with just the right amount of glamour.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar trolley</s:tag>
+    <s:tag>cocktail bar</s:tag>
+    <s:tag>Silver bar cart</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7904874037484</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.20</s:price>
+      <s:sku>451097</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7904873480428</id>
+    <published>2023-04-19T11:21:30+08:00</published>
+    <updated>2023-04-19T11:21:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/jones-glass-bar-cart-gold"/>
+    <title>Jones Glass Bar Cart - Gold</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/QBJORE-JonesGlassBarCartClearRectangle.jpg?v=1680670726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            223.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This art deco style bar cart is a beautiful addition to your home entertainment area.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar cart</s:tag>
+    <s:tag>bar trolley</s:tag>
+    <s:tag>cocktail bar</s:tag>
+    <s:tag>gold</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7904873480428</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">223.20</s:price>
+      <s:sku>445179</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7904874627308</id>
+    <published>2023-04-17T14:56:16+08:00</published>
+    <updated>2023-04-17T14:56:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/yale-frameless-round-bar-cart-gold"/>
+    <title>Yale Frameless Round Bar Cart - Gold</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/QBYAGR-YaleFramelessBarCart.jpg?v=1680671114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            319.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Yale Frameless Round <a href="https://thefurnituregallery.com.au/collections/bar-carts">Bar Cart</a> features glamorous gold legs, with wheels for easy movement.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar cart</s:tag>
+    <s:tag>bar trolley</s:tag>
+    <s:tag>cocktail bar</s:tag>
+    <s:tag>gold bar cart</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7904874627308</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">319.20</s:price>
+      <s:sku>451100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7904491012332</id>
+    <published>2023-04-05T09:49:18+08:00</published>
+    <updated>2023-04-05T09:49:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/smith-chrome-glass-mirror-trolley"/>
+    <title>Smith Chrome Glass Mirror Trolley - Oval</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/QBSMOV-SmithChromeGlassMirrorTrolley.jpg?v=1680582428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            311.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A combination of glass and chrome combine to form this oval-shaped <a href="https://thefurnituregallery.com.au/collections/bar-carts">bar trolley</a>, creating a chic space to store or display your favourite wines and spirits.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar cart</s:tag>
+    <s:tag>bar trolley</s:tag>
+    <s:tag>cocktail bar</s:tag>
+    <s:tag>Silver bar cart</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7904491012332</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">311.20</s:price>
+      <s:sku>443888</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7904489275628</id>
+    <published>2023-04-05T09:46:34+08:00</published>
+    <updated>2023-04-05T09:46:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/norris-triple-shelf-cart-silver"/>
+    <title>Norris Triple Shelf Cart - Silver</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/QBNOTS-NorrisTripleShelfCart.jpg?v=1680582581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            399.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Featuring a distinct art deco design, the Norris Triple Shelf <a href="https://thefurnituregallery.com.au/collections/bar-carts">Bar Cart</a> is made from stainless steel with a silver chrome finish and features 3 tempered glass shelves to store your favourite drinks.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar cart</s:tag>
+    <s:tag>cocktail bar</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7904489275628</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.20</s:price>
+      <s:sku>449677</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7904488423660</id>
+    <published>2023-04-05T09:43:50+08:00</published>
+    <updated>2023-04-05T09:43:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/naomi-clear-round-trolley"/>
+    <title>Naomi Clear Round Trolley</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/QBNASR-NaomiClearRoundTrolley.jpg?v=1680582741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            479.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Naomi Clear Round <a href="https://thefurnituregallery.com.au/collections/bar-carts">Bar Trolley</a> features a steel frame and 2 tempered glass shelves, perfect for storing drinks. Resting on wheels, it can be conveniently moved around your space. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar trolley</s:tag>
+    <s:tag>cocktail bar</s:tag>
+    <s:tag>Silver bar cart</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7904488423660</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">479.20</s:price>
+      <s:sku>449316</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7904488095980</id>
+    <published>2023-04-05T09:38:57+08:00</published>
+    <updated>2023-04-05T09:38:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/carter-bar-trolley"/>
+    <title>Carter Bar Trolley</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/CarterBarTrolley.jpg?v=1680579191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            760.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Display your favourite spirits and wines on this elegant <a href="https://thefurnituregallery.com.au/collections/bar-carts">bar trolley</a>, featuring a brass frame and 2 mirrored shelves, with wheels for easy moving.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar cart</s:tag>
+    <s:tag>cocktail bar</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7904488095980</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">760.00</s:price>
+      <s:sku>446632</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7898519830764</id>
+    <published>2023-03-27T18:48:34+08:00</published>
+    <updated>2023-03-27T18:48:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ponte-brass-cart"/>
+    <title>Ponte Brass Cart</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/450126-PonteCart-Brass.jpg?v=1679362427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Display your favourite spirits and wines on this beautiful art-deco inspired <a href="https://thefurnituregallery.com.au/collections/bar-carts">bar cart</a>, featuring a brass frame and glass shelving.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar cart</s:tag>
+    <s:tag>cocktail bar</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7898519830764</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">899.00</s:price>
+      <s:sku>450126</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669980037356</id>
+    <published>2022-06-19T12:53:42+08:00</published>
+    <updated>2022-06-19T12:53:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/verna-drinks-trolley"/>
+    <title>Verna Drinks Trolley</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/611c43002765e55ac19d046b_Verna_20Drinks_20Trolley_20Champagne_20Lifestyle_20_2.jpg?v=1655614422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            799.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Channel some Gatsby in your <a href="https://thefurnituregallery.com.au/collections/dining">dining room</a> with this stunning art-deco style drinks trolley, finished in antique bronze for a glam look. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art deco style</s:tag>
+    <s:tag>bronze</s:tag>
+    <s:tag>Drinks trolley</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669980037356</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.20</s:price>
+      <s:sku>448171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

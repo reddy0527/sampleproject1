@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/dining-chairs.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-03-20T15:27:03+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8250832421100</id>
+    <published>2024-03-20T15:27:03+08:00</published>
+    <updated>2024-03-20T15:27:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/camilla-elm-wood-chair-white"/>
+    <title>Camilla Elm Wood Chair - White</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Camillafrontwhite.jpg?v=1710919596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            189.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Inspired by the iconic design elements attributed to Austrian architect Josef Hoffmann, the Camilla Elm Wood Chair combines rattan cane and warm elm wood. Its timeless elegance pays homage to the renowned designer's enduring legacy. </span></p>
+<p><span data-mce-fragment="1">Also available: <a href="https://thefurnituregallery.com.au/products/camilla-elm-wood-chair-natural" title="Camilla Elm Wood Chair - Natural">Natural.﻿</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cafe chair</s:tag>
+    <s:tag>rattan</s:tag>
+    <s:tag>rattan chair</s:tag>
+    <s:tag>rattan dining chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8250832421100</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">189.00</s:price>
+      <s:sku>408929</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8250827309292</id>
+    <published>2024-03-20T15:22:57+08:00</published>
+    <updated>2024-03-20T15:22:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/camilla-elm-wood-chair-natural"/>
+    <title>Camilla Elm Wood Chair - Natural</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Camillafront-naturual.jpg?v=1710919368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            189.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Inspired by the iconic design elements attributed to Austrian architect Josef Hoffmann, the Camilla Elm Wood Chair combines rattan cane and warm elm wood. Its timeless elegance pays homage to the renowned designer's enduring legacy. </span></p>
+<p><span data-mce-fragment="1">Also available in <a href="https://thefurnituregallery.com.au/products/camilla-elm-wood-chair-white" title="Camilla Elm Wood Chair - White">White.﻿</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cafe chair</s:tag>
+    <s:tag>rattan</s:tag>
+    <s:tag>rattan chair</s:tag>
+    <s:tag>rattan dining chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8250827309292</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">189.00</s:price>
+      <s:sku>408928</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7891668730092</id>
+    <published>2024-02-09T10:09:03+08:00</published>
+    <updated>2024-02-09T10:09:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/corsica-dining-chair"/>
+    <title>Corsica Dining Chair</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/corsicadiningchair_table.jpg?v=1681715482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            439.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<p>Upholstered in a light beige fabric with light <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">timber</a> legs and brass studding, this chair pairs perfectly with the Corsica <a href="https://thefurnituregallery.com.au/collections/dining-tables">Dining Table</a>.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>studded detail</s:tag>
+    <s:tag>upholstered dining chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7891668730092</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">439.00</s:price>
+      <s:sku>450970</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152749998316</id>
+    <published>2024-01-31T07:18:21+08:00</published>
+    <updated>2024-01-31T07:18:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cafe-counter-stool-natural"/>
+    <title>Cafe Counter Stool - Natural</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ScreenShot2024-03-15at12.44.51pm.png?v=1710466999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            369.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Introduce a blend of urban charm and natural warmth with the Café Counter Stool in natural.  Featuring a rattan seat and back, offering both style and comfort for your dining or kitchen counter.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar stool</s:tag>
+    <s:tag>stool</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152749998316</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">369.00</s:price>
+      <s:sku>408594</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152743739628</id>
+    <published>2024-01-31T07:14:18+08:00</published>
+    <updated>2024-01-31T07:14:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cafe-counter-stool-black"/>
+    <title>Cafe Counter Stool - Black</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/cafecounterstools_aa70cfe1-f733-4b1f-a9aa-6ab151a98ef5.png?v=1710302393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            369.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Introduce a blend of urban charm and natural warmth with the Café Counter Stool in black.  Featuring a rattan seat and back, offering both style and comfort for your dining or kitchen counter.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar stool</s:tag>
+    <s:tag>stool</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152743739628</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">369.00</s:price>
+      <s:sku>408593</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8133894373612</id>
+    <published>2024-01-12T12:10:55+08:00</published>
+    <updated>2024-01-12T12:10:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/lyon-oak-dining-chair"/>
+    <title>Lyon Oak Dining Chair</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/LyonDiningChair-styled_jpeg.heic?v=1705029647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Lyon Oak Dining Chair</span><span data-mce-fragment="1"> features oakwood legs, grey fabric upholstery and silver nail heads for a classic look.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dining chair</s:tag>
+    <s:tag>upholstered dining chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8133894373612</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.00</s:price>
+      <s:sku>450973</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8130818212076</id>
+    <published>2024-01-12T10:45:43+08:00</published>
+    <updated>2024-01-12T10:45:43+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/verdelho-square-dining-chair-nettlewood"/>
+    <title>Verdelho Square Dining Chair - Nettlewood</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/VerdelhoSquareDiningChair-Nettlewoodangle_jpeg.heic?v=1705027123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            469.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Verdelho Square Dining Chair combines comfort and elegance, featuring a beige neutral upholstery, a natural Nettlewood timber frame, padded seat, and back, embodying a classic and timeless style for a refined dining experience.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dining chair</s:tag>
+    <s:tag>upholstered dining chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8130818212076</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">469.00</s:price>
+      <s:sku>451553</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8118492725484</id>
+    <published>2023-12-19T11:10:49+08:00</published>
+    <updated>2023-12-19T11:10:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bondi-bench-seat"/>
+    <title>Bondi Bench Seat</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BondiBenchseatangle_938ed72a-aca7-4ebc-ad16-f95782cc8219.jpg?v=1702939115"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            699.00 - 799.00
+            <a href="https://thefurnituregallery.com.au/products/bondi-bench-seat">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Crafted from light chestnut </span><a data-mce-fragment="1" href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection" data-mce-href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">timber</a><span data-mce-fragment="1">, the Bondi Bench Seat features cross legs and is the perfect  accompaniment to our best selling <a title="Bondi Dining Table" href="https://thefurnituregallery.com.au/products/bondi-dining-table">Bondi Dining Table.</a></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bench seat</s:tag>
+    <s:tag>dining bench</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8118492725484</id>
+      <title>1.9m</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>408372</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8118492725484</id>
+      <title>2.3m</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>408373P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8106821189868</id>
+    <published>2023-12-06T17:16:40+08:00</published>
+    <updated>2023-12-06T17:16:40+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/maya-dining-chair-grey"/>
+    <title>Maya Dining Chair - Grey</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/MayaDiningChairs-Grey2.jpg?v=1701854282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="auto" data-pm-slice="1 1 []" data-mce-fragment="1">Upgrade your dining experience with the Maya Dining Chair. Crafted with sleek grey leather upholstery and a contemporary design, this chair effortlessly combines style and comfort.  Pair it back with the <a href="https://thefurnituregallery.com.au/products/maya-dining-table" title="Maya Dining Table">Maya Dining Table</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dining chair</s:tag>
+    <s:tag>leather</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8106821189868</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.00</s:price>
+      <s:sku>408823b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8105582592236</id>
+    <published>2023-12-06T13:13:57+08:00</published>
+    <updated>2023-12-06T13:13:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/portland-dining-chair-stone"/>
+    <title>Portland Dining Chair - Stone</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PortlandDiningChair-Stone.jpg?v=1701814806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            479.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Stunning stone <a href="https://thefurnituregallery.com.au/collections/velvet">velvet</a> upholstered <a href="https://thefurnituregallery.com.au/collections/dining-chairs">dining chair</a> with button tufting and studded edging.  Perfectly accompanies the Portland <a href="https://thefurnituregallery.com.au/collections/dining-tables">Dining Table</a>.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>upholstered</s:tag>
+    <s:tag>upholstered dining chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8105582592236</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">479.00</s:price>
+      <s:sku>451245</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8100388536556</id>
+    <published>2023-12-05T10:04:15+08:00</published>
+    <updated>2023-12-05T10:04:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/willow-dining-chair"/>
+    <title>Willow Dining Chair</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/WillowDiningChairs.jpg?v=1701741846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            369.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Willow Dining Chair perfectly complements the <a href="https://thefurnituregallery.com.au/products/willow-1800-dining-table" title="Willow Dining Table"><span style="text-decoration: underline;">Willow Dining Table</span></a> with its <span data-mce-fragment="1">solid hand crafted mahogany</span>, rattan back and beige seat pad.</p>
+<p>*$199 when purchased in store with the Willow Dining Table.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dining chair</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>upholstered dining chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8100388536556</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">369.00</s:price>
+      <s:sku>486099</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7940847010028</id>
+    <published>2023-11-22T12:36:54+08:00</published>
+    <updated>2023-11-22T12:36:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/denmark-full-leather-dining-chair"/>
+    <title>Denmark Full Leather Dining Chair</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/DenmarkDiningChair1.jpg?v=1688086407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Crafted from supple black leather with contrasting timber legs, the Denmark Full Leather <a href="https://thefurnituregallery.com.au/collections/dining-chairs">Dining Chair</a> is the perfect complement to the Karri Valley Marri <a href="https://thefurnituregallery.com.au/collections/dining-tables">Dining Table</a>.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>leather</s:tag>
+    <s:tag>leather dining chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7940847010028</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">299.00</s:price>
+      <s:sku>452620</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8053081374956</id>
+    <published>2023-11-21T14:35:30+08:00</published>
+    <updated>2023-11-21T14:35:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/juliette-dining-bench"/>
+    <title>Juliette Dining Bench</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/JulietteBenchSeat1.jpg?v=1700548522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Featuring a neutral cushioned seat atop a contrasting gold coloured metal frame,</span><span data-mce-fragment="1"> the Juliette Dining Bench will</span><span data-mce-fragment="1"> imbue your </span><a href="https://thefurnituregallery.com.au/collections/dining" data-mce-fragment="1" data-mce-href="https://thefurnituregallery.com.au/collections/dining">dining room</a><span data-mce-fragment="1"> with a stylish</span><span data-mce-fragment="1"> appeal. Style with the <a title="Juliette Dining Chair" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/juliette-dining-chair">Juliette Dining Chair</a> for contrast.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dining bench</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8053081374956</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>486091</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8053081538796</id>
+    <published>2023-11-21T14:27:19+08:00</published>
+    <updated>2023-11-21T14:27:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/juliette-dining-chair"/>
+    <title>Juliette Dining Chair</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Juliettechairangle.jpg?v=1700548030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Juliette Dining Chair will</span><span data-mce-fragment="1"> imbue your </span><a href="https://thefurnituregallery.com.au/collections/dining" data-mce-fragment="1" data-mce-href="https://thefurnituregallery.com.au/collections/dining">dining room</a><span data-mce-fragment="1"> with a classic</span><span data-mce-fragment="1"> appeal. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dining chair</s:tag>
+    <s:tag>upholstered dining chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8053081538796</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">199.00</s:price>
+      <s:sku>486092</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840392741100</id>
+    <published>2023-10-30T16:10:45+08:00</published>
+    <updated>2023-10-30T16:10:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/gigi-velvet-dining-chair-navy"/>
+    <title>Gigi Velvet Dining Chair - Navy</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6124993e084c079b1d9bc622_Gigi_20Navy_20Velvet_20Dining_20Chair_20-_20Front_d780f50a-9dfb-4318-955d-b1547399699b.png?v=1670241570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Bring an eclectic, luxe look to your dining room interior with the Gigi Velvet Dining Chair in Navy. With contrasting brass metal legs, this dining chair is sure to make a style statement."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Bring an eclectic, luxe look to your dining room interior with the Gigi Velvet Dining Chair in Navy. With contrasting brass metal legs, this dining chair is sure to make a style statement.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840392741100</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">499.00</s:price>
+      <s:sku>444835</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8015174959340</id>
+    <published>2023-09-27T13:04:24+08:00</published>
+    <updated>2023-09-27T13:04:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/rocha-dining-chair-platinum"/>
+    <title>Rocha Dining Chair - Platinum</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/RochaDiningChair-platinum.jpg?v=1697156736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">A contemporary silhouette combines with sleek metal brushed champagne gold legs to create a stunning dining chair with high-end appeal.  Also available in <a href="https://7iw2ib9vjkv5b6y3-65021903084.shopifypreview.com/products/rocha-dining-chair-mist?_pos=1&amp;_sid=3ce9dce47&amp;_ss=r" title="Rocha Dining Chair - Mist">Mist</a>.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>upholstered dining chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8015174959340</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">349.00</s:price>
+      <s:sku>452708</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8015175057644</id>
+    <published>2023-09-27T13:03:33+08:00</published>
+    <updated>2023-09-27T13:03:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/rocha-dining-chair-mist"/>
+    <title>Rocha Dining Chair - Mist</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/RochaDiningChair-mist.jpg?v=1709077644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A contemporary silhouette combines with sleek metal brushed champagne gold legs to create a stunning dining chair with high-end appeal.  Also available in <a href="https://7iw2ib9vjkv5b6y3-65021903084.shopifypreview.com/products/rocha-dining-chair-platinum?_pos=2&amp;_sid=3ce9dce47&amp;_ss=r" title="Rocha Dining Chair - Platinum">Platinum</a>.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>upholstered dining chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8015175057644</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">349.00</s:price>
+      <s:sku>452709</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8015172993260</id>
+    <published>2023-09-27T12:13:11+08:00</published>
+    <updated>2023-09-27T12:13:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/scarlett-dining-chair-sapphire"/>
+    <title>Scarlett Dining Chair - Sapphire</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ScarlettDiningChair-sapphire_63ff0ddc-f28a-4c04-8acd-26b07187b647.jpg?v=1697156779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">A stunningly glamorous dining chair featuring sumptuous sapphire velvet upholstery, elegantly paired with a brass base, exuding contemporary sophistication and opulence for a luxurious dining experience.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>upholstered dining chair</s:tag>
+    <s:tag>velvet</s:tag>
+    <s:tag>velvet chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8015172993260</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.00</s:price>
+      <s:sku>452705</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8015163818220</id>
+    <published>2023-09-27T11:53:38+08:00</published>
+    <updated>2023-09-27T11:53:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bowie-dining-chair-pearl"/>
+    <title>Bowie Dining Chair - Pearl</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BowieDiningChair-pearl_52f057b3-dad8-497c-aba4-99fb6ac0ccc9.jpg?v=1697155757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">The Bowie Dining Chair has a stylish contemporary flair with curved back and clean-lined  matte black metal legs. </span></p>
+<p data-mce-fragment="1">Also available in: <a href="https://7iw2ib9vjkv5b6y3-65021903084.shopifypreview.com/products/bowie-dining-chair-pearl-1?_pos=1&amp;_sid=fc205715c&amp;_ss=r" title="Bowie Dining Chair - Sage">Sage</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>contemporary</s:tag>
+    <s:tag>dining chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8015163818220</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">199.00</s:price>
+      <s:sku>452707</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8015164473580</id>
+    <published>2023-09-27T11:53:22+08:00</published>
+    <updated>2023-09-27T11:53:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bowie-dining-chair-pearl-1"/>
+    <title>Bowie Dining Chair - Sage</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BowieDiningChair-sage_38145c39-01e3-41f4-966a-6c08765a9d19.jpg?v=1697155739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The Bowie Dining Chair has a stylish contemporary flair with curved back and clean-lined  matte black metal legs. </span></p>
+<p>Also available in: <a href="https://7iw2ib9vjkv5b6y3-65021903084.shopifypreview.com/products/bowie-dining-chair-pearl?_pos=2&amp;_sid=fc205715c&amp;_ss=r" title="Bowie Dining Chair - Pearl">Pearl</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>contemporary</s:tag>
+    <s:tag>dining chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8015164473580</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">199.00</s:price>
+      <s:sku>452706</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970210480364</id>
+    <published>2023-09-20T07:58:52+08:00</published>
+    <updated>2023-09-20T07:58:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/colorado-bench"/>
+    <title>Colorado Bench</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/T2_1767coloradobenchangle.jpg?v=1697601623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Crafted from acacia timber in a classic farmhouse design, the Colorado Bench is perfectly paired with the <a href="https://thefurnituregallery.com.au/products/copy-of-colorado-2400-dining-table-2" title="Colorado Dining Table"><span style="text-decoration: underline;">Colorado Dining Table</span></a>.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bench seat</s:tag>
+    <s:tag>solid timber</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970210480364</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>452484</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970252259564</id>
+    <published>2023-09-20T07:53:02+08:00</published>
+    <updated>2023-09-20T07:53:02+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/colorado-dining-chair"/>
+    <title>Colorado Dining Chair</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/T2_2024ColoradoDiningchairangle.jpg?v=1697602532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            269.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Colorado Dining Chair features a classic country design, with acacia timber contrasted with a fabric seatpad.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dining chair</s:tag>
+    <s:tag>upholstered dining chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970252259564</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">269.00</s:price>
+      <s:sku>452483</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8012172067052</id>
+    <published>2023-09-19T11:30:53+08:00</published>
+    <updated>2023-09-19T11:30:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/riviera-dining-chair"/>
+    <title>Riviera Dining Chair</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/RivieraDiningChair.jpg?v=1695094208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy a timeless dining space with the Riviera Dining Chair, the perfect accompaniment to the <a href="https://thefurnituregallery.com.au/products/riviera-2400-dining-table" title="Riviera 2400 Dining Table">Riviera Dining Table</a>. This dining chair features the same beautiful reclaimed elm timber legs and frame, with a fabric upholstered seat in an elegant contemporary silhouette.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>elm</s:tag>
+    <s:tag>elm timber</s:tag>
+    <s:tag>hard wood timber</s:tag>
+    <s:tag>reclaimed timber</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8012172067052</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>452688</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8010747478252</id>
+    <published>2023-09-19T10:56:22+08:00</published>
+    <updated>2023-09-19T10:56:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-high-bench"/>
+    <title>Surrey High Bench</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/SurreyHighBenchstyledresized.jpg?v=1695693996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">This relaxed coastal bar stool</span><span data-mce-fragment="1"> will complement a range of interiors from the </span><a data-mce-fragment="1" href="https://thefurnituregallery.com.au/collections/hamptons-collection" data-mce-href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a><span data-mce-fragment="1"> to the <a href="https://thefurnituregallery.com.au/collections/french-provincial-collection" title="Surrey High Bench">French Country</a>.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Perfectly paired with the <a data-mce-fragment="1" href="https://thefurnituregallery.com.au/products/surrey-counter-dining-table" title="Surrey Counter Table" data-mce-href="https://thefurnituregallery.com.au/products/surrey-counter-dining-table">Surrey Counter Table.</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bench seat</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8010747478252</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>452629</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8010748133612</id>
+    <published>2023-09-19T10:55:33+08:00</published>
+    <updated>2023-09-19T10:55:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-bar-stool"/>
+    <title>Surrey Bar Stool</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/SurreyCounterBarStool.jpg?v=1694753316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">This relaxed coastal bar stool fashioned</span><span data-mce-fragment="1"> from solid acacia timber will complement a range of interiors from the </span><a data-mce-fragment="1" href="https://thefurnituregallery.com.au/collections/hamptons-collection" data-mce-href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a><span data-mce-fragment="1"> to the French Country.</span></p>
+<p><span data-mce-fragment="1">Perfectly paired with the <a title="Surrey Counter Table" href="https://thefurnituregallery.com.au/products/surrey-counter-dining-table">Surrey Counter Table.</a></span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar stool</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8010748133612</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">349.00</s:price>
+      <s:sku>452630</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

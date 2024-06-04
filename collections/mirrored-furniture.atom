@@ -1,0 +1,840 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/mirrored-furniture.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2023-09-24T13:02:57+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8014430241004</id>
+    <published>2023-09-24T13:02:57+08:00</published>
+    <updated>2023-09-24T13:02:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/carter-side-table-1"/>
+    <title>Carter Side Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/6359d3ce6f2b1e05ba2a4660_442217_WB_CarterSideTable_72fc5b8b-c204-403f-90e6-fa978340218a.jpg?v=1695531666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            649.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="content22-text-wrap">
+<p class="paragraph-70">Featuring a tempered <a href="https://thefurnituregallery.com.au/products/hampton-glass-top-side-table">glass top</a> and mirrored bottom shelf with brass frame, the Carter <a href="https://thefurnituregallery.com.au/collections/side-tables">Side Table</a> is an elegant, chic addition to your <a href="https://thefurnituregallery.com.au/collections/living">living room</a> look.</p>
+</div>
+<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>contemporary</s:tag>
+    <s:tag>glass side table</s:tag>
+    <s:tag>metal side table</s:tag>
+    <s:tag>side table</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8014430241004</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">649.00</s:price>
+      <s:sku>442217</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7953933762796</id>
+    <published>2023-07-25T08:34:59+08:00</published>
+    <updated>2023-07-25T08:34:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pippard-cocktail-cabinet-black"/>
+    <title>Pippard Cocktail Cabinet - Black</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PippardCocktailCabinet-black.jpg?v=1690238852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">A stunning statement piece. The Pippard <a href="https://thefurnituregallery.com.au/products/pippard-cocktail-cabinet">Cocktail Cabinet</a> features a black metal frame, bevelled mirror design, and plenty of curating potential, allowing you to display or store away glassware and more.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cocktail bar</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7953933762796</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>449410</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7953934024940</id>
+    <published>2023-07-25T08:34:24+08:00</published>
+    <updated>2023-07-25T08:34:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pippard-open-display-unit-black"/>
+    <title>Pippard Open Display Unit - Black</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PippardOpenDisplay-black.jpg?v=1690238941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Pippard Open <a href="https://thefurnituregallery.com.au/collections/display-units">Display Unit</a> is the perfect piece for curating and displaying your homeware collection, featuring a bevelled <a href="https://thefurnituregallery.com.au/products/pippard-open-display-unit">mirror top</a>, tempered mirrored shelves and black metal frame. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display cabinet</s:tag>
+    <s:tag>mirrored</s:tag>
+    <s:tag>open display cabinet</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7953934024940</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1699.00</s:price>
+      <s:sku>449413</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7953934549228</id>
+    <published>2023-07-25T08:34:01+08:00</published>
+    <updated>2023-07-25T08:34:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pippard-side-table-black"/>
+    <title>Pippard Side Table - Black</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Pippardsidetable-black.jpg?v=1690239132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Bring modern glam styling to the </span><a href="https://thefurnituregallery.com.au/collections/living" data-mce-fragment="1" data-mce-href="https://thefurnituregallery.com.au/collections/living">living room</a><span data-mce-fragment="1"> with the Pippard </span><a href="https://thefurnituregallery.com.au/collections/side-tables" data-mce-fragment="1" data-mce-href="https://thefurnituregallery.com.au/collections/side-tables">Side Table</a><span data-mce-fragment="1">, featuring a bevelled mirror top and black metal frame. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>end table</s:tag>
+    <s:tag>glass side table</s:tag>
+    <s:tag>mirrored</s:tag>
+    <s:tag>side table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7953934549228</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">349.00</s:price>
+      <s:sku>449414</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7932517187820</id>
+    <published>2023-06-06T11:50:36+08:00</published>
+    <updated>2023-06-06T11:50:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-pippard-coffee-table-champagne"/>
+    <title>Pippard Coffee Table - Champagne</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/61270bec5c0c04baac08658e_Pippard_20Coffee_20Table_20Champagne_20Lifestyle_6e108e62-3b97-499d-beb8-1c2da776fda7.jpg?v=1686017233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Featuring a bevelled mirror top and soft champagne metal frame, the Pippard <a href="https://thefurnituregallery.com.au/collections/coffee-tables">Coffee Table</a> will add a modern glam touch to your <a href="https://thefurnituregallery.com.au/collections/living">living room</a>. </p>
+<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass metal coffee table</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>mirrored</s:tag>
+    <s:tag>mirrored top table</s:tag>
+    <s:tag>rectangle coffee table</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7932517187820</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>448188</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840513655020</id>
+    <published>2022-12-05T22:57:18+08:00</published>
+    <updated>2022-12-05T22:57:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pippard-cocktail-cabinet"/>
+    <title>Pippard Cocktail Cabinet - Champagne</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/611c52a5314079df98d89eca_Pippard_20cocktail_20cabinet_a6f973c6-f76a-4624-b689-1b31d07735fd.jpg?v=1670252238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            1899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"A stunning statement piece. The Pippard Cocktail Cabinet features a champagne metal frame, bevelled mirror design, and plenty of curating potential, allowing you to display or store away glassware and more."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">A stunning statement piece. The Pippard Cocktail Cabinet features a champagne metal frame, bevelled mirror design, and plenty of curating potential, allowing you to display or store away glassware and more.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840513655020</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1899.00</s:price>
+      <s:sku>447427</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840460865772</id>
+    <published>2022-12-05T21:28:36+08:00</published>
+    <updated>2022-12-05T21:28:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hermes-dresser"/>
+    <title>Hermes Dresser</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6114b2fe0dac64ef40e06267_403637_WB_Hermes_206_20Drawer_20Dresser_20front_d7913319-3445-4be6-8b77-5471dc874302.jpg?v=1670246917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Bring a glam, eclectic look to the bedroom with the Hermes Dresser, featuring a charcoal resin design with studding and contrasting mirrored top and sides."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Bring a glam, eclectic look to the <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">bedroom</a> with the Hermes Dresser, featuring a charcoal resin design with studding and contrasting <a href="https://thefurnituregallery.com.au/collections/mirrored-furniture">mirrored</a> top and sides.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840460865772</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1699.00</s:price>
+      <s:sku>403637</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840460341484</id>
+    <published>2022-12-05T21:26:15+08:00</published>
+    <updated>2022-12-05T21:26:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hermes-bedside"/>
+    <title>Hermes Bedside</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6114a3ad8971f7d03fa242f6_400877_WB_Hermes_203_20Drawer_20Bedside_20front_8d89e183-6d3d-4a67-b12c-59d8e4132306.jpg?v=1670246776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            679.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Perfect for achieving an eclectic look, the Hermes Bedside features a dramatic charcoal resin design with studding and contrasting mirrored top and sides."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Perfect for achieving an eclectic look, the Hermes <a href="https://thefurnituregallery.com.au/collections/bedsides">Bedside</a> features a dramatic charcoal resin design with studding and contrasting <a href="https://thefurnituregallery.com.au/collections/mirrored-furniture">mirrored</a> top and sides.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840460341484</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">679.00</s:price>
+      <s:sku>400877</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7839631868140</id>
+    <published>2022-12-05T01:32:21+08:00</published>
+    <updated>2022-12-05T01:32:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cutler-mirrored-chest"/>
+    <title>Cutler Mirrored Chest</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/620c45ccb43b1505376ec329_Cutler_206_20Drawer_20Low_20Chest_20-_20styled_8f25fc0c-c79b-45ef-a560-a1c8b6399675.jpg?v=1670175142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"The Cutler Mirrored Chest features a stunning mirrored finish to offer a sophisticated, contemporary look, with 6 drawers for plenty of storage."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">The Cutler Mirrored Chest features a stunning mirrored finish to offer a sophisticated, contemporary look, with 6 drawers for plenty of storage.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7839631868140</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>449375</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7838843994348</id>
+    <published>2022-12-02T23:28:23+08:00</published>
+    <updated>2022-12-02T23:28:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/artia-mirrored-console"/>
+    <title>Artia Mirrored Console</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/62d8e452426f59f6e1e79491_Artia_20Console_20_2B_20Poppy_20Chair_177c5c3e-acae-4040-a6ca-30aaeb6c1dca.jpg?v=1669994904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"The stunning Artia Mirrored Console features a solid wood frame, crystal-like handles and a mirror panelled design to inject old Hollywood glam into your interior."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">The stunning Artia Mirrored <a href="https://thefurnituregallery.com.au/collections/consoles-sideboards">Console</a> features a solid wood frame, crystal-like handles and a <a href="https://thefurnituregallery.com.au/products/cutler-mirrored-console">mirror</a> panelled design to inject old Hollywood glam into your interior.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7838843994348</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>405936</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7838680875244</id>
+    <published>2022-12-02T18:00:57+08:00</published>
+    <updated>2022-12-02T18:00:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/amore-dresser"/>
+    <title>Amore Dresser</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6114a7ea24432328257fa259_400884_WB_Amore_203_20Draw_20Dresser_20front_29034fb5-79ac-4458-ba1a-52129cedf975.jpg?v=1669975259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Featuring a unique mirrored lattice design, the Amore Dresser is glamorous and bold, perfect for making a statement in your bedroom interior."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Featuring a unique <a href="https://thefurnituregallery.com.au/collections/mirrored-furniture">mirrored</a> lattice design, the Amore Dresser is glamorous and bold, perfect for making a statement in your <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">bedroom</a> interior.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7838680875244</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>400884</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7838676451564</id>
+    <published>2022-12-02T17:53:06+08:00</published>
+    <updated>2022-12-02T17:53:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/amore-bedside"/>
+    <title>Amore Bedside</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6114a2914c0166f4bca640f4_403636_WB_Amore_20Bedside_20front_40ea3139-dbd0-4a70-8bd1-d0953b25792c.jpg?v=1669974787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Featuring a unique mirrored lattice design, the Amore Bedside is glamorous and bold, making a style statement in the bedroom."}' data-sheets-userformat='{"2":15235,"3":{"1":0},"4":{"1":2,"2":16777215},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Featuring a unique <a href="https://thefurnituregallery.com.au/collections/mirrored-furniture">mirrored</a> lattice design, the Amore <a href="https://thefurnituregallery.com.au/collections/bedsides">Bedside</a> is glamorous and bold, making a style statement in the <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">bedroom</a>.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7838676451564</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>403636</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669977743596</id>
+    <published>2022-06-19T12:51:15+08:00</published>
+    <updated>2022-06-19T12:51:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pippard-side-table"/>
+    <title>Pippard Side Table - Champagne</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/611deafbdc225ece4eb0f1e1_Pippard_20Side_20Table_20Champagne_20Lifestyle.jpg?v=1655614275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring modern glam styling to the <a href="https://thefurnituregallery.com.au/collections/living">living room</a> with the Pippard <a href="https://thefurnituregallery.com.au/collections/side-tables">Side Table</a>, featuring a bevelled mirror top and soft champagne metal frame.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gold</s:tag>
+    <s:tag>metal base</s:tag>
+    <s:tag>mirrored side table</s:tag>
+    <s:tag>mirrored top table</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669977743596</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">349.00</s:price>
+      <s:sku>448269</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669977710828</id>
+    <published>2022-06-19T12:51:14+08:00</published>
+    <updated>2022-06-19T12:51:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pippard-open-display-unit"/>
+    <title>Pippard Open Display Unit - Champagne</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6125b9a3d7c625a2b3d2c015_Pippard_20Open_20Display_20Unit.jpg?v=1655614274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Pippard Open <a href="https://thefurnituregallery.com.au/collections/display-units" title="https://thefurnituregallery.com.au/collections/display-units">Display Unit </a>is the perfect piece for curating and displaying your homeware collection, featuring a bevelled mirror top, tempered mirrored <a href="https://thefurnituregallery.com.au/collections/libraries-shelving" title="https://thefurnituregallery.com.au/collections/libraries-shelving">shelves </a>and champagne coloured metal frame. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>contemporary</s:tag>
+    <s:tag>display cabinet</s:tag>
+    <s:tag>glass metal bookshelf</s:tag>
+    <s:tag>open shelving</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669977710828</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1899.00</s:price>
+      <s:sku>448157p</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669976269036</id>
+    <published>2022-06-19T12:49:41+08:00</published>
+    <updated>2022-06-19T12:49:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/monroe-mirrored-chest-clear"/>
+    <title>Monroe Mirrored Chest - Clear</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6114b3e5e088ddd79c2b23fd_400826_WB_Monroe_20Mirrored_20Chest_20Clear.jpg?v=1655614181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add some old Hollywood glamour to your <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">bedroom</a> with the Monroe Mirrored <a href="https://thefurnituregallery.com.au/collections/chests">Chest</a>. Featuring plenty of storage space for your items, and crystal-like handles for an up-market look. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>contemporary</s:tag>
+    <s:tag>mirrored</s:tag>
+    <s:tag>mirrored chest of drawers</s:tag>
+    <s:tag>modern style</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669976269036</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>400826</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669975646444</id>
+    <published>2022-06-19T12:49:01+08:00</published>
+    <updated>2022-06-19T12:49:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/lucienne-dresser"/>
+    <title>Lucienne Dresser</title>
+    <s:type>Living;Bedroom</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6125c4f84e8b29132f74dd97_Lucienne_20Dresser.png?v=1655614141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living;Bedroom<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Lucienne Dresser features stunning <a href="https://thefurnituregallery.com.au/collections/mirrored-furniture">mirrored</a> lattice panels on a solid wood frame, giving it a beautiful, ornate look. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hall table</s:tag>
+    <s:tag>mirrored</s:tag>
+    <s:tag>mirrored sideboard</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>storage</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669975646444</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>403685</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669973745900</id>
+    <published>2022-06-19T12:46:38+08:00</published>
+    <updated>2022-06-19T12:46:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cutler-mirrored-console"/>
+    <title>Cutler Mirrored Console</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/620c4424e58d2011110a51c7_Cutler_20Console_20Styled.jpg?v=1655613998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1099.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Cutler <a href="https://thefurnituregallery.com.au/products/artia-mirrored-console">Mirrored Console</a> will make a sophisticated addition to your hallway, featuring a stunning mirrored finish and sleek <a href="https://thefurnituregallery.com.au/products/cleo-marble-console">metal base</a>. </p>
+<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hall table</s:tag>
+    <s:tag>mirrored</s:tag>
+    <s:tag>mirrored console</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669973745900</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1099.00</s:price>
+      <s:sku>449374</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669973123308</id>
+    <published>2022-06-19T12:45:54+08:00</published>
+    <updated>2022-06-19T12:45:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/carter-console-table"/>
+    <title>Carter Console Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6359d2acbf2eb60fb70107fc_88108c9559964eb1a8c3a12adcaccf98_1.jpg?v=1668673111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="content22-text-wrap" data-mce-fragment="1">
+<p class="paragraph-70" data-mce-fragment="1">Featuring a tempered <a href="https://thefurnituregallery.com.au/products/kent-console">glass top</a> and mirrored bottom shelf with <a href="https://thefurnituregallery.com.au/products/ponte-console-brass">brass</a> frame, create an elegant look for your hallway with the Carter <a href="https://thefurnituregallery.com.au/collections/consoles-sideboards">Console</a> Table.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>console</s:tag>
+    <s:tag>contemporary</s:tag>
+    <s:tag>glass table</s:tag>
+    <s:tag>metal base</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669973123308</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">899.00</s:price>
+      <s:sku>442214</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669971419372</id>
+    <published>2022-06-19T12:43:49+08:00</published>
+    <updated>2022-06-19T12:43:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/amberley-console"/>
+    <title>Amberley 2 Drawer Console</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/Amberley2DrawerConsoleTableLifestyle.jpg?v=1661938149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Amberley 2 Drawer <a href="https://thefurnituregallery.com.au/collections/consoles-sideboards">Console</a> will make an eye-catching addition to your hallway or <a href="https://thefurnituregallery.com.au/collections/living">living room</a>, with its <a href="https://thefurnituregallery.com.au/products/rothbury-console-silver">gold metallic</a> accents and antique mirrored design. Features 2 wide drawers for handy storage.</p>
+<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>console</s:tag>
+    <s:tag>hall table</s:tag>
+    <s:tag>mirrored console</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669971419372</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>447428a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669971386604</id>
+    <published>2022-06-19T12:43:48+08:00</published>
+    <updated>2022-06-19T12:43:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/amberley-3-drawer-wide-chest"/>
+    <title>Amberley 3 Drawer Wide Chest</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/Amberley3DrawerWideChest915x420x813mm_1.jpg?v=1661920015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Amberley Chest is a stunning addition to your <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">bedroom</a>, with its gold metallic accents and antique <a href="https://thefurnituregallery.com.au/collections/mirrored-furniture">mirrored</a> design. Featuring 3 large drawers for ample storage space.<br><meta charset="utf-8"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bedroom drawers</s:tag>
+    <s:tag>bedroom storage</s:tag>
+    <s:tag>chest of drawers</s:tag>
+    <s:tag>drawer</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>storage</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669971386604</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>449372</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

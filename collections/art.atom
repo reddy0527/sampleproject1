@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/art.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-05-22T10:45:22+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8472483561708</id>
+    <published>2024-05-22T10:45:22+08:00</published>
+    <updated>2024-05-22T10:45:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/seagate-soft"/>
+    <title>Seagate Soft</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/SeagateSoft.webp?v=1716345916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The abstract design and light timber frame combine to create a stylish and timeless art piece.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>modern art</s:tag>
+    <s:tag>muted art piece</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8472483561708</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>408958</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8472440602860</id>
+    <published>2024-05-22T09:08:58+08:00</published>
+    <updated>2024-05-22T09:08:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/yaiza-hand-painted-wall-art"/>
+    <title>Yaiza Hand Painted Wall Art</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/YaizaHandPaintedWallArt_jpeg.png?v=1716336831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stunning hand-painted abstract art piece, bringing visual interest to your living space.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>modern art</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8472440602860</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.00</s:price>
+      <s:sku>409258</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8472427266284</id>
+    <published>2024-05-22T09:08:35+08:00</published>
+    <updated>2024-05-22T09:08:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/shawnee-hand-painted-wall-art"/>
+    <title>Shawnee Hand Painted Wall Art</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ShawneeHandPaintedWallArt.webp?v=1716336307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            639.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Transform your home with the captivating Shawnee Wall art, hand painted with oil paint, elegantly framed in a sleek black frame.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>modern art</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8472427266284</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">639.00</s:price>
+      <s:sku>409257</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7886940569836</id>
+    <published>2024-05-21T13:38:58+08:00</published>
+    <updated>2024-05-21T13:38:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/maison-black-frame"/>
+    <title>Maison - Black Frame</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/Maison_152_BLK.jpg?v=1677637181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>animal artwork</s:tag>
+    <s:tag>leopard artwork</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7886940569836</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">499.00</s:price>
+      <s:sku>450809</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8471285367020</id>
+    <published>2024-05-21T13:06:01+08:00</published>
+    <updated>2024-05-21T13:06:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/morning-fog"/>
+    <title>Morning Fog</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/FOkpIq7Q.jpg?v=1716263202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            701.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy the warmth of this hand painted abstract piece on stretched canvas enveloped by a lightly toned frame.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>modern art</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8471285367020</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">701.10</s:price>
+      <s:sku>409259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446615879916</id>
+    <published>2024-05-10T09:55:56+08:00</published>
+    <updated>2024-05-10T09:55:56+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/woodbury-wall-art"/>
+    <title>Woodbury Wall Art</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/WoodburyWallArt-80x122.webp?v=1715305859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            305.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Immerse yourself in the captivating allure of the Woodbury Wall Art piece, delicately rendered on stretched canvas and elegantly framed. Moody and evocative, this piece will add mystery and intrigue to your space.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canvas art</s:tag>
+    <s:tag>muted art piece</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446615879916</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">305.10</s:price>
+      <s:sku>409211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446615388396</id>
+    <published>2024-05-10T09:32:19+08:00</published>
+    <updated>2024-05-10T09:32:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/waterside-wall-art"/>
+    <title>Waterside Wall Art</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/WatersideWallArt-100x100stretchedcanvas.webp?v=1715909056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            422.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Enhance your décor with the soothing elegance of the Waterside Wall Art. Enjoy the timeless beauty and tranquillity of gentle ocean waves.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canvas art</s:tag>
+    <s:tag>muted art piece</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446615388396</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">422.10</s:price>
+      <s:sku>409205</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446614536428</id>
+    <published>2024-05-10T09:16:34+08:00</published>
+    <updated>2024-05-10T09:16:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/horizon-wall-art"/>
+    <title>Horizon Wall Art</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/HorizonWallArt80x80-stretchedcanvaswithlightframe.webp?v=1715302046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            305.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Immerse yourself in the subtle beauty of Horizon Wall Art as it stretches out before you, inviting contemplation and reflection. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canvas art</s:tag>
+    <s:tag>muted art piece</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446614536428</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">305.10</s:price>
+      <s:sku>409203</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833298731244</id>
+    <published>2024-05-07T08:20:38+08:00</published>
+    <updated>2024-05-07T08:20:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cosmo-sage-190-x-190"/>
+    <title>Cosmo Sage (190 x 190)</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/ScreenShot2022-11-29at2.56.30pm_2.png?v=1669708621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            1169.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Use this playful print to inject a pop of colour and character into your space.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833298731244</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1169.10</s:price>
+      <s:sku>450132</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8319908446444</id>
+    <published>2024-04-17T07:42:04+08:00</published>
+    <updated>2024-04-17T07:42:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/champagne-tower"/>
+    <title>Champagne Tower</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/232870-R1-CHAMPAGNE-TOWER_2040_DBL_BLK_GLSS.jpg?v=1713228038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            899.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Enjoy the essence of celebration and luxury with the Champagne Tower.  Elegance and sophistication will reign supreme in any space with this art piece.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8319908446444</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">899.10</s:price>
+      <s:sku>408963</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8236470042860</id>
+    <published>2024-03-13T12:01:58+08:00</published>
+    <updated>2024-03-13T12:01:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/sir"/>
+    <title>Sir</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/sir.jpg?v=1712716874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            404.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Zebra looking out from Prada store, encapsulating nature and luxury.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>animal artwork</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8236470042860</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">404.10</s:price>
+      <s:sku>450812</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8236472369388</id>
+    <published>2024-03-13T12:01:08+08:00</published>
+    <updated>2024-03-13T12:01:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/lovers"/>
+    <title>Lovers</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GA211627-1Lovers_375_WHT.jpg?v=1710221142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            549.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Two grey horses nuzzled together on canvas depicting a deep bond.  Bordered by a white frame.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>animal artwork</s:tag>
+    <s:tag>art</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8236472369388</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">549.00</s:price>
+      <s:sku>408555</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8228127047916</id>
+    <published>2024-03-13T12:00:46+08:00</published>
+    <updated>2024-03-13T12:00:46+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/blu-riviera"/>
+    <title>Blu Riviera</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/riviera.jpg?v=1712716235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            809.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>White villas cascade down the hillside, overlooking aqua blue waters gently lapping below, creating a picturesque scene that epitomizes the charm and allure of this iconic Mediterranean coastline.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>mediterranean images</s:tag>
+    <s:tag>scenic art</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8228127047916</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">809.10</s:price>
+      <s:sku>451299</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8236471582956</id>
+    <published>2024-03-13T12:00:22+08:00</published>
+    <updated>2024-03-13T12:00:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/butterfly-floral-right"/>
+    <title>Butterfly Floral - Right</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Butterflyright.jpg?v=1712715560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stunning butterfly wings with a flower feature. Display separately or as set.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>animal artwork</s:tag>
+    <s:tag>art</s:tag>
+    <s:tag>modern art</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8236471582956</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">299.00</s:price>
+      <s:sku>408528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8236470829292</id>
+    <published>2024-03-13T12:00:07+08:00</published>
+    <updated>2024-03-13T12:00:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/butterfly-floral-left"/>
+    <title>Butterfly Floral -  Left</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/butterleft.jpg?v=1712715652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stunning butterfly wings with a flower feature. Display separately or as set.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>animal artwork</s:tag>
+    <s:tag>art</s:tag>
+    <s:tag>butterfly artwork</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8236470829292</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">299.00</s:price>
+      <s:sku>408529</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8236465127660</id>
+    <published>2024-03-12T13:12:11+08:00</published>
+    <updated>2024-03-12T13:12:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/jungle-fever"/>
+    <title>Jungle Fever</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/JungleFever_375_BLK.jpg?v=1712724340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            809.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Two striking leopards on canvas wrapped in a black floater frame.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>animal artwork</s:tag>
+    <s:tag>canvas art</s:tag>
+    <s:tag>culutral art</s:tag>
+    <s:tag>leopard artwork</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8236465127660</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">809.10</s:price>
+      <s:sku>408959</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8236464406764</id>
+    <published>2024-03-12T13:11:52+08:00</published>
+    <updated>2024-03-12T13:11:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/oceania"/>
+    <title>Oceania</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/oceania.jpg?v=1712723417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            719.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Featuring the calming colours of the ocean, this wall art will sit perfectly in any coastal or Hampton's inspired home.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>ocean themed art</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8236464406764</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">719.10</s:price>
+      <s:sku>408544</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8236351488236</id>
+    <published>2024-03-12T13:11:41+08:00</published>
+    <updated>2024-03-12T13:11:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/louis"/>
+    <title>Louis</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/louis.jpg?v=1712716632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            539.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This captivating piece features a majestic tiger by a pool framed by luscious palms and the Gucci label.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>brand artwork</s:tag>
+    <s:tag>designer art</s:tag>
+    <s:tag>tiger artwork</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8236351488236</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">539.10</s:price>
+      <s:sku>408521</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8236195447020</id>
+    <published>2024-03-12T13:11:26+08:00</published>
+    <updated>2024-03-12T13:11:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bolero-1"/>
+    <title>Bolero</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/bolero.jpg?v=1712716748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            539.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>A striking blend of natural allure with high end fashion.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand artwork</s:tag>
+    <s:tag>designer art</s:tag>
+    <s:tag>modern art</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8236195447020</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">539.10</s:price>
+      <s:sku>408520</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8228131995884</id>
+    <published>2024-03-08T14:11:50+08:00</published>
+    <updated>2024-03-08T14:11:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/dolci"/>
+    <title>Dolci</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/220238-S1-Dolci_2040_WHT.jpg?v=1709699414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            386.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>A pink perfume bottle, adorned with iconic brands, standing against a backdrop of serene white orchards, evoking a sense of luxury, elegance.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand artwork</s:tag>
+    <s:tag>designer art</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8228131995884</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">386.10</s:price>
+      <s:sku>451300</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8228119183596</id>
+    <published>2024-03-06T12:14:35+08:00</published>
+    <updated>2024-03-06T12:14:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/shanti-grace-blue"/>
+    <title>Shanti Grace Blue</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/shanti.jpg?v=1712723869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            449.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Shanti Grace Blue features a<span data-mce-fragment="1"> majestic white stallion, adorned with an intricately detailed headdress. A beautiful art piece depicting grace, strength, and beauty.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>modern art</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8228119183596</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">449.00</s:price>
+      <s:sku>408560</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8228118692076</id>
+    <published>2024-03-06T12:14:06+08:00</published>
+    <updated>2024-03-06T12:14:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/merci-blu"/>
+    <title>Merci Blu</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/230250-S2-MERCI-BLU_2040_WHT_002.jpg?v=1709694238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            359.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>The iconic Louis Vuitton initials shimmer in gold, gracefully encircled by a bed of serene blue florals enclosed in a white box frame.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>brand artwork</s:tag>
+    <s:tag>designer art</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8228118692076</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">359.10</s:price>
+      <s:sku>408522</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8228123082988</id>
+    <published>2024-03-06T12:11:22+08:00</published>
+    <updated>2024-03-06T12:11:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/lemon-breeze"/>
+    <title>Lemon Breeze</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/lemonbreeze.jpg?v=1712724363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            584.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The ideal piece to brighten and lighten up your room.  White-washed timber with a perfectly potted lemon tree against a serene ocean background.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>modern art</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8228123082988</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">584.10</s:price>
+      <s:sku>408549</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8228116037868</id>
+    <published>2024-03-06T11:33:54+08:00</published>
+    <updated>2024-03-06T11:33:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/blair-blu"/>
+    <title>Blair Blu</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/230251-S2-BLAIR-BLU_2040_WHT.jpg?v=1709693004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            359.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Encased within a white box frame, a gilded Prada bottle, accompanied by golden butterflies and delicate blue florals, creates a captivating tableau embodying luxury and elegance.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand artwork</s:tag>
+    <s:tag>designer art</s:tag>
+    <s:tag>modern art</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8228116037868</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">359.10</s:price>
+      <s:sku>408523</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8228063052012</id>
+    <published>2024-03-06T11:33:38+08:00</published>
+    <updated>2024-03-06T11:33:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/as-one"/>
+    <title>As One</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/asone.jpg?v=1712724115"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Striking traditional African face art, combined with stunning floral headpieces, creates a captivating portrayal that resonates with love. Celebrating rich cultural heritage, offering a powerful fusion of beauty, tradition, and symbolism. Set in an espresso frame.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>culutral art</s:tag>
+    <s:tag>woman artwork</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8228063052012</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>408551</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

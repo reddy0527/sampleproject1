@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/sofa-beds.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2023-09-20T13:01:51+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7969980481772</id>
+    <published>2023-09-20T13:01:51+08:00</published>
+    <updated>2023-09-20T13:01:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/blake-3-seater-sofa-bed-queen-grey-gum"/>
+    <title>Blake 3 Seater Sofa Bed (Queen) - Grey Gum</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BlakeSofaBed-greygum_0ab69d21-b69d-42dc-a981-b463e3edc857.jpg?v=1696981029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Blake 3 Seater Sofa has been crafted with Liverpool fabric, providing the highest grade stain resistance technology.  Experience the perfect blend of functionality and elegance.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 seater sofa</s:tag>
+    <s:tag>sofa bed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7969980481772</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1999.00</s:price>
+      <s:sku>452607</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7969982152940</id>
+    <published>2023-09-20T12:35:59+08:00</published>
+    <updated>2023-09-20T12:35:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/harley-sofa-bed"/>
+    <title>Harley Sofa Bed (Double)</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/HarleySofaBed-cobblestone_26944bc4-40b4-4ba9-bc8f-5de74d51d39a.jpg?v=1697155566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-pm-slice="1 1 []" dir="auto">Introducing the Harley Sofa Bed, the epitome of style and durability.  Crafted with Opulence fabric providing the highest stain resistance. Transform it effortlessly from a stylish sofa to a cosy double bed in seconds.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 seater sofa</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:tag>sofa bed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7969982152940</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2299.00</s:price>
+      <s:sku>452606</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

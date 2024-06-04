@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/mirrors.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-05-14T12:08:03+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8453556044012</id>
+    <published>2024-05-14T12:08:03+08:00</published>
+    <updated>2024-05-14T12:08:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/royale-floor-mirror-gold"/>
+    <title>Royale Floor Mirror - Gold</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/RoyaleFloorMirror-gold.webp?v=1715656716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            799.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted with a sleek gold frame, the Royale Floor Mirror features a concave shape at both the base and top, creating a striking visual effect that draws the eye and enhances the overall aesthetic.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor mirror</s:tag>
+    <s:tag>gold mirror</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8453556044012</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.20</s:price>
+      <s:sku>409226</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446641078508</id>
+    <published>2024-05-10T11:08:14+08:00</published>
+    <updated>2024-05-10T11:08:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bethany-floor-mirror-black"/>
+    <title>Bethany Floor Mirror - Black</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BethanyFloorMirror-styled.webp?v=1717408245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            1119.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Bethany Floor Mirror features a sleek black frame and wave edge design exuding modern elegance, designed to add a touch of drama to any space.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor mirror</s:tag>
+    <s:tag>leaner mirror</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446641078508</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1119.20</s:price>
+      <s:sku>409206</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446642520300</id>
+    <published>2024-05-10T11:07:56+08:00</published>
+    <updated>2024-05-10T11:07:56+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bethany-floor-mirror-black-copy"/>
+    <title>Marseille Mirror - Gold</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/marseillegoldmirrorstyled2.jpg?v=1716515182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            527.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Step back in time with the vintage-inspired Marseille Mirror, adorned with elegant gold baroque framing that exudes refined charm. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent mirror</s:tag>
+    <s:tag>antique gold</s:tag>
+    <s:tag>antique style</s:tag>
+    <s:tag>gold mirror</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446642520300</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">527.20</s:price>
+      <s:sku>409207</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8386860318956</id>
+    <published>2024-04-24T13:07:42+08:00</published>
+    <updated>2024-04-24T13:07:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/margot-wood-mirror"/>
+    <title>Margot Wood Mirror</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/MargotWoodMirror-FU2451.webp?v=1713934197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            359.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Margot Wood Mirror is a timeless statement piece that exudes elegance and charm. The white frame and large standing floor design, capture the essence of classic architecture while adding a touch of contemporary flair to any room. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>arch mirror</s:tag>
+    <s:tag>window mirror</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8386860318956</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">359.20</s:price>
+      <s:sku>448393</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8319925387500</id>
+    <published>2024-04-12T15:07:54+08:00</published>
+    <updated>2024-04-12T15:07:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/alexa-floor-mirror-black"/>
+    <title>Alexa Floor Mirror - Black</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Alexa_Floor_Mirror_-_140_afd58d5a-a435-4b9f-a43b-27909f0a475c.webp?v=1712898721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            639.20 - 959.20
+            <a href="https://thefurnituregallery.com.au/products/alexa-floor-mirror-black">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A beautiful arched floor mirror, simple and elegant.  Perfect for reflecting light and opening up the room in any bedroom or living space.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>arch mirror</s:tag>
+    <s:tag>floor mirror</s:tag>
+    <s:tag>leaner mirror</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8319925387500</id>
+      <title>140cm x 215cm</title>
+      <s:price currency="AUD">959.20</s:price>
+      <s:sku>452111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8319925387500</id>
+      <title>100cm x 200cm</title>
+      <s:price currency="AUD">639.20</s:price>
+      <s:sku>452110</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8235298160876</id>
+    <published>2024-03-12T13:10:20+08:00</published>
+    <updated>2024-03-12T13:10:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/aurum-metal-arc-mirror-gold"/>
+    <title>Aurum Metal Arc Mirror - Gold</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ArrumMetalMirror.jpg?v=1711345611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            175.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Add sophistication and flair to any room with the sleek design of the Aurum Metal Arc Mirror in gold.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>arch mirror</s:tag>
+    <s:tag>gold mirror</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8235298160876</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">175.20</s:price>
+      <s:sku>409070</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8235259101420</id>
+    <published>2024-03-12T12:16:43+08:00</published>
+    <updated>2024-03-12T12:16:43+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/kent-metal-standing-mirror-gold"/>
+    <title>Kent Metal Standing Mirror - Gold</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/KentMetalstandingmirror.jpg?v=1710207068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            399.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Exuding<span data-mce-fragment="1"> simple sophistication and contemporary elegance, reflecting light and adding a touch of glamour to any space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor mirror</s:tag>
+    <s:tag>gold mirror</s:tag>
+    <s:tag>standing mirror</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8235259101420</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.20</s:price>
+      <s:sku>447686</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8236137644268</id>
+    <published>2024-03-12T12:10:41+08:00</published>
+    <updated>2024-03-12T12:10:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/arch-metal-floor-mirror-1"/>
+    <title>Arch Metal Floor Mirror</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ARchMetalFloorMirror.jpg?v=1710215805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            375.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gold metal floor mirror with arch top, modern and sleek. Ideal for making any room appear brighter and more spacious.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>arch mirror</s:tag>
+    <s:tag>gold mirror</s:tag>
+    <s:tag>standing mirror</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8236137644268</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">375.20</s:price>
+      <s:sku>409051</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8060334440684</id>
+    <published>2023-12-15T13:37:04+08:00</published>
+    <updated>2023-12-15T13:37:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/heritage-mirror-antique-gold"/>
+    <title>Heritage Mirror - Antique Gold</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/heritagemirror1.jpg?v=1702618691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            679.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Add a touch of timeless grandeur to your space with the Heritage Mirror in antique gold. Adorned with intricate studded-style detailing and crowned by an ornate scroll style feature on top.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent mirror</s:tag>
+    <s:tag>antique style</s:tag>
+    <s:tag>gold mirror</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8060334440684</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">679.00</s:price>
+      <s:sku>486083</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8100368744684</id>
+    <published>2023-12-01T19:05:20+08:00</published>
+    <updated>2023-12-01T19:05:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/vasto-rectangular-mirror"/>
+    <title>Vasto Rectangular Mirror</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Vastorectangularmirror.jpg?v=1701211470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Sleek, stylish mirror with a wide shallow angled mirror frame.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silver mirror</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8100368744684</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">299.00</s:price>
+      <s:sku>401168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8060333818092</id>
+    <published>2023-11-29T15:28:49+08:00</published>
+    <updated>2023-11-29T15:28:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/georgette-mirror"/>
+    <title>Georgette Mirror</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GeorgetteMirror_jpeg.heic?v=1701242978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            179.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This art deco style oval mirror will make a chic addition to your interior decor.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>oval mirror</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8060333818092</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">179.00</s:price>
+      <s:sku>487014</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8095263424748</id>
+    <published>2023-11-28T07:47:15+08:00</published>
+    <updated>2023-11-28T07:47:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/circa-mirror-large-gold"/>
+    <title>Circa Mirror Large - Gold</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/circamirror_gold.jpg?v=1700783427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gold mirror</s:tag>
+    <s:tag>round mirror</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8095263424748</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.00</s:price>
+      <s:sku>442156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8060334145772</id>
+    <published>2023-11-22T07:04:50+08:00</published>
+    <updated>2023-11-22T07:04:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/heritage-standing-mirror-antique-gold"/>
+    <title>Heritage Standing Mirror - Antique Gold</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/HeritageStandingMirror1.jpg?v=1700607890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            469.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Heritage Standing Mirror has a stunning, regal appearance with its striking antique gold frame.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent mirror</s:tag>
+    <s:tag>antique gold</s:tag>
+    <s:tag>antique style</s:tag>
+    <s:tag>standing mirror</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8060334145772</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">469.00</s:price>
+      <s:sku>486076</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8018110644460</id>
+    <published>2023-10-04T08:04:24+08:00</published>
+    <updated>2023-10-04T08:04:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/belle-vie-mantle-mirror-antique-gold"/>
+    <title>Belle Vie Mantle Mirror - Antique Gold</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BelleVieMantleMirror-AntiqueGold.webp?v=1696376941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            799.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">A modern take on a traditional design, the Belle Vie Mantle mirror is inspired by the ornate, architectural forms of late Italian Renaissance design. Crafted from iron, and painted in antique gold.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>antique gold</s:tag>
+    <s:tag>antique style</s:tag>
+    <s:tag>gold mirror</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8018110644460</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.20</s:price>
+      <s:sku>449117</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8018116968684</id>
+    <published>2023-10-04T08:03:49+08:00</published>
+    <updated>2023-10-04T08:03:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-belle-vie-mantle-mirror-antique-gold"/>
+    <title>Belle Vie Full Mirror - Antique Gold</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BelleVieFullMirror-AntiqueGold.webp?v=1696377826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            1599.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">A modern take on a traditional design, the Belle Vie Full mirror is inspired by the ornate, architectural forms of late Italian Renaissance design. Crafted from iron, and painted in antique gold.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>antique gold</s:tag>
+    <s:tag>antique style</s:tag>
+    <s:tag>gold mirror</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8018116968684</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1599.20</s:price>
+      <s:sku>408718</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833301418220</id>
+    <published>2023-09-05T13:35:16+08:00</published>
+    <updated>2023-09-05T13:35:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/horley-mirror-white"/>
+    <title>Horley Mirror - White</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/62b127310465622f79647f72_Horely_20Mirror_20-_20white.jpg?v=1669612569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            443.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong></strong>The Horley Mirror is a beautiful window-style <a href="https://thefurnituregallery.com.au/collections/mirrors">mirror</a> with a gently curved top, in a soft white, lightly aged finish.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>arch mirror</s:tag>
+    <s:tag>white mirror</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833301418220</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">443.00</s:price>
+      <s:sku>449421</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7951166243052</id>
+    <published>2023-07-19T12:02:09+08:00</published>
+    <updated>2023-07-19T12:02:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hanrik-oak-arc-mirror"/>
+    <title>Hanrik Oak Arc Mirror</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/FU2888-HanrikOakArcMirror-walnut.jpg?v=1689730520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            375.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Crafted from rich oak with an elegant arched silhouette, this floor standing mirror exudes timeless sophistication and adds a touch of charm to any space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>arch mirror</s:tag>
+    <s:tag>oak framed mirror</s:tag>
+    <s:tag>oak mirror</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7951166243052</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">375.20</s:price>
+      <s:sku>452283</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7951165882604</id>
+    <published>2023-07-19T10:19:27+08:00</published>
+    <updated>2023-07-19T10:19:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/karira-metal-mirro-gold"/>
+    <title>Karira Metal Mirror - Gold</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/FU2628-KariraMetalMirror-gold.jpg?v=1689730347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            375.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">A striking rectangular floor-standing mirror, elegantly framed in a rich, dark gold finish, adding a touch of opulence and sophistication to any space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent mirror</s:tag>
+    <s:tag>leaner mirror</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7951165882604</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">375.20</s:price>
+      <s:sku>448009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7924808384748</id>
+    <published>2023-05-19T06:46:31+08:00</published>
+    <updated>2023-05-19T06:46:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/romantique-rectangular-metal-mirror"/>
+    <title>Romantique Rectangular Metal Mirror</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/RomantiqueRectangularMetalMirror.jpg?v=1684284409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1199.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">A captivating rectangle mirror with an ornate metal frame showcasing an intricate patterned design that adds a touch of artistic elegance to any space it graces.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent mirror</s:tag>
+    <s:tag>antique gold</s:tag>
+    <s:tag>antique style</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7924808384748</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1199.20</s:price>
+      <s:sku>452366</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833302761708</id>
+    <published>2023-05-03T13:51:20+08:00</published>
+    <updated>2023-05-03T13:51:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/luna-cheval-mirror-clear"/>
+    <title>Luna Cheval Mirror - Clear</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6227e8ca706f540fdbd6e733_Luna_20chevel_20Mirror_20clear.jpg?v=1669612609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            319.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This sleek simple <a href="https://thefurnituregallery.com.au/collections/mirrors">mirror</a> is perfect for any modern or classic home.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833302761708</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">319.20</s:price>
+      <s:sku>401156</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7916870041836</id>
+    <published>2023-05-02T07:03:11+08:00</published>
+    <updated>2023-05-02T07:03:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/amore-mirror"/>
+    <title>Amore Mirror</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Amoremirror2.jpg?v=1683079801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Glamorous, bold with a unique mirrored lattice design - that's Amore. The Amore <a href="https://thefurnituregallery.com.au/collections/mirrors">Mirror</a> is perfect for making a statement in any room.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>round mirror</s:tag>
+    <s:tag>silver</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7916870041836</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">499.00</s:price>
+      <s:sku>400885</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7913372680428</id>
+    <published>2023-04-21T11:28:59+08:00</published>
+    <updated>2023-04-21T11:28:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hubba-arched-mirror-brass"/>
+    <title>Hubba Arched Mirror - Brass</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/1017061-104.pt02_1-HubbaARchedmirror.jpg?v=1682043857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            240.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Put this arched <a href="https://thefurnituregallery.com.au/collections/mirrors">mirror</a> with a brass frame in your living room, bathroom, <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">bedroom</a> or hallway - incredibly versatile due to its simplicity and classic design.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>arched mirror</s:tag>
+    <s:tag>brass</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7913372680428</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">240.00</s:price>
+      <s:sku>451356</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7913375170796</id>
+    <published>2023-04-21T11:28:42+08:00</published>
+    <updated>2023-04-21T11:28:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hubba-pebble-mirror-metal"/>
+    <title>Hubba Pebble Mirror - Metal</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/1018529-378.pt04-hubbapebblemetalstyled2.jpg?v=1682044273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            184.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Whether it's positioned upright or landscape, the <a href="https://thefurnituregallery.com.au/products/hubba-pebble-mirror">Hubba Pebble Mirror</a> has an organic, curved shape that's perfectly on trend, with a thin metal frame.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7913375170796</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">184.00</s:price>
+      <s:sku>451358</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7913373204716</id>
+    <published>2023-04-21T11:28:27+08:00</published>
+    <updated>2023-04-21T11:28:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hubba-pebble-mirror"/>
+    <title>Hubba Pebble Mirror - Gold</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/1018529-104.pt09-Hubbapebblemirror1.jpg?v=1682044014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            184.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Whether it's positioned upright or landscape, the Hubba Pebble <a href="https://thefurnituregallery.com.au/collections/mirrors">Mirror</a> has an organic, curved shape that's perfectly on trend with a gorgeous gold frame.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent mirror</s:tag>
+    <s:tag>gold mirror</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7913373204716</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">184.00</s:price>
+      <s:sku>451357</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7913370976492</id>
+    <published>2023-04-21T11:27:51+08:00</published>
+    <updated>2023-04-21T11:27:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/arch-circle-wall-mirror"/>
+    <title>Arch Circle Wall Mirror</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/ammi01-ArchCirclewallmirrorstyled.pt02.jpg?v=1682317072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            344.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This beautifully designed arch mirror has a classic appeal that will fit in with a variety of styles from modern to traditional tastes.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>arch mirror</s:tag>
+    <s:tag>black mirror</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7913370976492</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">344.00</s:price>
+      <s:sku>452211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

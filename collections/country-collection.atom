@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/country-collection.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2023-09-26T08:27:28+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8014828273900</id>
+    <published>2023-09-26T08:27:28+08:00</published>
+    <updated>2023-09-26T08:27:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-london-library-with-ladder"/>
+    <title>London Library with Ladder</title>
+    <s:type>Living;Office</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/400003_WB_LondonLibraryRusticfront_2b16dea8-864b-4e00-8b0a-3c5cdb54128e.jpg?v=1715911614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Office<br>
+        <strong>Price: </strong>
+            4999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This beautifully designed library is well appointed with plenty of shelving and 4 cupboard doors. Featuring a rustic finish, the London <a href="https://thefurnituregallery.com.au/collections/libraries-shelving">Library</a> is completed with a ladder.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display cabinet</s:tag>
+    <s:tag>rustic</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8014828273900</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">4999.00</s:price>
+      <s:sku>400003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7939438313708</id>
+    <published>2023-07-18T07:17:03+08:00</published>
+    <updated>2023-07-18T07:17:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-harvard-entertainment-unit"/>
+    <title>Walpole Entertainment Unit</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/6230053c11d2051cf52d546c_Screen_20Shot_202022-03-15_20at_203.24.41_20pm_6a3ac902-9080-4a32-a56b-0159ddfcaef2.png?v=1687834065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Featuring clean lines and sleek angles, the Harvard Entertainment Unit is crafted from beautiful Tasmanian Oak."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Featuring clean lines and sleek angles, the Walpole <a href="https://thefurnituregallery.com.au/collections/entertainment-units">Entertainment Unit</a> is crafted from beautiful Tasmanian Oak.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>solid timber</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7939438313708</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>451978</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7848363032812</id>
+    <published>2023-04-06T19:53:38+08:00</published>
+    <updated>2023-04-06T19:53:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-hampton-bedside-table"/>
+    <title>Surrey Bedside</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/SurreyBedside.png?v=1671435062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Surrey <a href="https://thefurnituregallery.com.au/collections/bedsides">Bedside</a> will make a beautiful complement to your <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">bedroom</a>, featuring a relaxed <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> design with two-tone timber. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7848363032812</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">450.00</s:price>
+      <s:sku>446223</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7863440769260</id>
+    <published>2023-01-16T09:42:36+08:00</published>
+    <updated>2023-01-16T09:42:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-portland-display-unit"/>
+    <title>Portland Display Unit</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/62fe1de7f646f2087f9445ad_Portland_20Display_ce8b2ab0-f936-460d-884b-d71ac5da9a33.jpg?v=1673829824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            2299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Utilising the strength and beauty of <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection" title="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">Solid </a>American oak, the Portland <a href="https://thefurnituregallery.com.au/collections/display-units" title="https://thefurnituregallery.com.au/collections/display-units">Display Unit</a> will bring warmth and charm to your living room. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7863440769260</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2299.00</s:price>
+      <s:sku>446443</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7849304293612</id>
+    <published>2022-12-20T16:26:21+08:00</published>
+    <updated>2022-12-20T16:26:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/lodge-library"/>
+    <title>Lodge Library</title>
+    <s:type>Living;Office</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/LodgeLibrary_Vaughncopy.jpg?v=1671524844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Office<br>
+        <strong>Price: </strong>
+            5999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This grand library is crafted from Old Fir Wood. Rustic with a hint of <a title="https://thefurnituregallery.com.au/collections/french-provincial-collection" href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French Provincial</a> elegance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7849304293612</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">5999.00</s:price>
+      <s:sku>403091</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7848362508524</id>
+    <published>2022-12-19T15:28:13+08:00</published>
+    <updated>2022-12-19T15:28:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-dressing-table-mirror"/>
+    <title>Surrey Dressing Table &amp; Mirror</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/SurreyDT_Mirror.png?v=1671434894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Surrey <a href="https://thefurnituregallery.com.au/collections/dressing-tables">Dressing Table</a> will make a beautiful complement to your <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">bedroom</a>, featuring a relaxed <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> design with two-tone timber. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7848362508524</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>446220S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840936886508</id>
+    <published>2022-12-06T19:58:33+08:00</published>
+    <updated>2022-12-06T19:58:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ignacio-coffee-table-marri-wood"/>
+    <title>Ignacio Coffee Table - Marri Wood</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6212f8f00966fde8d528b603_444828_WB_Ignacio_20Coffee_20Table_20Marri_20angle.jpg?v=1670900191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1" data-sheets-userformat='{"2":15235,"3":{"1":0},"4":{"1":2,"2":65280},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-sheets-value='{"1":2,"2":"Made from native West Australian solid Marri timber, the Ignacio Coffee Table features a raw edge for a rustic look."}'>Crafted from solid, premium grade <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">Marri</a> - the <meta charset="utf-8">native West Australian timber renowned for its superb quality and durability - the Ignacio <a href="https://thefurnituregallery.com.au/collections/coffee-tables">Coffee Table</a> features a raw edge for a rustic look. The grain on this Marri piece features the distinctive intricate patterns that only Marri timber boasts, giving it a uniquely beautiful appearance.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840936886508</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>444828</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840574013676</id>
+    <published>2022-12-06T02:51:21+08:00</published>
+    <updated>2022-12-06T02:51:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/armani-bedside-marri-wood"/>
+    <title>Armani Bedside - Marri Wood</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ArmaniBedside.jpg?v=1711495528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-sheets-value='{"1":2,"2":"Made from solid West Australian Marri timber, the Armani Bedside showcases this beautiful, honey-coloured timber in all its glory."}'>Made from solid premium-grade Marri, the Armani <a href="https://thefurnituregallery.com.au/collections/bedsides">Bedside</a> showcases this beautiful West Australian timber in all its glory.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840574013676</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>116885</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840525025516</id>
+    <published>2022-12-05T23:44:47+08:00</published>
+    <updated>2022-12-05T23:44:47+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-dining-chair"/>
+    <title>Surrey Dining Chair</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/614180de2fb4fe3c7fd76f9d_Surrey_20Dining_20Chair_f40a7dd7-2e73-49e6-b8a3-5991bdee15ee.jpg?v=1670255088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"This relaxed coastal dining chair made from solid acacia timber will complement a range of interiors from the Hamptons to the French Country."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">This relaxed coastal <a href="https://thefurnituregallery.com.au/collections/dining-chairs">dining chair</a> made from solid acacia timber will complement a range of interiors from the <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> to the French Country.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840525025516</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">249.00</s:price>
+      <s:sku>407578</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840524370156</id>
+    <published>2022-12-05T23:42:04+08:00</published>
+    <updated>2022-12-05T23:42:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-console"/>
+    <title>Surrey Console</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/613fe018b4f6f037dde398c4_Surrey_20Console_50f06f82-ab90-4aac-9944-f95b0874bb95.jpg?v=1670254924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            429.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style data-mce-fragment="1" type="text/css"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-mce-fragment="1" data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-sheets-value='{"1":2,"2":"This relaxed coastal design can complement a range of interiors from the Hamptons to the French Country."}'>This two-tone <a href="https://thefurnituregallery.com.au/products/rustic-3-drawer-timber-console">timber console</a> made from acacia and wenge wood will complement any <a href="https://thefurnituregallery.com.au/products/hampton-3-drawer-console">Hamptons</a>, <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired home. </span><quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840524370156</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">429.00</s:price>
+      <s:sku>442654</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840523616492</id>
+    <published>2022-12-05T23:40:01+08:00</published>
+    <updated>2022-12-05T23:40:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-2-drawer-coffee-table"/>
+    <title>Surrey 2 Drawer Coffee Table</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/613fdd01c910272e7e4b299d_Surrey_202dr_20Coffee_20Table_85e2eb2f-651b-4ec2-8939-50cf0b2abf2e.jpg?v=1670254802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">The Surrey 2 Drawer 1 Shelf <a href="https://thefurnituregallery.com.au/collections/coffee-tables">Coffee Table</a> will complement a range of interiors from the <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> to the <a href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French Country</a>. Made from solid acacia timber with a wenge wood top, with drawers for storage.<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840523616492</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>442657</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840522993900</id>
+    <published>2022-12-05T23:37:45+08:00</published>
+    <updated>2022-12-05T23:37:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-6-drawer-bookcase"/>
+    <title>Surrey 6 Drawer Bookcase</title>
+    <s:type>Office</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/613fe2c3bf5de55d1129e2e8_Surrey_206drw_20Bookcase_99a0e10f-8540-4f85-8213-4624b832f285.jpg?v=1670254665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Office<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"This relaxed coastal design can complement a range of interiors from the Hamptons to the French Country."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">The Surrey 6 Drawer <a href="https://thefurnituregallery.com.au/collections/libraries-shelving">Bookcase</a> features shelving interspersed with storage drawers for useful storage and display options in your <a href="https://thefurnituregallery.com.au/collections/living">living room</a> or <a href="https://thefurnituregallery.com.au/collections/office">office</a>. Made from acacia timer and wenge wood.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840522993900</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>442652</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840522338540</id>
+    <published>2022-12-05T23:35:18+08:00</published>
+    <updated>2022-12-05T23:35:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-2-drawer-1-shelf-coffee-table"/>
+    <title>Surrey 2 Drawer 1 Shelf Coffee Table</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/614a898484d1fa82ed84575b_Surrey_20Coffee_20and_20Entertainment-Edit_NEW._76bca4f8-9b04-4490-8583-7452830e411a.jpg?v=1670254519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Made from solid acacia <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">timber</a> with a wenge wood top, the Surrey 2 Drawer 1 Shelf <a href="https://thefurnituregallery.com.au/collections/coffee-tables">Coffee Table</a> will bring a relaxed <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> feel to your living room.<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840522338540</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">899.00</s:price>
+      <s:sku>405981</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840521683180</id>
+    <published>2022-12-05T23:32:34+08:00</published>
+    <updated>2022-12-05T23:32:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-2-door-vitrine"/>
+    <title>Surrey 2 Door Vitrine</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/614a891c48ecc122669c3902_Surrey_20Vitrine_0f8df10e-a03b-4154-b1ba-492086281a63.jpg?v=1670254354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"This relaxed coastal design can complement a range of interiors from the Hamptons to the French Country."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">This relaxed coastal design can complement a range of interiors from the Hamptons to the French Country.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840521683180</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1699.00</s:price>
+      <s:sku>405979</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840521289964</id>
+    <published>2022-12-05T23:29:53+08:00</published>
+    <updated>2022-12-05T23:29:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-1800-entertainment-unit"/>
+    <title>Surrey Entertainment Unit (Small)</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/614a83e79e40a48f7b9e2353_Surrey_201800_20Entertainment_20Unit_20angle.jpg?v=1670644594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1099.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made from acacia and wedge wood in a two-tone design, the Surrey <a href="https://thefurnituregallery.com.au/collections/entertainment-units">Entertainment Unit</a> will bring a relaxed <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> feel to your <a href="https://thefurnituregallery.com.au/collections/living">living room</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840521289964</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1099.00</s:price>
+      <s:sku>405978</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840519160044</id>
+    <published>2022-12-05T23:18:28+08:00</published>
+    <updated>2022-12-05T23:18:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-dining-table"/>
+    <title>Surrey Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6100e6d3e503ccfa745addd0_Surrey_20Dining_20with_20Wine_20_26_20Dresser_7f933780-0227-4e80-addd-a5e1b98be70e.jpg?v=1670253509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            499.00 - 899.00
+            <a href="https://thefurnituregallery.com.au/products/surrey-dining-table">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"The Surrey Dining Table features a relaxed coastal design that will complement a range of interiors from the Hamptons to the French Country."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">The Surrey <a href="https://thefurnituregallery.com.au/collections/dining-tables">Dining Table</a> features a relaxed coastal design that will complement a range of interiors from the <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> to the <a href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French Country</a>.</span></p>
+<p><span data-sheets-value='{"1":2,"2":"The Surrey Dining Table features a relaxed coastal design that will complement a range of interiors from the Hamptons to the French Country."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Also available: <a href="https://thefurnituregallery.com.au/products/surrey-dining-chair?_pos=2&amp;_sid=1138f5c3b&amp;_ss=r" title="Surrey Dining Chair">Surrey Dining Chair.﻿</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840519160044</id>
+      <title>1.6m</title>
+      <s:price currency="AUD">499.00</s:price>
+      <s:sku>442655</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840519160044</id>
+      <title>1.8m</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>405976</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840519160044</id>
+      <title>2m</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>442656</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840519160044</id>
+      <title>2.2m</title>
+      <s:price currency="AUD">899.00</s:price>
+      <s:sku>405977</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840518766828</id>
+    <published>2022-12-05T23:16:10+08:00</published>
+    <updated>2022-12-05T23:16:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-1-door-2-drawer-vitrine"/>
+    <title>Surrey 1 Door 2 Drawer Vitrine</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/614a85f62e6d2870406d78b9_Surrey_201_20Glass_20Door_202drw_20Vitrine_1b500a13-03d1-460c-913c-bfe4a05242cc.jpg?v=1670253371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"The Surrey 1 Door 2 Drawer Vitrine features a relaxed coastal design that will complement a range of interiors from the Hamptons to the French Country."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">The Surrey 1 Door 2 Drawer Vitrine features a relaxed coastal design that will complement a range of interiors from the Hamptons to the French Country.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840518766828</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>442659</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840512475372</id>
+    <published>2022-12-05T22:51:30+08:00</published>
+    <updated>2022-12-05T22:51:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/oakdale-extension-dining-table"/>
+    <title>Oakdale Extension Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/61034bbff70f2c07af0d6067_Oakdale_20Dining_7ba89a47-aecf-4b83-bacb-54d3916a90e3.jpg?v=1670251891"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"In a distressed, weathered grey finish, the Oakdale extension dining table has a rustic, French country appeal.\n Fully Extended - L240cm."}' data-sheets-userformat='{"2":14977,"3":{"1":0},"10":2,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">In a distressed, weathered grey finish, the Oakdale extension <a href="https://thefurnituregallery.com.au/collections/dining-tables">dining table</a> has a rustic, <a href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French country</a> appeal.</span></p>
+<p><span data-sheets-value='{"1":2,"2":"In a distressed, weathered grey finish, the Oakdale extension dining table has a rustic, French country appeal.\n Fully Extended - L240cm."}' data-sheets-userformat='{"2":14977,"3":{"1":0},"10":2,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Also available:  <a href="https://thefurnituregallery.com.au/products/oakdale-dining-chair" title="Oakdale Dining Chair">Oakdale Dining Chair</a> &amp; <a title="Oakdale Bench" href="https://thefurnituregallery.com.au/products/oakdale-bench">Oakdale Bench</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840512475372</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>444738</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840511754476</id>
+    <published>2022-12-05T22:48:35+08:00</published>
+    <updated>2022-12-05T22:48:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/oakdale-dining-chair"/>
+    <title>Oakdale Dining Chair</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6212fddf2d779f1df5618f77_Oakdale_20Dining_0756918c-e1d5-449a-9941-6411b99629b5.png?v=1670556609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Made to accompany the Oakdale Dining Table, this beige upholstered dining chair features contrasting nailhead trim and a solid timber base for a rustic, French country look."}' data-sheets-userformat='{"2":14977,"3":{"1":0},"10":2,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Made to accompany the Oakdale <a href="https://thefurnituregallery.com.au/collections/dining-tables">Dining Table</a>, this beige upholstered <a href="https://thefurnituregallery.com.au/collections/dining-chairs">dining chair</a> features contrasting nailhead trim and a <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">solid timber</a> base for a rustic, <a href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French country</a> look.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840511754476</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">299.00</s:price>
+      <s:sku>444737</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840485769452</id>
+    <published>2022-12-05T21:55:09+08:00</published>
+    <updated>2022-12-05T21:55:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ignacio-sideboard-marri-wood"/>
+    <title>Ignacio Sideboard - Marri Wood</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6212f6940966fde84128a9e8_444826_WB_Ignacio_202000_20Sideboard_20Marri_20front_8851bf4a-b3db-4eb9-9227-e3fd9cf69a1a.jpg?v=1670248509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-sheets-value='{"1":2,"2":"Made from native West Australian solid Marri timber, the Ignacio Sideboard will imbue your home with natural beauty."}' data-mce-fragment="1">Crafted from premium grade <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">solid Marri timber</a>, the Ignacio <a href="https://thefurnituregallery.com.au/products/verdelho-sideboard">Sideboard</a> will imbue your home with natural beauty. Marri is native to West Australia and renowned for its superb quality and durability, with a distinct grain featuring intricate patterns.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840485769452</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2899.00</s:price>
+      <s:sku>444826</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840482164972</id>
+    <published>2022-12-05T21:51:45+08:00</published>
+    <updated>2022-12-05T21:51:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ignacio-hall-table-marri-wood"/>
+    <title>Ignacio Hall Table - Marri Wood</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/IgnacioHallTable.jpg?v=1679364451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Featuring native West Australian solid Marri timber and a natural edge, the Ignacio Hall Table will imbue your hallway with rustic beauty."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Featuring solid, premium grade WA <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">Marri timber</a> with a natural edge, the Ignacio <a href="https://thefurnituregallery.com.au/products/oakdale-hall-table">Hall Table</a> will imbue your hallway with <a href="https://thefurnituregallery.com.au/products/rustic-3-drawer-timber-console">rustic</a> beauty.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840482164972</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>444830</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840479740140</id>
+    <published>2022-12-05T21:49:28+08:00</published>
+    <updated>2022-12-05T21:49:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ignacio-entertainment-unit-marri-wood"/>
+    <title>Ignacio Entertainment Unit - Marri Wood</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6212f93fa04fa06c6b2abe96_444827_WB_Ignacio_20Entertainment_20Unit_20Marri_20angle.jpg?v=1670644528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-sheets-value='{"1":2,"2":"Bring the raw beauty of WAâ€™s South West into your living room with the Ignacio Entertainment Unit, made from native West Australian solid Marri timber."}' data-mce-fragment="1">Bring the raw beauty of WA'</span><span data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-sheets-value='{"1":2,"2":"Bring the raw beauty of WAâ€™s South West into your living room with the Ignacio Entertainment Unit, made from native West Australian solid Marri timber."}' data-mce-fragment="1">s South West into your <a href="https://thefurnituregallery.com.au/collections/living">living room</a> with the Ignacio <a href="https://thefurnituregallery.com.au/collections/entertainment-units">Entertainment Unit</a>, made from solid, premium grade <a href="https://thefurnituregallery.com.au/products/ignacio-dining-table-marri-wood">Marri timber</a>, native to West Australia and renowned for its superb quality and durability. The grain on this Marri piece features the distinctive intricate patterns that only Marri timber boasts, giving it a truly unique, stunning appearance.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840479740140</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2699.00</s:price>
+      <s:sku>444827</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840474038508</id>
+    <published>2022-12-05T21:43:47+08:00</published>
+    <updated>2022-12-05T21:43:47+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ignacio-dining-table-marri-wood"/>
+    <title>Ignacio Solid Marri Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/611317608082a7f67f9b83f0_Ignacio_20Dining_20_26_20Ezra_20Chairs_633fdf11-ccfa-4ed1-89fb-6c60cc91769d.jpg?v=1670247827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            2999.00 - 3699.00
+            <a href="https://thefurnituregallery.com.au/products/ignacio-dining-table-marri-wood">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-value='{"1":2,"2":"Bring the raw beauty of WAâ€™s South West into your home with the Ignacio, made from native West Australian solid Marri timber and featuring a statement natural edge. Available in 2.4m and 2.7m."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Bring the raw beauty of WA's South West into your home with the Ignacio, crafted from premium grade <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">solid Marri timber</a> and featuring a statement natural edge. Marri is a <meta charset="utf-8">native West Australian timber renowned for its superb quality and durability. The grain on this Marri piece features the distinctive intricate patterns that only Marri timber boasts, giving it a uniquely beautiful appearance.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840474038508</id>
+      <title>2.4m</title>
+      <s:price currency="AUD">2999.00</s:price>
+      <s:sku>444825</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840474038508</id>
+      <title>2.7m</title>
+      <s:price currency="AUD">3699.00</s:price>
+      <s:sku>445099</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840402407660</id>
+    <published>2022-12-05T20:08:29+08:00</published>
+    <updated>2022-12-05T20:08:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/grantham-dining-chair-white"/>
+    <title>Grantham Dining Chair (white)</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6233db1b287ad81bdef6832e_Grindleburg_20white_20dining_20chair_20styled_8cdeb03d-d0cb-44de-8de7-741a6091af77.jpg?v=1670556958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            279.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style data-mce-fragment="1" type="text/css"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-mce-fragment="1" data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-sheets-value='{"1":2,"2":"The Grantham Dining Chair in White will imbue your home with country cottage charm. Featuring a white wooden frame and light grey upholstered seat-pad made from easy-to-clean NuvellaÂ® fabric."}'>The Grantham <a href="grantham-dining-chair-white">Dining Chair</a> in White will imbue your home with country cottage charm. Featuring a white wooden frame and light grey upholstered seat-pad made from easy-to-clean NuvellaÂ® fabric.</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840402407660</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">279.00</s:price>
+      <s:sku>444669a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833307349228</id>
+    <published>2022-11-28T13:19:09+08:00</published>
+    <updated>2022-11-28T13:19:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-sideboard-1900"/>
+    <title>Surrey Sideboard (Large)</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/Surrey1900Sideboardangle.jpg?v=1670643976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Surrey <a href="https://thefurnituregallery.com.au/products/surrey-sideboard">Sideboard</a> features a relaxed <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a> design that will complement a range of interiors from the Hamptons to the <a href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French Country</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833307349228</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>442653</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

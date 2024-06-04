@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/armchairs.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-05-31T09:19:31+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8498438144236</id>
+    <published>2024-05-31T09:19:31+08:00</published>
+    <updated>2024-05-31T09:19:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/omaha-swivel-chair"/>
+    <title>Omaha Swivel Chair</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/OmahaSwivelchairstyled_b0f2226a-cb99-4370-bece-cefc36385b53.jpg?v=1717112270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy the sleek and contemporary design of the Omaha Swivel Chair, complementing a variety of interior styles with its chic caviar upholstery and cosy tub silhouette. Effortlessly turn in any direction with the chair's smooth swivel mechanism.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>large armchair</s:tag>
+    <s:tag>swivel chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8498438144236</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">900.00</s:price>
+      <s:sku>409296</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8471374201068</id>
+    <published>2024-05-21T15:10:35+08:00</published>
+    <updated>2024-05-21T15:10:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/mayan-single-power-recliner"/>
+    <title>Mayan Single Power Recliner</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/mpO0EIFQ.jpg?v=1716275402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>electric recliner</s:tag>
+    <s:tag>grey recliner</s:tag>
+    <s:tag>recliner</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8471374201068</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">899.00</s:price>
+      <s:sku>408831</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8386788229356</id>
+    <published>2024-04-24T12:45:21+08:00</published>
+    <updated>2024-04-24T12:45:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/willow-single-seater-sofa"/>
+    <title>Willow Single Seater Sofa</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/WillowSingleSeaterSofa.jpg?v=1716512842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Dreamy and opulent, the Willow is dressed in off-white boucle upholstery. It effortlessly exudes modern luxury and sophistication with its plush, inviting design.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8386788229356</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">750.00</s:price>
+      <s:sku>409095</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8319830950124</id>
+    <published>2024-04-12T10:10:26+08:00</published>
+    <updated>2024-04-12T10:10:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-callista-swivel-chair"/>
+    <title>Callista Swivel Chair</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Callistastyledswivelchair_1b956d19-7adb-4de9-bd22-1959b2f4f820.jpg?v=1712883661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Callista Swivel Chair chair boasts a curved 360-degree swivel feature, allowing you to effortlessly pivot in any direction.  Includes 3x three throw cushions.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>arm chair</s:tag>
+    <s:tag>curved accent chair</s:tag>
+    <s:tag>curved back</s:tag>
+    <s:tag>swivel chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8319830950124</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>408942</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8250794672364</id>
+    <published>2024-03-26T07:23:24+08:00</published>
+    <updated>2024-03-26T07:23:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/como-accent-chair-black"/>
+    <title>Como Accent Chair - Black</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ComoChair-blackangle.jpg?v=1711409001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Como Accent chair is a classic tub-style chair boasting understated elegance with its plush velvet upholstery.   Both comfort and sophistication combine in a design that transcends trends, making it a versatile and stylish choice for any room.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent chair</s:tag>
+    <s:tag>curved accent chair</s:tag>
+    <s:tag>velvet accent chair</s:tag>
+    <s:tag>velvet chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8250794672364</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1199.00</s:price>
+      <s:sku>451831</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8250785628396</id>
+    <published>2024-03-20T15:40:01+08:00</published>
+    <updated>2024-03-20T15:40:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/como-accent-chair-navy"/>
+    <title>Como Accent Chair - Navy</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ComoChair-navy.jpg?v=1710920277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Como Accent chair is a classic tub-style chair boasting understated elegance with its plush velvet upholstery.   Both comfort and sophistication combine in a design that transcends trends, making it a versatile and stylish choice for any room.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent chair</s:tag>
+    <s:tag>velvet accent chair</s:tag>
+    <s:tag>velvet armchair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8250785628396</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1199.00</s:price>
+      <s:sku>451832</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8169428353260</id>
+    <published>2024-02-21T11:14:08+08:00</published>
+    <updated>2024-02-21T11:14:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/genoa-chair-navy"/>
+    <title>Genoa Chair - Navy</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Image.jpg?v=1708484956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Genoa Chair in navy is a stunning accent chair, featuring a soft velvet fabric and golden base to enhance its luxurious style.</p>
+<p>*Foot stool not included</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>curved accent chair</s:tag>
+    <s:tag>curved back</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8169428353260</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>451569</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8118573662444</id>
+    <published>2023-12-22T10:10:16+08:00</published>
+    <updated>2023-12-22T10:10:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/karoline-single-chair-linen"/>
+    <title>Karoline Single Chair - Linen</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Karolinearmchairlinenstyled.jpg?v=1702962539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">With its contemporary frame covered in an ultra-soft neutral hue, the Karoline Single chair in linen will lighten the mood in your living room with its clean lines and everyday comfort.  Includes x1 patterned accent cushion.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fabric armchair</s:tag>
+    <s:tag>white armchair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8118573662444</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>408265</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8119096770796</id>
+    <published>2023-12-20T12:18:03+08:00</published>
+    <updated>2023-12-20T12:18:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bayamo-chair"/>
+    <title>Bayamo Chair</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BayamoChair1.jpg?v=1703027903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Displaying a curved high back silhouette with natural rattan weaving, the Bayamo Chair with its white upholstery seat </span><span data-mce-fragment="1">enhances both classic and contemporary interiors alike.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rattan</s:tag>
+    <s:tag>rattan chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8119096770796</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">499.00</s:price>
+      <s:sku>408292</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8119119806700</id>
+    <published>2023-12-20T12:17:53+08:00</published>
+    <updated>2023-12-20T12:17:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bianca-armchair"/>
+    <title>Bianca Armchair</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/FU2949.jpg?v=1708992010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cosiness is exemplified in the Bianca Armchair, featuring a beige boucle fabric and tall timber legs.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>curved accent chair</s:tag>
+    <s:tag>curved back</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8119119806700</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">499.00</s:price>
+      <s:sku>408319</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8119092281580</id>
+    <published>2023-12-20T08:31:08+08:00</published>
+    <updated>2023-12-20T08:31:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hyatt-armchair"/>
+    <title>Hyatt Armchair</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/hyattarmchair.jpg?v=1703032245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Hyatt Armchair is a neutral accent chair with a curved squared back and timber legs.  Exuding modern sophistication, blending clean lines with warm wood tones to create a stylish and inviting seating option.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent chair</s:tag>
+    <s:tag>fabric armchair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8119092281580</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.00</s:price>
+      <s:sku>408332</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8119086579948</id>
+    <published>2023-12-20T07:02:03+08:00</published>
+    <updated>2023-12-20T07:02:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/boucle-wood-curved-armchair-1"/>
+    <title>Boucle &amp; Wood Curved Armchair</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Boucle_WoodCurvedArmchair-white-naturalstyled._83292e6b-60ca-44f2-a825-67ae9f1d8600.jpg?v=1709795875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stunningly compact the Boucle &amp; Wood Curved Armchair features textured boucle upholstery and curvy angles.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boucle</s:tag>
+    <s:tag>fabric armchair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8119086579948</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>408293</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8060332966124</id>
+    <published>2023-12-01T11:51:57+08:00</published>
+    <updated>2023-12-01T11:51:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/charlotte-armchair"/>
+    <title>Charlotte Armchair</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CharlotteArmchair1.jpg?v=1701402555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">A French-provincial style armchair boasting cozy beige fabric upholstery draped over a weathered timber frame, blending comfort with vintage charm for a timeless and inviting seating option.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french provincial</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8060332966124</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>486080</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8060334964972</id>
+    <published>2023-11-21T14:51:33+08:00</published>
+    <updated>2023-11-21T14:51:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cabaret-armchair-utopique"/>
+    <title>Cabaret Armchair - Utopique</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CabaretArmchair1.jpg?v=1700549413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="auto" data-pm-slice="1 1 []" data-mce-fragment="1">Introducing the Cabaret Armchair, a masterpiece in French Provincial style furniture. Meticulously handcrafted and hand-finished, ensuring unparalleled quality and attention to detail, using traditional techniques that exude elegance, charm, and authenticity. Where craftsmanship meets artistry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent chair</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8060334964972</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>487007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8060335522028</id>
+    <published>2023-11-21T14:47:07+08:00</published>
+    <updated>2023-11-21T14:47:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cabaret-chair"/>
+    <title>Cabaret Chair</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CabaretChair.jpg?v=1700549301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Elevate your home décor and indulge in the artistry of French Provincial style with the Cabaret Chair.  Beautifully and lovingly hand crafted, this upholstered accent chair with classic button tufting is a traditional piece to love.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent chair</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8060335522028</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>487004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8060334801132</id>
+    <published>2023-11-21T14:43:07+08:00</published>
+    <updated>2023-11-21T14:43:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cabaret-decorative-chair-charmant"/>
+    <title>Cabaret Decorative Chair - Charmant</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CabaretDecorativechair1.jpg?v=1700548971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="auto" data-pm-slice="1 1 []" data-mce-fragment="1">Experience the charm of French Provincial elegance with the Cabaret Decorative Chair. Meticulously handcrafted using traditional techniques, this exquisite piece of furniture brings a touch of timeless beauty to any space. Exuding craftsmanship and sophistication.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent chair</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8060334801132</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">499.00</s:price>
+      <s:sku>487003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7908054270188</id>
+    <published>2023-11-21T11:27:41+08:00</published>
+    <updated>2023-11-21T11:27:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/emery-chair-brass"/>
+    <title>Emery Chair - Brass</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/EmeryChair_7330aea7-f937-478f-a605-338505a8d140.webp?v=1681178066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Soft cream linen, a brass frame and sleek lines give the Emery <a href="https://thefurnituregallery.com.au/products/emery-chair-black">Chair</a> a gorgeous modern look that will elevate any contemporary space.<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent chair</s:tag>
+    <s:tag>fabric armchair</s:tag>
+    <s:tag>linen look</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7908054270188</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>450924</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8017982882028</id>
+    <published>2023-10-04T08:07:39+08:00</published>
+    <updated>2023-10-04T08:07:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/gold-aged-velvet-armchair-gold-walnut"/>
+    <title>Gold Aged Velvet Armchair - Gold/Walnut</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GoldAgedVelvetArmchair-gold-walnutangle.jpg?v=1696386712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">This glamorous retro-inspired armchair has a 1960s vibe, featuring sumptuous gold crushed velvet, a rounded silhouette and a walnut base, exuding both vintage charm and luxurious comfort.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>curved accent chair</s:tag>
+    <s:tag>curved back</s:tag>
+    <s:tag>gold</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8017982882028</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">900.00</s:price>
+      <s:sku>408296</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8017933041900</id>
+    <published>2023-10-04T07:07:53+08:00</published>
+    <updated>2023-10-04T07:07:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/chenille"/>
+    <title>Chenille Armchair - Sage/Walnut</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ChenilleSageArmchair-styled2.jpg?v=1696386666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Luxuriously comfy and sumptuous, the Chenille Armchair in Sage features a gorgeous green hue, plush chenille upholstery and rounded shape so it feels like a warm hug.</span></p>
+<p><span data-mce-fragment="1">Also available in <a href="https://thefurnituregallery.com.au/products/amalfi?_pos=1&amp;_sid=d76d7e76d&amp;_ss=r" title="Chenille Armchair - Rust">Rust</a>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>curved accent chair</s:tag>
+    <s:tag>curved back</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8017933041900</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>408295</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970178892012</id>
+    <published>2023-09-14T12:55:12+08:00</published>
+    <updated>2023-09-14T12:55:12+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/delphine-arm-chair"/>
+    <title>Delphine Arm Chair</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/DelphineArmchairOcean-styled.jpg?v=1697153388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sapphire blue velvet is juxtaposed with a light timber frame in this eclectic antique-look chair.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>arm chair</s:tag>
+    <s:tag>curved accent chair</s:tag>
+    <s:tag>curved back</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970178892012</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>452350</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669972304108</id>
+    <published>2023-09-08T15:06:57+08:00</published>
+    <updated>2023-09-08T15:06:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bloomsburg-armchair-apple"/>
+    <title>Bloomsburg Armchair - Apple Green</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/619dd99577e47aabfd2438d5_1.png?v=1655613902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>THIS COLOUR IS AVAILABLE FOR SPECIAL ORDER ONLY IN STORE.</strong></p>
+<p>Embellished with classic buttoned tufting, the Bloomsburg <a href="https://thefurnituregallery.com.au/collections/armchairs">Armchair</a> in Apple is draped in shimmering <a href="https://thefurnituregallery.com.au/collections/velvet">velvet</a> in a vivid green hue for a sumptuous, inviting look and feel. </p>
+<p>Also available:  <a href="https://thefurnituregallery.com.au/products/bloomsburg-armchair-indigo" title="Bloomsburg Armchair - Indigo">Indigo</a>, <a href="https://thefurnituregallery.com.au/products/bloomsburg-armchair-gold" title="Bloomsburg Armchair - Gold">Gold</a> &amp; <a href="https://thefurnituregallery.com.au/products/bloomsburg-armchair-forest" title="Bloomsburg Armchair - Forest">Forest</a>. <meta charset="utf-8"><span data-mce-fragment="1">More colours available exclusively in store (please see image with colour swatches).  12-16 week wait on special order colours.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chesterfield</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>green armchair</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>velvet chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669972304108</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>449132</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7856633282796</id>
+    <published>2023-09-05T11:36:08+08:00</published>
+    <updated>2023-09-05T11:36:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/botanica-arm-chair"/>
+    <title>Botanica Armchair</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/BotanicaArmChair-emerald-resize.jpg?v=1672710351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Botanica is a gorgeous statement <a href="https://thefurnituregallery.com.au/collections/armchairs">chair</a> to inject colour into your room, featuring emerald green <a href="https://thefurnituregallery.com.au/collections/velvet">velvet</a>, a curved back with buttoned design and tall gold legs.<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent chair</s:tag>
+    <s:tag>button tufting</s:tag>
+    <s:tag>velvet accent chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7856633282796</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">499.00</s:price>
+      <s:sku>450635p</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970314518764</id>
+    <published>2023-09-01T15:15:27+08:00</published>
+    <updated>2023-09-01T15:15:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/grange-chair-walnut-beige-white"/>
+    <title>Grange Armchair - Check</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Grangechair-check.jpg?v=1693552361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Our favourite Grange Chair just got updated with a homely gingham check pattern that's giving us chic farmhouse vibes. Comfy foam seat padding and a premium rubberwood frame with easy-clean upholstery create a piece that is designed to endure. We love it styled with a linen cushion in an earthy tone for a rustic, elegant look.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>arm chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970314518764</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>408297</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970312519916</id>
+    <published>2023-09-01T15:07:37+08:00</published>
+    <updated>2023-09-01T15:07:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/amalfi"/>
+    <title>Chenille Armchair - Rust/Walnut</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Amalfichenillerustchair.jpg?v=1693551906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Luxuriously comfy and sumptuous, the Chenille Armchair in Rust features a gorgeous earthy colour, plush chenille upholstery and rounded shape so it feels like a warm hug.</p>
+<p>Also available:  <a href="https://7iw2ib9vjkv5b6y3-65021903084.shopifypreview.com/products/chenille" title="Chenille Armchair - Sage/Walnut">Sage</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>curved accent chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970312519916</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>408294</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7965694066924</id>
+    <published>2023-08-23T06:06:54+08:00</published>
+    <updated>2023-08-23T06:06:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/engineer-accent-chair"/>
+    <title>Engineer Accent Chair</title>
+    <s:type>Living;Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/EngineerAccentChair-styled.jpg?v=1692686624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Bedroom<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">This modestly scaled Engineer Accent Chair is perfect for a corner or entryway</span><span data-mce-fragment="1">.  Curvaceous with</span><span data-mce-fragment="1"> a distressed finished frame and taupe-tone upholstery for a</span><span data-mce-fragment="1"> refined </span><span data-mce-fragment="1">sensibility. Studded trim punctuating the front and back.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent chair</s:tag>
+    <s:tag>curved accent chair</s:tag>
+    <s:tag>distressed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7965694066924</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>447799</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

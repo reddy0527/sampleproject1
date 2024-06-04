@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/blanket-boxes.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2023-12-06T11:09:41+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8105820127468</id>
+    <published>2023-12-06T11:09:41+08:00</published>
+    <updated>2023-12-06T11:09:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/charlotte-bench"/>
+    <title>Charlotte Bench</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CharlotteBench1.jpg?v=1701825542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful French provincial style button tufted bench seat,  The perfect companion to place at the foot of the <a href="https://thefurnituregallery.com.au/products/charlotte-bed" title="Charlotte Bed">Charlotte Bed</a>.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bed of bed bench</s:tag>
+    <s:tag>bench seat</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8105820127468</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>486071</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7969447575788</id>
+    <published>2023-08-30T11:14:54+08:00</published>
+    <updated>2023-08-30T11:14:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/antoinette-accent-bench"/>
+    <title>Antoinette Accent Bench</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/AntoinetteAccentBench-styled.jpg?v=1693361168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Antoinette Accent Bench is a timeless piece. Quality wood frame featuring antiqued white finish. Scrolled arms, tufted cushioned seating and floral applique give this piece  <a href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French country</a> sophistication.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>bed of bed bench</s:tag>
+    <s:tag>bench seat</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7969447575788</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">499.00</s:price>
+      <s:sku>447801</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7967295701228</id>
+    <published>2023-08-25T08:13:34+08:00</published>
+    <updated>2023-08-25T08:13:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/kincaid-ply-large-trunk"/>
+    <title>Kincaid Ply Large Trunk</title>
+    <s:type>Living;Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BJKITL-KincaidPlyLARGEtrunk.jpg?v=1692921033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Bedroom<br>
+        <strong>Price: </strong>
+            949.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This large trunk is perfect for storage in your living room or bedroom.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cane chest</s:tag>
+    <s:tag>storage</s:tag>
+    <s:tag>trunk</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7967295701228</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">949.00</s:price>
+      <s:sku>408400</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7965666902252</id>
+    <published>2023-08-22T13:12:23+08:00</published>
+    <updated>2023-08-22T13:12:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/altair-hamptons-bench-seat"/>
+    <title>Altair Hamptons Bench Seat</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/AltairHamptonsBenchseat.jpg?v=1692670032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">A Hamptons-inspired bench seat showcasing cream linen upholstery against a sleek black timber frame, exuding timeless sophistication and classic allure in its design.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bed ottoman</s:tag>
+    <s:tag>bench seat</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7965666902252</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>408298</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7965667197164</id>
+    <published>2023-08-22T13:12:07+08:00</published>
+    <updated>2023-08-22T13:12:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/aubusson-trunk"/>
+    <title>Aubusson Trunk</title>
+    <s:type>Living;Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/AubussonTrunk.jpg?v=1692670278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Bedroom<br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">A capacious rectangular cane basket ideal for storage, blending practicality with rustic charm, perfect for organising and adding natural texture to any space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bedroom storage</s:tag>
+    <s:tag>storage</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7965667197164</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">500.00</s:price>
+      <s:sku>408351</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7952354738412</id>
+    <published>2023-07-25T13:32:02+08:00</published>
+    <updated>2023-07-25T13:32:02+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/scarlett-storage-ottoman"/>
+    <title>Scarlett Velvet Storage Ottoman</title>
+    <s:type>Living;Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ScarlettStorageOttomanangle2.jpg?v=1690263223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Bedroom<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A luxurious storage ottoman upholstered in jet black velvet, perfect for the bedroom.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bedroom storage</s:tag>
+    <s:tag>storage ottoman</s:tag>
+    <s:tag>velvet</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7952354738412</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">499.00</s:price>
+      <s:sku>002284</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7936966852844</id>
+    <published>2023-07-05T09:19:22+08:00</published>
+    <updated>2023-07-05T09:19:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ravello-blanket-box-with-gold-legs-fern"/>
+    <title>Ravello Blanket Box with Gold Legs - Fern</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/RavelloBlanketBox-goldlegs-fern.jpg?v=1687240431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Place this glamorous <a href="https://thefurnituregallery.com.au/collections/blanket-boxes">blanket box</a>, upholstered in rich dark green <a href="https://thefurnituregallery.com.au/collections/velvet">velvet</a> and finished with dark gold brushed legs, at the end of your bed to use for storing blankets, pillows, bedding and more.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bedroom storage</s:tag>
+    <s:tag>blanket box</s:tag>
+    <s:tag>storage ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7936966852844</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">899.00</s:price>
+      <s:sku>449953P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7936967016684</id>
+    <published>2023-07-05T09:17:51+08:00</published>
+    <updated>2023-07-05T09:17:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-ravello-blanket-box-with-gold-legs-denim"/>
+    <title>Ravello Blanket Box with Gold Legs - Cobblestone</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/RavelloBlanketBox-goldlegs-cobblestone.jpg?v=1687240576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Place this glamorous <a href="https://thefurnituregallery.com.au/collections/blanket-boxes">blanket box,</a> upholstered in neutral <a href="https://thefurnituregallery.com.au/collections/velvet">velvet</a> and finished with dark gold brushed legs, at the end of your bed to use for storing blankets, pillows, bedding and more.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bedroom storage</s:tag>
+    <s:tag>blanket box</s:tag>
+    <s:tag>neutral</s:tag>
+    <s:tag>storage ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7936967016684</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">899.00</s:price>
+      <s:sku>449952P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7936966885612</id>
+    <published>2023-07-05T09:16:45+08:00</published>
+    <updated>2023-07-05T09:16:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/w"/>
+    <title>Ravello Blanket Box with Gold Legs - Denim</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/RavelloBlanketBox-goldlegs-denim.jpg?v=1687240493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Place this glamorous <a href="https://thefurnituregallery.com.au/collections/blanket-boxes">blanket box,</a> upholstered in rich denim blue <a href="https://thefurnituregallery.com.au/collections/velvet">velvet</a> and finished with dark gold brushed legs, at the end of your bed to use for storing blankets, pillows, bedding and more.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bedroom storage</s:tag>
+    <s:tag>blanket box</s:tag>
+    <s:tag>blue</s:tag>
+    <s:tag>storage ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7936966885612</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">899.00</s:price>
+      <s:sku>408179P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7931611578604</id>
+    <published>2023-06-02T16:04:11+08:00</published>
+    <updated>2023-06-02T16:04:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/presley-boucle-bench"/>
+    <title>Presley Boucle Bench</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Presleybouclebench.jpg?v=1685691177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A nod to cosycore decor, the Presley Boucle <a href="https://thefurnituregallery.com.au/products/marcel-storage-bench">Bench</a> is covered in gorgeous boucle fabric in a chic, minimalist silhouette.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bed ottoman</s:tag>
+    <s:tag>bench seat</s:tag>
+    <s:tag>boucle</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7931611578604</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>452554</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7898568753388</id>
+    <published>2023-03-31T17:14:06+08:00</published>
+    <updated>2023-03-31T17:14:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/giselle-bench-seat"/>
+    <title>Giselle Bench Seat</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GiselleBenchSeat_e32393a9-0400-4128-a5f5-a9b4ff228f46.jpg?v=1694134261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Giselle <a href="https://thefurnituregallery.com.au/products/oakdale-bench">Bench Seat</a> features a <a href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French Provincial</a> inspired design, complete with linen upholstery, a classic buttoned design, brass studding and oak frame.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>antique</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>tufted bench seat</s:tag>
+    <s:tag>upholstered dining chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7898568753388</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">899.00</s:price>
+      <s:sku>477571</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7898568917228</id>
+    <published>2023-03-31T17:12:35+08:00</published>
+    <updated>2023-03-31T17:12:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/giselle-blanket-box"/>
+    <title>Giselle Blanket Box</title>
+    <s:type>Living;Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/GiselleBlanketBox.jpg?v=1683173792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Bedroom<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This linen upholstered <a href="https://thefurnituregallery.com.au/collections/blanket-boxes">blanket box</a> is perfect for any <a href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French Provincial</a>, Hamptons or classic interior.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bed ottoman</s:tag>
+    <s:tag>bedroom storage</s:tag>
+    <s:tag>storage ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7898568917228</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>477573</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7891641434348</id>
+    <published>2023-03-16T09:35:36+08:00</published>
+    <updated>2023-03-16T09:35:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ravello-blanket-box-fern"/>
+    <title>Ravello Blanket Box - Fern</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/RavelloBlanketBox-fern.jpg?v=1678414714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Place this glamorous <a href="https://thefurnituregallery.com.au/collections/blanket-boxes">blanket box</a>, upholstered in rich dark green <a href="https://thefurnituregallery.com.au/collections/velvet">velvet</a>, at the end of your bed to use for storing blankets, pillows, bedding and more.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7891641434348</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">899.00</s:price>
+      <s:sku>449953</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7893052719340</id>
+    <published>2023-03-16T09:22:13+08:00</published>
+    <updated>2023-03-16T09:22:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/marcel-storage-bench"/>
+    <title>Marcel Storage Bench</title>
+    <s:type>Living;Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/451178-MarcelStorageBench-Natural.jpg?v=1678835246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Bedroom<br>
+        <strong>Price: </strong>
+            800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">With a distinct <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a>, timeless coastal look, the Marcel Storage Bench is as useful as it is chic. Upholstered in a sandy-hued linen, use this bench at the end of your bed for storing blankets, pillows and more.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bed ottoman</s:tag>
+    <s:tag>bedroom storage</s:tag>
+    <s:tag>storage ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7893052719340</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">800.00</s:price>
+      <s:sku>451178</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7891693666540</id>
+    <published>2023-03-16T09:20:02+08:00</published>
+    <updated>2023-03-16T09:20:02+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/marcel-storage"/>
+    <title>Marcel Storage Bench - Taupe Stripe</title>
+    <s:type>Living;Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/451176-MarcelStorageBench-TaupeStripe.jpg?v=1678424504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Bedroom<br>
+        <strong>Price: </strong>
+            800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">With a distinct <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a>, timeless coastal look, the <a href="https://thefurnituregallery.com.au/products/marcel-storage-bench">Marcel Storage Bench</a> is as useful as it is chic. Featuring classic stripes in a neutral colour palette, use this bench at the end of your bed for storing blankets, pillows and more.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bed ottoman</s:tag>
+    <s:tag>bedroom storage</s:tag>
+    <s:tag>storage ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7891693666540</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">800.00</s:price>
+      <s:sku>451176</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/display-units.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-05-29T07:36:45+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8488528543980</id>
+    <published>2024-05-29T07:36:45+08:00</published>
+    <updated>2024-05-29T07:36:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hampton-display-cabinet-1"/>
+    <title>Hampton Elite Display Cabinet</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/HamptonHutchDisplayUnit_ba2b0dae-72c2-4b69-be31-75512cfb6d39.jpg?v=1716934180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            2499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Bring the magic of <a href="https://thefurnituregallery.com.au/collections/hamptons-collection" data-mce-href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> home styling to your home with the Hampton Elite Display Cabinet. This <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired bookshelf is defined by crisp white timber and cross detailing, offering a timeless, classic look. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display cabinet</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8488528543980</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2499.00</s:price>
+      <s:sku>409914</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970172764396</id>
+    <published>2024-01-26T09:38:42+08:00</published>
+    <updated>2024-01-26T09:38:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/lyon-oakwood-display-unit-black"/>
+    <title>Lyon Oak Wood Display Unit - Black</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/LyonOakWoodblackdisplayUnit.jpg?v=1706234002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            2699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Exuding Parisian elegance, this French-inspired display cabinet crafted from oak wood and adorned with ornate, antique-look silver handles, marries timeless style with exquisite craftsmanship.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display cabinet</s:tag>
+    <s:tag>solid timber</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970172764396</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2699.00</s:price>
+      <s:sku>452311</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8060336439532</id>
+    <published>2023-11-29T15:20:29+08:00</published>
+    <updated>2023-11-29T15:20:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/audrey-showcase"/>
+    <title>Audrey Showcase</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/AudreyShowcase_jpeg.heic?v=1702356493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">An opulent antique-style black timber bookcase exuding old-world charm, adorned with intricate French-inspired details, brass hardware, and graceful turned legs, a magnificent piece blending sophistication with timeless allure.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display cabinet</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8060336439532</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>486096</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8063584731372</id>
+    <published>2023-11-03T07:12:01+08:00</published>
+    <updated>2023-11-03T07:12:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-long-beach-display-cabinet"/>
+    <title>Long Beach Elite Display Cabinet</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/62156b2420de8ca6bf7921dd_Long_20Beach_20Display_20Cabinet._a8dbb29c-ce44-4780-8751-6dbf7e038e2d.jpg?v=1698966698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            2799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Embrace <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a> chic style with the Long Beach <a href="https://thefurnituregallery.com.au/products/chantelle-display-cabinet">Display Cabinet</a>, featuring crisp white pine <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">timber</a>, contrasting black handles and plenty of storage space. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coastal style</s:tag>
+    <s:tag>display cabinet</s:tag>
+    <s:tag>sideboard</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>storage</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8063584731372</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2799.00</s:price>
+      <s:sku>408824</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8012480381164</id>
+    <published>2023-09-20T10:03:07+08:00</published>
+    <updated>2023-09-20T10:03:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/lyon-oak-wood-display-cabinet-black-natural"/>
+    <title>Lyon Oak Wood Display Cabinet - Black &amp; Natural</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/LyonDisplayUnit-natural_c1fe37e5-ea33-4ce5-9f52-fb85ec035c1d.jpg?v=1696983065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            2699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Exuding Parisian elegance, this French-inspired display cabinet crafted from oak wood showcases a sophisticated two-tone finish of black and natural timber, adorned with ornate, antique-look silver handles, marrying timeless style with exquisite craftsmanship.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display cabinet</s:tag>
+    <s:tag>oak</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8012480381164</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2699.00</s:price>
+      <s:sku>452312</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7966101340396</id>
+    <published>2023-09-15T08:22:27+08:00</published>
+    <updated>2023-09-15T08:22:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/byron-display-cabinet"/>
+    <title>Bremer Bay Display Cabinet</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BremerBayDisplayCabinet.webp?v=1696304737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Made from solid, reclaimed pine, the Bremer Bay Display cabinet features<span data-mce-fragment="1"> bevelled glass doors and sides as well as two handy drawers for storage.</span></p>
+<p data-mce-fragment="1"><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display cabinet</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7966101340396</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1399.00</s:price>
+      <s:sku>452517</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7953933762796</id>
+    <published>2023-07-25T08:34:59+08:00</published>
+    <updated>2023-07-25T08:34:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pippard-cocktail-cabinet-black"/>
+    <title>Pippard Cocktail Cabinet - Black</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PippardCocktailCabinet-black.jpg?v=1690238852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">A stunning statement piece. The Pippard <a href="https://thefurnituregallery.com.au/products/pippard-cocktail-cabinet">Cocktail Cabinet</a> features a black metal frame, bevelled mirror design, and plenty of curating potential, allowing you to display or store away glassware and more.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cocktail bar</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7953933762796</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>449410</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7953934024940</id>
+    <published>2023-07-25T08:34:24+08:00</published>
+    <updated>2023-07-25T08:34:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pippard-open-display-unit-black"/>
+    <title>Pippard Open Display Unit - Black</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PippardOpenDisplay-black.jpg?v=1690238941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Pippard Open <a href="https://thefurnituregallery.com.au/collections/display-units">Display Unit</a> is the perfect piece for curating and displaying your homeware collection, featuring a bevelled <a href="https://thefurnituregallery.com.au/products/pippard-open-display-unit">mirror top</a>, tempered mirrored shelves and black metal frame. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display cabinet</s:tag>
+    <s:tag>mirrored</s:tag>
+    <s:tag>open display cabinet</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7953934024940</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1699.00</s:price>
+      <s:sku>449413</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7928747163884</id>
+    <published>2023-05-29T11:21:19+08:00</published>
+    <updated>2023-05-29T11:21:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/verdelho-display-cabinet"/>
+    <title>Verdelho Display Cabinet</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/VerdelhoDISPLAYCABINET-RS.jpg?v=1713483484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>An elegant piece for displaying homewares or storing glassware and crockery, the Verdelho <a href="https://thefurnituregallery.com.au/collections/display-units">Display Unit</a> is crafted from <span data-mce-fragment="1"><a href="https://thefurnituregallery.com.au/products/copy-of-portland-display-unit">American oak</a> and European Beech Timber.</span><br data-mce-fragment="1"></p>
+<p><span data-mce-fragment="1">This product is made exclusively with <strong data-mce-fragment="1">Blum </strong>hardware.</span></p>
+<div style="text-align: left;"><img style="margin-bottom: 16px; float: none;" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Blum_480x480.jpg?v=1682635880" width="195" height="113" data-mce-selected="1" data-mce-src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Blum_480x480.jpg?v=1682635880"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display cabinet</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7928747163884</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2799.00</s:price>
+      <s:sku>451244</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7891576357100</id>
+    <published>2023-03-13T08:59:18+08:00</published>
+    <updated>2023-03-13T08:59:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ponte-arch-shelves"/>
+    <title>Ponte Arch Shelves</title>
+    <s:type>Living;Office</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/451177-PonteArchShelves-Brass.jpg?v=1678406606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Office<br>
+        <strong>Price: </strong>
+            2199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Elevate your space with this stunning <a href="https://thefurnituregallery.com.au/collections/display-units">display unit</a> featuring gold arch shelves.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brass</s:tag>
+    <s:tag>modern style</s:tag>
+    <s:tag>open shelving</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7891576357100</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2199.00</s:price>
+      <s:sku>451177</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7863440769260</id>
+    <published>2023-01-16T09:42:36+08:00</published>
+    <updated>2023-01-16T09:42:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-portland-display-unit"/>
+    <title>Portland Display Unit</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/62fe1de7f646f2087f9445ad_Portland_20Display_ce8b2ab0-f936-460d-884b-d71ac5da9a33.jpg?v=1673829824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            2299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Utilising the strength and beauty of <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection" title="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">Solid </a>American oak, the Portland <a href="https://thefurnituregallery.com.au/collections/display-units" title="https://thefurnituregallery.com.au/collections/display-units">Display Unit</a> will bring warmth and charm to your living room. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7863440769260</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2299.00</s:price>
+      <s:sku>446443</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7849304293612</id>
+    <published>2022-12-20T16:26:21+08:00</published>
+    <updated>2022-12-20T16:26:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/lodge-library"/>
+    <title>Lodge Library</title>
+    <s:type>Living;Office</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/LodgeLibrary_Vaughncopy.jpg?v=1671524844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Office<br>
+        <strong>Price: </strong>
+            5999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This grand library is crafted from Old Fir Wood. Rustic with a hint of <a title="https://thefurnituregallery.com.au/collections/french-provincial-collection" href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French Provincial</a> elegance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7849304293612</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">5999.00</s:price>
+      <s:sku>403091</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840513655020</id>
+    <published>2022-12-05T22:57:18+08:00</published>
+    <updated>2022-12-05T22:57:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pippard-cocktail-cabinet"/>
+    <title>Pippard Cocktail Cabinet - Champagne</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/611c52a5314079df98d89eca_Pippard_20cocktail_20cabinet_a6f973c6-f76a-4624-b689-1b31d07735fd.jpg?v=1670252238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            1899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"A stunning statement piece. The Pippard Cocktail Cabinet features a champagne metal frame, bevelled mirror design, and plenty of curating potential, allowing you to display or store away glassware and more."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">A stunning statement piece. The Pippard Cocktail Cabinet features a champagne metal frame, bevelled mirror design, and plenty of curating potential, allowing you to display or store away glassware and more.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840513655020</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1899.00</s:price>
+      <s:sku>447427</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833306136812</id>
+    <published>2022-11-28T13:18:36+08:00</published>
+    <updated>2022-11-28T13:18:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/seville-open-display-unit"/>
+    <title>Seville Open Display Unit</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/Chiswick3_2str_ArmChair-nopic.jpg?v=1708984586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Curate your favourite homewares and put them on show with the gorgeous Seville Open <a href="https://thefurnituregallery.com.au/collections/display-units" title="https://thefurnituregallery.com.au/collections/display-units">Display Unit</a>, featuring a unique, contemporary design. Made from oak and solid European beech with a herringbone pattern, with gold brass accents in between the shelving for a glam touch.</p>
+<p><span data-sheets-value='{"1":2,"2":"The Verdelho Coffee Table is crafted from beautiful American oak combined with European Beech Timber, featuring a gorgeous parquetry pattern table top to imbue your living room with classic elegance."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">This product is made exclusively with <strong data-mce-fragment="1">Blum </strong></span><span data-sheets-value='{"1":2,"2":"The Verdelho Coffee Table is crafted from beautiful American oak combined with European Beech Timber, featuring a gorgeous parquetry pattern table top to imbue your living room with classic elegance."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">hardware.</span></p>
+<p><img height="113" width="195" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Blum_480x480.jpg?v=1682635880" data-mce-selected="1"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833306136812</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>450403</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833302532332</id>
+    <published>2022-11-28T13:16:43+08:00</published>
+    <updated>2022-11-28T13:16:43+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/lafayette-double-display-unit"/>
+    <title>Lafayette Double Display Unit</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/NapoleonLeatherSofabrown_GrecoCoffeeandSidetable_LafayetteDoubleDisplay_87a71355-e11d-4716-9cd5-75b470420733.jpg?v=1670466992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            3499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Lafayette Double <a href="https://thefurnituregallery.com.au/collections/display-units">Display Unit</a> is crafted from elm and iron, with a storage base that features a unique, geometric panelled design. Offering plenty of curating potential, display your favourite homewares on its gold framed <a href="https://thefurnituregallery.com.au/collections/libraries-shelving">shelves</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display cabinet</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833302532332</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3499.00</s:price>
+      <s:sku>447798</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833297977580</id>
+    <published>2022-11-28T13:14:20+08:00</published>
+    <updated>2022-11-28T13:14:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/chantelle-display-cabinet"/>
+    <title>Chantelle Display Cabinet</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/62a9523a2e9c385ac8d0fc19_Chantelle_20Open_20Hutch_20Dresser.jpg?v=1669612460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            3998.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Display your favourite homewares, crockery and more in the stunning Chantelle <a href="https://thefurnituregallery.com.au/products/long-beach-display-cabinet">Display Cabinet</a>. Crisp white <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">timber</a> and elegant details combine for a timeless piece that exudes class.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833297977580</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3998.00</s:price>
+      <s:sku>447905P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833297912044</id>
+    <published>2022-11-28T13:14:18+08:00</published>
+    <updated>2022-11-28T13:14:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/chantelle-4-door-dresser"/>
+    <title>Chantelle 4 Door Dresser</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/62a9425802308c09d4190a29_Chantelle_204_20Door_20Dresser.jpg?v=1669612459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            4698.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Classic and elegant, the Chantelle 2 Door Dresser is a timeless investment for your interior. Featuring crisp white acacia and Parisian-inspired black handles with an antique look.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833297912044</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">4698.00</s:price>
+      <s:sku>447906P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669979447532</id>
+    <published>2022-06-19T12:53:00+08:00</published>
+    <updated>2022-06-19T12:53:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-dresser"/>
+    <title>Surrey Dresser</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6212ec3bfc493d489bc69db8_Surrey_20Dresser.jpg?v=1655614380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            2598.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Surrey Dresser will make a beautiful complement to your dining room, featuring a relaxed <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> design with two-tone timber. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>sideboard</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>storage</s:tag>
+    <s:tag>timber buffet</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669979447532</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2598.00</s:price>
+      <s:sku>405975</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669977710828</id>
+    <published>2022-06-19T12:51:14+08:00</published>
+    <updated>2022-06-19T12:51:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pippard-open-display-unit"/>
+    <title>Pippard Open Display Unit - Champagne</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6125b9a3d7c625a2b3d2c015_Pippard_20Open_20Display_20Unit.jpg?v=1655614274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Pippard Open <a href="https://thefurnituregallery.com.au/collections/display-units" title="https://thefurnituregallery.com.au/collections/display-units">Display Unit </a>is the perfect piece for curating and displaying your homeware collection, featuring a bevelled mirror top, tempered mirrored <a href="https://thefurnituregallery.com.au/collections/libraries-shelving" title="https://thefurnituregallery.com.au/collections/libraries-shelving">shelves </a>and champagne coloured metal frame. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>contemporary</s:tag>
+    <s:tag>display cabinet</s:tag>
+    <s:tag>glass metal bookshelf</s:tag>
+    <s:tag>open shelving</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669977710828</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1899.00</s:price>
+      <s:sku>448157p</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

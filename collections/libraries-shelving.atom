@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/libraries-shelving.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-03-12T12:16:11+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8235700093164</id>
+    <published>2024-03-12T12:16:11+08:00</published>
+    <updated>2024-03-12T12:16:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bowery-metal-glass-shelf"/>
+    <title>Bowery Metal Glass Shelf</title>
+    <s:type>Living;Office</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BoweryMetalGlassShelf.jpg?v=1710214114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Office<br>
+        <strong>Price: </strong>
+            429.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Featuring 5 glass shelves and sleek metal gold frame, offering both functionality and style for organizing essentials in your bathroom or office.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>modern shelving unit</s:tag>
+    <s:tag>open shelving</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8235700093164</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">429.00</s:price>
+      <s:sku>409050</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8235602280684</id>
+    <published>2024-03-12T12:10:26+08:00</published>
+    <updated>2024-03-12T12:10:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ang-wood-metal-shelves"/>
+    <title>Ang Wood/Metal Shelves</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/AngWood-MetalShelves.jpg?v=1710213730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            549.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautifully contrasted by a gold metal frame and rounded wooden shelves, the Ang Wood/Metal Shelves are ideal for displaying your favourite décor.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bookshelf</s:tag>
+    <s:tag>open shelving</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8235602280684</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">549.00</s:price>
+      <s:sku>409071</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8060331917548</id>
+    <published>2023-11-29T15:22:59+08:00</published>
+    <updated>2023-11-29T15:22:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/harley-arch-bookcase"/>
+    <title>Harley Arch Bookcase</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/HarleyArchBookcase2.jpg?v=1708493055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">An arched bookcase marrying natural elements, boasting timber shelves within a charming rattan frame, blending organic textures and elegant design for a timeless, inviting display.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bookshelf</s:tag>
+    <s:tag>open shelving</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8060331917548</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>486087</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8053081800940</id>
+    <published>2023-11-21T14:19:20+08:00</published>
+    <updated>2023-11-21T14:19:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/juliette-shelving-unit"/>
+    <title>Juliette Shelving Unit</title>
+    <s:type>Living;Office</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/JulietteShelvingUnit.jpg?v=1700547541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Office<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1" data-pm-slice="1 1 []" dir="auto">Crafted with a stunning gold-coloured metal frame and sleek glass shelves, the Juliette Shelving Unit will effortlessly display your personally curated homewares, reflecting your unique style and personality.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>open shelving</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8053081800940</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>486094</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8029424058604</id>
+    <published>2023-10-13T09:43:31+08:00</published>
+    <updated>2023-10-13T09:43:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/artisan-6-drawer-bookcase-1"/>
+    <title>Artisan 6 Drawer Bookcase</title>
+    <s:type>Living;Office</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ArtisanBookcase_jpeg_38152e92-55f9-4879-85ba-15bec93168ce.jpg?v=1697161097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Office<br>
+        <strong>Price: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1" data-pm-slice="1 1 []" dir="auto">The perfect blend of rustic charm and modern functionality, the Artisan 6 Drawer Bookcase features a striking contrast of solid hardwood paired back with black metal trim. Four spacious shelves and six convenient drawers, providing ample storage for books, décor, and more. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bookshelf</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8029424058604</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1999.00</s:price>
+      <s:sku>452631</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8014828273900</id>
+    <published>2023-09-26T08:27:28+08:00</published>
+    <updated>2023-09-26T08:27:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-london-library-with-ladder"/>
+    <title>London Library with Ladder</title>
+    <s:type>Living;Office</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/400003_WB_LondonLibraryRusticfront_2b16dea8-864b-4e00-8b0a-3c5cdb54128e.jpg?v=1715911614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Office<br>
+        <strong>Price: </strong>
+            4999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This beautifully designed library is well appointed with plenty of shelving and 4 cupboard doors. Featuring a rustic finish, the London <a href="https://thefurnituregallery.com.au/collections/libraries-shelving">Library</a> is completed with a ladder.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display cabinet</s:tag>
+    <s:tag>rustic</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8014828273900</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">4999.00</s:price>
+      <s:sku>400003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7966103109868</id>
+    <published>2023-09-15T08:08:32+08:00</published>
+    <updated>2023-09-15T08:08:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/byron-bookcase"/>
+    <title>Bremer Bay Bookcase</title>
+    <s:type>Living;Office</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BremerBayBookcase.jpg?v=1696308925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Office<br>
+        <strong>Price: </strong>
+            2899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Crafted<span data-mce-fragment="1"> from solid, reclaimed pine,  our Bremer Bay Bookcase features timber tops and panelled back board with a rustic tawny stain along with an ivory washed base.  Authentically aged to achieve a weathered, rustic appearance.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bookshelf</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7966103109868</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2899.00</s:price>
+      <s:sku>452512</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7969432436972</id>
+    <published>2023-08-30T08:05:08+08:00</published>
+    <updated>2023-08-30T08:05:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-hampton-bookshelf"/>
+    <title>Hampton Elite Bookshelf</title>
+    <s:type>Living;Office</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/61187c5bb86b16e53aade01e_Hampton_20Bookcase_04e979fc-4949-46e5-b86f-6082b6153981.jpg?v=1693353517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living;Office<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the magic of <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> home styling to your home with the Hampton Elite Bookshelf. This <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired bookshelf is crafted using top grade hard wood and finished in crisp white, with cross detailing to offer a timeless, classic look. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>bookshelf</s:tag>
+    <s:tag>coastal style</s:tag>
+    <s:tag>display cabinet</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>open shelving</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7969432436972</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1199.00</s:price>
+      <s:sku>259003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7967300354284</id>
+    <published>2023-08-25T09:39:23+08:00</published>
+    <updated>2023-08-25T09:39:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hills-metal-wall-shelf-gold"/>
+    <title>Hills Metal Wall Shelf - Gold</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/VNHIWAHillsMetalWallShelf-gold.jpg?v=1692921470"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            369.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">A contemporary and chic round wall shelving unit in gleaming gold, featuring three shelves designed to elegantly showcase and organize your curated homewares with style and sophistication.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hanging shelf</s:tag>
+    <s:tag>open shelving</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7967300354284</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">369.00</s:price>
+      <s:sku>408406</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7901577904364</id>
+    <published>2023-05-05T08:21:35+08:00</published>
+    <updated>2023-05-05T08:21:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/remond-display-unit"/>
+    <title>Remond Display Unit</title>
+    <s:type>Living;Office</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/FT.082.BK-RemondDisplayUnit.jpg?v=1680040661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Office<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Remond <a href="https://thefurnituregallery.com.au/collections/display-units">Display Unit</a> is a modern industrial piece made from metal. A stylish solution for displaying books, art and your favourite homewares.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black shelving unit</s:tag>
+    <s:tag>open display cabinet</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7901577904364</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>452078</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7911651868908</id>
+    <published>2023-04-18T15:19:42+08:00</published>
+    <updated>2023-04-18T15:19:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/carynhurst-bookshelf"/>
+    <title>Carynhurst Bookshelf</title>
+    <s:type>Living;Office</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/CarynhurstBookshelf.jpg?v=1681774772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Office<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A beautiful antique white timber <a href="https://thefurnituregallery.com.au/collections/display-units">bookshelf</a> that feels right at home in a country cottage - shabby chic styling at its best.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>country style</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>open shelving</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7911651868908</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>447817</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7904522928364</id>
+    <published>2023-04-05T12:09:27+08:00</published>
+    <updated>2023-04-05T12:09:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/fabien-display-unit"/>
+    <title>Fabien Display Unit</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/FabienDisplayUnit.....jpg?v=1680578821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Fabien <a href="https://thefurnituregallery.com.au/collections/display-units">Display Unit</a> is a modern piece made from iron, featuring 3 shelves to curate and display your favourite homewares.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black shelving unit</s:tag>
+    <s:tag>modern shelving unit</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7904522928364</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>449646</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7892821803244</id>
+    <published>2023-03-14T14:30:55+08:00</published>
+    <updated>2023-03-14T14:30:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/lafayette-single-display"/>
+    <title>Lafayette Single Display</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/lafayettesingledisplay.jpg?v=1678770338"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">The Lafayette Single <a href="https://thefurnituregallery.com.au/collections/display-units">Display Unit</a>, crafted from elm and iron, offers plenty of curating potential to display your favourite homewares.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>modern style</s:tag>
+    <s:tag>open shelving</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7892821803244</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1999.00</s:price>
+      <s:sku>447797</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7891576357100</id>
+    <published>2023-03-13T08:59:18+08:00</published>
+    <updated>2023-03-13T08:59:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ponte-arch-shelves"/>
+    <title>Ponte Arch Shelves</title>
+    <s:type>Living;Office</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/451177-PonteArchShelves-Brass.jpg?v=1678406606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Office<br>
+        <strong>Price: </strong>
+            2199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Elevate your space with this stunning <a href="https://thefurnituregallery.com.au/collections/display-units">display unit</a> featuring gold arch shelves.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brass</s:tag>
+    <s:tag>modern style</s:tag>
+    <s:tag>open shelving</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7891576357100</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2199.00</s:price>
+      <s:sku>451177</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7849304293612</id>
+    <published>2022-12-20T16:26:21+08:00</published>
+    <updated>2022-12-20T16:26:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/lodge-library"/>
+    <title>Lodge Library</title>
+    <s:type>Living;Office</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/LodgeLibrary_Vaughncopy.jpg?v=1671524844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Office<br>
+        <strong>Price: </strong>
+            5999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This grand library is crafted from Old Fir Wood. Rustic with a hint of <a title="https://thefurnituregallery.com.au/collections/french-provincial-collection" href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French Provincial</a> elegance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7849304293612</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">5999.00</s:price>
+      <s:sku>403091</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840522993900</id>
+    <published>2022-12-05T23:37:45+08:00</published>
+    <updated>2022-12-05T23:37:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-6-drawer-bookcase"/>
+    <title>Surrey 6 Drawer Bookcase</title>
+    <s:type>Office</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/613fe2c3bf5de55d1129e2e8_Surrey_206drw_20Bookcase_99a0e10f-8540-4f85-8213-4624b832f285.jpg?v=1670254665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Office<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"This relaxed coastal design can complement a range of interiors from the Hamptons to the French Country."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">The Surrey 6 Drawer <a href="https://thefurnituregallery.com.au/collections/libraries-shelving">Bookcase</a> features shelving interspersed with storage drawers for useful storage and display options in your <a href="https://thefurnituregallery.com.au/collections/living">living room</a> or <a href="https://thefurnituregallery.com.au/collections/office">office</a>. Made from acacia timer and wenge wood.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840522993900</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>442652</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833306136812</id>
+    <published>2022-11-28T13:18:36+08:00</published>
+    <updated>2022-11-28T13:18:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/seville-open-display-unit"/>
+    <title>Seville Open Display Unit</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/Chiswick3_2str_ArmChair-nopic.jpg?v=1708984586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Curate your favourite homewares and put them on show with the gorgeous Seville Open <a href="https://thefurnituregallery.com.au/collections/display-units" title="https://thefurnituregallery.com.au/collections/display-units">Display Unit</a>, featuring a unique, contemporary design. Made from oak and solid European beech with a herringbone pattern, with gold brass accents in between the shelving for a glam touch.</p>
+<p><span data-sheets-value='{"1":2,"2":"The Verdelho Coffee Table is crafted from beautiful American oak combined with European Beech Timber, featuring a gorgeous parquetry pattern table top to imbue your living room with classic elegance."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">This product is made exclusively with <strong data-mce-fragment="1">Blum </strong></span><span data-sheets-value='{"1":2,"2":"The Verdelho Coffee Table is crafted from beautiful American oak combined with European Beech Timber, featuring a gorgeous parquetry pattern table top to imbue your living room with classic elegance."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">hardware.</span></p>
+<p><img height="113" width="195" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Blum_480x480.jpg?v=1682635880" data-mce-selected="1"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833306136812</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>450403</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833302532332</id>
+    <published>2022-11-28T13:16:43+08:00</published>
+    <updated>2022-11-28T13:16:43+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/lafayette-double-display-unit"/>
+    <title>Lafayette Double Display Unit</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/NapoleonLeatherSofabrown_GrecoCoffeeandSidetable_LafayetteDoubleDisplay_87a71355-e11d-4716-9cd5-75b470420733.jpg?v=1670466992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            3499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Lafayette Double <a href="https://thefurnituregallery.com.au/collections/display-units">Display Unit</a> is crafted from elm and iron, with a storage base that features a unique, geometric panelled design. Offering plenty of curating potential, display your favourite homewares on its gold framed <a href="https://thefurnituregallery.com.au/collections/libraries-shelving">shelves</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display cabinet</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833302532332</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3499.00</s:price>
+      <s:sku>447798</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669979381996</id>
+    <published>2022-06-19T12:52:53+08:00</published>
+    <updated>2022-06-19T12:52:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-2-drawer-bookcase"/>
+    <title>Surrey 2 Drawer Bookcase</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/614a871d9cc83791ac2bd5d0_Surrey_202dr_20Bookshelf.jpg?v=1655614373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Surrey 2 Drawer <a href="https://thefurnituregallery.com.au/collections/libraries-shelving">Bookcase</a> features a combination of drawers and shelving, made from acacia timber painted white, to complement a range of interiors from the <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> to the <a href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French Country</a>. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>bookshelf</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669979381996</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">899.00</s:price>
+      <s:sku>405980</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669977710828</id>
+    <published>2022-06-19T12:51:14+08:00</published>
+    <updated>2022-06-19T12:51:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pippard-open-display-unit"/>
+    <title>Pippard Open Display Unit - Champagne</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6125b9a3d7c625a2b3d2c015_Pippard_20Open_20Display_20Unit.jpg?v=1655614274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Pippard Open <a href="https://thefurnituregallery.com.au/collections/display-units" title="https://thefurnituregallery.com.au/collections/display-units">Display Unit </a>is the perfect piece for curating and displaying your homeware collection, featuring a bevelled mirror top, tempered mirrored <a href="https://thefurnituregallery.com.au/collections/libraries-shelving" title="https://thefurnituregallery.com.au/collections/libraries-shelving">shelves </a>and champagne coloured metal frame. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>contemporary</s:tag>
+    <s:tag>display cabinet</s:tag>
+    <s:tag>glass metal bookshelf</s:tag>
+    <s:tag>open shelving</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669977710828</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1899.00</s:price>
+      <s:sku>448157p</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

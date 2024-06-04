@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/consoles-sideboards.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-04-12T13:10:01+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8319912870124</id>
+    <published>2024-04-12T13:10:01+08:00</published>
+    <updated>2024-04-12T13:10:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ligne-wood-console"/>
+    <title>Ligne Wood Console</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/LigneConsole2_689c7744-267b-42bf-b374-a04592837938.jpg?v=1717407783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            829.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Ligne Wood Console exudes timeless elegance. With its cylinder-shaped legs and beautifully rounded top, this console features a sleek and slim design that adds a touch of contemporary flair to any space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>console</s:tag>
+    <s:tag>timber console</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8319912870124</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">829.00</s:price>
+      <s:sku>408318</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669975187692</id>
+    <published>2024-01-26T09:22:04+08:00</published>
+    <updated>2024-01-26T09:22:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/long-beach-2-drawer-console"/>
+    <title>Long Beach Elite 2 Drawer Console</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6215688b937256ea7e85d045_Long_20Beach_202_20Drawer_20Console..jpg?v=1655614122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This elegant, <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired <a href="https://thefurnituregallery.com.au/collections/consoles-sideboards">console</a> is made from <a href="https://thefurnituregallery.com.au/products/long-beach-3-drawer-console">pine</a>, painted crisp white, and finished with contrasting black handles and drawers for useful storage. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coastal style</s:tag>
+    <s:tag>hall table</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>white console</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669975187692</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">899.00</s:price>
+      <s:sku>259015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8148464894188</id>
+    <published>2024-01-26T09:11:36+08:00</published>
+    <updated>2024-01-26T09:11:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/long-beach-elite-3-drawer-console"/>
+    <title>Long Beach Elite 3 Drawer Console</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/621567d98a22f859bf57669b_Long_20Beach_203_20Drawer_20Console_e7460b6d-9304-4485-9c6c-95fa1f7d8f2d.jpg?v=1706231424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This elegant, <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired <a href="https://thefurnituregallery.com.au/collections/consoles-sideboards">console</a> is made from <a href="https://thefurnituregallery.com.au/products/long-beach-2-drawer-console">pine</a>, painted crisp white, and finished with contrasting black handles and drawers for useful storage. Featuring 3 drawers for storage.</p>
+<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coastal style</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>storage</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>white console</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8148464894188</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>259014</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8100380672236</id>
+    <published>2023-12-15T13:28:54+08:00</published>
+    <updated>2023-12-15T13:28:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/piper-console"/>
+    <title>Piper Console</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Piperconsole1.jpg?v=1702618115"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A chic French-country inspired console with an antique look and ornate detail.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>console</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>white console</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8100380672236</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>487012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8105820487916</id>
+    <published>2023-12-06T11:08:49+08:00</published>
+    <updated>2023-12-06T11:08:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/charlotte-console"/>
+    <title>Charlotte Console</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CharlotteConsole.jpg?v=1701825807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">A French provincial style console featuring classic detailing, complemented by antique-look handles and a light timber finish.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>console</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>timber console</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8105820487916</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>486079</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8100387750124</id>
+    <published>2023-12-05T10:06:36+08:00</published>
+    <updated>2023-12-05T10:06:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/willow-console"/>
+    <title>Willow Console</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/WillowConsole.jpg?v=1701741967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Willow Console is a versatile piece crafted from thick timber, boasting a classic design that effortlessly complements anything from French country farmhouse to organic minimalist interiors, offering timeless appeal across varied styles.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>timber console</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8100387750124</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>487000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8100377919724</id>
+    <published>2023-12-01T08:18:07+08:00</published>
+    <updated>2023-12-01T08:18:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/piper-1-drawer-console"/>
+    <title>Piper 1 Drawer Console</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PiperOneDrawerConsole_jpeg.jpg?v=1701244105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Piper 1 Drawer Console features neutral tones exuding a French Country rustic style.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>console</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>white console</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8100377919724</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">499.00</s:price>
+      <s:sku>487006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8060334014700</id>
+    <published>2023-11-21T14:38:16+08:00</published>
+    <updated>2023-11-21T14:38:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/georgette-console"/>
+    <title>Georgette Console</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GeorgetteConsole1.jpg?v=1700548679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="auto" data-pm-slice="1 1 []" data-mce-fragment="1">A statement of refined taste and timeless charm, the Georgette Console has been lovingly hand crafted. Featuring an elegant French Provincial design, this console is perfect for entry ways and bedrooms alike.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>console</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8060334014700</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.00</s:price>
+      <s:sku>487013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669977153772</id>
+    <published>2023-11-14T12:35:16+08:00</published>
+    <updated>2023-11-14T12:35:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/nya-console"/>
+    <title>Nya Console</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/731d44a2388849bca9dedae4e5e4fe8f.heic?v=1709795788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring a touch of bohemian elegance to your space with the stunning <a href="https://thefurnituregallery.com.au/products/copy-of-nya-coffee-table">Nya</a> <a href="https://thefurnituregallery.com.au/collections/consoles-sideboards">Console</a> in Steel Blue. Striking in form, its ivory and blue shell inlay design echoes <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> resort styling, with gold metal contrasting legs to add a luxe feel. </p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>console</s:tag>
+    <s:tag>contemporary</s:tag>
+    <s:tag>shell inlay console</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>white console</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669977153772</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>449690</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8076952699116</id>
+    <published>2023-11-10T11:49:24+08:00</published>
+    <updated>2023-11-10T11:49:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-hampton-2-drawer-console"/>
+    <title>Hampton Elite 2 Drawer Console</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/6118762130cfd7e8cb0e2c00_Hampton_202_20Drawer_20Console_99477352-8ab1-4b32-ae01-3aa8c42243a3.jpg?v=1699582642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Capture the magic of <a href="https://thefurnituregallery.com.au/products/hampton-3-drawer-console" data-mce-href="https://thefurnituregallery.com.au/products/hampton-3-drawer-console">Hamptons</a> home styling with the Hampton 2 Drawer <a href="https://thefurnituregallery.com.au/collections/consoles-sideboards">Console</a>. Perfect for the hallway or living room, this <a href="https://thefurnituregallery.com.au/collections/coastal-collection" data-mce-href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired console is defined by crisp white timber and cross detailing, offering a timeless, classic look. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coastal style</s:tag>
+    <s:tag>hall table</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>white console</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8076952699116</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>259008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970238497004</id>
+    <published>2023-09-20T07:58:19+08:00</published>
+    <updated>2023-09-20T07:58:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/colorado-console-table"/>
+    <title>Colorado Console Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/T2_1832coloradoconsoleangle.jpg?v=1697601712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Colorado Console is a rustic farmhouse-inspired piece crafted from rich acacia wood, boasting a sturdy pedestal base that exudes timeless country charm.</span><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>console</s:tag>
+    <s:tag>timber console</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970238497004</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>452492</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7966098555116</id>
+    <published>2023-09-15T08:18:19+08:00</published>
+    <updated>2023-09-15T08:18:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-byron-bench"/>
+    <title>Bremer Bay Cross Leg Hall Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BremerBayCrossLegHallTable_eb74967b-a364-4112-bcc6-5bea1ef183b8.jpg?v=1696305015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            439.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Bremer Bay Cross Leg Hall Table features a rustic reclaimed pine timber top juxtaposed with an ivory base for coastal appeal.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>hall table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7966098555116</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">439.00</s:price>
+      <s:sku>452511</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8009674883308</id>
+    <published>2023-09-12T10:11:37+08:00</published>
+    <updated>2023-09-12T10:11:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/antoinette-hall-table"/>
+    <title>Antoinette Hall Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/AntoinetteHallTable-styled.jpg?v=1694481918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Elevating the art of traditional country styling, the Antoinette hall table has an antiqued two-tone aesthetic with a distressed wood finished top for added charm. Classic cabriole legs and shapely lower shelf are a lovely twist. Decorative corbels add refinement.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8009674883308</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>450701</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7969432404204</id>
+    <published>2023-09-08T06:12:14+08:00</published>
+    <updated>2023-09-08T06:12:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-hampton-3-drawer-console"/>
+    <title>Hampton Elite 3 Drawer Console</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/61187ffce10dfd96ac91df38_Hampton_203_20Drawer_20Console_a43ffdc3-37df-4811-adf1-b7c9b7725212.jpg?v=1693353415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1099.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Capture the magic of <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> home styling with the Hampton Elite 3 Drawer <a href="https://thefurnituregallery.com.au/collections/consoles-sideboards">Console</a>. This <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired console is crafted using top grade hard wood and finished in crisp white, with cross detailing. Offering a timeless, classic look, it will bring a light, bright feel to your living room, hallway or dining room. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>coastal style</s:tag>
+    <s:tag>console</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>storage</s:tag>
+    <s:tag>white console</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7969432404204</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1099.00</s:price>
+      <s:sku>259001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7939438739692</id>
+    <published>2023-07-18T07:17:46+08:00</published>
+    <updated>2023-07-18T07:17:46+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-harvard-console"/>
+    <title>Walpole Console</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/621439f9d5110685f442462e_405713_WB_Harvard_20Console_20Tasmanian_20Oak_20front_34772dd1-45be-4c06-9fcf-d808c8d092b8.jpg?v=1687834290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Constructed from Tasmanian oak, the Harvard Console features clean lines and a bold finish."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Constructed from Tasmanian oak, the Walpole <a href="https://thefurnituregallery.com.au/collections/consoles-sideboards">Console</a> features clean lines and a bold finish.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>console</s:tag>
+    <s:tag>timber console</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7939438739692</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1199.00</s:price>
+      <s:sku>451980</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7890211504364</id>
+    <published>2023-06-19T10:49:00+08:00</published>
+    <updated>2023-06-19T10:49:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/triboa-console"/>
+    <title>Triboa Console</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/TriboaConsole.jpg?v=1678251288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7890211504364</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">219.00</s:price>
+      <s:sku>444016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7891657228524</id>
+    <published>2023-04-17T14:46:11+08:00</published>
+    <updated>2023-04-17T14:46:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ponte-console-black"/>
+    <title>Ponte Console - Black</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/446669-PonteConsole-Black.jpg?v=1678415727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A modern, chic black <a href="https://thefurnituregallery.com.au/collections/consoles-sideboards">console</a> with <a href="https://thefurnituregallery.com.au/products/rustic-3-drawer-timber-console">timber</a> shelf and <a href="https://thefurnituregallery.com.au/products/kent-console">glass top</a>.<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>console</s:tag>
+    <s:tag>metal console</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7891657228524</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1199.00</s:price>
+      <s:sku>446669</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7893054423276</id>
+    <published>2023-03-16T08:56:57+08:00</published>
+    <updated>2023-03-16T08:56:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/kent-console"/>
+    <title>Kent Console</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/450125-KentConsole.jpg?v=1678836316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Featuring an antique <a href="https://thefurnituregallery.com.au/products/ponte-console-brass">brass base</a> and <a href="https://thefurnituregallery.com.au/products/kent-console">glass top</a>, the Kent Console brings a touch of art deco styling to the hallway or <a href="https://thefurnituregallery.com.au/collections/living">living room</a>.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass console</s:tag>
+    <s:tag>gold</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7893054423276</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">899.00</s:price>
+      <s:sku>450125</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7891661848812</id>
+    <published>2023-03-10T13:26:08+08:00</published>
+    <updated>2023-03-10T13:26:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ponte-console-brass"/>
+    <title>Ponte Console - Brass</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/ponteconsoleBrass-styled.jpg?v=1678416000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1449.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="ProductMeta__Description">
+<div class="Rte">Use the <a href="https://thefurnituregallery.com.au/products/ponte-console-black">Ponte Console</a> in your hallway for a sleek modern look. This glass console with an arched bronze base will suit modern and classic interiors alike.</div>
+</div>
+<div class="ProductMeta__ShareButtons hidden-pocket"></div>
+<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brass table</s:tag>
+    <s:tag>contemporary</s:tag>
+    <s:tag>metal console</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7891661848812</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1449.00</s:price>
+      <s:sku>447071</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7886554857708</id>
+    <published>2023-02-28T13:02:55+08:00</published>
+    <updated>2023-02-28T13:02:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/oakdale-hall-table"/>
+    <title>Oakdale Hall Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/OakdaleHallTablestyled.jpg?v=1677557590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Oakdale <a href="https://thefurnituregallery.com.au/products/bondi-hall-table">Hall Table</a> is richly crafted from elm in a distressed, weathered grey finish with heavy square legs and a broad lower shelf, offering a <a href="https://thefurnituregallery.com.au/products/rustic-3-drawer-timber-console">rustic</a>, <a href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French country</a> look.</span><quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french country</s:tag>
+    <s:tag>timber table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7886554857708</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>451105</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7847539015916</id>
+    <published>2022-12-17T15:53:40+08:00</published>
+    <updated>2022-12-17T15:53:40+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/rothbury-console-silver"/>
+    <title>Rothbury Console - Silver</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/rothburyconsolesilver.webp?v=1671263574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A refined console that embraces the beauty of simplicity, the <a href="https://thefurnituregallery.com.au/products/rothbury-console-champagne">Rothbury Console</a> in Silver features a soft gold metal frame and <a href="https://thefurnituregallery.com.au/products/kent-console">glass top</a>.</p>
+<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7847539015916</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">499.00</s:price>
+      <s:sku>450405</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840527024364</id>
+    <published>2022-12-05T23:54:37+08:00</published>
+    <updated>2022-12-05T23:54:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/verdelho-console"/>
+    <title>Verdelho Console</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/VerdelhoCONSOLETABLE-RS.jpg?v=1685076138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style data-mce-fragment="1" type="text/css"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-mce-fragment="1" data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-sheets-value='{"1":2,"2":"American oak combines with European Beech Timber to create the stunning Verdelho Console, featuring a contrasting white base and a gorgeous parquetry pattern top."}'><a href="https://thefurnituregallery.com.au/products/portland-3-drawer-console">American oak</a> combines with European Beech <a href="https://thefurnituregallery.com.au/products/rustic-3-drawer-timber-console">Timber</a> to create the stunning Verdelho <a href="https://thefurnituregallery.com.au/collections/consoles-sideboards">Console</a>, featuring a contrasting white base and a gorgeous parquetry pattern top.<br><br></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840527024364</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>445551</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840524370156</id>
+    <published>2022-12-05T23:42:04+08:00</published>
+    <updated>2022-12-05T23:42:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-console"/>
+    <title>Surrey Console</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/613fe018b4f6f037dde398c4_Surrey_20Console_50f06f82-ab90-4aac-9944-f95b0874bb95.jpg?v=1670254924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            429.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style data-mce-fragment="1" type="text/css"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-mce-fragment="1" data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-sheets-value='{"1":2,"2":"This relaxed coastal design can complement a range of interiors from the Hamptons to the French Country."}'>This two-tone <a href="https://thefurnituregallery.com.au/products/rustic-3-drawer-timber-console">timber console</a> made from acacia and wenge wood will complement any <a href="https://thefurnituregallery.com.au/products/hampton-3-drawer-console">Hamptons</a>, <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired home. </span><quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840524370156</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">429.00</s:price>
+      <s:sku>442654</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840482164972</id>
+    <published>2022-12-05T21:51:45+08:00</published>
+    <updated>2022-12-05T21:51:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ignacio-hall-table-marri-wood"/>
+    <title>Ignacio Hall Table - Marri Wood</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/IgnacioHallTable.jpg?v=1679364451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Featuring native West Australian solid Marri timber and a natural edge, the Ignacio Hall Table will imbue your hallway with rustic beauty."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Featuring solid, premium grade WA <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">Marri timber</a> with a natural edge, the Ignacio <a href="https://thefurnituregallery.com.au/products/oakdale-hall-table">Hall Table</a> will imbue your hallway with <a href="https://thefurnituregallery.com.au/products/rustic-3-drawer-timber-console">rustic</a> beauty.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840482164972</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>444830</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840397099244</id>
+    <published>2022-12-05T20:03:29+08:00</published>
+    <updated>2022-12-05T20:03:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/greco-console"/>
+    <title>Greco Console</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/62a6d79cd63903584a25352f_441628_WB_Greco_20Console_20front_9b34d2f4-c501-4154-aa05-162e778d0135.jpg?v=1670241810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style data-mce-fragment="1" type="text/css"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-mce-fragment="1" data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-sheets-value='{"1":2,"2":"The Greco Console offers a cool, modern look, crafted from elm and iron, with a geometric panelled design."}'>The Greco <a href="https://thefurnituregallery.com.au/collections/consoles-sideboards">Console</a> offers a cool, modern look, crafted from <a href="https://thefurnituregallery.com.au/products/lafayette-sideboard">elm and iron</a>, with a geometric panelled design.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840397099244</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1199.00</s:price>
+      <s:sku>441628</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

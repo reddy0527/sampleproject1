@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/photo-frames.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-05-01T14:17:18+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8422174032108</id>
+    <published>2024-05-01T14:17:18+08:00</published>
+    <updated>2024-05-01T14:17:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bahar-resin-frame-4x4"/>
+    <title>Bahar Resin Frame - 4x4</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BaharResinFrameroundFP1620.jpg?v=1714523693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Bahar Frame, cast in gold resin with a pretty leaf design, creates a captivating texture adding depth and dimension to your cherished memories.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>photo frame</s:tag>
+    <s:tag>round photo frame</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8422174032108</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">19.00</s:price>
+      <s:sku>448042</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8384214335724</id>
+    <published>2024-04-24T12:39:19+08:00</published>
+    <updated>2024-04-24T12:39:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/anika-sandstone-photo-frame-natural"/>
+    <title>Anika Sandstone Photo Frame - Natural</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Anika-4x4-photo-frame.webp?v=1713922761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Neutral tone scalloped edge square photo frame.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>photo frame</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8384214335724</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">19.00</s:price>
+      <s:sku>448039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7935915032812</id>
+    <published>2023-06-16T13:05:47+08:00</published>
+    <updated>2023-06-16T13:05:47+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/senan-4x6-photo-frame-cream"/>
+    <title>Senan 4x6 Photo Frame - Cream</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Senan4x6photoframe-cream.webp?v=1686888078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cream</s:tag>
+    <s:tag>photo frame</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7935915032812</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">34.00</s:price>
+      <s:sku>452055</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7935920341228</id>
+    <published>2023-06-16T13:05:09+08:00</published>
+    <updated>2023-06-16T13:05:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/libby-5x7-photo-frame"/>
+    <title>Libby 5x7 Photo Frame</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Libby5x7Photoframe.webp?v=1686889580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black and white</s:tag>
+    <s:tag>photo frame</s:tag>
+    <s:tag>rectangle photo frame</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7935920341228</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">49.00</s:price>
+      <s:sku>452061</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7935919358188</id>
+    <published>2023-06-16T13:04:54+08:00</published>
+    <updated>2023-06-16T13:04:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/libby-4x6-photo-frame"/>
+    <title>Libby 4x6 Photo Frame</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/LibbyPhotoFrame4x6.webp?v=1686889409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black and white</s:tag>
+    <s:tag>rectangle photo frame</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7935919358188</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">39.00</s:price>
+      <s:sku>452060</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7935919096044</id>
+    <published>2023-06-16T13:04:17+08:00</published>
+    <updated>2023-06-16T13:04:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/colter-5x7-photo-frame-mixed"/>
+    <title>Colter 5x7 Photo Frame - Mixed</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Colter5x7Frame.webp?v=1686888829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>photo frame</s:tag>
+    <s:tag>rectangle photo frame</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7935919096044</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">49.00</s:price>
+      <s:sku>452057</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7935918899436</id>
+    <published>2023-06-16T13:03:59+08:00</published>
+    <updated>2023-06-16T13:03:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/colter-4x6-photo-frame-mixed"/>
+    <title>Colter 4x6 Photo Frame - Mixed</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Colter4x6frame.webp?v=1686888648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>photo frame</s:tag>
+    <s:tag>rectangle photo frame</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7935918899436</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">39.00</s:price>
+      <s:sku>452056</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7935919194348</id>
+    <published>2023-06-16T13:03:32+08:00</published>
+    <updated>2023-06-16T13:03:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/vivek-4x6-photo-frame"/>
+    <title>Vivek 4x6 Photo Frame</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Vivek4x6PhotoFrame.webp?v=1686889001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gold</s:tag>
+    <s:tag>photo frame</s:tag>
+    <s:tag>rectangle photo frame</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7935919194348</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">39.00</s:price>
+      <s:sku>452052</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7935920668908</id>
+    <published>2023-06-16T13:03:19+08:00</published>
+    <updated>2023-06-16T13:03:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/vivek-5x7-photo-frame-gold"/>
+    <title>Vivek 5x7 Photo Frame - Gold</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Vivek5x7PhotoFrame-Nickel.webp?v=1686889772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gold</s:tag>
+    <s:tag>photo frame</s:tag>
+    <s:tag>rectangle photo frame</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7935920668908</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">54.00</s:price>
+      <s:sku>452053</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7935921651948</id>
+    <published>2023-06-16T13:03:04+08:00</published>
+    <updated>2023-06-16T13:03:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/nicolette-4x6-photo-frame-black-and-white"/>
+    <title>Nicolette 4x6 Photo Frame - Black and White</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Nicolette4x6Frame-blackandwhite.webp?v=1686890538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>photo frame</s:tag>
+    <s:tag>rectangle photo frame</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7935921651948</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">49.00</s:price>
+      <s:sku>452062</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7935922438380</id>
+    <published>2023-06-16T13:02:28+08:00</published>
+    <updated>2023-06-16T13:02:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/nicolette-5x7-photo-frame-black-and-white"/>
+    <title>Nicolette 5x7 Photo Frame - Black and White</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Nicolette5x7Frame.webp?v=1686890703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black and white</s:tag>
+    <s:tag>photo frame</s:tag>
+    <s:tag>rectangle photo frame</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7935922438380</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">54.00</s:price>
+      <s:sku>452063</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7935906447596</id>
+    <published>2023-06-16T12:02:32+08:00</published>
+    <updated>2023-06-16T12:02:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ingrid-5x7-photo-frame-black-and-white"/>
+    <title>Ingrid 5x7 Photo Frame - Black and White</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Ingrid5x7.webp?v=1686884526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black and white</s:tag>
+    <s:tag>photo frame</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7935906447596</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">49.00</s:price>
+      <s:sku>452059</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7935914836204</id>
+    <published>2023-06-16T12:01:57+08:00</published>
+    <updated>2023-06-16T12:01:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/senan-4x4-photo-frame-cream"/>
+    <title>Senan 4x4 Photo Frame - Cream</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Senan4x4cream.webp?v=1686887970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cream</s:tag>
+    <s:tag>photo frame</s:tag>
+    <s:tag>round photo frame</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7935914836204</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">34.00</s:price>
+      <s:sku>452054</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7935902744812</id>
+    <published>2023-06-16T11:02:24+08:00</published>
+    <updated>2023-06-16T11:02:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ingrid-4x6-photo-frame-black-and-white"/>
+    <title>Ingrid 4x6 Photo Frame - Black and White</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Ingrid4x6.webp?v=1686884096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black and white</s:tag>
+    <s:tag>photo frame</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7935902744812</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">39.00</s:price>
+      <s:sku>452058</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

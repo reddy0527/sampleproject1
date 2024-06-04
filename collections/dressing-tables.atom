@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/dressing-tables.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2023-12-06T11:11:30+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8105813377260</id>
+    <published>2023-12-06T11:11:30+08:00</published>
+    <updated>2023-12-06T11:11:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/charlotte-dressing-table"/>
+    <title>Charlotte Dressing Table</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CharlotteDressingTable.jpg?v=1701825416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">A French provincial style dressing table featuring timeless detailing, complemented by antique-look handles and a light timber finish, embodying classic elegance.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>timber dressing table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8105813377260</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>486075</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8095325290732</id>
+    <published>2023-12-05T09:31:44+08:00</published>
+    <updated>2023-12-05T09:31:44+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/alsace-dressing-table-mirror-rustic-oak"/>
+    <title>Alsace Dressing Table &amp; Mirror - Rustic Oak</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/AlsaceDTM.jpg?v=1701739888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Channelling the rustic allure of French Country, the Alsace Dressing Table and Mirror perfectly complements the <a href="https://thefurnituregallery.com.au/products/alsace-bed?_pos=1&amp;_sid=b3b6f4146&amp;_ss=r" title="Alsace Bed">Alsace Bed</a> and Alsace <a href="https://thefurnituregallery.com.au/products/alsace-night-stand?_pos=2&amp;_sid=b3b6f4146&amp;_ss=r" title="Alsace Nightstand">Nightstand</a>.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>antique dressing table</s:tag>
+    <s:tag>dressing table and mirror</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>timber dressing table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8095325290732</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1899.00</s:price>
+      <s:sku>452777P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7981127336172</id>
+    <published>2023-09-20T07:39:44+08:00</published>
+    <updated>2023-09-20T07:39:44+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/colorado-dressing-table-with-mirror"/>
+    <title>Colorado Dressing Table with Mirror</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/T2_1956ColoradoDressingTablewithMirror.jpg?v=1697602600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">The Colorado Dressing Table with Mirror is crafted from acacia timber in a classic farmhouse design.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dressing table and mirror</s:tag>
+    <s:tag>timber dressing table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7981127336172</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>452479P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7908107976940</id>
+    <published>2023-04-11T14:04:37+08:00</published>
+    <updated>2023-04-11T14:04:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-wentworth-dressing-table-mirror"/>
+    <title>Wentworth Elite Dressing Table &amp; Mirror</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6125c0e6a82bb0646998df21_Wentworth_20Dressing_20Table_20_26_20Mirror_66e8284a-001e-4f7c-91ea-58fb365f60ee.png?v=1681186591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafted by artisans<span> </span>from top grade hardwood, known for its resilience, and finished in brilliant white - the Wentworth Elite Dressing Table &amp; Mirror<span> </span>is a beautiful choice to complete your <a href="https://thefurnituregallery.com.au/collections/coastal-collection" style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">coastal</a>, Hamptons<span> </span>or cottage quaint bedroom look. <br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>coastal style</s:tag>
+    <s:tag>dressing table and mirror</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>white dressing table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7908107976940</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>451142</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7848362508524</id>
+    <published>2022-12-19T15:28:13+08:00</published>
+    <updated>2022-12-19T15:28:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-dressing-table-mirror"/>
+    <title>Surrey Dressing Table &amp; Mirror</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/SurreyDT_Mirror.png?v=1671434894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Surrey <a href="https://thefurnituregallery.com.au/collections/dressing-tables">Dressing Table</a> will make a beautiful complement to your <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">bedroom</a>, featuring a relaxed <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> design with two-tone timber. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7848362508524</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>446220S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840460865772</id>
+    <published>2022-12-05T21:28:36+08:00</published>
+    <updated>2022-12-05T21:28:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hermes-dresser"/>
+    <title>Hermes Dresser</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6114b2fe0dac64ef40e06267_403637_WB_Hermes_206_20Drawer_20Dresser_20front_d7913319-3445-4be6-8b77-5471dc874302.jpg?v=1670246917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Bring a glam, eclectic look to the bedroom with the Hermes Dresser, featuring a charcoal resin design with studding and contrasting mirrored top and sides."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Bring a glam, eclectic look to the <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">bedroom</a> with the Hermes Dresser, featuring a charcoal resin design with studding and contrasting <a href="https://thefurnituregallery.com.au/collections/mirrored-furniture">mirrored</a> top and sides.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840460865772</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1699.00</s:price>
+      <s:sku>403637</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7838680875244</id>
+    <published>2022-12-02T18:00:57+08:00</published>
+    <updated>2022-12-02T18:00:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/amore-dresser"/>
+    <title>Amore Dresser</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6114a7ea24432328257fa259_400884_WB_Amore_203_20Draw_20Dresser_20front_29034fb5-79ac-4458-ba1a-52129cedf975.jpg?v=1669975259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Featuring a unique mirrored lattice design, the Amore Dresser is glamorous and bold, perfect for making a statement in your bedroom interior."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Featuring a unique <a href="https://thefurnituregallery.com.au/collections/mirrored-furniture">mirrored</a> lattice design, the Amore Dresser is glamorous and bold, perfect for making a statement in your <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">bedroom</a> interior.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7838680875244</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>400884</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669975646444</id>
+    <published>2022-06-19T12:49:01+08:00</published>
+    <updated>2022-06-19T12:49:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/lucienne-dresser"/>
+    <title>Lucienne Dresser</title>
+    <s:type>Living;Bedroom</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6125c4f84e8b29132f74dd97_Lucienne_20Dresser.png?v=1655614141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living;Bedroom<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Lucienne Dresser features stunning <a href="https://thefurnituregallery.com.au/collections/mirrored-furniture">mirrored</a> lattice panels on a solid wood frame, giving it a beautiful, ornate look. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hall table</s:tag>
+    <s:tag>mirrored</s:tag>
+    <s:tag>mirrored sideboard</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>storage</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669975646444</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>403685</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669971714284</id>
+    <published>2022-06-19T12:44:13+08:00</published>
+    <updated>2022-06-19T12:44:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/antoinette-vanity-with-mirror-stool"/>
+    <title>Antoinette Vanity with Mirror &amp; Stool</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/623158571ab1f492d4517ad4_Antoinette_20Vanity_20with_20Mirror_20and_20stool_20styled_669e1a63-8ca4-4ed6-8ae0-d1fd6eda8fa5.jpg?v=1670646924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="content22-text-wrap">
+<p class="paragraph-70">The perfect spot to apply makeup and get ready, this ornate vanity with mirror and stool will instantly add some <a href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French palatial</a> grandeur to your <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">bedroom</a>.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french provincial</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-enabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>timber dressing table</s:tag>
+    <s:tag>vanity</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669971714284</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>445386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669971517676</id>
+    <published>2022-06-19T12:43:59+08:00</published>
+    <updated>2022-06-19T12:43:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/antoinette-dressing-table-with-mirror"/>
+    <title>Antoinette Dressing Table with Mirror</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/623158da9c19b52c8d3de94a_Antoinette_20Dressing_20Table_20and_20Mirro_20styled.jpg?v=1655613839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1898.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Transform your bedroom into a <a href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French provincial</a> inspired retreat with the Antoinette <a href="https://thefurnituregallery.com.au/collections/dressing-tables">Dressing Table</a> with Mirror. This piece captures the essence of antique French styling, with its two-tone distressed timber and ornate details.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>antique dressing table</s:tag>
+    <s:tag>dressing table and mirror</s:tag>
+    <s:tag>sd_preorder</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-enabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>timber dressing table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669971517676</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1898.00</s:price>
+      <s:sku>445387</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

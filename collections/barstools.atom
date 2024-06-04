@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/barstools.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-01-31T07:18:21+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152749998316</id>
+    <published>2024-01-31T07:18:21+08:00</published>
+    <updated>2024-01-31T07:18:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cafe-counter-stool-natural"/>
+    <title>Cafe Counter Stool - Natural</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ScreenShot2024-03-15at12.44.51pm.png?v=1710466999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            369.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Introduce a blend of urban charm and natural warmth with the Café Counter Stool in natural.  Featuring a rattan seat and back, offering both style and comfort for your dining or kitchen counter.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar stool</s:tag>
+    <s:tag>stool</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152749998316</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">369.00</s:price>
+      <s:sku>408594</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152743739628</id>
+    <published>2024-01-31T07:14:18+08:00</published>
+    <updated>2024-01-31T07:14:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cafe-counter-stool-black"/>
+    <title>Cafe Counter Stool - Black</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/cafecounterstools_aa70cfe1-f733-4b1f-a9aa-6ab151a98ef5.png?v=1710302393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            369.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Introduce a blend of urban charm and natural warmth with the Café Counter Stool in black.  Featuring a rattan seat and back, offering both style and comfort for your dining or kitchen counter.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar stool</s:tag>
+    <s:tag>stool</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152743739628</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">369.00</s:price>
+      <s:sku>408593</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970179285228</id>
+    <published>2023-10-13T07:28:44+08:00</published>
+    <updated>2023-10-13T07:28:44+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/amelie-counter-stool"/>
+    <title>Amelie Counter Stool</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/AmelieCounterStool-angle.jpg?v=1697153318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">A relaxed timber counter stool boasting a charming rattan backrest and a cozy beige upholstered seatpad, combining casual comfort with natural elegance for a laid-back yet stylish seating option.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar stool</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970179285228</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">349.00</s:price>
+      <s:sku>452353</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7966085284076</id>
+    <published>2023-09-15T08:06:08+08:00</published>
+    <updated>2023-09-15T08:06:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/byron-stool"/>
+    <title>Bremer Bay Bar Stool</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BremerBayBarStool.webp?v=1696305527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Use the Bremer Bay Bar Stool in your kitchen for a coastal or French country inspired look.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar stool</s:tag>
+    <s:tag>country style</s:tag>
+    <s:tag>french country</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7966085284076</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">249.00</s:price>
+      <s:sku>452507</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7924808810732</id>
+    <published>2023-05-19T06:57:18+08:00</published>
+    <updated>2023-05-19T06:57:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/albany-bar-stool-white"/>
+    <title>Albany Bar Stool - White</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/AlbanyStool-front.jpg?v=1684450599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Albany is a sleek and modern barstool crafted from white rattan, blending contemporary design with natural textures for a stylish and versatile seating option.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar stool</s:tag>
+    <s:tag>rustic</s:tag>
+    <s:tag>stool</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7924808810732</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>452371</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7924811923692</id>
+    <published>2023-05-19T06:55:57+08:00</published>
+    <updated>2023-05-19T06:55:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/albany-bar-stool-black"/>
+    <title>Albany Bar Stool - Black</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/452372-AlbanyStool-Black-front.jpg?v=1684450520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Albany is a sleek and modern barstool crafted from black rattan, blending contemporary design with natural textures for a stylish and versatile seating option.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7924811923692</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>452372</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7895567204588</id>
+    <published>2023-04-17T13:19:11+08:00</published>
+    <updated>2023-04-17T13:19:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/elle-counter-stool-smoke"/>
+    <title>Elle Counter Stool - Smoke</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/ellecounterstoolsmoke.png?v=1681714984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The <a href="https://thefurnituregallery.com.au/products/elle-counter-stool-sky-blue">Elle Counter Stool</a> in Smoke features a light grey fabric upholstery with contrasting birchwood frame.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>bar stool</s:tag>
+    <s:tag>upholstered counter stool</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7895567204588</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.00</s:price>
+      <s:sku>450986</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7895549083884</id>
+    <published>2023-04-17T13:15:03+08:00</published>
+    <updated>2023-04-17T13:15:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/elle-counter-stool-sky-blue"/>
+    <title>Elle Counter Stool - Sky Blue</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/ellecounterstoolskyblue.png?v=1681714996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The <a href="https://thefurnituregallery.com.au/products/elle-counter-stool-smoke">Elle Counter Stool</a> in Sky Blue features a birchwood frame with contrasting sky blue fabric.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar stool</s:tag>
+    <s:tag>upholstered counter stool</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7895549083884</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.00</s:price>
+      <s:sku>450987</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7895475912940</id>
+    <published>2023-04-17T13:09:58+08:00</published>
+    <updated>2023-04-17T13:09:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/martini-backless-counter-stool"/>
+    <title>Martini Backless Counter Stool</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/MartiniCounterStoolnoback-wheat.jpg?v=1694130507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Dress up your kitchen bar with the Martini Backless <a href="https://thefurnituregallery.com.au/collections/barstools">Counter Stool</a>, featuring a soft beige upholstery combined with a <a href="https://thefurnituregallery.com.au/products/martini-upholstered-stool-with-gold-legs-dark-ash">brushed gold</a> iron base for a sleek, modern look.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>contemporary</s:tag>
+    <s:tag>gold legs</s:tag>
+    <s:tag>modern style</s:tag>
+    <s:tag>upholstered counter stool</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7895475912940</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.00</s:price>
+      <s:sku>450985</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7895532699884</id>
+    <published>2023-04-17T13:07:56+08:00</published>
+    <updated>2023-04-17T13:07:56+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/soliel-count-stool-ash"/>
+    <title>Soliel Counter Stool - Ash</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/SolielCounterStool-ash.jpg?v=1681708039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">The <a href="https://thefurnituregallery.com.au/products/soliel-counter-stool-pearl">Soliel Counter Stool</a> in Ash features a light grey fabric upholstery with a round scalloped back and contrasting dark legs.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>scalloped back</s:tag>
+    <s:tag>upholstered counter stool</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7895532699884</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">299.00</s:price>
+      <s:sku>450983</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7895538794732</id>
+    <published>2023-04-17T13:06:23+08:00</published>
+    <updated>2023-04-17T13:06:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/soliel-counter-stool-pearl"/>
+    <title>Soliel Counter Stool - Pearl</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/SolielCounterStool-pearl_10ebce5f-45a8-4d19-a084-2da603978a1f.jpg?v=1681707846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><a href="https://thefurnituregallery.com.au/products/soliel-count-stool-ash">The Soliel Counter Stool</a> in Pearl features a light fabric upholstery with a round scalloped back and contrasting dark legs.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>curved back</s:tag>
+    <s:tag>scalloped back</s:tag>
+    <s:tag>upholstered counter stool</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7895538794732</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">299.00</s:price>
+      <s:sku>450984</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7895496491244</id>
+    <published>2023-04-17T12:00:17+08:00</published>
+    <updated>2023-04-17T12:00:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/genevieve-counter-stool"/>
+    <title>Genevieve Counter Stool</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GenevieveCounterStool_1.jpg?v=1694130266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Genevieve Counter Stool is an elegant <a href="https://thefurnituregallery.com.au/collections/barstools">barstool</a> with a dark oak frame and light fabric upholstery, perfectly suited to a classic interior.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>contemporary</s:tag>
+    <s:tag>curved back</s:tag>
+    <s:tag>upholstered counter stool</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7895496491244</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">499.00</s:price>
+      <s:sku>450990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7898887422188</id>
+    <published>2023-03-27T12:19:08+08:00</published>
+    <updated>2023-03-27T12:19:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/workshop-stool-black"/>
+    <title>Workshop Stool - Black</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/LE0010-WorkshopStool-black.jpg?v=1679460275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Reminiscent of an antique <a href="https://thefurnituregallery.com.au/products/workshop-stool-white">workshop stool</a>, this old-world design will perfectly complement a country home.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar stool</s:tag>
+    <s:tag>industrial</s:tag>
+    <s:tag>metal stool</s:tag>
+    <s:tag>stool</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7898887422188</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">299.00</s:price>
+      <s:sku>401360</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7898902003948</id>
+    <published>2023-03-27T12:01:52+08:00</published>
+    <updated>2023-03-27T12:01:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/workshop-stool-white"/>
+    <title>Workshop Stool - White</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/LE0024_3-WorkshopStool-white.jpg?v=1679460520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Modern industrial meets <a href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French Provincial</a> with the <a href="https://thefurnituregallery.com.au/products/workshop-stool-black">Workshop Stool</a> in White.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar stool</s:tag>
+    <s:tag>industrial</s:tag>
+    <s:tag>metal stool</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7898902003948</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">299.00</s:price>
+      <s:sku>407577</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7883562647788</id>
+    <published>2023-03-07T11:55:44+08:00</published>
+    <updated>2023-03-07T11:55:44+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/martini-upholstered-stool-with-gold-legs-dark-ash"/>
+    <title>Martini Upholstered Stool with Gold Legs - Dark Ash</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/444658_WB_MartiniUpholsteredStoolwithGoldLegsangle.jpg?v=1698189671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            479.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">This glam chic <a href="https://thefurnituregallery.com.au/collections/barstools">barstool</a> features grey <a href="https://thefurnituregallery.com.au/collections/velvet">velvet</a> and a brushed gold base.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>contemporary</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>gold legs</s:tag>
+    <s:tag>modern style</s:tag>
+    <s:tag>upholstered counter stool</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7883562647788</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">479.00</s:price>
+      <s:sku>444658</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7883562909932</id>
+    <published>2023-03-07T11:49:16+08:00</published>
+    <updated>2023-03-07T11:49:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/martini-upholstered-stool-with-gold-legs-wheat"/>
+    <title>Martini Upholstered Stool with Gold Legs - Wheat</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/445490_WB_MartiniUpholsteredCounterStoolwithGoldLegsWheatangle.jpg?v=1698189648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            479.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This glam chic <a href="https://thefurnituregallery.com.au/collections/barstools">barstool</a> features light beige <a href="https://thefurnituregallery.com.au/collections/velvet">velvet</a> and a brushed gold base.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>contemporary</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>gold legs</s:tag>
+    <s:tag>modern style</s:tag>
+    <s:tag>upholstered counter stool</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7883562909932</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">479.00</s:price>
+      <s:sku>445490</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

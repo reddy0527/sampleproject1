@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/sofas.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-05-31T17:52:38+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8488674197740</id>
+    <published>2024-05-31T17:52:38+08:00</published>
+    <updated>2024-05-31T17:52:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/valeria-2-seater-black"/>
+    <title>Valeria Leather 2 Seater - Black</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Valeria2Seatercrop.jpg?v=1716957458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Valeria Leather 2 Seater Sofa is a sleek, contemporary lounge crafted from smooth black leather.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 seater</s:tag>
+    <s:tag>black leather sofa</s:tag>
+    <s:tag>leather sofa</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8488674197740</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>408967b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8488675803372</id>
+    <published>2024-05-31T17:50:48+08:00</published>
+    <updated>2024-05-31T17:50:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/valeria-3-seater-black"/>
+    <title>Valeria Leather 3 Seater - Black</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/VALERIA1.jpg?v=1717255069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Valeria Leather 3 Seater Sofa is a sleek, contemporary lounge crafted from smooth black leather.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 seater</s:tag>
+    <s:tag>3 seater sofa</s:tag>
+    <s:tag>black leather sofa</s:tag>
+    <s:tag>leather sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8488675803372</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>408967a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8157246390508</id>
+    <published>2024-05-31T13:51:31+08:00</published>
+    <updated>2024-05-31T13:51:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/romilly-3-seater-dusk"/>
+    <title>Romilly 3 Seater - Dusk</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Romillydusk3seater.jpg?v=1717134657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>LAST CHANCE! ONLY ONE LEFT AT COCKBURN! </span></p>
+<p><span>The Romilly 3 Seater in dusk is the perfect<span data-mce-fragment="1"> neutral tone, exuding understated elegance and versatility, providing ample seating and comfort for your living space.</span></span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 seater sofa</s:tag>
+    <s:tag>neutral sofa</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8157246390508</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>408837</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8498631278828</id>
+    <published>2024-05-31T13:50:30+08:00</published>
+    <updated>2024-05-31T13:50:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/romilly-2-seater-dusk"/>
+    <title>Romilly 2 Seater - Dusk</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Romilly2seaterdusk.jpg?v=1717138305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>LAST CHANCE! ONLY ONE LEFT AT COCKBURN! </span></p>
+<p><span><span data-mce-fragment="1">The Romilly 2 Seater in dusk is the perfect</span><span data-mce-fragment="1"> neutral tone, exuding understated elegance and versatility, providing ample seating and comfort for your living space.</span></span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 seater</s:tag>
+    <s:tag>neutral sofa</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8498631278828</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>408885</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8476596797676</id>
+    <published>2024-05-24T10:16:37+08:00</published>
+    <updated>2024-05-24T10:16:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/darcy-3-seater-1"/>
+    <title>Darcy 3 Seater</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Darcy3Seaterstyled_8eabeb3c-4ebb-44b9-9eb0-6d0ffa560768.jpg?v=1717407106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy this <a href="https://thefurnituregallery.com.au/products/xander-armchair">mid-century</a> modern<a href="https://thefurnituregallery.com.au/search?q=3+seater&amp;type=product" title="3 Seater"> 3-Seater </a>in a deep forest hue with contrasting <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">timber</a> touches, brings an eclectic look to a contemporary space.</p>
+<p><a title="Darcy Armchair" href="https://thefurnituregallery.com.au/products/darcy-arm-chair?_pos=1&amp;_sid=fbf62af36&amp;_ss=r">Darcy Armchair</a> also available.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8476596797676</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>409279</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8471370596588</id>
+    <published>2024-05-21T14:57:01+08:00</published>
+    <updated>2024-05-21T14:57:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/mayan-2-5-seater-power-recliner"/>
+    <title>Mayan 2.5 Seater Power Recliner</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/FyjIzR4w.jpg?v=1716274590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Transform your living space with the Mayan 2.5 Seater Power Recliner, designed to offer unparalleled comfort and modern elegance.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2.5 seater</s:tag>
+    <s:tag>recliner</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8471370596588</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1999.00</s:price>
+      <s:sku>408829</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8460585926892</id>
+    <published>2024-05-21T13:01:51+08:00</published>
+    <updated>2024-05-21T13:01:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/mayan-2-seater-recliner"/>
+    <title>Mayan 2 Seater Power Recliner</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/d91Cl48Q.jpg?v=1716329669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Transform your living space with the Mayan 2 Seater Power Recliner, designed to offer unparalleled comfort and modern elegance.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 seater</s:tag>
+    <s:tag>recliner</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8460585926892</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>408830</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8386788229356</id>
+    <published>2024-04-24T12:45:21+08:00</published>
+    <updated>2024-04-24T12:45:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/willow-single-seater-sofa"/>
+    <title>Willow Single Seater Sofa</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/WillowSingleSeaterSofa.jpg?v=1716512842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Dreamy and opulent, the Willow is dressed in off-white boucle upholstery. It effortlessly exudes modern luxury and sophistication with its plush, inviting design.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8386788229356</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">750.00</s:price>
+      <s:sku>409095</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8319833571564</id>
+    <published>2024-04-12T11:15:01+08:00</published>
+    <updated>2024-04-12T11:15:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/formes-curved-3-seater-sofa-1"/>
+    <title>Formes Curved 3 Seater Sofa</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BbFPCLJQ.jpg?v=1716514905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Formes Curved 3-Seater Sofa</span><span data-mce-fragment="1"> displays a curved, cloud-like silhouette with grey plush upholstery. </span><span data-mce-fragment="1">A visual statement piece, complementing both classic and contemporary interiors alike.</span><br data-mce-fragment="1"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>curved back</s:tag>
+    <s:tag>curved sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8319833571564</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>409087</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8157242589420</id>
+    <published>2024-02-21T07:04:49+08:00</published>
+    <updated>2024-02-21T07:04:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/romilly-2-seater-stone"/>
+    <title>Romilly 2 Seater - Stone</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Romilly2Seater_3989cd5a-41b4-4f02-a38f-14e99dec2f6b.jpg?v=1708470272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">LAST CHANCE! LIMITED STOCK - CLICK ON BUY IN STORE BUTTON TO LOCATE.</span></p>
+<p><span data-mce-fragment="1">The Romilly 2 Seater in stone is the perfect</span><span data-mce-fragment="1"> neutral tone, exuding understated elegance and versatility, providing ample seating and comfort for your living space.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 seater</s:tag>
+    <s:tag>neutral sofa</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8157242589420</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>408838</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8163356082412</id>
+    <published>2024-02-13T09:06:21+08:00</published>
+    <updated>2024-02-13T09:06:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/romilly-3-seater-stone"/>
+    <title>Romilly 3 Seater - Stone</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Romilly3Seater-stone_cfb4f40f-ec5f-4ec1-bbb0-9ddd3530abbb.jpg?v=1707785412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LAST CHANCE! LIMITED STOCK - CLICK ON BUY IN STORE BUTTON TO LOCATE.</p>
+<p>The Romilly 3 Seater in stone is the perfect<span data-mce-fragment="1"> neutral tone, exuding understated elegance and versatility, providing ample seating and comfort for your living space.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 seater sofa</s:tag>
+    <s:tag>neutral sofa</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8163356082412</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1799.00</s:price>
+      <s:sku>408271</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8128083919084</id>
+    <published>2024-01-24T16:19:05+08:00</published>
+    <updated>2024-01-24T16:19:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/mornington-modular-three-seater-1"/>
+    <title>Mornington Modular - Three Seater</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Mornington3Seater.jpg?v=1704778453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2897.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Featuring premium goose feather filled cushions, the Mornington modular has slender track arms and is upholstered in a serene shade of grey. As a true modular, the Mornington features 5 unique pieces that can be arranged in almost endless combinations to suit your space. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This bundle includes 1x Left Arm, 1x Armless, 1x Right Arm Piece.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>modular</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8128083919084</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2897.00</s:price>
+      <s:sku>409006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8118575726828</id>
+    <published>2023-12-22T10:09:38+08:00</published>
+    <updated>2023-12-22T10:09:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/karoline-2-seater-sofa-linen"/>
+    <title>Karoline 2 Seater Sofa - Linen</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Karoline2Seaterlinenstyled.jpg?v=1702963175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">With its contemporary frame covered in an ultra-soft neutral hue, the Karoline 2 Seater Sofa in linen will lighten the mood in your living room with its clean lines and everyday comfort.  </span>Includes x2 patterned accent cushions.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 seater</s:tag>
+    <s:tag>white fabric lounge</s:tag>
+    <s:tag>white fabric sofa</s:tag>
+    <s:tag>white lounge</s:tag>
+    <s:tag>white sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8118575726828</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1699.00</s:price>
+      <s:sku>408266</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8118576480492</id>
+    <published>2023-12-22T10:09:06+08:00</published>
+    <updated>2023-12-22T10:09:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/karoline-3-seater-sofa"/>
+    <title>Karoline 3 Seater Sofa - Linen</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Karoline3Seaterlinenstyled.jpg?v=1702963427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">With its contemporary frame covered in an ultra-soft neutral hue, the Karoline 3 Seater Sofa in linen will lighten the mood in your living room with its clean lines and everyday comfort.  </span>Includes x2 solid and x2 patterned accent cushions.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 seater sofa</s:tag>
+    <s:tag>white fabric lounge</s:tag>
+    <s:tag>white fabric sofa</s:tag>
+    <s:tag>white lounge</s:tag>
+    <s:tag>white sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8118576480492</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1999.00</s:price>
+      <s:sku>408267</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8113759387884</id>
+    <published>2023-12-12T09:41:20+08:00</published>
+    <updated>2023-12-12T09:41:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-two-seater"/>
+    <title>Cloud - Two Seater</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CloudModularSetup5_d10d35f2-e2d5-4f8a-a66a-9a52367f10b5.jpg?v=1702340251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2390.00 - 4520.00
+            <a href="https://thefurnituregallery.com.au/products/cloud-two-seater">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The ultimate sofa - 100% goose feather filled cushions encased in your choice of soft linen or supple cognac leather, and 3 separate modular pieces (corner, armless and ottoman) allowing endless configurations for your space. The Cloud offers unparalleled comfort and comes with a comprehensive lifetime warranty, due to its outstanding craftsmanship. *Scatter cushions included ONLY with FABRIC Cloud Modular not LEATHER.  </span></p>
+<p><meta charset="utf-8"><span data-mce-fragment="1">More colours available exclusively in store.</span><span data-mce-fragment="1"> </span></p>
+<p> </p>
+<p><br><meta charset="utf-8"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>bestseller</s:tag>
+    <s:tag>cloud</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113759387884</id>
+      <title>Optical White</title>
+      <s:price currency="AUD">2390.00</s:price>
+      <s:sku>408988</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113759387884</id>
+      <title>Cognac Leather</title>
+      <s:price currency="AUD">4520.00</s:price>
+      <s:sku>408994</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8113776328940</id>
+    <published>2023-12-12T09:39:43+08:00</published>
+    <updated>2023-12-12T09:39:43+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-three-seater"/>
+    <title>Cloud - Three Seater</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CloudModularSetup4_a156883e-ff2a-4918-8610-1057ea17484c.jpg?v=1702341276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3470.00 - 6515.00
+            <a href="https://thefurnituregallery.com.au/products/cloud-three-seater">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The ultimate sofa - 100% goose feather filled cushions encased in your choice of soft linen or supple cognac leather, and 3 separate modular pieces (corner, armless and ottoman) allowing endless configurations for your space. The Cloud offers unparalleled comfort and comes with a comprehensive lifetime warranty, due to its outstanding craftsmanship. *Scatter cushions included ONLY with FABRIC Cloud Modular not LEATHER.  </span></p>
+<p><span data-mce-fragment="1"><meta charset="utf-8">More colours available exclusively in store.</span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>bestseller</s:tag>
+    <s:tag>cloud</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113776328940</id>
+      <title>Optical White</title>
+      <s:price currency="AUD">3470.00</s:price>
+      <s:sku>408989</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113776328940</id>
+      <title>Cognac Leather</title>
+      <s:price currency="AUD">6515.00</s:price>
+      <s:sku>408995</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8104681406700</id>
+    <published>2023-12-06T07:06:39+08:00</published>
+    <updated>2023-12-06T07:06:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/charlotte-sofa"/>
+    <title>Charlotte Sofa</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CharlotteSofa.jpg?v=1701817721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LAST CHANCE!  <span>ONLY TWO LEFT - SPECIAL DISPLAY STOCK PRICE!</span></p>
+<p><span>CONTACT OSBORNE PARK OR JOONDALUP STORES.</span></p>
+<p>The Charlotte Sofa features a rounded silhouettte, luxe velvet upholstery and subtle timber legs for a sensational look.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>neutral sofa</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:tag>white fabric sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8104681406700</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>486073</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8090865271020</id>
+    <published>2023-11-17T09:50:59+08:00</published>
+    <updated>2023-11-17T09:50:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-2-seater-power-recliner-suite-opulence-optical"/>
+    <title>Cloud 2 Seater Power Recliner Suite - Opulence Optical</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Cloud2SeaterPowerReclinerSuite.jpg?v=1700180596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Experience the epitome of luxury and comfort with the Cloud 2 Seater Power Recliner Suite. Includes two power recliners and console, this stunning lounge suite is upholstered in "Opulence" fabric, offering the highest grade of stain resistance.</span></p>
+<p><span data-mce-fragment="1">This bundle includes 1 x left recliner, 1 x right recliner and 1 x console.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>electric recliner</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>modular</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8090865271020</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3899.00</s:price>
+      <s:sku>452741T</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8090863075564</id>
+    <published>2023-11-17T09:49:07+08:00</published>
+    <updated>2023-11-17T09:49:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-4-seater-power-recliner-suite-opulence-optical"/>
+    <title>Cloud 4 Seater Power Recliner Suite - Opulence Optical</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Cloud4SeaterPowerReclinerSuite.jpg?v=1700180241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            7496.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="auto" data-pm-slice="1 1 []" data-mce-fragment="1">Indulge in the epitome of comfort and luxury with the Cloud 4 Seater Power Recliner Suite. Enveloped in the exquisite "Opulence" fabric, engineered to withstand the test of time with the highest stain resistance.  With built-in power recliners and two convenient consoles, this masterpiece brings relaxation and style to another level.</p>
+<p dir="auto" data-pm-slice="1 1 []" data-mce-fragment="1">This bundle consists of 1 x left recliner, 1 x right recliner, 2 x armless recliners and 2 x consoles.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>electric recliner</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>modular</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8090863075564</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">7496.00</s:price>
+      <s:sku>452741S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8090863173868</id>
+    <published>2023-11-17T09:45:20+08:00</published>
+    <updated>2023-11-17T09:45:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-3-seater-power-recliner-suite-opulence-optical"/>
+    <title>Cloud 3 Seater Power Recliner Suite - Opulence Optical</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Cloud3SeaterPowerReclinerSuite.jpg?v=1700180365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            5298.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-pm-slice="1 1 []" dir="auto">Experience the epitome of luxury and comfort with the Cloud 3 Seater Power Recliner Suite. Includes three power recliners and console, this stunning lounge suite is upholstered in "Opulence" fabric, offering the highest grade of stain resistance.</p>
+<p dir="auto" data-pm-slice="1 1 []" data-mce-fragment="1">This bundle consists of 1 x left recliner, 1 x right recliner, 1 x armless piece and 1 x console.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>electric recliner</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>modular</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8090863173868</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">5298.00</s:price>
+      <s:sku>452741R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8063560876268</id>
+    <published>2023-11-03T07:03:35+08:00</published>
+    <updated>2023-11-03T07:03:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/xavier-2-seater-stone"/>
+    <title>Xavier 2 Seater - Stone</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Xavier2seater-Stone.png?v=1698964298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A classic sofa that is the ultimate blank canvas to style whichever way you please. We love styling it with soft neutrals and cool tones for a calming <a href="https://thefurnituregallery.com.au/collections/living" target="_blank">living room</a> look.</p>
+<p><meta charset="utf-8"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 seater</s:tag>
+    <s:tag>comfy couch</s:tag>
+    <s:tag>contemporary</s:tag>
+    <s:tag>fabric sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8063560876268</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1199.00</s:price>
+      <s:sku>451223</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8063563268332</id>
+    <published>2023-11-03T07:03:07+08:00</published>
+    <updated>2023-11-03T07:03:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/xavier-3-seater-stone"/>
+    <title>Xavier 3 Seater - Stone</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Xavier3seater-Stone.png?v=1698964404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">The Xavier 3 Seater is a classic sofa, the ultimate blank canvas to style whichever way you please. We love styling it with soft neutrals and cool tones for a calming <a href="https://thefurnituregallery.com.au/collections/living" target="_blank">living room</a> look.</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 seater sofa</s:tag>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>contemporary</s:tag>
+    <s:tag>neutral sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8063563268332</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>451222</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7991427105004</id>
+    <published>2023-11-01T07:42:41+08:00</published>
+    <updated>2023-11-01T07:42:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/luna-3-seater-playful-optical"/>
+    <title>Luna 3 Seater - Playful Optical</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Luna3Seater-Modular-7.jpg?v=1709275469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Filled with goose feathers and featuring latex core reversible cushions for superb comfort, the Luna is the effortless sofa that's made to last <meta charset="utf-8">(10 year seating warranty, 10 year frame warranty). Low maintenance and easy to keep clean, the slip covers are removable, waterproof and machine washable. </span><span data-mce-fragment="1">The Luna is upholstered in a hardwearing, durable fabric that looks as luxurious as it feels.</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hamptons lounge</s:tag>
+    <s:tag>hamptons sofa</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>white fabric sofa</s:tag>
+    <s:tag>white lounge</s:tag>
+    <s:tag>white sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7991427105004</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2599.00</s:price>
+      <s:sku>452739</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7991427563756</id>
+    <published>2023-11-01T07:41:51+08:00</published>
+    <updated>2023-11-01T07:41:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/luna-4-seater-playful-optical"/>
+    <title>Luna 4 Seater - Playful Optical</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Luna4Seater-PlayfulOpticalModular-6.jpg?v=1709275419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Filled with goose feathers and featuring latex core reversible cushions for superb comfort, the Luna is the effortless sofa that's made to last <meta charset="utf-8">(10 year seating warranty, 10 year frame warranty). Low maintenance and easy to keep clean, the slip covers are removable, waterproof and machine washable. </span><span data-mce-fragment="1">The Luna is upholstered in a hardwearing, durable fabric that looks as luxurious as it feels.</span><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hamptons lounge</s:tag>
+    <s:tag>hamptons sofa</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>white fabric lounge</s:tag>
+    <s:tag>white fabric sofa</s:tag>
+    <s:tag>white lounge</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7991427563756</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3299.00</s:price>
+      <s:sku>452771</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8029300752620</id>
+    <published>2023-10-13T06:48:55+08:00</published>
+    <updated>2023-10-13T06:48:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-normandy-3-seater"/>
+    <title>Normandy 3 Seater</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/612c57e33a5724f5c49eb6b9_Normandy_20_557ab96d-0462-48b9-95d6-382fc3ecb00d.png?v=1697150892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p>The <a href="https://thefurnituregallery.com.au/products/normandy-3-seater-steel" target="_blank">Normandy</a> is inspired by the classic <a href="https://thefurnituregallery.com.au/products/normandy-2-seater-steel" target="_blank">Chesterfield</a>, but disrupts tradition with its high cushion back. It features studded detailing, curves in all the right places and 2 x accent cushions to complete the look. <span data-mce-fragment="1">(Please note, print on accent cushion has changed, refer to final image.)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8029300752620</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>408517</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

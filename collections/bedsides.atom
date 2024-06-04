@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/bedsides.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2023-12-15T13:22:58+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8100384047340</id>
+    <published>2023-12-15T13:22:58+08:00</published>
+    <updated>2023-12-15T13:22:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/piper-square-side-table"/>
+    <title>Piper Square Side Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PiperSquareSideTable.jpg?v=1702617749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Beautifully contrasting a timber top with a white antique-style painted base, the Piper Square Side Table creates a whimsical yet timeless addition to your bedroom or living space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>side table</s:tag>
+    <s:tag>white bedside</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8100384047340</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">299.00</s:price>
+      <s:sku>487008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8106157211884</id>
+    <published>2023-12-06T16:37:52+08:00</published>
+    <updated>2023-12-06T16:37:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/charlotte-side-table-1"/>
+    <title>Charlotte Side Table</title>
+    <s:type>Living;Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CharlotteSideTable_1a1d2548-2ea6-473e-b9b8-0256d987a5d7.jpg?v=1701839216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Bedroom<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">A French provincial style side table featuring a light timber finish, embodying classic elegance.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>round side table</s:tag>
+    <s:tag>side table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8106157211884</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">299.00</s:price>
+      <s:sku>486082</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8106167468268</id>
+    <published>2023-12-06T16:37:17+08:00</published>
+    <updated>2023-12-06T16:37:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/charlotte-night-stand-1"/>
+    <title>Charlotte Night Stand</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CharlotteBedside_5d7a75ef-0bfa-4f95-826b-f3fd43ef9e13.jpg?v=1701839302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A petite French Provincial style nightstand daintily poised atop lithe timber legs.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>antique bedside</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>timber bedside</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8106167468268</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">349.00</s:price>
+      <s:sku>486070</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8095324537068</id>
+    <published>2023-12-05T09:36:22+08:00</published>
+    <updated>2023-12-05T09:36:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/alsace-night-stand"/>
+    <title>Alsace Night Stand - Rustic Oak</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/AlsaceNightStand-RusticOak.jpg?v=1701740160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">An elegant French provincial style bedside crafted from rustic oak, featuring gracefully ornate legs and two drawers, embodying old-world charm and functional sophistication in its design. Perfectly complements the <a title="Alsace Bed" href="https://thefurnituregallery.com.au/products/alsace-bed?_pos=1&amp;_sid=b3b6f4146&amp;_ss=r" data-mce-fragment="1" data-mce-href="https://thefurnituregallery.com.au/products/alsace-bed?_pos=1&amp;_sid=b3b6f4146&amp;_ss=r">Alsace Bed</a> and <a href="https://thefurnituregallery.com.au/products/alsace-dressing-table-mirror-rustic-oak?_pos=3&amp;_sid=b3b6f4146&amp;_ss=r" title="Alsace Dressing Table &amp; Mirror">Alsace Dressing Table &amp; Mirror.</a></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>antique bedside</s:tag>
+    <s:tag>timber bedside</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8095324537068</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>452775</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970252620012</id>
+    <published>2023-09-20T07:52:16+08:00</published>
+    <updated>2023-09-20T07:52:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/colorado-1-door-1-drawer-bedside"/>
+    <title>Colorado 1 Door 1 Drawer Bedside</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ScreenShot2023-09-27at11.09.53am.png?v=1695776598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">A quaint farmhouse-style bedside table fashioned from durable acacia wood, accentuated by charming antique-look metal handles for a touch of rustic elegance.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>timber bedside</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970252620012</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.00</s:price>
+      <s:sku>452477</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7960326799596</id>
+    <published>2023-08-08T13:07:37+08:00</published>
+    <updated>2023-08-08T13:07:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-long-beach-bedside"/>
+    <title>Long Beach Elite Bedside</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/61149cbe0aadb77c349dfb37_Long_20Beach_20Bedside_20copy_5a9bee2e-0d79-47cd-8af6-7a8a6794afcf.jpg?v=1691468962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            369.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Channel a coastal chic look in your <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">bedroom</a> with the Long Beach <meta charset="utf-8">Elite Bedside, crafted from the highest grade hard wood and finished in crisp white for a bright, airy feel. With a single drawer and low shelf, this <a href="https://thefurnituregallery.com.au/collections/bedsides">bedside</a> offers a stylish solution to bedroom storage. <span data-mce-fragment="1">White timber bedside with lattice sides, panelled design, shelving and single drawer on double extension runners.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>coastal style</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>white bedside</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7960326799596</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">369.00</s:price>
+      <s:sku>259204</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7936952795372</id>
+    <published>2023-06-20T13:02:00+08:00</published>
+    <updated>2023-06-20T13:02:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bondi-bedside"/>
+    <title>Bondi Bedside</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BondiBedside.jpg?v=1687234943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Built from quality wormy chestnut timber, this Bondi <a href="https://thefurnituregallery.com.au/collections/bedsides">Bedside</a> will bring warmth and a natural, organic feel to your <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">bedroom</a>.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>solid timber</s:tag>
+    <s:tag>timber bedside</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7936952795372</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>447047</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7934684365036</id>
+    <published>2023-06-14T10:46:41+08:00</published>
+    <updated>2023-06-14T10:46:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/monroe-mirrored-petite-bedside-clear"/>
+    <title>Monroe Mirrored Petite Bedside - Clear</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/400824_WB_MonroeMirroredBedsideClearfront.jpg?v=1695949371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Add some old Hollywood glamour to your <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">bedroom</a> with the Monroe <a href="https://thefurnituregallery.com.au/collections/mirrored-furniture">Mirrored</a> Petite <a href="https://thefurnituregallery.com.au/collections/bedsides">Bedside</a>.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mirrored bedside</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7934684365036</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>402097</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7934684266732</id>
+    <published>2023-06-14T10:45:39+08:00</published>
+    <updated>2023-06-14T10:45:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/monroe-mirrored-bedside-smoke"/>
+    <title>Monroe Mirrored Bedside - Smoke</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/MonroeBedsidenormal.jpg?v=1686710645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Add some old Hollywood glamour to your <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">bedroom</a> with the Monroe <a href="https://thefurnituregallery.com.au/collections/mirrored-furniture">Mirrored</a> Bedside in Smoke.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mirrored</s:tag>
+    <s:tag>mirrored bedside</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7934684266732</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>400825</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7898548306156</id>
+    <published>2023-05-03T14:25:05+08:00</published>
+    <updated>2023-05-03T14:25:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/giselle-2-drawer-bedside"/>
+    <title>Giselle 2 Drawer Bedside</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Giselle2drawNightstand.jpg?v=1694133974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            549.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Made from oak with a weathered look, the Giselle 2 Drawer <a href="https://thefurnituregallery.com.au/collections/bedsides">Bedside</a> will bring <a href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French Provincial</a> appeal to your <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">bedroom</a>.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>antique bedside</s:tag>
+    <s:tag>bedroom drawers</s:tag>
+    <s:tag>timber bedside</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7898548306156</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">549.00</s:price>
+      <s:sku>450978</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7898545979628</id>
+    <published>2023-04-17T15:00:14+08:00</published>
+    <updated>2023-04-17T15:00:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/giselle-1-drawer-bedside"/>
+    <title>Giselle 1 Drawer Bedside</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Giselle1drawNightstand.jpg?v=1694133918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Made from oak with a weathered look, the Giselle 1 Drawer <a href="https://thefurnituregallery.com.au/collections/bedsides">Bedside</a> will bring <a href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French Provincial</a> appeal to your <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">bedroom</a>.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1 drawer nightstand</s:tag>
+    <s:tag>antique bedside</s:tag>
+    <s:tag>timber bedside</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7898545979628</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">499.00</s:price>
+      <s:sku>450977</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7908104536300</id>
+    <published>2023-04-11T14:06:22+08:00</published>
+    <updated>2023-04-11T14:06:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/wentworth-elite-bedside"/>
+    <title>Wentworth Elite Bedside</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/WentworthBedsidewhite.jpg?v=1681185695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafted by artisans<span> </span>from top grade hard wood, known for its resilience, and finished in brilliant white - the Wentworth Elite Bedside is a beautiful choice to complete your <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>, Hamptons<span> </span>or cottage quaint bedroom look. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>coastal style</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>white bedside</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7908104536300</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">450.00</s:price>
+      <s:sku>451140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7848363032812</id>
+    <published>2023-04-06T19:53:38+08:00</published>
+    <updated>2023-04-06T19:53:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-hampton-bedside-table"/>
+    <title>Surrey Bedside</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/SurreyBedside.png?v=1671435062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Surrey <a href="https://thefurnituregallery.com.au/collections/bedsides">Bedside</a> will make a beautiful complement to your <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">bedroom</a>, featuring a relaxed <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> design with two-tone timber. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7848363032812</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">450.00</s:price>
+      <s:sku>446223</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7867854520556</id>
+    <published>2023-03-10T11:00:52+08:00</published>
+    <updated>2023-03-10T11:00:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/lofty-bedside-wormy-chestnut"/>
+    <title>Lofty Bedside - Wormy Chestnut</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/407055_WB_LoftyBedsideWormyChestnutfront.jpg?v=1674534844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Compliment the Lofty <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">bedroom</a> range with this rustic <a href="https://thefurnituregallery.com.au/collections/bedsides">bedside</a>, crafted from wormy chestnut.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>country style</s:tag>
+    <s:tag>timber bedside</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7867854520556</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>407055</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840574013676</id>
+    <published>2022-12-06T02:51:21+08:00</published>
+    <updated>2022-12-06T02:51:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/armani-bedside-marri-wood"/>
+    <title>Armani Bedside - Marri Wood</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ArmaniBedside.jpg?v=1711495528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-sheets-value='{"1":2,"2":"Made from solid West Australian Marri timber, the Armani Bedside showcases this beautiful, honey-coloured timber in all its glory."}'>Made from solid premium-grade Marri, the Armani <a href="https://thefurnituregallery.com.au/collections/bedsides">Bedside</a> showcases this beautiful West Australian timber in all its glory.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840574013676</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>116885</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840460341484</id>
+    <published>2022-12-05T21:26:15+08:00</published>
+    <updated>2022-12-05T21:26:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hermes-bedside"/>
+    <title>Hermes Bedside</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6114a3ad8971f7d03fa242f6_400877_WB_Hermes_203_20Drawer_20Bedside_20front_8d89e183-6d3d-4a67-b12c-59d8e4132306.jpg?v=1670246776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            679.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Perfect for achieving an eclectic look, the Hermes Bedside features a dramatic charcoal resin design with studding and contrasting mirrored top and sides."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Perfect for achieving an eclectic look, the Hermes <a href="https://thefurnituregallery.com.au/collections/bedsides">Bedside</a> features a dramatic charcoal resin design with studding and contrasting <a href="https://thefurnituregallery.com.au/collections/mirrored-furniture">mirrored</a> top and sides.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840460341484</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">679.00</s:price>
+      <s:sku>400877</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7838676451564</id>
+    <published>2022-12-02T17:53:06+08:00</published>
+    <updated>2022-12-02T17:53:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/amore-bedside"/>
+    <title>Amore Bedside</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6114a2914c0166f4bca640f4_403636_WB_Amore_20Bedside_20front_40ea3139-dbd0-4a70-8bd1-d0953b25792c.jpg?v=1669974787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Featuring a unique mirrored lattice design, the Amore Bedside is glamorous and bold, making a style statement in the bedroom."}' data-sheets-userformat='{"2":15235,"3":{"1":0},"4":{"1":2,"2":16777215},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Featuring a unique <a href="https://thefurnituregallery.com.au/collections/mirrored-furniture">mirrored</a> lattice design, the Amore <a href="https://thefurnituregallery.com.au/collections/bedsides">Bedside</a> is glamorous and bold, making a style statement in the <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">bedroom</a>.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7838676451564</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>403636</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833295487212</id>
+    <published>2022-11-28T13:12:47+08:00</published>
+    <updated>2022-11-28T13:12:47+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/antoinette-1-drawer-nightstand"/>
+    <title>Antoinette 1 Drawer Nightstand</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/63087373ee455fd33a959592_Antoinette_201_20Drawer_20night_20stand_20styled_5e83d74f-fd4f-4e6a-9377-7d348de7bca8.jpg?v=1670647922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Boasting a charming <a href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French Provincial</a> aesthetic, the Antoinette 1 Drawer Nightstand features an antique two-tone finish - perfectly distressed and finished with ornate details.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french provincial</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833295487212</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.00</s:price>
+      <s:sku>445389A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669971484908</id>
+    <published>2022-06-19T12:43:54+08:00</published>
+    <updated>2022-06-19T12:43:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/antoinette-3-drawer-night-stand"/>
+    <title>Antoinette 3 Drawer Night Stand</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/623156a01ab1f47f7951723e_Antoinette_203_20Drawer_20Night_20stand_20styled.jpg?v=1655613834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            549.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Boasting a charming <a href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French Provincial</a> aesthetic, the Antoinette 3 Drawer Nightstand features an antique two-tone finish - perfectly distressed and finished with ornate <span data-mce-fragment="1">details. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>antique bedside</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>timber bedside</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669971484908</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">549.00</s:price>
+      <s:sku>445389</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

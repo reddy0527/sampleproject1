@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/cushions.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-01-31T09:22:49+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152785977580</id>
+    <published>2024-01-31T09:22:49+08:00</published>
+    <updated>2024-01-31T09:22:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cord-cushion-grey"/>
+    <title>Cord Cushion - Grey</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/DDCCORG001_Cord_Cushion_Gey_A-1.jpg?v=1706661734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Our Cord cushions feature a fold over design with hidden zip. Together with its generous feather fill, the corduroy fabric creates a soft and inviting addition to the comfort of your living space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cord cushion</s:tag>
+    <s:tag>cushion</s:tag>
+    <s:tag>throw cushion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152785977580</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">139.00</s:price>
+      <s:sku>450735</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152790958316</id>
+    <published>2024-01-31T09:14:46+08:00</published>
+    <updated>2024-01-31T09:14:46+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cord-lumbar-cushion-oatmeal"/>
+    <title>Cord Lumbar Cushion - Oatmeal</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/DDCCOROA003_Cord_Cushion_OATMEAL-CORD_A.jpg?v=1706662525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Cord Lumbar cushion features a fold over design with hidden zip. Together with its generous feather fill, the corduroy fabric creates a soft and inviting addition to the comfort of your living space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cord cushion</s:tag>
+    <s:tag>lumbar cushion</s:tag>
+    <s:tag>throw cushion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152790958316</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">119.00</s:price>
+      <s:sku>451533</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152791089388</id>
+    <published>2024-01-31T09:14:07+08:00</published>
+    <updated>2024-01-31T09:14:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cord-lumbar-cushion-military-green"/>
+    <title>Cord Lumbar Cushion - Military Green</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/DDCCORMG003_Cord_Cushion_MILITARY-GREEN_A.jpg?v=1706662587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Cord Lumbar cushion features a fold over design with hidden zip. Together with its generous feather fill, the corduroy fabric creates a soft and inviting addition to the comfort of your living space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cord cushion</s:tag>
+    <s:tag>lumbar cushion</s:tag>
+    <s:tag>throw cushion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152791089388</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">119.00</s:price>
+      <s:sku>452761</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152784732396</id>
+    <published>2024-01-31T09:13:44+08:00</published>
+    <updated>2024-01-31T09:13:44+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cord-cushion-ochre"/>
+    <title>Cord Cushion - Ochre</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/DDCCORO001_Cord_Cushion_OCHRE-CORD_A.jpg?v=1706661271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Our Cord cushions feature a fold over design with hidden zip. Together with its generous feather fill, the corduroy fabric creates a soft and inviting addition to the comfort of your living space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cord cushion</s:tag>
+    <s:tag>cushion</s:tag>
+    <s:tag>decorative pieces</s:tag>
+    <s:tag>throw cushion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152784732396</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">139.00</s:price>
+      <s:sku>450731</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152784896236</id>
+    <published>2024-01-31T09:13:05+08:00</published>
+    <updated>2024-01-31T09:13:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cord-cushion-military-green"/>
+    <title>Cord Cushion - Military Green</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/DDCCORMG001_Cord_Cushion_MILITARY-GREEN_A-1.jpg?v=1706661496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Our Cord cushions feature a fold over design with hidden zip. Together with its generous feather fill, the corduroy fabric creates a soft and inviting addition to the comfort of your living space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cord cushion</s:tag>
+    <s:tag>decorative pieces</s:tag>
+    <s:tag>throw cushion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152784896236</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">139.00</s:price>
+      <s:sku>450733</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152780013804</id>
+    <published>2024-01-31T09:12:30+08:00</published>
+    <updated>2024-01-31T09:12:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cord-cushion-cream"/>
+    <title>Cord Cushion - Cream</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/DDCCORC001_Cord_Cushion_CREAM-CORD_A.jpg?v=1706660527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Cord Cushion features a fold over design with hidden zip. Together with its generous feather fill, the corduroy fabric creates a soft and inviting addition to the comfort of your living space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cord cushion</s:tag>
+    <s:tag>feather cushion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152780013804</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">149.00</s:price>
+      <s:sku>450730</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152792957164</id>
+    <published>2024-01-31T08:59:51+08:00</published>
+    <updated>2024-01-31T08:59:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cord-lumbar-cushion-navy"/>
+    <title>Cord Lumbar Cushion - Navy</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/DDCCORN003_Cord_Cushion_NAVY_A.jpg?v=1706663741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Cord Lumbar cushion features a fold over design with hidden zip. Together with its generous feather fill, the corduroy fabric creates a soft and inviting addition to the comfort of your living space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cord cushion</s:tag>
+    <s:tag>throw cushion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152792957164</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">119.00</s:price>
+      <s:sku>452762</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8133858394348</id>
+    <published>2024-01-12T09:38:28+08:00</published>
+    <updated>2024-01-12T09:38:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/essential-plush-velvet-cushion-dove-grey"/>
+    <title>Essential Plush Velvet Cushion - Dove Grey</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/DDCEDDO001_Essential_Cushion_Dove_Grey_A.jpg?v=1705023130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>throw cushion</s:tag>
+    <s:tag>velvet cushion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8133858394348</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">59.00</s:price>
+      <s:sku>447770</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8013655474412</id>
+    <published>2023-09-22T10:09:17+08:00</published>
+    <updated>2023-09-22T10:09:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-palm-trees-metallic-cushion-natural"/>
+    <title>Vintage Floral Cushion - Black</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/VintageFlorablack.jpg?v=1695348556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cushion</s:tag>
+    <s:tag>throw cushion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8013655474412</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">79.00</s:price>
+      <s:sku>450119</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8013654393068</id>
+    <published>2023-09-22T10:04:02+08:00</published>
+    <updated>2023-09-22T10:04:02+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-cavapoo-walkies-cushion"/>
+    <title>Palm Trees Metallic Cushion - Natural</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PalmTreesMetallicCushion.jpg?v=1695348239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cushion</s:tag>
+    <s:tag>throw cushion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8013654393068</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">89.00</s:price>
+      <s:sku>450070</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8013653901548</id>
+    <published>2023-09-22T09:58:57+08:00</published>
+    <updated>2023-09-22T09:58:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cavapoo-walkies-cushion"/>
+    <title>Cavapoo Walkies Cushion</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CavapooWalkiesCushion.jpg?v=1695347940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cushion</s:tag>
+    <s:tag>throw cushion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8013653901548</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">49.00</s:price>
+      <s:sku>450055</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8013627982060</id>
+    <published>2023-09-22T09:02:16+08:00</published>
+    <updated>2023-09-22T09:02:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/lewis-round-cushion-light-blue"/>
+    <title>Lewis Round Cushion - Light Blue</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Lewisroundcushionlightblue.jpg?v=1695344527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Crafted from a soft cotton-linen blend, the Lewis cushion features a round shape with fringing around the edge.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>olive</s:tag>
+    <s:tag>round cushion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8013627982060</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">55.00</s:price>
+      <s:sku>451701</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8013627556076</id>
+    <published>2023-09-22T09:01:42+08:00</published>
+    <updated>2023-09-22T09:01:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-lewis-round-cushion-olive"/>
+    <title>Lewis Round Cushion - Clay</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Lewisroundcushionclay.webp?v=1695344484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Crafted from a soft cotton-linen blend, the Lewis cushion features a round shape with fringing around the edge.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>olive</s:tag>
+    <s:tag>round cushion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8013627556076</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">55.00</s:price>
+      <s:sku>451159</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8013626015980</id>
+    <published>2023-09-22T08:57:13+08:00</published>
+    <updated>2023-09-22T08:57:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bailey-button-cushion-mustard"/>
+    <title>Bailey Button Cushion - Mustard</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BaileyButtonMustard.jpg?v=1695344210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>throw cushion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8013626015980</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">55.00</s:price>
+      <s:sku>451685</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8013622968556</id>
+    <published>2023-09-22T08:46:46+08:00</published>
+    <updated>2023-09-22T08:46:46+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bailey-button-cushion-light-blue-1"/>
+    <title>Bailey Button Lumbar Cushion - Light Blue</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BaielyButtonCushionlightbluelumbar.webp?v=1695343548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>throw cushion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8013622968556</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">55.00</s:price>
+      <s:sku>450583</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8013622313196</id>
+    <published>2023-09-22T08:43:07+08:00</published>
+    <updated>2023-09-22T08:43:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bailey-button-lumbar-cushion-white"/>
+    <title>Bailey Button Cushion - White</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BaileyButtoncushionwhite.webp?v=1695343358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>throw cushion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8013622313196</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">55.00</s:price>
+      <s:sku>450584</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8013621919980</id>
+    <published>2023-09-22T08:40:45+08:00</published>
+    <updated>2023-09-22T08:40:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bailey-button-lumbar-cushion"/>
+    <title>Bailey Button Cushion - Navy</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BaileyButton50cmcushion-navy.webp?v=1695343190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>throw cushion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8013621919980</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">55.00</s:price>
+      <s:sku>450587</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7951192457452</id>
+    <published>2023-07-21T14:25:57+08:00</published>
+    <updated>2023-07-21T14:25:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/florence-european-feather-cushion-champagne"/>
+    <title>Florence European Feather Cushion - Champagne</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/FlorenceEuropeanFeatherCushionGSG65Echampagne.jpg?v=1689920757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cushion</s:tag>
+    <s:tag>feather cushion</s:tag>
+    <s:tag>throw cushion</s:tag>
+    <s:tag>velvet cushion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7951192457452</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">149.00</s:price>
+      <s:sku>451896</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7951192129772</id>
+    <published>2023-07-21T14:25:09+08:00</published>
+    <updated>2023-07-21T14:25:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/florence-european-feather-cushion-gold"/>
+    <title>Florence European Feather Cushion - Gold</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/FlorenceEuropeanCushionGSG71Egoldb.jpg?v=1689920704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>feather cushion</s:tag>
+    <s:tag>throw cushion</s:tag>
+    <s:tag>velvet cushion</s:tag>
+    <s:tag>velvet throw cushion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7951192129772</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">149.00</s:price>
+      <s:sku>451894</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7951192064236</id>
+    <published>2023-07-21T14:24:17+08:00</published>
+    <updated>2023-07-21T14:24:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/florence-european-feather-cushion-navy"/>
+    <title>Florence European Feather Cushion - Navy</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/florenceEuropeanFeatherCushionGSG89Enavy.jpg?v=1689920653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>feather</s:tag>
+    <s:tag>throw cushion</s:tag>
+    <s:tag>velvet throw cushion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7951192064236</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">149.00</s:price>
+      <s:sku>451892</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7951191998700</id>
+    <published>2023-07-21T14:23:23+08:00</published>
+    <updated>2023-07-21T14:23:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/florence-european-feather-cushion-iron"/>
+    <title>Florence European Feather Cushion - Iron</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/FlorenceEuropeanFeatherCushion-GSG110Eiron.jpg?v=1689920598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>feather cushion</s:tag>
+    <s:tag>velvet</s:tag>
+    <s:tag>velvet throw cushion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7951191998700</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">149.00</s:price>
+      <s:sku>451890</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7951168110828</id>
+    <published>2023-07-21T14:13:45+08:00</published>
+    <updated>2023-07-21T14:13:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/carla-velvet-feather-cushion-emerald"/>
+    <title>Carla Velvet Feather Cushion - Emerald</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CarlaVelvetCushion-emeraldGS5035Eemeralda.jpg?v=1689920022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>throw cushion</s:tag>
+    <s:tag>velvet cushion</s:tag>
+    <s:tag>velvet throw cushion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7951168110828</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">149.00</s:price>
+      <s:sku>452637</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7951167914220</id>
+    <published>2023-07-21T14:12:59+08:00</published>
+    <updated>2023-07-21T14:12:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/carla-velvet-feather-cushion-black"/>
+    <title>Carla Velvet Feather Cushion - Black</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CarlaVelvetCushion-blackGS5031Eblacka.jpg?v=1689919971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cushion</s:tag>
+    <s:tag>throw cushion</s:tag>
+    <s:tag>velvet cushion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7951167914220</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">149.00</s:price>
+      <s:sku>452636</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7951167684844</id>
+    <published>2023-07-21T14:12:05+08:00</published>
+    <updated>2023-07-21T14:12:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/carla-velvet-feather-cushion-honeycomb"/>
+    <title>Carla Velvet Feather Cushion - Honeycomb</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CarlaVelvetcushion-honeycomb-GS5019Ehoneycomb.jpg?v=1689919924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>velvet cushion</s:tag>
+    <s:tag>velvet throw cushion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7951167684844</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">149.00</s:price>
+      <s:sku>451899</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7951167488236</id>
+    <published>2023-07-21T14:09:54+08:00</published>
+    <updated>2023-07-21T14:09:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/carla-velvet-feather-cushion-sky"/>
+    <title>Carla Velvet Feather Cushion - Sky</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CarlaVelvetCushion-skyGS5010Esky.jpg?v=1689919782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>throw cushion</s:tag>
+    <s:tag>velvet cushion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7951167488236</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">149.00</s:price>
+      <s:sku>451887</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

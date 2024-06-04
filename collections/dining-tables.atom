@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/dining-tables.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-04-09T12:27:27+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7940875813100</id>
+    <published>2024-04-09T12:27:27+08:00</published>
+    <updated>2024-04-09T12:27:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/karri-valley-dining-table"/>
+    <title>Karri Valley Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/DenmarkMarri_df3ca4e7-e73c-4787-a8cf-bb14f414ed92.jpg?v=1688532999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            2999.00 - 3999.00
+            <a href="https://thefurnituregallery.com.au/products/karri-valley-dining-table">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Showcasing the raw beauty of solid premium grade <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">Marri</a> timber in all its glory, the Karri Valley <a href="https://thefurnituregallery.com.au/collections/dining-tables">Dining Table</a> is the ultimate choice for your <a href="https://thefurnituregallery.com.au/collections/dining">dining room</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>solid timber</s:tag>
+    <s:tag>timber dining table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7940875813100</id>
+      <title>2.7M</title>
+      <s:price currency="AUD">3999.00</s:price>
+      <s:sku>452621P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7940875813100</id>
+      <title>2.4M</title>
+      <s:price currency="AUD">3499.00</s:price>
+      <s:sku>452619P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7940875813100</id>
+      <title>2.1M</title>
+      <s:price currency="AUD">2999.00</s:price>
+      <s:sku>452622P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8214714417388</id>
+    <published>2024-03-05T07:10:24+08:00</published>
+    <updated>2024-03-05T07:10:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pemberton-dining-table-1"/>
+    <title>Pemberton Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PembertonDiningTable_42f243b3-671e-447d-b52b-b393811f35f2.jpg?v=1709595977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            2999.00 - 3999.00
+            <a href="https://thefurnituregallery.com.au/products/pemberton-dining-table-1">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Experience the meticulously crafted Pemberton Dining Table, fashioned from solid premium grade West Australian Marri, ensuring the highest quality dining experience. Its stunning natural timber grain adds a touch of rustic elegance, creating a timeless centre piece for your dining room.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>timber dining table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8214714417388</id>
+      <title>2.1m</title>
+      <s:price currency="AUD">2999.00</s:price>
+      <s:sku>408509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8214714417388</id>
+      <title>2.4m</title>
+      <s:price currency="AUD">3499.00</s:price>
+      <s:sku>408510</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8214714417388</id>
+      <title>2.7m</title>
+      <s:price currency="AUD">3999.00</s:price>
+      <s:sku>408511</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8106142564588</id>
+    <published>2023-12-06T16:38:42+08:00</published>
+    <updated>2023-12-06T16:38:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/venus-dining-table"/>
+    <title>Venus  Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Venus1220RoundDiningTablewithJuleDiningChairs_2d2f8b4b-a674-4476-9226-110c6c69001b.jpg?v=1701839098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="auto" data-pm-slice="1 1 []" data-mce-fragment="1"><span data-mce-fragment="1">Gather around this centre piece of classic sophistication. T</span>he Venus Dining Table is underscored by a solid pedestal base, exuding timeless elegance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>round dining table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8106142564588</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1199.00</s:price>
+      <s:sku>486097P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8104722890988</id>
+    <published>2023-12-06T07:07:32+08:00</published>
+    <updated>2023-12-06T07:07:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/maya-dining-table"/>
+    <title>Maya Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Maya2400DiningwithMayaLeatherChairs.jpg?v=1701749120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="auto" data-pm-slice="1 1 []" data-mce-fragment="1">The Maya Dining table is elegantly crafted from premium American white oak.  This Scandinavian-inspired masterpiece exudes a timeless charm, with its spacious 2.4m design.  Perfectly pairs with the <a href="https://thefurnituregallery.com.au/products/maya-dining-chair-grey" title="Maya Dining Chair">Maya Dining Chair</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dining table</s:tag>
+    <s:tag>timber dining table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8104722890988</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>408823P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8100390994156</id>
+    <published>2023-12-05T09:58:27+08:00</published>
+    <updated>2023-12-05T09:58:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/willow-1800-dining-table"/>
+    <title>Willow 1800 Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/WillowDiningwithChairsandConsole.jpg?v=1701741571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Willow Dining Table is a versatile piece crafted from solid hand crafted mahogany, boasting a classic design with timeless appeal to suit a range of interiors.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>timber dining table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8100390994156</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">899.00</s:price>
+      <s:sku>486098</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8053080883436</id>
+    <published>2023-12-01T11:46:00+08:00</published>
+    <updated>2023-12-01T11:46:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/juliette-dining-table"/>
+    <title>Juliette Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/JulietteDiningTable1.jpg?v=1709850613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Juliette Dining Table elegantly juxtaposes dark timber with a gold base for a chic look.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>contemporary dining table</s:tag>
+    <s:tag>dining table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8053080883436</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>486090</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8015177941228</id>
+    <published>2023-09-27T14:24:56+08:00</published>
+    <updated>2023-09-27T14:24:56+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/nova-1500-round-dining-table"/>
+    <title>Nova 1500 Round Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Nova1500RoundDiningTable.jpg?v=1697156444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            1899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Boasting a contemporary design and smooth walnut table top, add the Nova Dining Table in your dining room space for effortless elegance.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>round dining table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8015177941228</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1899.00</s:price>
+      <s:sku>452600</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8015176892652</id>
+    <published>2023-09-27T13:02:32+08:00</published>
+    <updated>2023-09-27T13:02:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ellis-2000-dining-table"/>
+    <title>Ellis 2000 Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/EllisDiningTable.jpg?v=1697156292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sleek, modern and stylish, the Ellis 2000 Dining Table features a walnut table top and contrasting silver base.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>contemporary dining table</s:tag>
+    <s:tag>timber dining table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8015176892652</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>452601</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8015164735724</id>
+    <published>2023-09-27T09:45:19+08:00</published>
+    <updated>2023-09-27T09:45:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-colorado-2400-dining-table-2"/>
+    <title>Colorado 2400 Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ScreenShot2023-09-27at11.00.13am_1b7addb6-eda7-4ddd-b872-5a9f348c5b0f.png?v=1695776410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            1899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafted from acacia timber in a classic farmhouse design, the Colorado Dining Table is perfectly paired with the <a href="https://thefurnituregallery.com.au/products/colorado-dining-chair" title="Colorado Dining Chair">Colorado Dining Chair</a> &amp; <a href="https://thefurnituregallery.com.au/products/colorado-bench" title="Colorado Bench">Colorado Bench.</a> </p>
+<p>Available to special order in 2100 size in store only.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>timber dining table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8015164735724</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1899.00</s:price>
+      <s:sku>452481</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8010732503276</id>
+    <published>2023-09-26T10:02:59+08:00</published>
+    <updated>2023-09-26T10:02:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-1500-dining-table"/>
+    <title>Surrey 1500 Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/SurreySquareDiningTablestyledresized.jpg?v=1695693694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The Surrey 1500 Dining Table will make a beautiful complement to your dining room, featuring a relaxed </span><a href="https://thefurnituregallery.com.au/collections/hamptons-collection" data-mce-fragment="1" data-mce-href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a><span data-mce-fragment="1"> design with two-tone timber. </span></p>
+<p><span data-mce-fragment="1">Also available: <a href="https://thefurnituregallery.com.au/products/surrey-dining-chair" title="Surrey Dining Chair">Surrey Dining Chair</a>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>square dining table</s:tag>
+    <s:tag>two-tone</s:tag>
+    <s:tag>two-tone dining table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8010732503276</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">899.00</s:price>
+      <s:sku>452628</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7957113045228</id>
+    <published>2023-09-26T07:59:48+08:00</published>
+    <updated>2023-09-26T07:59:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-lyon-dining-table-2200"/>
+    <title>Lyon Dining Table - 2.4m</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/LyonDiningTablestyled-black.jpg?v=1709864447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            2699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A <a href="https://thefurnituregallery.com.au/products/verdelho-extension-dining-table">solid oak</a><a href="https://thefurnituregallery.com.au/collections/dining"> </a>frame and dark wood make the Lyon a stunning centrepiece for your <a href="https://thefurnituregallery.com.au/collections/dininhttps://thefurnituregallery.com.au/products/verdelho-extension-dining-tableg">dining</a><a href="https://thefurnituregallery.com.au/collections/dining"> </a>space. A classic pedestal base gives it a regal look that pairs perfectly with timeless decor.</p>
+<p>Also available in 2.2m size exclusively at Joondalup store.</p>
+<p><span>*</span><em>The Lyon dining table will feature variations and wood “checking“, imperfections, splits &amp; cracks. This is a natural phenomenon in timber, which may occur as the wood dries and loses moisture. <span>While they do alter the appearance of the timber, this is perfectly normal and does not affect the solid wood's structural integrity. </span></em><em>Wood Checks do not warrant any form of replacement, they add value and uniqueness to this luxury piece.</em><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>dark wood</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>timber table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7957113045228</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2699.00</s:price>
+      <s:sku>452213</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840505364716</id>
+    <published>2023-09-21T15:31:00+08:00</published>
+    <updated>2023-09-21T15:31:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/nexion-dining-table-1"/>
+    <title>Nexion 2000 Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/nexion_southperth2.jpg?v=1709861794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"The modern, sleek design of the Nexion Dining table will inject glamorous, luxe appeal into your dining room. A contrasting marble table top with metal legs gives this table flair and sophistication."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">The modern, sleek design of the Nexion Dining table will inject glamorous, luxe appeal into your dining room. A contrasting marble table top with metal legs gives this table flair and sophistication.</span></p>
+<p><em><span data-sheets-value='{"1":2,"2":"The modern, sleek design of the Nexion Dining table will inject glamorous, luxe appeal into your dining room. A contrasting marble table top with metal legs gives this table flair and sophistication."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">*Due to the heavy and delicate nature of marble, we highly recommend our marble dining tables be delivered by our White Glove Delivery service. This ensures a quality, reliable, and secure delivery, guaranteeing your beautiful marble table arrives in perfect condition.</span></em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>white marble</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840505364716</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>447549</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840505102572</id>
+    <published>2023-09-21T15:29:07+08:00</published>
+    <updated>2023-09-21T15:29:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/nexion-dining-table"/>
+    <title>Nexion 1600 Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6114bbca14032ad168e62517_Tundra_20Dining_42d6ba51-0167-4e07-ba68-5a3d7cdc2d43.jpg?v=1670250339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"The modern, sleek design of the Nexion Dining table will inject glamorous, luxe appeal into your dining room. A contrasting marble table top with metal legs gives this table flair and sophistication."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">The modern, sleek design of the Nexion Dining table will inject glamorous, luxe appeal into your dining room. A contrasting marble table top with metal legs gives this table flair and sophistication.</span></p>
+<p><span data-sheets-value='{"1":2,"2":"The modern, sleek design of the Nexion Dining table will inject glamorous, luxe appeal into your dining room. A contrasting marble table top with metal legs gives this table flair and sophistication."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1"><em>*Due to the heavy and delicate nature of marble, we highly recommend our marble dining tables be delivered by our White Glove Delivery service. This ensures a quality, reliable, and secure delivery, guaranteeing your beautiful marble table arrives in perfect condition.</em></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840505102572</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>446119</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8010736828652</id>
+    <published>2023-09-19T10:52:40+08:00</published>
+    <updated>2023-09-19T10:52:40+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-counter-dining-table"/>
+    <title>Surrey Counter Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/SurreyCounterTableandStoolsstyled.jpg?v=1697496344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The Surrey Counter Table brings a relaxed feel to your informal dining, featuring a relaxed </span><a href="https://thefurnituregallery.com.au/collections/hamptons-collection" data-mce-fragment="1" data-mce-href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a><span data-mce-fragment="1"> design with two-tone timber. </span></p>
+<p><span data-mce-fragment="1">Also available:  <a href="https://thefurnituregallery.com.au/products/surrey-bar-stool" title="Surrey Bar Stool">Surrey Bar Stool</a> &amp; <a href="https://thefurnituregallery.com.au/products/surrey-high-bench" title="Surrey High Bench">Surrey High Bench</a>.</span></p>
+<p><strong><br></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>counter</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8010736828652</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>452627</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8012171739372</id>
+    <published>2023-09-19T08:05:40+08:00</published>
+    <updated>2023-09-19T08:05:40+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/riviera-2400-dining-table"/>
+    <title>Riviera 2400 Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CB_1.jpg?v=1696286897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            3999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<span>Meticulously crafted from solid reclaimed elm wood and anchored on a solid pine base, this dining table has a unique origin. </span><span>Our supplier in Asia buys ornate doors from local villagers that carry the marks of a long, useful life. These aged elm doors are then </span><span>skilfully repurposed and transformed using traditional carpentry methods to create something new and beautiful. </span><span>This charming table has already stood the test of time, displaying textures and depth that only come from age, and ensuring each piece is one of a kind and unlike any other. </span>
+</div>
+<div><span></span></div>
+<p>Also available:  R<a title="Riviera Dining Chair" href="https://thefurnituregallery.com.au/products/riviera-dining-chair">iviera Dining Chair</a> &amp; <a title="Riviera Bench Seat" href="https://thefurnituregallery.com.au/products/riviera-bench-seat">Riviera Bench Seat</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>elm timber</s:tag>
+    <s:tag>hard wood dining table</s:tag>
+    <s:tag>reclaimed wood furniture</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8012171739372</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3999.00</s:price>
+      <s:sku>452687</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7966086234348</id>
+    <published>2023-09-15T08:22:00+08:00</published>
+    <updated>2023-09-15T08:22:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/byron-dining-table"/>
+    <title>Bremer Bay Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BremerBayRectDiningTablestyled.webp?v=1696304591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            699.00 - 999.00
+            <a href="https://thefurnituregallery.com.au/products/byron-dining-table">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Fashioned from solid, reclaimed pine, the Bremer Bay Dining Table features a timber top with a tawny stain to achieve a weathered look, and ivory trestle style legs for contrast. Perfectly paired with the <a href="https://thefurnituregallery.com.au/products/byron-dining-chair" title="Bremer Bay Dining Chair">Bremer Bay Dining Chair</a> and <a href="https://thefurnituregallery.com.au/products/byron-bench" title="Bremer Bay Dining Bench">Bremer Bay Dining Bench</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>country style</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>timber dining table</s:tag>
+    <s:tag>two-tone dining table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7966086234348</id>
+      <title>2.3m</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>452508</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7966086234348</id>
+      <title>1.8m</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>452513</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7966118019308</id>
+    <published>2023-09-15T08:04:10+08:00</published>
+    <updated>2023-09-15T08:04:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/byron-round-dining-table"/>
+    <title>Bremer Bay 1500 Round Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/bremerbayrounddiningtablestyled.webp?v=1696304564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="auto" data-pm-slice="1 1 []">Introducing the Bremer Bay 1500 Round Dining Table, where coastal charm meets rustic elegance. Breathing beauty into your home like the stunning seaside town from which it is named, this dining table has been crafted using reclaimed solid pine timber with a contrasting ivory base.  Pairs beautifully with the <a href="https://thefurnituregallery.com.au/products/byron-dining-chair" title="Bremer Bay Dining Chair">Bremer Bay Dining Chair</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>round dining table</s:tag>
+    <s:tag>timber dining table</s:tag>
+    <s:tag>two-tone dining table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7966118019308</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>452519</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7967247007980</id>
+    <published>2023-08-25T07:08:00+08:00</published>
+    <updated>2023-08-25T07:08:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-krakatoa-dining-table"/>
+    <title>Krakatoa Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/K1A5985_9d81ec43-0c8e-4951-8886-31a8add23e96.jpg?v=1710723337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            1990.00 - 2690.00
+            <a href="https://thefurnituregallery.com.au/products/copy-of-krakatoa-dining-table">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" data-mce-fragment="1">Rest assured the bespoke Krakatoa will be yours and only yours. Each one is uniquely different due to its stunning natural edge, completing a piece that commands attention. Crafted from solid teak wood atop <a href="https://thefurnituregallery.com.au/products/sienna-dining-table">iron legs</a> for durability and strength. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dining table</s:tag>
+    <s:tag>timber</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7967247007980</id>
+      <title>2.1m</title>
+      <s:price currency="AUD">1990.00</s:price>
+      <s:sku>452294</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7967247007980</id>
+      <title>2.4m</title>
+      <s:price currency="AUD">2290.00</s:price>
+      <s:sku>452296</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7967247007980</id>
+      <title>3m</title>
+      <s:price currency="AUD">2690.00</s:price>
+      <s:sku>452295</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7939435397356</id>
+    <published>2023-07-18T07:16:43+08:00</published>
+    <updated>2023-07-18T07:16:43+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-harvard-dining-table"/>
+    <title>Walpole Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/6214355c99911b9aa90bbc80_407012_WB_Harvard_202700_20Dining_20Table_20Tasmanian_20Oak_20angle_5bfa7845-8c6c-42e9-9c2d-54707fb66bb8.jpg?v=1689650879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            1599.00 - 1899.00
+            <a href="https://thefurnituregallery.com.au/products/copy-of-harvard-dining-table">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Constructed from Tasmanian oak, the Harvard Dining Table bears the mark of old-fashioned craftsmanship. Combined with its clean lines and a bold finish, itâ€™s a discerning choice for the modern day timber connoisseur."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Constructed from Tasmanian oak, the Walpole Dining Table bears the mark of old-fashioned craftsmanship. Combined with its clean lines and a bold finish, it's a discerning choice for the modern day timber connoisseur.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>solid timber</s:tag>
+    <s:tag>timber table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7939435397356</id>
+      <title>2.7m</title>
+      <s:price currency="AUD">1899.00</s:price>
+      <s:sku>451976</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7939435397356</id>
+      <title>2.4m</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>451975</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7939792109804</id>
+    <published>2023-07-03T11:55:14+08:00</published>
+    <updated>2023-07-03T11:55:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/donovan-1500-round-dining-table"/>
+    <title>Donovan 1500 Round Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Donovan-1500-Round-Dining-Table..jpg?v=1701753799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            1899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This modern round <a href="https://thefurnituregallery.com.au/collections/dining-tables">dining table </a>features a light-washed <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">timber</a> crafted from beautiful hard waring blue gum, making it ideal for a coastal, Scandi or minimalist home.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>pedestal round table</s:tag>
+    <s:tag>round dining table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7939792109804</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1899.00</s:price>
+      <s:sku>452278</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7939792601324</id>
+    <published>2023-06-28T11:06:19+08:00</published>
+    <updated>2023-06-28T11:06:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/donovan-2400-dining-table"/>
+    <title>Donovan 2400 Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Donovan2400DiningTable_WishboneChairs-black-natural_fc358a1a-6d9c-4be4-8773-b40b2d7baf26.jpg?v=1697155868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            2299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Donovan <a href="https://thefurnituregallery.com.au/collections/dining-tables">Dining Table</a> is crafted from stunningly durable blue gum <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">timber</a>, making it a beautiful addition to a coastal, Scandi or minimalist home.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>timber dining table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7939792601324</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2299.00</s:price>
+      <s:sku>452277</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7925990195436</id>
+    <published>2023-05-23T14:01:35+08:00</published>
+    <updated>2023-05-23T14:01:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/big-square-dining-table"/>
+    <title>Esperance Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/K1A5938_ba7ffa1a-b3d9-4691-a4fc-dda8e96e0571.jpg?v=1710299009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            7499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">The Esperance Dining Table is something special. This is a stunning bespoke table crafted from SOLID Salmon Gum with an incredible natural edge, designed to capture attention and add raw, organic beauty to your dining room. Each one is unique and made to order.</p>
+<p><strong>Available for special order in store only.</strong></p>
+<p>Also available:  <a href="https://thefurnituregallery.com.au/products/metal-dining-chair?_pos=2&amp;_sid=37cb271eb&amp;_ss=r" title="Esperance Metal Dining Chair">Esperance Metal Dining Chair</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>solid timber</s:tag>
+    <s:tag>timber dining table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7925990195436</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">7499.00</s:price>
+      <s:sku>452454</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7891668566252</id>
+    <published>2023-03-10T13:14:58+08:00</published>
+    <updated>2023-03-10T13:14:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/corsica-dining-table"/>
+    <title>Corsica Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/corsicadiningtablestyled.png?v=1680673919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<p>A <a href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French</a>-inspired masterpiece for the <a href="https://thefurnituregallery.com.au/collections/dining">dining space</a>, the Corsica <a href="https://thefurnituregallery.com.au/collections/dining-tables">Dining Table</a> crafted from solid oak features a grand pedestal base and rustic finish.  Exuding warmth, sophistication and a sense of luxury.</p>
+<p><span style="color: #b3b3b3;">*<em>The Corsica dining table will feature variations and wood “checking“, imperfections, splits &amp; cracks.  This is a natural phenomenon in timber, which may occur as the wood dries and loses moisture.  </em><em>Wood Checks do not warrant any form of replacement, they add value and uniqueness to this luxury piece.</em> </span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french country</s:tag>
+    <s:tag>pedestal round table</s:tag>
+    <s:tag>round dining table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7891668566252</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1999.00</s:price>
+      <s:sku>450979</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840527810796</id>
+    <published>2022-12-05T23:59:11+08:00</published>
+    <updated>2022-12-05T23:59:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/verdelho-extension-dining-table"/>
+    <title>Verdelho Extension Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/61bad280110fa1cd5b2d4e59_6114bdc7815ef21f88cb6349_Verdelho_20Dining_20copy-min_a0feee78-ee13-44cd-a7ff-72cf410d9beb.jpg?v=1670255952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            2699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"American oak combines with European Beech Timber to create the stunning Verdelho Extension Dining Table, a testament to superior craftsmanship and quality in every detail. Featuring a contrasting white feature pedestal base and a gorgeous parquetry pattern table top, this table will imbue your home with classic elegance. Extends to 2.4m in length."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1"><a href="https://thefurnituregallery.com.au/products/verdelho-extension-dining-table">American oak</a> combines with European Beech <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">Timber</a> to create the stunning Verdelho Extension <a href="https://thefurnituregallery.com.au/collections/dining-tables">Dining Table</a>, a testament to superior craftsmanship and quality in every detail. Featuring a contrasting white feature pedestal base and a gorgeous parquetry pattern table top, this table will imbue your home with classic elegance.</span></p>
+<p><span data-sheets-value='{"1":2,"2":"American oak combines with European Beech Timber to create the stunning Verdelho Extension Dining Table, a testament to superior craftsmanship and quality in every detail. Featuring a contrasting white feature pedestal base and a gorgeous parquetry pattern table top, this table will imbue your home with classic elegance. Extends to 2.4m in length."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Also available:  <a title="Verdelho Dining Chair" href="https://thefurnituregallery.com.au/products/verdelho-solid-oak-dining-chair?_pos=8&amp;_sid=dcd32a0c6&amp;_ss=r">Verdelho Dining Chair</a>.</span></p>
+<p><span data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-sheets-value='{"1":2,"2":"American oak combines with European Beech Timber to create the stunning Verdelho Extension Dining Table, a testament to superior craftsmanship and quality in every detail. Featuring a contrasting white feature pedestal base and a gorgeous parquetry pattern table top, this table will imbue your home with classic elegance. Extends to 2.4m in length."}' data-mce-fragment="1">This product is made exclusively with <strong data-mce-fragment="1">Blum </strong>hardware.<br></span></p>
+<div><img height="113" width="195" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Blum_480x480.jpg?v=1682635880" data-mce-src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Blum_480x480.jpg?v=1682635880" data-mce-selected="1"></div>
+<p><span data-sheets-value='{"1":2,"2":"American oak combines with European Beech Timber to create the stunning Verdelho Extension Dining Table, a testament to superior craftsmanship and quality in every detail. Featuring a contrasting white feature pedestal base and a gorgeous parquetry pattern table top, this table will imbue your home with classic elegance. Extends to 2.4m in length."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1"><br></span><span data-sheets-value='{"1":2,"2":"American oak combines with European Beech Timber to create the stunning Verdelho Extension Dining Table, a testament to superior craftsmanship and quality in every detail. Featuring a contrasting white feature pedestal base and a gorgeous parquetry pattern table top, this table will imbue your home with classic elegance. Extends to 2.4m in length."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1"></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840527810796</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2699.00</s:price>
+      <s:sku>445548</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840519160044</id>
+    <published>2022-12-05T23:18:28+08:00</published>
+    <updated>2022-12-05T23:18:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-dining-table"/>
+    <title>Surrey Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6100e6d3e503ccfa745addd0_Surrey_20Dining_20with_20Wine_20_26_20Dresser_7f933780-0227-4e80-addd-a5e1b98be70e.jpg?v=1670253509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            499.00 - 899.00
+            <a href="https://thefurnituregallery.com.au/products/surrey-dining-table">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"The Surrey Dining Table features a relaxed coastal design that will complement a range of interiors from the Hamptons to the French Country."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">The Surrey <a href="https://thefurnituregallery.com.au/collections/dining-tables">Dining Table</a> features a relaxed coastal design that will complement a range of interiors from the <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> to the <a href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French Country</a>.</span></p>
+<p><span data-sheets-value='{"1":2,"2":"The Surrey Dining Table features a relaxed coastal design that will complement a range of interiors from the Hamptons to the French Country."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Also available: <a href="https://thefurnituregallery.com.au/products/surrey-dining-chair?_pos=2&amp;_sid=1138f5c3b&amp;_ss=r" title="Surrey Dining Chair">Surrey Dining Chair.﻿</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840519160044</id>
+      <title>1.6m</title>
+      <s:price currency="AUD">499.00</s:price>
+      <s:sku>442655</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840519160044</id>
+      <title>1.8m</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>405976</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840519160044</id>
+      <title>2m</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>442656</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840519160044</id>
+      <title>2.2m</title>
+      <s:price currency="AUD">899.00</s:price>
+      <s:sku>405977</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

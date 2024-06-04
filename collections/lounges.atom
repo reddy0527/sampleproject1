@@ -1,0 +1,1076 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/lounges.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-05-31T17:52:38+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8488674197740</id>
+    <published>2024-05-31T17:52:38+08:00</published>
+    <updated>2024-05-31T17:52:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/valeria-2-seater-black"/>
+    <title>Valeria Leather 2 Seater - Black</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Valeria2Seatercrop.jpg?v=1716957458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Valeria Leather 2 Seater Sofa is a sleek, contemporary lounge crafted from smooth black leather.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 seater</s:tag>
+    <s:tag>black leather sofa</s:tag>
+    <s:tag>leather sofa</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8488674197740</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>408967b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8488675803372</id>
+    <published>2024-05-31T17:50:48+08:00</published>
+    <updated>2024-05-31T17:50:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/valeria-3-seater-black"/>
+    <title>Valeria Leather 3 Seater - Black</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/VALERIA1.jpg?v=1717255069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Valeria Leather 3 Seater Sofa is a sleek, contemporary lounge crafted from smooth black leather.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 seater</s:tag>
+    <s:tag>3 seater sofa</s:tag>
+    <s:tag>black leather sofa</s:tag>
+    <s:tag>leather sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8488675803372</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>408967a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8488623997164</id>
+    <published>2024-05-31T11:28:32+08:00</published>
+    <updated>2024-05-31T11:28:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/axel-4-seater-with-ottoman"/>
+    <title>Axel Full Modular Lounge - Grey Gum</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Axel4SeaterwithOttomanstyled.jpg?v=1717125480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3497.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><span>Introducing the Axel Full Modular Lounge, the ultimate spacious lounge for families - with plenty of room for everyone. Comfortable, chic and versatile, this lounge features separate modular pieces that allow you to customise your seating arrangement, so you can create the perfect layout for your space and lifestyle. Each modular piece features extra wide seating, enabling more people to fit onto the lounge and giving it a luxurious feel. </span></span></p>
+<p><span data-mce-fragment="1"><span>This configuration features:</span></span><span data-mce-fragment="1"><span></span></span></p>
+<ul type="disc">
+<li class="x_MsoListParagraph"><span>1 x 1.5 Seater with Left Armrest</span></li>
+<li class="x_MsoListParagraph"><span>1 x Armless piece</span></li>
+<li class="x_MsoListParagraph"><span>1 x Ottoman</span></li>
+<li class="x_MsoListParagraph"><span>1 x Corner Seat</span></li>
+<li class="x_MsoListParagraph"><span>1 x 1.5 Seater with Right Terminal</span></li>
+</ul>
+<p><span data-mce-fragment="1">More colours available exclusively in store.</span><span data-mce-fragment="1"> </span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>large family lounge</s:tag>
+    <s:tag>modular</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8488623997164</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3497.00</s:price>
+      <s:sku>409025</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8476596797676</id>
+    <published>2024-05-24T10:16:37+08:00</published>
+    <updated>2024-05-24T10:16:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/darcy-3-seater-1"/>
+    <title>Darcy 3 Seater</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Darcy3Seaterstyled_8eabeb3c-4ebb-44b9-9eb0-6d0ffa560768.jpg?v=1717407106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy this <a href="https://thefurnituregallery.com.au/products/xander-armchair">mid-century</a> modern<a href="https://thefurnituregallery.com.au/search?q=3+seater&amp;type=product" title="3 Seater"> 3-Seater </a>in a deep forest hue with contrasting <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">timber</a> touches, brings an eclectic look to a contemporary space.</p>
+<p><a title="Darcy Armchair" href="https://thefurnituregallery.com.au/products/darcy-arm-chair?_pos=1&amp;_sid=fbf62af36&amp;_ss=r">Darcy Armchair</a> also available.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8476596797676</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>409279</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8386788229356</id>
+    <published>2024-04-24T12:45:21+08:00</published>
+    <updated>2024-04-24T12:45:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/willow-single-seater-sofa"/>
+    <title>Willow Single Seater Sofa</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/WillowSingleSeaterSofa.jpg?v=1716512842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Dreamy and opulent, the Willow is dressed in off-white boucle upholstery. It effortlessly exudes modern luxury and sophistication with its plush, inviting design.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8386788229356</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">750.00</s:price>
+      <s:sku>409095</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8319833571564</id>
+    <published>2024-04-12T11:15:01+08:00</published>
+    <updated>2024-04-12T11:15:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/formes-curved-3-seater-sofa-1"/>
+    <title>Formes Curved 3 Seater Sofa</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BbFPCLJQ.jpg?v=1716514905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Formes Curved 3-Seater Sofa</span><span data-mce-fragment="1"> displays a curved, cloud-like silhouette with grey plush upholstery. </span><span data-mce-fragment="1">A visual statement piece, complementing both classic and contemporary interiors alike.</span><br data-mce-fragment="1"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>curved back</s:tag>
+    <s:tag>curved sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8319833571564</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>409087</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8306716279020</id>
+    <published>2024-04-12T08:52:49+08:00</published>
+    <updated>2024-04-12T08:52:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/callista-corner-suite-with-chaise"/>
+    <title>Callista Corner Suite with Chaise</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Callista_Corner_Suite_RHS_styled_f90904fe-b1bd-4ada-8f5f-919d02a2292f.jpg?v=1712727504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Callista Corner Suite with Chaise features sleek lines and a modern design, an ideal addition to any contemporary living space. With reversible seat cushions for added versatility and four throw cushions included for extra comfort and style.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>corner lounge</s:tag>
+    <s:tag>grey corner lounge</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8306716279020</id>
+      <title>RHS</title>
+      <s:price currency="AUD">2699.00</s:price>
+      <s:sku>408941</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8306716279020</id>
+      <title>LHS</title>
+      <s:price currency="AUD">2699.00</s:price>
+      <s:sku>410007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8157242589420</id>
+    <published>2024-02-21T07:04:49+08:00</published>
+    <updated>2024-02-21T07:04:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/romilly-2-seater-stone"/>
+    <title>Romilly 2 Seater - Stone</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Romilly2Seater_3989cd5a-41b4-4f02-a38f-14e99dec2f6b.jpg?v=1708470272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">LAST CHANCE! LIMITED STOCK - CLICK ON BUY IN STORE BUTTON TO LOCATE.</span></p>
+<p><span data-mce-fragment="1">The Romilly 2 Seater in stone is the perfect</span><span data-mce-fragment="1"> neutral tone, exuding understated elegance and versatility, providing ample seating and comfort for your living space.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 seater</s:tag>
+    <s:tag>neutral sofa</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8157242589420</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>408838</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8163356082412</id>
+    <published>2024-02-13T09:06:21+08:00</published>
+    <updated>2024-02-13T09:06:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/romilly-3-seater-stone"/>
+    <title>Romilly 3 Seater - Stone</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Romilly3Seater-stone_cfb4f40f-ec5f-4ec1-bbb0-9ddd3530abbb.jpg?v=1707785412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LAST CHANCE! LIMITED STOCK - CLICK ON BUY IN STORE BUTTON TO LOCATE.</p>
+<p>The Romilly 3 Seater in stone is the perfect<span data-mce-fragment="1"> neutral tone, exuding understated elegance and versatility, providing ample seating and comfort for your living space.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 seater sofa</s:tag>
+    <s:tag>neutral sofa</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8163356082412</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1799.00</s:price>
+      <s:sku>408271</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8118559015148</id>
+    <published>2024-01-30T11:13:41+08:00</published>
+    <updated>2024-01-30T11:13:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/monaco-6-seater-corner-suite-denim"/>
+    <title>Monaco 6 Seater  - Denim</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/monaco6seater-denim.jpg?v=1706584241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Upholstered in a WATERPROOF fabric, the </span><a href="https://thefurnituregallery.com.au/products/monaco-5-piece-corner-lounge" data-mce-fragment="1" data-mce-href="https://thefurnituregallery.com.au/products/monaco-5-piece-corner-lounge">Monaco</a><span data-mce-fragment="1"> is a classic </span><a href="https://thefurnituregallery.com.au/collections/sofas" data-mce-fragment="1" data-mce-href="https://thefurnituregallery.com.au/collections/sofas">sofa</a><span data-mce-fragment="1"> that seamlessly blends into any interior, with a versatile colour that offers endless styling potential. Its modern, elegant form is complemented by extra wide seating, featuring a combination of high-density foam and goose feathers for incredible comfort. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>corner lounge</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8118559015148</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3799.00</s:price>
+      <s:sku>450848</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8128083493100</id>
+    <published>2024-01-24T16:20:07+08:00</published>
+    <updated>2024-01-24T16:20:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/mornington-modular-family-suite"/>
+    <title>Mornington Modular - Family Suite</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Mornington-Modular-with-Ottoman.jpg?v=1704506893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            6289.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Featuring premium goose feather filled cushions, the Mornington Modular has slender track arms and is upholstered in a serene shade of grey. As a true modular, the Mornington features 5 unique pieces that can be arranged in almost endless combinations to suit your space.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This bundle includes 1x Right arm, 1x Left Arm, 1x Corner, 3x Armless and an Ottoman.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>modular</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8128083493100</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">6289.00</s:price>
+      <s:sku>409008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8128083722476</id>
+    <published>2024-01-24T16:19:33+08:00</published>
+    <updated>2024-01-24T16:19:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/mornington-modular-three-seater-chaise-1"/>
+    <title>Mornington Modular - Three Seater Chaise</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Mornington-Modular-Setup-9.jpg?v=1704506946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3596.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Featuring premium goose feather filled cushions, the Mornington modular has slender track arms and is upholstered in a serene shade of grey. As a true modular, the Mornington features 5 unique pieces that can be arranged in almost endless combinations to suit your space.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This bundle includes 1x Left Arm, 1x Armless, 1x Right Arm piece and an ottoman.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>modular</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8128083722476</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3596.00</s:price>
+      <s:sku>409007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8128083919084</id>
+    <published>2024-01-24T16:19:05+08:00</published>
+    <updated>2024-01-24T16:19:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/mornington-modular-three-seater-1"/>
+    <title>Mornington Modular - Three Seater</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Mornington3Seater.jpg?v=1704778453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2897.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Featuring premium goose feather filled cushions, the Mornington modular has slender track arms and is upholstered in a serene shade of grey. As a true modular, the Mornington features 5 unique pieces that can be arranged in almost endless combinations to suit your space. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This bundle includes 1x Left Arm, 1x Armless, 1x Right Arm Piece.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>modular</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8128083919084</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2897.00</s:price>
+      <s:sku>409006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8128082936044</id>
+    <published>2024-01-24T14:42:11+08:00</published>
+    <updated>2024-01-24T14:42:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/mornington-modular-u-shaped-lounge"/>
+    <title>Mornington Modular -  U Shaped Lounge</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Mornington-Modular-Setup-4.jpg?v=1704506872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            7384.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Featuring premium goose feather filled cushions, the Mornington Modular has slender track arms and is upholstered in a serene shade of grey. As a true modular, the Mornington features 5 unique pieces that can be arranged in almost endless combinations to suit your space. Features a</span><span data-mce-fragment="1"> solid beech wood frame.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"></span><span data-mce-fragment="1">This bundle includes 1x Right Arm, 1x Left Arm, 4x Armless and 2x Corner pieces (as pictured in first photo.) </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>modular</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8128082936044</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">7384.00</s:price>
+      <s:sku>409009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8133890605292</id>
+    <published>2024-01-12T12:08:37+08:00</published>
+    <updated>2024-01-12T12:08:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/vienna-4-seater-with-chaise-grey-gum"/>
+    <title>Vienna 4 Seater with Chaise - Grey Gum</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Vienna4SeaterwithChaiseRHS-GreyGum.jpg?v=1705028464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Featuring extra deep feather seating, the Vienna </span><a href="https://thefurnituregallery.com.au/products/avoca-4-seater-sofa" data-mce-fragment="1" data-mce-href="https://thefurnituregallery.com.au/products/avoca-4-seater-sofa" target="_blank">4 Seater</a><span data-mce-fragment="1"> with </span><a href="https://thefurnituregallery.com.au/collections/chaises" data-mce-fragment="1" data-mce-href="https://thefurnituregallery.com.au/collections/chaises" target="_blank">Chaise</a><span data-mce-fragment="1"> is constructed and upholstered to the highest standards. With on trend low slung lounging, it will bring understated style and exceptional comfort to your </span><a href="https://thefurnituregallery.com.au/collections/living" data-mce-fragment="1" data-mce-href="https://thefurnituregallery.com.au/collections/living" target="_blank">living room</a><span data-mce-fragment="1">. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chaise lounge</s:tag>
+    <s:tag>chaise sofa</s:tag>
+    <s:tag>grey chaise</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8133890605292</id>
+      <title>RHS</title>
+      <s:price currency="AUD">3299.00</s:price>
+      <s:sku>448613</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8133890605292</id>
+      <title>LHS</title>
+      <s:price currency="AUD">3299.00</s:price>
+      <s:sku>448615</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8120764104940</id>
+    <published>2023-12-22T19:06:59+08:00</published>
+    <updated>2023-12-22T19:06:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/glebe-modular-four-seater"/>
+    <title>Glebe Modular - Four Seater</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GlebeLeft-Right.jpg?v=1703241197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2998.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Laidback and oversized, the Glebe modular is the perfect sofa for relaxing in sumptuous comfort and the ultimate daybed. The deep seating with high density foam and goose feather filling mean this sofa is made for lounging, while the silhouette is both on trend and timeless. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>modular</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8120764104940</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2998.00</s:price>
+      <s:sku>446503</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8116182876396</id>
+    <published>2023-12-22T18:21:17+08:00</published>
+    <updated>2023-12-22T18:21:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/glebe-modular-six-seater-with-chaise-1"/>
+    <title>Glebe Modular - Six Seater with Chaise</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GlebeModularwithOttoman_183213e9-9658-4ce3-b649-ac99a7441393.jpg?v=1702609812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            4996.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">Laidback and oversized, the Glebe modular is the perfect sofa for relaxing in sumptuous comfort and the ultimate daybed. The deep seating with high density foam and goose feather filling mean this sofa is made for lounging, while the silhouette is both on trend and timeless.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This bundle includes 1 x left corner piece, 1 x right corner piece, 1 x armless piece and 1 x ottoman to complete the chaise sofa / lounge.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fabric lounge</s:tag>
+    <s:tag>fabric sofa</s:tag>
+    <s:tag>glebe</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8116182876396</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">4996.00</s:price>
+      <s:sku>409000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8114376474860</id>
+    <published>2023-12-22T18:20:01+08:00</published>
+    <updated>2023-12-22T18:20:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/glebe-modular-six-seater"/>
+    <title>Glebe Modular - Six Seater</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Glebe6Seater-styled.jpg?v=1702441040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            4197.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">Laidback and oversized, the Glebe modular is the perfect sofa for relaxing in sumptuous comfort and the ultimate daybed. The deep seating with high density foam and goose feather filling mean this sofa is made for lounging, while the silhouette is both on trend and timeless. </span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This bundle includes 1 x left corner piece and 1 x right corner piece along with 1 x armless piece.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fabric lounge</s:tag>
+    <s:tag>glebe</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8114376474860</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">4197.00</s:price>
+      <s:sku>446502</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8118575726828</id>
+    <published>2023-12-22T10:09:38+08:00</published>
+    <updated>2023-12-22T10:09:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/karoline-2-seater-sofa-linen"/>
+    <title>Karoline 2 Seater Sofa - Linen</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Karoline2Seaterlinenstyled.jpg?v=1702963175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">With its contemporary frame covered in an ultra-soft neutral hue, the Karoline 2 Seater Sofa in linen will lighten the mood in your living room with its clean lines and everyday comfort.  </span>Includes x2 patterned accent cushions.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 seater</s:tag>
+    <s:tag>white fabric lounge</s:tag>
+    <s:tag>white fabric sofa</s:tag>
+    <s:tag>white lounge</s:tag>
+    <s:tag>white sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8118575726828</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1699.00</s:price>
+      <s:sku>408266</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8118576480492</id>
+    <published>2023-12-22T10:09:06+08:00</published>
+    <updated>2023-12-22T10:09:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/karoline-3-seater-sofa"/>
+    <title>Karoline 3 Seater Sofa - Linen</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Karoline3Seaterlinenstyled.jpg?v=1702963427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">With its contemporary frame covered in an ultra-soft neutral hue, the Karoline 3 Seater Sofa in linen will lighten the mood in your living room with its clean lines and everyday comfort.  </span>Includes x2 solid and x2 patterned accent cushions.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 seater sofa</s:tag>
+    <s:tag>white fabric lounge</s:tag>
+    <s:tag>white fabric sofa</s:tag>
+    <s:tag>white lounge</s:tag>
+    <s:tag>white sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8118576480492</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1999.00</s:price>
+      <s:sku>408267</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8116184940780</id>
+    <published>2023-12-15T12:30:03+08:00</published>
+    <updated>2023-12-15T12:30:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/glebe-modular-family-suite-1"/>
+    <title>Glebe Modular - Family Suite</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Family-Suite_96fcee8a-fa97-478b-867c-e1577d4c6eb5.jpg?v=1702609957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            6195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">Laidback and oversized, the Glebe modular is the perfect sofa for relaxing in sumptuous comfort and the ultimate daybed. The deep seating with high density foam and goose feather filling mean this sofa is made for lounging, while the silhouette is both on trend and timeless.</span></p>
+<p data-mce-fragment="1">This bundle includes 1 x left corner piece, 1 x right corner piece, 2 x armless pieces and 1 x ottoman.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fabric lounge</s:tag>
+    <s:tag>fabric sofa</s:tag>
+    <s:tag>glebe</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8116184940780</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">6195.00</s:price>
+      <s:sku>409001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8116186317036</id>
+    <published>2023-12-15T12:29:24+08:00</published>
+    <updated>2023-12-15T12:29:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/glebe-modular-l-shaped-lounge"/>
+    <title>Glebe Modular - L Shaped Lounge</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/L-shaped-lounge_431f55ca-0ffe-4935-b476-6a25bb3c5fb4.jpg?v=1702610078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            5096.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">Laidback and oversized, the Glebe modular is the perfect sofa for relaxing in sumptuous comfort and the ultimate daybed. The deep seating with high density foam and goose feather filling mean this sofa is made for lounging, while the silhouette is both on trend and timeless.</span></p>
+<p data-mce-fragment="1">This bundle includes 1 x left corner piece with 3 x armless pieces.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fabric lounge</s:tag>
+    <s:tag>fabric sofa</s:tag>
+    <s:tag>glebe</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8116186317036</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">5096.00</s:price>
+      <s:sku>409002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8113759387884</id>
+    <published>2023-12-12T09:41:20+08:00</published>
+    <updated>2023-12-12T09:41:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-two-seater"/>
+    <title>Cloud - Two Seater</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CloudModularSetup5_d10d35f2-e2d5-4f8a-a66a-9a52367f10b5.jpg?v=1702340251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2390.00 - 4520.00
+            <a href="https://thefurnituregallery.com.au/products/cloud-two-seater">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The ultimate sofa - 100% goose feather filled cushions encased in your choice of soft linen or supple cognac leather, and 3 separate modular pieces (corner, armless and ottoman) allowing endless configurations for your space. The Cloud offers unparalleled comfort and comes with a comprehensive lifetime warranty, due to its outstanding craftsmanship. *Scatter cushions included ONLY with FABRIC Cloud Modular not LEATHER.  </span></p>
+<p><meta charset="utf-8"><span data-mce-fragment="1">More colours available exclusively in store.</span><span data-mce-fragment="1"> </span></p>
+<p> </p>
+<p><br><meta charset="utf-8"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>bestseller</s:tag>
+    <s:tag>cloud</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113759387884</id>
+      <title>Optical White</title>
+      <s:price currency="AUD">2390.00</s:price>
+      <s:sku>408988</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113759387884</id>
+      <title>Cognac Leather</title>
+      <s:price currency="AUD">4520.00</s:price>
+      <s:sku>408994</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8113776328940</id>
+    <published>2023-12-12T09:39:43+08:00</published>
+    <updated>2023-12-12T09:39:43+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-three-seater"/>
+    <title>Cloud - Three Seater</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CloudModularSetup4_a156883e-ff2a-4918-8610-1057ea17484c.jpg?v=1702341276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3470.00 - 6515.00
+            <a href="https://thefurnituregallery.com.au/products/cloud-three-seater">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The ultimate sofa - 100% goose feather filled cushions encased in your choice of soft linen or supple cognac leather, and 3 separate modular pieces (corner, armless and ottoman) allowing endless configurations for your space. The Cloud offers unparalleled comfort and comes with a comprehensive lifetime warranty, due to its outstanding craftsmanship. *Scatter cushions included ONLY with FABRIC Cloud Modular not LEATHER.  </span></p>
+<p><span data-mce-fragment="1"><meta charset="utf-8">More colours available exclusively in store.</span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>bestseller</s:tag>
+    <s:tag>cloud</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113776328940</id>
+      <title>Optical White</title>
+      <s:price currency="AUD">3470.00</s:price>
+      <s:sku>408989</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113776328940</id>
+      <title>Cognac Leather</title>
+      <s:price currency="AUD">6515.00</s:price>
+      <s:sku>408995</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8113781833964</id>
+    <published>2023-12-12T09:37:10+08:00</published>
+    <updated>2023-12-12T09:37:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-three-seater-with-chaise"/>
+    <title>Cloud - Three Seater With Chaise</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CloudModularSetup3_89094302-6041-4565-9a7c-caa93825a44a.jpg?v=1702341561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            4339.00 - 8005.00
+            <a href="https://thefurnituregallery.com.au/products/cloud-three-seater-with-chaise">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The ultimate sofa - 100% goose feather filled cushions encased in your choice of soft linen or supple cognac leather, and 3 separate modular pieces (corner, armless and ottoman) allowing endless configurations for your space. The Cloud offers unparalleled comfort and comes with a comprehensive lifetime warranty, due to its outstanding craftsmanship. **Scatter cushions included ONLY with FABRIC Cloud Modular not LEATHER.  </span></p>
+<p><meta charset="utf-8"><span data-mce-fragment="1">More colours available exclusively in store.</span><span data-mce-fragment="1"> </span><br><meta charset="utf-8"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>bestseller</s:tag>
+    <s:tag>cloud</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113781833964</id>
+      <title>Optical White</title>
+      <s:price currency="AUD">4339.00</s:price>
+      <s:sku>408990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113781833964</id>
+      <title>Cognac Leather</title>
+      <s:price currency="AUD">8005.00</s:price>
+      <s:sku>408996</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

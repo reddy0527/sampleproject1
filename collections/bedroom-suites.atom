@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/bedroom-suites.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2023-10-25T08:05:30+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8047475753196</id>
+    <published>2023-10-25T08:05:30+08:00</published>
+    <updated>2023-10-25T08:05:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-wentworth-elite-4-piece-bedroom-suite-with-dressing-table-mirror"/>
+    <title>Wentworth Elite 4 Piece Bedroom Suite with Dressing Table &amp; Mirror</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Wentworth4PiceBedroomSuitewithDTM_4eccc473-9061-433f-a3c1-2ece26002ade.jpg?v=1698188850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            3396.00 - 3696.00
+            <a href="https://thefurnituregallery.com.au/products/copy-of-wentworth-elite-4-piece-bedroom-suite-with-dressing-table-mirror">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p>Crafted by artisans from top grade hardwood, known for its resilience, and finished in brilliant white - the Wentworth Elite 4 Piece Bedroom Suite is a beautiful choice for a <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>, Hamptons or cottage quaint bedroom look. </p>
+<p><meta charset="utf-8"><span>Includes 1 x Queen</span><a href="https://thefurnituregallery.com.au/products/portland-king-bed-1"> Bed</a>/King Bed<span>, 2 x </span><a href="https://thefurnituregallery.com.au/collections/bedsides">Bedsides</a><span> and 1 x </span><a href="https://thefurnituregallery.com.au/collections/dressing-tables">Dressing Table &amp; Mirror</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bed drawer</s:tag>
+    <s:tag>storage bed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8047475753196</id>
+      <title>Queen</title>
+      <s:price currency="AUD">3396.00</s:price>
+      <s:sku>451138L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8047475753196</id>
+      <title>KIng</title>
+      <s:price currency="AUD">3696.00</s:price>
+      <s:sku>451139L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8047467954412</id>
+    <published>2023-10-25T08:04:36+08:00</published>
+    <updated>2023-10-25T08:04:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-wentworth-elite-3-piece-bedroom-suite"/>
+    <title>Wentworth Elite 3 Piece Bedroom Suite</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Wentworth3PiceBedroomSuitewithDTM_706dff7b-9f10-4f07-99da-263cd07c44e0.jpg?v=1698188743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            2297.00 - 2597.00
+            <a href="https://thefurnituregallery.com.au/products/copy-of-wentworth-elite-3-piece-bedroom-suite">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p>Crafted by artisans from top grade hardwood, known for its resilience, and finished in brilliant white - the Wentworth Elite 3 Piece Bedroom Suite is a beautiful choice for a <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>, Hamptons or cottage quaint bedroom look. </p>
+<p><meta charset="utf-8"><span></span><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Includes 1 x </span><a href="https://thefurnituregallery.com.au/products/giselle-bed" style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Queen Bed</a>/King Bed<span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;"> and 2 x </span><a href="https://thefurnituregallery.com.au/collections/bedsides" style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Bedsides.</a><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bed drawer</s:tag>
+    <s:tag>storage bed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8047467954412</id>
+      <title>Queen</title>
+      <s:price currency="AUD">2297.00</s:price>
+      <s:sku>451138S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8047467954412</id>
+      <title>King</title>
+      <s:price currency="AUD">2597.00</s:price>
+      <s:sku>451139S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8047337308396</id>
+    <published>2023-10-25T07:04:06+08:00</published>
+    <updated>2023-10-25T07:04:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-wentworth-elite-4-piece-bedroom-suite-with-chest-1"/>
+    <title>Wentworth Elite 4 Piece Bedroom Suite with Chest</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/61230fda866ed204d4ebbd2a_Wentworth_20Queen_20Bedroom_20Suite_643914d3-abbe-46eb-acfe-2cc1878aa220.jpg?v=1698186251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            2996.00 - 3296.00
+            <a href="https://thefurnituregallery.com.au/products/copy-of-wentworth-elite-4-piece-bedroom-suite-with-chest-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafted by artisans from top grade hardwood, known for its resilience, and finished in brilliant white - the Wentworth Elite 4 Piece Bedroom Suite is a beautiful choice for a <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>, Hamptons or cottage quaint bedroom look. </p>
+<p><meta charset="utf-8"><span></span><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Includes 1 x </span><a href="https://thefurnituregallery.com.au/products/giselle-bed" style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Queen Bed</a>/King Bed<span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">, 2 x </span><a href="https://thefurnituregallery.com.au/collections/bedsides" style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Bedsides</a><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;"> and 1 x </span><a href="https://thefurnituregallery.com.au/collections/chests" style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Chest</a><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">.</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>bed drawer</s:tag>
+    <s:tag>storage bed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8047337308396</id>
+      <title>Queen</title>
+      <s:price currency="AUD">2996.00</s:price>
+      <s:sku>451138P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8047337308396</id>
+      <title>King</title>
+      <s:price currency="AUD">3296.00</s:price>
+      <s:sku>451139P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833307152620</id>
+    <published>2022-11-28T13:19:04+08:00</published>
+    <updated>2022-11-28T13:19:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-bedroom-suite-with-tallboy"/>
+    <title>Surrey Bedroom Suite with Tallboy</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/635734d7beb8523f8b0c66e3_Surrey_20King_20Bedroom_20with_20Tallboy_20-_20resized.jpg?v=1669615659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            2697.00 - 2997.00
+            <a href="https://thefurnituregallery.com.au/products/surrey-bedroom-suite-with-tallboy">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafted from a mix of solid acacia and wenge wood, the Surrey <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">Bedroom Suite</a> with Tallboy brings country charm to the bedroom. Includes 1 x Queen OR King Bed, 2 x bedsides and 1 x tallboy.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833307152620</id>
+      <title>Queen</title>
+      <s:price currency="AUD">2697.00</s:price>
+      <s:sku>446222QCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833307152620</id>
+      <title>King</title>
+      <s:price currency="AUD">2997.00</s:price>
+      <s:sku>446222KCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833307119852</id>
+    <published>2022-11-28T13:19:03+08:00</published>
+    <updated>2022-11-28T13:19:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-bedroom-suite-with-dressing-table-and-mirror"/>
+    <title>Surrey Bedroom Suite with Dressing Table and Mirror</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/surreybedroomsuitewd_m.jpg?v=1670645763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            2897.00 - 3197.00
+            <a href="https://thefurnituregallery.com.au/products/surrey-bedroom-suite-with-dressing-table-and-mirror">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafted from a mix of solid acacia and wenge wood, the Surrey <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">Bedroom Suite</a> brings country charm to the bedroom. Includes 1 x Queen OR King Bed, 2 x bedsides and 1 x Dressing Table and Mirror.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833307119852</id>
+      <title>Queen</title>
+      <s:price currency="AUD">2897.00</s:price>
+      <s:sku>446222QDS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833307119852</id>
+      <title>King</title>
+      <s:price currency="AUD">3197.00</s:price>
+      <s:sku>446222KDS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669972730092</id>
+    <published>2022-06-19T12:45:27+08:00</published>
+    <updated>2022-06-19T12:45:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bondi-bedroom-suite-queen"/>
+    <title>Bondi Bedroom Suite</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/61223436e4b96ce0de534630_Bondi_20King_20Bed_20with_20Bedsides_20and_20Chest.jpg?v=1655613927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            2996.00 - 3296.00
+            <a href="https://thefurnituregallery.com.au/products/bondi-bedroom-suite-queen">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Built from quality wormy chestnut timber – the Bondi <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">Bedroom Suite</a> cuts a generous, imposing image.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>bed with drawers</s:tag>
+    <s:tag>bedroom suite</s:tag>
+    <s:tag>coastal style</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>timber</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669972730092</id>
+      <title>Queen</title>
+      <s:price currency="AUD">2996.00</s:price>
+      <s:sku>447046P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669972730092</id>
+      <title>King</title>
+      <s:price currency="AUD">3296.00</s:price>
+      <s:sku>447045P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

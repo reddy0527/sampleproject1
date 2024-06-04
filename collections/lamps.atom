@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/lamps.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-05-21T14:07:31+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8471330029804</id>
+    <published>2024-05-21T14:07:31+08:00</published>
+    <updated>2024-05-21T14:07:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/talstone-linen-floor-lamp-copy"/>
+    <title>Talstone Linen Floor Lamp.</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/TalstoneLinenfloorlamp_bc17ddf8-f411-4835-a9e8-2375c3b7a92f.jpg?v=1716268168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Brighten up your space with our elegant Talstone Floor lamp, featuring a warm-toned fluted linen lampshade that adds a touch of cosy sophistication to any room.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor lamp</s:tag>
+    <s:tag>lamp</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8471330029804</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">300.00</s:price>
+      <s:sku>409099</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8453565186284</id>
+    <published>2024-05-14T12:09:07+08:00</published>
+    <updated>2024-05-14T12:09:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/sierra-table-lamp"/>
+    <title>Sierra Table Lamp</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/SierraLampstyled.jpg?v=1716513566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Illuminate your space with the understated elegance of the Sierra Table Lamp, featuring a smooth wooden base paired back with a warm neutral linen light shade.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lamp</s:tag>
+    <s:tag>neutral lamp</s:tag>
+    <s:tag>table lamp</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8453565186284</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.00</s:price>
+      <s:sku>409213</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8398749139180</id>
+    <published>2024-04-26T10:07:22+08:00</published>
+    <updated>2024-04-26T10:07:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/rocco-metal-table-lamp"/>
+    <title>Rocco Metal Table Lamp</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/RoccoMetalTableLamp.jpg?v=1714096166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            159.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>A fusion of modern elegance and industrial chic the Rocco Metal Table Lamp exudes a sophisticated urban charm with its chic gold stand and exposed concrete base.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass lamp</s:tag>
+    <s:tag>lamp</s:tag>
+    <s:tag>table lamp</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8398749139180</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">159.00</s:price>
+      <s:sku>408326</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8384190513388</id>
+    <published>2024-04-24T09:49:15+08:00</published>
+    <updated>2024-04-24T09:49:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/mahina-marble-table-lamp"/>
+    <title>Mahina Marble Table Lamp</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/MahinaMarbleTableLamp.webp?v=1713920076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            139.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The smooth marble base provides a luxurious foundation for the Mahina Marble Table Lamp, while the ridged lamp shade adds a captivating textural contrast.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>table lamp</s:tag>
+    <s:tag>white lamp</s:tag>
+    <s:tag>white marble</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8384190513388</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">139.00</s:price>
+      <s:sku>408327</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8384115015916</id>
+    <published>2024-04-24T07:19:44+08:00</published>
+    <updated>2024-04-24T07:19:44+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/tiered-trio-floor-lamp"/>
+    <title>Tiered Trio Floor Lamp</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/TieredTrioLamp1.jpg?v=1713911991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Illuminate your space with our elegant Tiered Trio Floor Lamp, featuring a sleek black metal frame complemented by three pleated fabric shades in a warm neutral tone.</span><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor lamp</s:tag>
+    <s:tag>lamp</s:tag>
+    <s:tag>neutral lamp</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8384115015916</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">350.00</s:price>
+      <s:sku>409098</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8347423244524</id>
+    <published>2024-04-17T13:25:47+08:00</published>
+    <updated>2024-04-17T13:25:47+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/wyoming-table-lamp"/>
+    <title>Wyoming Table Lamp</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/WyomingTableLamp.jpg?v=1713328967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            330.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Featuring an elongated white-washed rubber wooden base, complemented by a modern linen shade.  </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceramic lamp</s:tag>
+    <s:tag>lamp</s:tag>
+    <s:tag>table lamp</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8347423244524</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">330.00</s:price>
+      <s:sku>451365</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8347179712748</id>
+    <published>2024-04-17T13:25:12+08:00</published>
+    <updated>2024-04-17T13:25:12+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/marcelle-table-lamp"/>
+    <title>Marcelle Table Lamp</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/MarcelleTableLamp.jpg?v=1713327997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Marcelle Table Lamp <span data-mce-fragment="1">exudes a sense of understated sophistication, allowing soft light to gently diffuse and create a warm, inviting ambiance in any room. The sleek and modern design of this lamp makes it the perfect addition to any contemporary interior.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clear glass lamp</s:tag>
+    <s:tag>contemporary</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8347179712748</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">150.00</s:price>
+      <s:sku>450332</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8345075745004</id>
+    <published>2024-04-17T11:12:20+08:00</published>
+    <updated>2024-04-17T11:12:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bronze-plated-dome-table-lamp"/>
+    <title>Bronze Plated Dome Table Lamp</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BronzePlatedTablelampstyled.jpg?v=1713322180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Featuring <span data-mce-fragment="1">a metal shade and base in brushed antique bronze tones with a stunning black marble finish the Bronze Plated Dome Table Lamp exudes warmth and sophistication.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bronze</s:tag>
+    <s:tag>lamp</s:tag>
+    <s:tag>table lamp</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8345075745004</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">400.00</s:price>
+      <s:sku>408698</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8344910659820</id>
+    <published>2024-04-17T11:08:08+08:00</published>
+    <updated>2024-04-17T11:08:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/spotlight-floor-lamp"/>
+    <title>Spotlight Floor Lamp</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/SpotlightFloorLampWB.jpg?v=1713321568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Spotlight Floor Lamp has a </span><span data-mce-fragment="1">unique refined design featuring a black metal base with rubber wood detailing and two stunning rounded bronze metal shades.</span><br data-mce-fragment="1"><span data-mce-fragment="1">Place it in any large living area or office space for a beautiful approach to adding depth with lighting.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor lamp</s:tag>
+    <s:tag>spotlight lamp</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8344910659820</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">450.00</s:price>
+      <s:sku>408697</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8063667896556</id>
+    <published>2023-11-03T12:20:13+08:00</published>
+    <updated>2023-11-03T12:20:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/aston-table-lamp"/>
+    <title>Aston Table Lamp</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/lxtlam002gyAstonTableLamp..jpg?v=1698977940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            190.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass lamp</s:tag>
+    <s:tag>lamp</s:tag>
+    <s:tag>lamp table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8063667896556</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">190.00</s:price>
+      <s:sku>449661</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8063666618604</id>
+    <published>2023-11-03T12:19:57+08:00</published>
+    <updated>2023-11-03T12:19:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/baldwin-table-lamp"/>
+    <title>Baldwin Table Lamp</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/amtl07_1BaldwinTableLamp.jpg?v=1698977779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>table lamp</s:tag>
+    <s:tag>white lamp</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8063666618604</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">200.00</s:price>
+      <s:sku>451308</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7967298289900</id>
+    <published>2023-08-25T08:19:39+08:00</published>
+    <updated>2023-08-25T08:19:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bloomingdale-glass-teardrop-lamp"/>
+    <title>Bloomingdale Glass Teardrop Lamp</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/HTBL227BloomingdaleGlassLamp-smokewhite.jpg?v=1692921282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            269.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass lamp</s:tag>
+    <s:tag>lamp</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7967298289900</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">269.00</s:price>
+      <s:sku>408402</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7967297437932</id>
+    <published>2023-08-25T08:18:10+08:00</published>
+    <updated>2023-08-25T08:18:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/sahara-brass-stem-glass-base-lamp"/>
+    <title>Sahara Brass Stem Glass Base Lamp</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/HHSA96SaharaBrassStemGlassbaselamp.jpg?v=1692921199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            189.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brass</s:tag>
+    <s:tag>glass lamp</s:tag>
+    <s:tag>lamp</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7967297437932</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">189.00</s:price>
+      <s:sku>408401</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7967296487660</id>
+    <published>2023-08-25T08:16:26+08:00</published>
+    <updated>2023-08-25T08:16:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/maison-glass-smoke-urn-lamp"/>
+    <title>Maison Glass Smoke Urn Lamp</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/HASA339MaisonGlassSmokeUrnLamp-blackgold.jpg?v=1692921112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            269.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass lamp</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7967296487660</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">269.00</s:price>
+      <s:sku>449965</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7954424496364</id>
+    <published>2023-07-26T10:10:53+08:00</published>
+    <updated>2023-07-26T10:10:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/orelia"/>
+    <title>Orelia Metal Lamp</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/OreliaMetalLamp-FU3180.jpg?v=1690334878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            169.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Orelia is a gold metallic <a href="https://thefurnituregallery.com.au/collections/lamps">lamp</a> that will instantly elevate any bedside, side table, console or corner you add it to.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gold lamp</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7954424496364</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">169.00</s:price>
+      <s:sku>449367</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7954425577708</id>
+    <published>2023-07-26T10:10:32+08:00</published>
+    <updated>2023-07-26T10:10:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cheri-metal-glass-table-lamp"/>
+    <title>Cheri Metal/Glass Table Lamp</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CheriMetal-glassTAblelamp-FU3219.jpg?v=1690335707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            169.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Cheri <a href="https://thefurnituregallery.com.au/collections/lamps">Lamp</a> combines a white ribbed glass top and metallic gold base for a clean, contemporary look.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass lamp</s:tag>
+    <s:tag>gold lamp</s:tag>
+    <s:tag>lamp</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7954425577708</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">169.00</s:price>
+      <s:sku>450517</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7954425872620</id>
+    <published>2023-07-26T10:10:08+08:00</published>
+    <updated>2023-07-26T10:10:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/romola-metal-glass-table-lamp"/>
+    <title>Romola Metal/Glass Table Lamp</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/RomolaLamp-FU3281.jpg?v=1690336033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            169.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The <a href="https://thefurnituregallery.com.au/collections/lamps">Romola</a> combines transparent brown glass and a metallic gold base for a cool, modern aesthetic.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass lamp</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7954425872620</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">169.00</s:price>
+      <s:sku>408277</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7917137789164</id>
+    <published>2023-05-03T14:23:11+08:00</published>
+    <updated>2023-05-03T14:23:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/harris-table-lamp"/>
+    <title>Harris Table Lamp</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/IV21S47-HarrisTableLamp.jpg?v=1682997095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>The <a href="https://thefurnituregallery.com.au/collections/lamps">Harris Table Lamp</a> features a curved ceramic base with soft blue, grey and white, complimented by a crisp white linen shade.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceramic lamp</s:tag>
+    <s:tag>lamp</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7917137789164</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">249.00</s:price>
+      <s:sku>450604</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7917137035500</id>
+    <published>2023-05-03T14:21:17+08:00</published>
+    <updated>2023-05-03T14:21:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/kerala-lamp-white"/>
+    <title>Kerala Lamp - White</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/IVORY-22S-Kerala-Lamp_1800x1800_3e673cf5-1ff5-4b16-81ec-de21f5e388b6.webp?v=1683160035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            449.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This tropical-inspired <a href="https://thefurnituregallery.com.au/collections/lamps">lamp</a> features a crisp white fabric lamp shade on an ornate metal base. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lamp</s:tag>
+    <s:tag>palm lamp</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7917137035500</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">449.00</s:price>
+      <s:sku>451332</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7917137068268</id>
+    <published>2023-05-03T14:16:47+08:00</published>
+    <updated>2023-05-03T14:16:47+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/harlequin-table-lamp-black"/>
+    <title>Harlequin Table Lamp - Black</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/IV21S14-HarlequinTablelamp-black.jpg?v=1682996405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>The Harlequin Table <a href="https://thefurnituregallery.com.au/collections/lamps">Lamp</a> in Black features a triangle black fabric shade and metal base.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black</s:tag>
+    <s:tag>lamp</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7917137068268</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">199.00</s:price>
+      <s:sku>450946</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7917131989228</id>
+    <published>2023-05-03T13:57:44+08:00</published>
+    <updated>2023-05-03T13:57:44+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/coast-ceramic-silver-lamp"/>
+    <title>Coast Ceramic Silver Lamp</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/HTCO213-CoastCeramicSilverLamp.jpg?v=1682991570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            269.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceramic lamp</s:tag>
+    <s:tag>lamp</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7917131989228</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">269.00</s:price>
+      <s:sku>448370</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7917131497708</id>
+    <published>2023-05-03T13:53:17+08:00</published>
+    <updated>2023-05-03T13:53:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bloomingdale-ceramic-filigree-lamp"/>
+    <title>Bloomingdale Ceramic Filigree Lamp</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/HTBL232-Bloomingdalesblackwhitefiligreelamp.jpg?v=1682991289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product-short-description short-description">
+<p>The Bloomingdale Ceramic Filigree <a href="https://thefurnituregallery.com.au/collections/lamps">Lamp</a> features a ceramic base adorned with a filigree pattern and crisp white lampshade for a classic, sophisticated look. </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black and white</s:tag>
+    <s:tag>ceramic lamp</s:tag>
+    <s:tag>lamp</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7917131497708</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">299.00</s:price>
+      <s:sku>450364</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7917137690860</id>
+    <published>2023-05-03T13:37:42+08:00</published>
+    <updated>2023-05-03T13:37:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pineapple-lamp-white"/>
+    <title>Pineapple Lamp - White</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/21S257-PineappleLamp-white.jpg?v=1682996949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            390.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>The Pineapple <a href="https://thefurnituregallery.com.au/collections/lamps">Lamp</a> features a metal pineapple-shaped base, with a crisp white linen shade.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>pineapple lamp</s:tag>
+    <s:tag>white lamp</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7917137690860</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">390.00</s:price>
+      <s:sku>451581</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7917137854700</id>
+    <published>2023-05-03T13:16:20+08:00</published>
+    <updated>2023-05-03T13:16:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/soho-ribbed-glass-lamp"/>
+    <title>Soho Ribbed Glass Lamp</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/IV20S03-SohoRibbedGlassTablelamp.jpg?v=1682997225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This sophisticated <a href="https://thefurnituregallery.com.au/collections/lamps">lamp</a> with ribbed glass detailing features a contrasting black lampshade for a chic look.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass lamp</s:tag>
+    <s:tag>lamp</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7917137854700</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">299.00</s:price>
+      <s:sku>448427</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7917130186988</id>
+    <published>2023-05-03T11:20:15+08:00</published>
+    <updated>2023-05-03T11:20:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/coast-ceramic-urn-lamp-white"/>
+    <title>Coast Ceramic Urn Lamp - White</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CoastCeramicLamp-HAC0343.jpg?v=1682990208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            229.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This coastal-inspired <a href="https://thefurnituregallery.com.au/collections/lamps">lamp</a> features a crisp ceramic base with matching white shade.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lamp</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7917130186988</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">229.00</s:price>
+      <s:sku>451863</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

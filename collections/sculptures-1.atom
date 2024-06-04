@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/sculptures-1.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-05-01T14:16:38+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8422176358636</id>
+    <published>2024-05-01T14:16:38+08:00</published>
+    <updated>2024-05-01T14:16:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/leo-leopard-s-2-bookends"/>
+    <title>Leo Leopard S/2 Bookends</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/LeoLeopardS-2BookendsOD1381.jpg?v=1714523863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            84.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Leo Leopard Bookends are a statement piece, celebrating the beauty of the wild and the power of design.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>book ends</s:tag>
+    <s:tag>leopard</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8422176358636</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">84.00</s:price>
+      <s:sku>448338</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8346890076396</id>
+    <published>2024-04-17T13:25:30+08:00</published>
+    <updated>2024-04-17T13:25:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/morani-brass-trinket-bowl"/>
+    <title>Morani Brass Trinket Bowl</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/MoraniTrinketbowl.jpg?v=1713326940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Made from brass, featuring intimate design patterns with a scalloped silhouette, the Morani Brass Trinket Bowl will stylishly hold jewellery, keys or more.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bowl</s:tag>
+    <s:tag>trinket bowl</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8346890076396</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">50.00</s:price>
+      <s:sku>449631</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8346709688556</id>
+    <published>2024-04-17T12:10:41+08:00</published>
+    <updated>2024-04-17T12:10:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/columbia-circle-of-friends-sculpture-white-wash"/>
+    <title>Columbia Circle of Friends Sculpture - White Wash</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Columbiacircleoffriendswhite.jpg?v=1713326287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            84.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Handmade from ceramic, Columbia Circle of Friends is a contemporary piece </span><span data-mce-fragment="1">perfect for the living room, dining room or office.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decorative pieces</s:tag>
+    <s:tag>sculpture</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8346709688556</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">84.95</s:price>
+      <s:sku>446979</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8345732153580</id>
+    <published>2024-04-17T12:10:30+08:00</published>
+    <updated>2024-04-17T12:10:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/columbia-circle-of-friends-sculpture-brown-wash"/>
+    <title>Columbia Circle of Friends Sculpture - Brown Wash</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ColumbiaCircleofFriendsbrown.jpg?v=1713323263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            74.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Handmade from ceramic, Columbia Circle of Friends is a contemporary piece </span><span data-mce-fragment="1">perfect for the living room, dining room or office.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decorative pieces</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8345732153580</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">74.95</s:price>
+      <s:sku>446978</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8154338590956</id>
+    <published>2024-02-02T10:02:20+08:00</published>
+    <updated>2024-02-02T10:02:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-horse-conch-sculpture"/>
+    <title>Horse Conch Sculpture</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/HorseConchSculpture-gold_197924bb-3833-43a2-b2b9-692f0b74accb.webp?v=1706839098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            94.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Elevate your Hampton or beach themed décor with this stunning gold Horse Conch Sculpture.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clam shell</s:tag>
+    <s:tag>decorative pieces</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8154338590956</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">94.00</s:price>
+      <s:sku>452032</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152878285036</id>
+    <published>2024-01-31T14:07:46+08:00</published>
+    <updated>2024-01-31T14:07:46+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/mora-bowl"/>
+    <title>Mora Bowl</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/MoraBowl.webp?v=1706676152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Elevate your table setting or home décor with the Mora <span data-mce-fragment="1">ceramic bowl.  Boasting</span><span data-mce-fragment="1"> a sleek and modern design that is both stylish and functional.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bowl</s:tag>
+    <s:tag>white decorative bowl</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152878285036</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">149.00</s:price>
+      <s:sku>452098</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152871436524</id>
+    <published>2024-01-31T12:20:32+08:00</published>
+    <updated>2024-01-31T12:20:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/xing-ginger-jar"/>
+    <title>Xing Ginger Jar</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/XingGingerJar.webp?v=1706673348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceramic vase</s:tag>
+    <s:tag>decorative pieces</s:tag>
+    <s:tag>ornamental vase</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152871436524</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">219.00</s:price>
+      <s:sku>452093</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152112333036</id>
+    <published>2024-01-30T11:55:29+08:00</published>
+    <updated>2024-01-30T11:55:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/dixson-round-tray-nickel"/>
+    <title>Dixson Round Tray - Nickel</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Dixsonroundtraynickel.webp?v=1706586931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            134.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Showcase your timeless pieces on the beautifully crafted nickel Dixson Round Decorative Tray.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decorative pieces</s:tag>
+    <s:tag>tray</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152112333036</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">134.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152111218924</id>
+    <published>2024-01-30T11:43:15+08:00</published>
+    <updated>2024-01-30T11:43:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/dixson-rectangular-tray-nickel"/>
+    <title>Dixson Rectangular Tray - Nickel</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Dixsonrectangulartraycloseup.webp?v=1706586549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            164.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Showcase your timeless pieces on the beautifully crafted nickel Dixson Rectangular decorative tray.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>tray</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152111218924</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">164.00</s:price>
+      <s:sku>452026</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152110760172</id>
+    <published>2024-01-30T11:36:45+08:00</published>
+    <updated>2024-01-30T11:36:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/conch-shell-bookends-set-2"/>
+    <title>Conch Shell Bookends Set 2</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/1.conchshellbookendsset2.webp?v=1706585802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Evoke some coastal charm to your bookshelf with the Conch Shell Bookends.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>book ends</s:tag>
+    <s:tag>decorative pieces</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152110760172</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">99.00</s:price>
+      <s:sku>452006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152110235884</id>
+    <published>2024-01-30T11:27:56+08:00</published>
+    <updated>2024-01-30T11:27:56+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/star-fruit-sculpture"/>
+    <title>Star Fruit Sculpture</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/starfruitsculpture.webp?v=1706585278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Imbue some playful tropical charm into your décor with this white ceramic star fruit.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decorative pieces</s:tag>
+    <s:tag>sculpture</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152110235884</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">49.00</s:price>
+      <s:sku>452016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8133914591468</id>
+    <published>2024-01-12T12:13:16+08:00</published>
+    <updated>2024-01-12T12:13:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cain-wood-rect-board-natural"/>
+    <title>Cain Wood Rect Board - Natural</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CainWoodRectboard-natural.webp?v=1705031672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>serving board</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8133914591468</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">29.00</s:price>
+      <s:sku>447690</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8133867667692</id>
+    <published>2024-01-12T11:23:05+08:00</published>
+    <updated>2024-01-12T11:23:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/saffron-wooden-beads-black"/>
+    <title>Saffron Wooden Beads - Black</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/SaffronWoodenBeads-black.webp?v=1705025421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Saffron Wooden Beads in black adorned with tassel will add some flair to your curated decorative pieces.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beads</s:tag>
+    <s:tag>decorative pieces</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8133867667692</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">9.00</s:price>
+      <s:sku>408340</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8133862981868</id>
+    <published>2024-01-12T10:04:42+08:00</published>
+    <updated>2024-01-12T10:04:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/studious-resin-sculpture-black"/>
+    <title>Studious Resin Sculpture - Black</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/StudiousResinSculpure.jpg?v=1706585958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">A contemplative decorative piece in black resin, creating a unique and introspective focal point for your décor.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decorative pieces</s:tag>
+    <s:tag>sculpture</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8133862981868</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">49.00</s:price>
+      <s:sku>408286</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8133859967212</id>
+    <published>2024-01-12T10:03:56+08:00</published>
+    <updated>2024-01-12T10:03:56+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ananas-wood-marble-spoon-rest"/>
+    <title>Ananas Wood/Marble Spoon Rest</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/AnanasWoodmarblespoonrest.webp?v=1705024075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Elevate your kitchen décor with a touch of whimsy and tropical charm with this pineapple-shaped spoon rest, crafted from a harmonious blend of marble and wood.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decorative pieces</s:tag>
+    <s:tag>spoon holder</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8133859967212</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">44.00</s:price>
+      <s:sku>408284</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7937552023788</id>
+    <published>2023-10-26T10:39:51+08:00</published>
+    <updated>2023-10-26T10:39:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pomegranate-large-brass"/>
+    <title>Pomegranate Large - Brass</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Pomegranate-brass.webp?v=1687330270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decorative pieces</s:tag>
+    <s:tag>pomegranate</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7937552023788</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">65.00</s:price>
+      <s:sku>450437</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8025755353324</id>
+    <published>2023-10-11T13:12:47+08:00</published>
+    <updated>2023-10-11T13:12:47+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/golden-feather-plate-stand"/>
+    <title>Golden Feather Plate Stand</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GoldenFeatherPlateStand.webp?v=1697001198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Golden Feathered Plate Stand is a stylish décor piece perfectly designed to hold either dinnerware or your favourite cook book.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8025755353324</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">34.00</s:price>
+      <s:sku>408006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8025753649388</id>
+    <published>2023-10-11T13:03:57+08:00</published>
+    <updated>2023-10-11T13:03:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bobbles-fish-cement-sculpture-blue"/>
+    <title>Bobbles Fish Cement Sculpture - Blue</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/bobblesfishcementsculpture.webp?v=1697000639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Cement décor fish sculpture perfect for styling your coastal coffee table or display cabinet.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8025753649388</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">14.00</s:price>
+      <s:sku>447890</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8013652033772</id>
+    <published>2023-09-22T09:54:42+08:00</published>
+    <updated>2023-09-22T09:54:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/alcora-lantern-black-small"/>
+    <title>Alcora Lantern Black - Small</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/AlcoraLanternsBlack_8a341d71-5357-4e54-92d7-69bb8ab725b9.heic?v=1695347645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lantern style</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8013652033772</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">59.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8013651345644</id>
+    <published>2023-09-22T09:52:11+08:00</published>
+    <updated>2023-09-22T09:52:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/alcora-lantern-black-large"/>
+    <title>Alcora Lantern Black - Large</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/AlcoraLanternsBlack.heic?v=1695347533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lantern style</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8013651345644</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">69.00</s:price>
+      <s:sku>450034</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8013641154796</id>
+    <published>2023-09-22T09:31:06+08:00</published>
+    <updated>2023-09-22T09:31:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/jasper-lantern-small"/>
+    <title>Jasper Lantern - Small</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/JasperLanterns_130ae90b-d1e5-47f5-a9db-2d8fab2ffe3d.jpg?v=1695346212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lantern style</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8013641154796</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">89.00</s:price>
+      <s:sku>450047</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8013640138988</id>
+    <published>2023-09-22T09:29:31+08:00</published>
+    <updated>2023-09-22T09:29:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/jasper-lantern-large"/>
+    <title>Jasper Lantern - Large</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/JasperLanterns.jpg?v=1695346173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lantern style</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8013640138988</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">129.00</s:price>
+      <s:sku>450048</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8013636567276</id>
+    <published>2023-09-22T09:25:21+08:00</published>
+    <updated>2023-09-22T09:25:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/henderson-lantern-gold-small"/>
+    <title>Henderson Lantern Gold - Small</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/HendersonLanternsgold_4e8b4c8f-db65-400d-ac01-659f4826d429.jpg?v=1695345880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lantern style</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8013636567276</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">129.00</s:price>
+      <s:sku>450051</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8013636436204</id>
+    <published>2023-09-22T09:23:58+08:00</published>
+    <updated>2023-09-22T09:23:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/henderson-lantern-gold-large"/>
+    <title>Henderson Lantern Gold - Large</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/HendersonLanternsgold.jpg?v=1695345840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            159.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lantern style</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8013636436204</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">159.00</s:price>
+      <s:sku>450052</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8013633323244</id>
+    <published>2023-09-22T09:17:21+08:00</published>
+    <updated>2023-09-22T09:17:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bird-on-block-tall"/>
+    <title>Bird on Block - Tall</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BirdonBlock_0d0f84ca-5ec5-4542-9c42-3f4570de40c6.jpg?v=1695345384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decorative pieces</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8013633323244</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">99.00</s:price>
+      <s:sku>449549</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

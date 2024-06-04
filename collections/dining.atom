@@ -1,0 +1,1012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/dining.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-05-29T07:36:45+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8488528543980</id>
+    <published>2024-05-29T07:36:45+08:00</published>
+    <updated>2024-05-29T07:36:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hampton-display-cabinet-1"/>
+    <title>Hampton Elite Display Cabinet</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/HamptonHutchDisplayUnit_ba2b0dae-72c2-4b69-be31-75512cfb6d39.jpg?v=1716934180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            2499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Bring the magic of <a href="https://thefurnituregallery.com.au/collections/hamptons-collection" data-mce-href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> home styling to your home with the Hampton Elite Display Cabinet. This <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired bookshelf is defined by crisp white timber and cross detailing, offering a timeless, classic look. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display cabinet</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8488528543980</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2499.00</s:price>
+      <s:sku>409914</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7940875813100</id>
+    <published>2024-04-09T12:27:27+08:00</published>
+    <updated>2024-04-09T12:27:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/karri-valley-dining-table"/>
+    <title>Karri Valley Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/DenmarkMarri_df3ca4e7-e73c-4787-a8cf-bb14f414ed92.jpg?v=1688532999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            2999.00 - 3999.00
+            <a href="https://thefurnituregallery.com.au/products/karri-valley-dining-table">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Showcasing the raw beauty of solid premium grade <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">Marri</a> timber in all its glory, the Karri Valley <a href="https://thefurnituregallery.com.au/collections/dining-tables">Dining Table</a> is the ultimate choice for your <a href="https://thefurnituregallery.com.au/collections/dining">dining room</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>solid timber</s:tag>
+    <s:tag>timber dining table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7940875813100</id>
+      <title>2.7M</title>
+      <s:price currency="AUD">3999.00</s:price>
+      <s:sku>452621P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7940875813100</id>
+      <title>2.4M</title>
+      <s:price currency="AUD">3499.00</s:price>
+      <s:sku>452619P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7940875813100</id>
+      <title>2.1M</title>
+      <s:price currency="AUD">2999.00</s:price>
+      <s:sku>452622P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7940846813420</id>
+    <published>2024-04-09T08:23:53+08:00</published>
+    <updated>2024-04-09T08:23:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/karri-valley-3-door-3-drawer-sideboard"/>
+    <title>Karri Valley 3 Door 3 Drawer Sideboard</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/8C5B888B-8D5D-435E-BB70-49B1BAE32363_1_105_c.jpg?v=1688957204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            2599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This stunning sideboard is a timeless timber piece that embraces the natural beauty of WA.  Crafted with premium Marri timber.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sideboard</s:tag>
+    <s:tag>solid timber</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7940846813420</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2599.00</s:price>
+      <s:sku>452618</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8250832421100</id>
+    <published>2024-03-20T15:27:03+08:00</published>
+    <updated>2024-03-20T15:27:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/camilla-elm-wood-chair-white"/>
+    <title>Camilla Elm Wood Chair - White</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Camillafrontwhite.jpg?v=1710919596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            189.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Inspired by the iconic design elements attributed to Austrian architect Josef Hoffmann, the Camilla Elm Wood Chair combines rattan cane and warm elm wood. Its timeless elegance pays homage to the renowned designer's enduring legacy. </span></p>
+<p><span data-mce-fragment="1">Also available: <a href="https://thefurnituregallery.com.au/products/camilla-elm-wood-chair-natural" title="Camilla Elm Wood Chair - Natural">Natural.﻿</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cafe chair</s:tag>
+    <s:tag>rattan</s:tag>
+    <s:tag>rattan chair</s:tag>
+    <s:tag>rattan dining chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8250832421100</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">189.00</s:price>
+      <s:sku>408929</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8250827309292</id>
+    <published>2024-03-20T15:22:57+08:00</published>
+    <updated>2024-03-20T15:22:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/camilla-elm-wood-chair-natural"/>
+    <title>Camilla Elm Wood Chair - Natural</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Camillafront-naturual.jpg?v=1710919368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            189.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Inspired by the iconic design elements attributed to Austrian architect Josef Hoffmann, the Camilla Elm Wood Chair combines rattan cane and warm elm wood. Its timeless elegance pays homage to the renowned designer's enduring legacy. </span></p>
+<p><span data-mce-fragment="1">Also available in <a href="https://thefurnituregallery.com.au/products/camilla-elm-wood-chair-white" title="Camilla Elm Wood Chair - White">White.﻿</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cafe chair</s:tag>
+    <s:tag>rattan</s:tag>
+    <s:tag>rattan chair</s:tag>
+    <s:tag>rattan dining chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8250827309292</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">189.00</s:price>
+      <s:sku>408928</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8249472680172</id>
+    <published>2024-03-19T13:10:37+08:00</published>
+    <updated>2024-03-19T13:10:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/long-beach-3-drawer-3-door-sideboard-1"/>
+    <title>Long Beach Elite 3 Drawer 3 Door Sideboard</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/621569c981ab4816e8ed2b3f_Long_20Beach_203_20Door_203_20Drawer_20Buffet_849b9e00-bd31-4d6b-a75d-d054f0f0df12.jpg?v=1710822780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Featuring both drawers and cupboards for ample storage space, the Long Beach 3 Drawer 3 Door <a href="https://thefurnituregallery.com.au/products/storm-sideboard">Sideboard</a> is made from crisp <a href="https://thefurnituregallery.com.au/products/hampton-4-door-4-drawer-sideboard">white pine timber</a> with contrasting black handles. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>coastal style</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>sideboard</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>storage</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8249472680172</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>409909</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8249112330476</id>
+    <published>2024-03-19T08:58:21+08:00</published>
+    <updated>2024-03-19T08:58:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/brighton-sideboard"/>
+    <title>Brighton Sideboard</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/brighton_sideboard_custom_resized.jpg?v=1710799201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Evoke a sense of coastal tranquillity with the oak Brighton Sideboard.  Harmonizing natural textures and classic design.  </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>rattan</s:tag>
+    <s:tag>sideboard</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8249112330476</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>445643</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8214566600940</id>
+    <published>2024-03-05T07:36:47+08:00</published>
+    <updated>2024-03-05T07:36:47+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pemberton-large-buffet"/>
+    <title>Pemberton Large Buffet</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PembertonBuffet_01.jpg?v=1710297869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            3499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Introducing the Pemberton Large Buffet, meticulously crafted from premium grade West Australian Marri. Offering generous storage with two drawers and four doors, this stunning natural timber grain buffet will add a touch of rustic elegance to your space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>marri timber</s:tag>
+    <s:tag>timber buffet</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8214566600940</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3499.00</s:price>
+      <s:sku>408512</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8214714417388</id>
+    <published>2024-03-05T07:10:24+08:00</published>
+    <updated>2024-03-05T07:10:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pemberton-dining-table-1"/>
+    <title>Pemberton Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PembertonDiningTable_42f243b3-671e-447d-b52b-b393811f35f2.jpg?v=1709595977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            2999.00 - 3999.00
+            <a href="https://thefurnituregallery.com.au/products/pemberton-dining-table-1">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Experience the meticulously crafted Pemberton Dining Table, fashioned from solid premium grade West Australian Marri, ensuring the highest quality dining experience. Its stunning natural timber grain adds a touch of rustic elegance, creating a timeless centre piece for your dining room.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>timber dining table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8214714417388</id>
+      <title>2.1m</title>
+      <s:price currency="AUD">2999.00</s:price>
+      <s:sku>408509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8214714417388</id>
+      <title>2.4m</title>
+      <s:price currency="AUD">3499.00</s:price>
+      <s:sku>408510</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8214714417388</id>
+      <title>2.7m</title>
+      <s:price currency="AUD">3999.00</s:price>
+      <s:sku>408511</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8159285018860</id>
+    <published>2024-02-09T09:07:53+08:00</published>
+    <updated>2024-02-09T09:07:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hampton-elite-4-door-sideboard"/>
+    <title>Hampton Elite 4 Door Sideboard</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Hampton4DoorSideboard_bf350b4c-3987-46ff-8b18-4b17562e2196.jpg?v=1707439832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Capture the magic of <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> home styling with the Hampton 4 Doors Sideboard. With plenty of practical storage, this <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired sideboard is defined by crisp <a href="https://thefurnituregallery.com.au/products/hampton-4-door-4-drawer-sideboard">white timber</a> and cross detailing, offering a timeless, classic look. *Matching hutch available</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>sideboard</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8159285018860</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>408947</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152749998316</id>
+    <published>2024-01-31T07:18:21+08:00</published>
+    <updated>2024-01-31T07:18:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cafe-counter-stool-natural"/>
+    <title>Cafe Counter Stool - Natural</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ScreenShot2024-03-15at12.44.51pm.png?v=1710466999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            369.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Introduce a blend of urban charm and natural warmth with the Café Counter Stool in natural.  Featuring a rattan seat and back, offering both style and comfort for your dining or kitchen counter.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar stool</s:tag>
+    <s:tag>stool</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152749998316</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">369.00</s:price>
+      <s:sku>408594</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152743739628</id>
+    <published>2024-01-31T07:14:18+08:00</published>
+    <updated>2024-01-31T07:14:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cafe-counter-stool-black"/>
+    <title>Cafe Counter Stool - Black</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/cafecounterstools_aa70cfe1-f733-4b1f-a9aa-6ab151a98ef5.png?v=1710302393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            369.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Introduce a blend of urban charm and natural warmth with the Café Counter Stool in black.  Featuring a rattan seat and back, offering both style and comfort for your dining or kitchen counter.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bar stool</s:tag>
+    <s:tag>stool</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152743739628</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">369.00</s:price>
+      <s:sku>408593</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8148480524524</id>
+    <published>2024-01-26T09:46:58+08:00</published>
+    <updated>2024-01-26T09:46:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/lyon-oak-wood-dresser-black-and-natural"/>
+    <title>Lyon Oak Wood Dresser - Black &amp; Natural</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/LyonOakWoodDresser-blackandnatural.jpg?v=1706233551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            3999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">The Lyon Oak Wood Dresser is defined by a solid oak frame, dark and natural timber featuring antique silver hardware that results in a regal, striking design.  Perfectly pairs with a timeless décor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sideboard</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8148480524524</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3999.00</s:price>
+      <s:sku>452306P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8130827550956</id>
+    <published>2024-01-19T13:06:41+08:00</published>
+    <updated>2024-01-19T13:06:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/chantelle-4-door-display-black"/>
+    <title>Chantelle 4 Door Display - Matte Black</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Chantelle4DoorDisplay-blackopen_jpeg.jpg?v=1704754290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            4698.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elevate your home décor with the stunning matte black Chantelle Display Cabinet. Featuring four glass doors for an upper showcase and four enclosed doors below.  A versatile display piece seamlessly combining functionality with a touch of elegance.</p>
+<p><strong data-mce-fragment="1">*See in store, available for special order only. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display cabinet</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8130827550956</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">4698.00</s:price>
+      <s:sku>408578</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8116122321132</id>
+    <published>2024-01-19T12:47:31+08:00</published>
+    <updated>2024-01-19T12:47:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/arwana-sideboard"/>
+    <title>Arwana Sideboard</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ArwanaSideboard.jpg?v=1702598432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Arwana Sideboard features beautiful Teak timber.  With black contrasting features, including an open shelf. This sideboard imbues a modern classic style.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sideboard</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8116122321132</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1999.00</s:price>
+      <s:sku>403803</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8133894373612</id>
+    <published>2024-01-12T12:10:55+08:00</published>
+    <updated>2024-01-12T12:10:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/lyon-oak-dining-chair"/>
+    <title>Lyon Oak Dining Chair</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/LyonDiningChair-styled_jpeg.heic?v=1705029647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Lyon Oak Dining Chair</span><span data-mce-fragment="1"> features oakwood legs, grey fabric upholstery and silver nail heads for a classic look.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dining chair</s:tag>
+    <s:tag>upholstered dining chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8133894373612</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.00</s:price>
+      <s:sku>450973</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8130818212076</id>
+    <published>2024-01-12T10:45:43+08:00</published>
+    <updated>2024-01-12T10:45:43+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/verdelho-square-dining-chair-nettlewood"/>
+    <title>Verdelho Square Dining Chair - Nettlewood</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/VerdelhoSquareDiningChair-Nettlewoodangle_jpeg.heic?v=1705027123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            469.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Verdelho Square Dining Chair combines comfort and elegance, featuring a beige neutral upholstery, a natural Nettlewood timber frame, padded seat, and back, embodying a classic and timeless style for a refined dining experience.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dining chair</s:tag>
+    <s:tag>upholstered dining chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8130818212076</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">469.00</s:price>
+      <s:sku>451553</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8118492725484</id>
+    <published>2023-12-19T11:10:49+08:00</published>
+    <updated>2023-12-19T11:10:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bondi-bench-seat"/>
+    <title>Bondi Bench Seat</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BondiBenchseatangle_938ed72a-aca7-4ebc-ad16-f95782cc8219.jpg?v=1702939115"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            699.00 - 799.00
+            <a href="https://thefurnituregallery.com.au/products/bondi-bench-seat">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Crafted from light chestnut </span><a data-mce-fragment="1" href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection" data-mce-href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">timber</a><span data-mce-fragment="1">, the Bondi Bench Seat features cross legs and is the perfect  accompaniment to our best selling <a title="Bondi Dining Table" href="https://thefurnituregallery.com.au/products/bondi-dining-table">Bondi Dining Table.</a></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bench seat</s:tag>
+    <s:tag>dining bench</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8118492725484</id>
+      <title>1.9m</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>408372</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8118492725484</id>
+      <title>2.3m</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>408373P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8106821189868</id>
+    <published>2023-12-06T17:16:40+08:00</published>
+    <updated>2023-12-06T17:16:40+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/maya-dining-chair-grey"/>
+    <title>Maya Dining Chair - Grey</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/MayaDiningChairs-Grey2.jpg?v=1701854282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="auto" data-pm-slice="1 1 []" data-mce-fragment="1">Upgrade your dining experience with the Maya Dining Chair. Crafted with sleek grey leather upholstery and a contemporary design, this chair effortlessly combines style and comfort.  Pair it back with the <a href="https://thefurnituregallery.com.au/products/maya-dining-table" title="Maya Dining Table">Maya Dining Table</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dining chair</s:tag>
+    <s:tag>leather</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8106821189868</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.00</s:price>
+      <s:sku>408823b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8106142564588</id>
+    <published>2023-12-06T16:38:42+08:00</published>
+    <updated>2023-12-06T16:38:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/venus-dining-table"/>
+    <title>Venus  Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Venus1220RoundDiningTablewithJuleDiningChairs_2d2f8b4b-a674-4476-9226-110c6c69001b.jpg?v=1701839098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="auto" data-pm-slice="1 1 []" data-mce-fragment="1"><span data-mce-fragment="1">Gather around this centre piece of classic sophistication. T</span>he Venus Dining Table is underscored by a solid pedestal base, exuding timeless elegance.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>round dining table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8106142564588</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1199.00</s:price>
+      <s:sku>486097P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8105582592236</id>
+    <published>2023-12-06T13:13:57+08:00</published>
+    <updated>2023-12-06T13:13:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/portland-dining-chair-stone"/>
+    <title>Portland Dining Chair - Stone</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PortlandDiningChair-Stone.jpg?v=1701814806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            479.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Stunning stone <a href="https://thefurnituregallery.com.au/collections/velvet">velvet</a> upholstered <a href="https://thefurnituregallery.com.au/collections/dining-chairs">dining chair</a> with button tufting and studded edging.  Perfectly accompanies the Portland <a href="https://thefurnituregallery.com.au/collections/dining-tables">Dining Table</a>.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>upholstered</s:tag>
+    <s:tag>upholstered dining chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8105582592236</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">479.00</s:price>
+      <s:sku>451245</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8104722890988</id>
+    <published>2023-12-06T07:07:32+08:00</published>
+    <updated>2023-12-06T07:07:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/maya-dining-table"/>
+    <title>Maya Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Maya2400DiningwithMayaLeatherChairs.jpg?v=1701749120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="auto" data-pm-slice="1 1 []" data-mce-fragment="1">The Maya Dining table is elegantly crafted from premium American white oak.  This Scandinavian-inspired masterpiece exudes a timeless charm, with its spacious 2.4m design.  Perfectly pairs with the <a href="https://thefurnituregallery.com.au/products/maya-dining-chair-grey" title="Maya Dining Chair">Maya Dining Chair</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dining table</s:tag>
+    <s:tag>timber dining table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8104722890988</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>408823P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8100388536556</id>
+    <published>2023-12-05T10:04:15+08:00</published>
+    <updated>2023-12-05T10:04:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/willow-dining-chair"/>
+    <title>Willow Dining Chair</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/WillowDiningChairs.jpg?v=1701741846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            369.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Willow Dining Chair perfectly complements the <a href="https://thefurnituregallery.com.au/products/willow-1800-dining-table" title="Willow Dining Table"><span style="text-decoration: underline;">Willow Dining Table</span></a> with its <span data-mce-fragment="1">solid hand crafted mahogany</span>, rattan back and beige seat pad.</p>
+<p>*$199 when purchased in store with the Willow Dining Table.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dining chair</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>upholstered dining chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8100388536556</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">369.00</s:price>
+      <s:sku>486099</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8100390994156</id>
+    <published>2023-12-05T09:58:27+08:00</published>
+    <updated>2023-12-05T09:58:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/willow-1800-dining-table"/>
+    <title>Willow 1800 Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/WillowDiningwithChairsandConsole.jpg?v=1701741571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Willow Dining Table is a versatile piece crafted from solid hand crafted mahogany, boasting a classic design with timeless appeal to suit a range of interiors.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>timber dining table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8100390994156</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">899.00</s:price>
+      <s:sku>486098</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8053080883436</id>
+    <published>2023-12-01T11:46:00+08:00</published>
+    <updated>2023-12-01T11:46:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/juliette-dining-table"/>
+    <title>Juliette Dining Table</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/JulietteDiningTable1.jpg?v=1709850613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Juliette Dining Table elegantly juxtaposes dark timber with a gold base for a chic look.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>contemporary dining table</s:tag>
+    <s:tag>dining table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8053080883436</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>486090</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

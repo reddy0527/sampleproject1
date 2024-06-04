@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/floor-rugs.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-05-31T17:45:03+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970283716844</id>
+    <published>2024-05-31T17:45:03+08:00</published>
+    <updated>2024-05-31T17:45:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pony-rectangle-floor-rug-dark-grey"/>
+    <title>Pony Rectangle Floor Rug - Dark Grey</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PON-DKGREY.jpg?v=1693549726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            319.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Make any space feel cosy with the Pony Rectangle </span><a href="https://thefurnituregallery.com.au/collections/floor-rugs">Rug</a><span> in Dark Grey, featuring a super soft exterior, perfect for sinking your feet into.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor rug</s:tag>
+    <s:tag>soft floor rug</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970283716844</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">319.20</s:price>
+      <s:sku>448405</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8154357891308</id>
+    <published>2024-02-06T08:34:15+08:00</published>
+    <updated>2024-02-06T08:34:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/charm-rug-aqua"/>
+    <title>Charm Rug - Aqua</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CHA-05B-AQU-160x230_1.jpg?v=1707179616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            527.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="flex-1 overflow-hidden">
+<div class="react-scroll-to-bottom--css-bgwuo-79elbk h-full">
+<div class="react-scroll-to-bottom--css-bgwuo-1n7m0yu">
+<div class="flex flex-col pb-9 text-sm">
+<div data-testid="conversation-turn-65" class="w-full text-token-text-primary">
+<div class="px-4 py-2 justify-center text-base md:gap-6 m-auto">
+<div class="flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group final-completion">
+<div class="relative flex w-full flex-col lg:w-[calc(100%-115px)] agent-turn">
+<div class="flex-col gap-1 md:gap-3">
+<div class="flex flex-grow flex-col max-w-full">
+<div class="min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto" data-message-id="4cc9ca38-808e-4c34-b281-3caefed38757" data-message-author-role="assistant">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<p>The Charm Rug features a fatigued distressed texture, lending a vintage allure and invoking a timeless aesthetic. This fusion of classic and contemporary styles, often termed transitional, offers a versatile elegance in your space.</p>
+</div>
+</div>
+</div>
+<div class="mt-1 flex justify-start gap-3 empty:hidden">
+<div class="text-gray-400 flex self-end lg:self-center justify-center lg:justify-start mt-0 -ml-1 visible">
+<span data-state="closed" class=""><button class="flex items-center gap-1.5 rounded-md p-1 text-xs text-token-text-tertiary hover:text-token-text-primary md:invisible md:group-hover:visible md:group-[.final-completion]:visible"><svg class="icon-md" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" height="24" width="24"><path fill="currentColor" d="M12 4C10.8954 4 10 4.89543 10 6H14C14 4.89543 13.1046 4 12 4ZM8.53513 4C9.22675 2.8044 10.5194 2 12 2C13.4806 2 14.7733 2.8044 15.4649 4H17C18.6569 4 20 5.34315 20 7V19C20 20.6569 18.6569 22 17 22H7C5.34315 22 4 20.6569 4 19V7C4 5.34315 5.34315 4 7 4H8.53513ZM8 6H7C6.44772 6 6 6.44772 6 7V19C6 19.5523 6.44772 20 7 20H17C17.5523 20 18 19.5523 18 19V7C18 6.44772 17.5523 6 17 6H16C16 7.10457 15.1046 8 14 8H10C8.89543 8 8 7.10457 8 6Z" clip-rule="evenodd" fill-rule="evenodd"></path></svg></button></span>
+<div class="flex items-center gap-1.5 text-xs">
+<svg class="icon-md" xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" height="24" width="24"><path fill="currentColor" d="M4.5 2.5C5.05228 2.5 5.5 2.94772 5.5 3.5V5.07196C7.19872 3.47759 9.48483 2.5 12 2.5C17.2467 2.5 21.5 6.75329 21.5 12C21.5 17.2467 17.2467 21.5 12 21.5C7.1307 21.5 3.11828 17.8375 2.565 13.1164C2.50071 12.5679 2.89327 12.0711 3.4418 12.0068C3.99033 11.9425 4.48712 12.3351 4.5514 12.8836C4.98798 16.6089 8.15708 19.5 12 19.5C16.1421 19.5 19.5 16.1421 19.5 12C19.5 7.85786 16.1421 4.5 12 4.5C9.7796 4.5 7.7836 5.46469 6.40954 7H9C9.55228 7 10 7.44772 10 8C10 8.55228 9.55228 9 9 9H4.5C3.96064 9 3.52101 8.57299 3.50073 8.03859C3.49983 8.01771 3.49958 7.99677 3.5 7.9758V3.5C3.5 2.94772 3.94771 2.5 4.5 2.5Z" clip-rule="evenodd" fill-rule="evenodd"></path></svg><br>
+</div>
+<div class="flex"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="w-full pt-2 md:pt-0 dark:border-white/20 md:border-transparent md:dark:border-transparent md:w-[calc(100%-.5rem)]"><form class="stretch mx-2 flex flex-row gap-3 last:mb-2 md:mx-4 md:last:mb-6 lg:mx-auto lg:max-w-2xl xl:max-w-3xl">
+<div class="relative flex h-full flex-1 items-stretch md:flex-col">
+<div class="flex w-full items-center"><br></div>
+</div>
+</form></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor rug</s:tag>
+    <s:tag>soft floor rug</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8154357891308</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">527.20</s:price>
+      <s:sku>452668</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8154357596396</id>
+    <published>2024-02-06T08:31:43+08:00</published>
+    <updated>2024-02-06T08:31:43+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/barwang-rug-white"/>
+    <title>Barwang Rug - White</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BARWANG_WHITE_1.jpg?v=1707179485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            631.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Experience the comfort of the Barwang Rug's bouclé weave.  Fully reversible and skilfully hand-loomed by master artisans.  Crafted from 100% Jute, perfect for high traffic areas.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor rug</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8154357596396</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">631.20</s:price>
+      <s:sku>452672</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8154356842732</id>
+    <published>2024-02-06T08:26:29+08:00</published>
+    <updated>2024-02-06T08:26:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/courtyard-rug-biscuit"/>
+    <title>Courtyard Rug - Biscuit</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CRT6200-BIS_2.jpg?v=1707179176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            607.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Courtyard Rug features a cottage style handwoven high-low construction. Suitable for both indoor and outdoor use this sustainable rug is crafted from 100% recycled plastic bottles. Crafted in India.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor rug</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8154356842732</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">607.20</s:price>
+      <s:sku>452669</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8154355007724</id>
+    <published>2024-02-06T08:23:26+08:00</published>
+    <updated>2024-02-06T08:23:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/dream-rug-blush-1"/>
+    <title>Savannah Rug - Grey</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/SAV-5477-GRY-160x230_1.jpg?v=1707178001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            399.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Elevate your space with the Savannah Rug. This Bohemian-style rug is suitable for both outdoor and indoor settings, boasting a tribal-inspired design and crafted for durability. Crafted in Turkey.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor rug</s:tag>
+    <s:tag>soft floor rug</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8154355007724</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.20</s:price>
+      <s:sku>452665</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8154353631468</id>
+    <published>2024-02-06T08:03:47+08:00</published>
+    <updated>2024-02-06T08:03:47+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/magnus-rug-smoke"/>
+    <title>Magnus Rug - Smoke</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/MAG-SMK_2.jpg?v=1707177357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            1519.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Indulge in luxury with the Magnus Rug, featuring extra fine, soft wool and viscose pile, with a lustrous stony pattern. Meticulously handcrafted by artisans in India, add a touch of artistry and sophistication to your living space. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor rug</s:tag>
+    <s:tag>soft floor rug</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8154353631468</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1519.20</s:price>
+      <s:sku>408894</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8154357334252</id>
+    <published>2024-02-06T07:50:04+08:00</published>
+    <updated>2024-02-06T07:50:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cumulus-rug-stone"/>
+    <title>Cumulus Rug - Stone</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/cumulus_50801-87b.jpg?v=1707176800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            759.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Enhance your space with Cumulus Rug in soft grey, boasting a neutral tone that effortlessly complements countless interiors.  The rich pile blend is lush, easy to clean and non-shedding.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor rug</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8154357334252</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">759.20</s:price>
+      <s:sku>452666</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8018244305132</id>
+    <published>2023-10-04T09:17:37+08:00</published>
+    <updated>2023-10-04T09:17:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/torino-floor-rug-142-pearl"/>
+    <title>Torino Floor Rug - 142 Pearl</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/TORINO-142-PEARL.jpg?v=1696380106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            719.20 - 959.20
+            <a href="https://thefurnituregallery.com.au/products/torino-floor-rug-142-pearl">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">This luxurious floor </span><a href="https://thefurnituregallery.com.au/collections/floor-rugs" data-mce-fragment="1" data-mce-href="https://thefurnituregallery.com.au/collections/floor-rugs">rug</a><span data-mce-fragment="1"> with a vintage-inspired print will add a touch of class to any space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor rug</s:tag>
+    <s:tag>paisley floor rug</s:tag>
+    <s:tag>soft floor rug</s:tag>
+    <s:tag>vintage style</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8018244305132</id>
+      <title>200 x 290 cm</title>
+      <s:price currency="AUD">719.20</s:price>
+      <s:sku>408576</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8018244305132</id>
+      <title>240 x 330 cm</title>
+      <s:price currency="AUD">959.20</s:price>
+      <s:sku>408584</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970270609644</id>
+    <published>2023-09-01T15:35:54+08:00</published>
+    <updated>2023-09-01T15:35:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/torino-floor-rug-multi-blue"/>
+    <title>Torino Floor Rug - Multi Blue</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/TORINO-343-MULTI-BLUEjpg.jpg?v=1693548976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            719.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Add a plush layer to your decor with the Torino Floor Rug in Multi Blue.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor rug</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970270609644</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">719.20</s:price>
+      <s:sku>449157</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970268283116</id>
+    <published>2023-09-01T15:35:12+08:00</published>
+    <updated>2023-09-01T15:35:12+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/torino-floor-rug-156-pearl"/>
+    <title>Torino Floor Rug - 156 Pearl</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/TORINO-156-PEARL.jpg?v=1693548830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            719.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">This luxurious floor </span><a href="https://thefurnituregallery.com.au/collections/floor-rugs" data-mce-fragment="1" data-mce-href="https://thefurnituregallery.com.au/collections/floor-rugs">rug</a><span data-mce-fragment="1"> with a vintage-inspired print will add a touch of class to any space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor rug</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970268283116</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">719.20</s:price>
+      <s:sku>452276</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970260943084</id>
+    <published>2023-09-01T15:34:18+08:00</published>
+    <updated>2023-09-01T15:34:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/charm-all-over-modern-floor-rug"/>
+    <title>Charm All Over Modern Floor Rug</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CHARM_ALL_OVER_MODERN.jpg?v=1693548205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            399.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor rug</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970260943084</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.20</s:price>
+      <s:sku>448919</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970275393772</id>
+    <published>2023-09-01T15:33:14+08:00</published>
+    <updated>2023-09-01T15:33:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pony-round-floor-rug-white"/>
+    <title>Pony Round Floor Rug - White</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PONY_WHITE_ROUND.jpg?v=1693549222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            239.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Pony Round Floor Rug has a fluffy texture that's soft and cosy for your feet, along with adding a chic accent to any space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor rug</s:tag>
+    <s:tag>round floor rug</s:tag>
+    <s:tag>soft floor rug</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970275393772</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">239.20</s:price>
+      <s:sku>449270</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970277785836</id>
+    <published>2023-09-01T15:32:53+08:00</published>
+    <updated>2023-09-01T15:32:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pony-round-floor-rug-navy"/>
+    <title>Pony Round Floor Rug - Navy</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PON-NAVY_ROUND.jpg?v=1693549368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            239.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor rug</s:tag>
+    <s:tag>round floor rug</s:tag>
+    <s:tag>soft floor rug</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970277785836</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">239.20</s:price>
+      <s:sku>448681</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970279686380</id>
+    <published>2023-09-01T15:32:31+08:00</published>
+    <updated>2023-09-01T15:32:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pony-round-floor-rug-dark-grey"/>
+    <title>Pony Round Floor Rug - Dark Grey</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PON-DKGREY-ROUND_002.jpg?v=1693549488"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            239.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Pony Round Floor Rug has a fluffy texture that's soft and cosy for your feet, along with adding a chic accent to any space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor rug</s:tag>
+    <s:tag>round floor rug</s:tag>
+    <s:tag>soft floor rug</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970279686380</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">239.20</s:price>
+      <s:sku>448682</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970281423084</id>
+    <published>2023-09-01T15:32:14+08:00</published>
+    <updated>2023-09-01T15:32:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pony-round-floor-rug-black"/>
+    <title>Pony Round Floor Rug - Black</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PON-BLACK_ROUND_002.jpg?v=1693549589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            239.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Pony Round Floor Rug has a fluffy texture that's soft and cosy for your feet, along with adding a chic accent to any space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor rug</s:tag>
+    <s:tag>round floor rug</s:tag>
+    <s:tag>soft floor rug</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970281423084</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">239.20</s:price>
+      <s:sku>450234</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970284732652</id>
+    <published>2023-09-01T15:31:48+08:00</published>
+    <updated>2023-09-01T15:31:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-pony-rectangle-floor-rug-dark-grey"/>
+    <title>Pony Rectangle Floor Rug - Gun Metal</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PON-GRY-PonyRectangleRug_889cf3b0-fce1-499d-8bb4-924777780e58.jpg?v=1693549802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            319.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Pony</span><span data-mce-fragment="1"> Rectangle Floor Rug has a fluffy texture that's soft and cosy for your feet, along with adding a chic accent to any space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor rug</s:tag>
+    <s:tag>soft floor rug</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970284732652</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">319.20</s:price>
+      <s:sku>452177</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970286731500</id>
+    <published>2023-09-01T15:31:30+08:00</published>
+    <updated>2023-09-01T15:31:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-pony-rectangle-floor-rug-gun-metal"/>
+    <title>Pony Rectangle Floor Rug - White</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PONY_WHITE.jpg?v=1693549987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            319.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Pony Rectangle Floor Rug has a fluffy texture that's soft and cosy for your feet, along with adding a chic accent to any space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor rug</s:tag>
+    <s:tag>soft floor rug</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970286731500</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">319.20</s:price>
+      <s:sku>448406</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7942241222892</id>
+    <published>2023-08-25T10:52:30+08:00</published>
+    <updated>2023-08-25T10:52:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-montreal-rug-stone"/>
+    <title>Montreal Rug - 84 Stone</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/MTR-84-STN-160x230-MontrealStone84.jpg?v=1688443730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            959.20 - 1279.20
+            <a href="https://thefurnituregallery.com.au/products/copy-of-montreal-rug-stone">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made in Turkey. <meta charset="utf-8">40% Viscose, 60% Polyester.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor rug</s:tag>
+    <s:tag>neutral</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7942241222892</id>
+      <title>200 cm</title>
+      <s:price currency="AUD">959.20</s:price>
+      <s:sku>452691</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7942241222892</id>
+      <title>240 cm</title>
+      <s:price currency="AUD">1279.20</s:price>
+      <s:sku>452690</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7955770245356</id>
+    <published>2023-08-25T10:52:00+08:00</published>
+    <updated>2023-08-25T10:52:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/nain-rug-ivory"/>
+    <title>Nain Rug - Ivory</title>
+    <s:type>Living;Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/NainIvory1.jpg?v=1690504387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Bedroom<br>
+        <strong>Price: </strong>
+            959.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">This classic rug will add an elegant touch to your home, featuring a beautiful antique floral print.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor rug</s:tag>
+    <s:tag>grey rug</s:tag>
+    <s:tag>paisley floor rug</s:tag>
+    <s:tag>soft floor rug</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7955770245356</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">959.20</s:price>
+      <s:sku>452659</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7942241419500</id>
+    <published>2023-08-25T10:51:18+08:00</published>
+    <updated>2023-08-25T10:51:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/montreal-rug-04-stone"/>
+    <title>Montreal Rug - 04 Stone</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/MTR-04-STN-160x230-MontrealStone.jpg?v=1688443947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            1279.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Made in Turkey. 40% Viscose, 60% Polyester.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor rug</s:tag>
+    <s:tag>neutral</s:tag>
+    <s:tag>rectangle rug</s:tag>
+    <s:tag>soft floor rug</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7942241419500</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1279.20</s:price>
+      <s:sku>452689</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7942238044396</id>
+    <published>2023-07-28T08:26:08+08:00</published>
+    <updated>2023-07-28T08:26:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/nain-rug-powder-grey"/>
+    <title>Nain Rug - Powder Grey</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/NAN070570114666_1-Nain-PowderGrey.jpg?v=1688440948"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            631.20 - 983.20
+            <a href="https://thefurnituregallery.com.au/products/nain-rug-powder-grey">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This classic, patterned rug will add an elegant touch to your home.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>grey rug</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7942238044396</id>
+      <title>230 cm</title>
+      <s:price currency="AUD">631.20</s:price>
+      <s:sku>452660</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7942238044396</id>
+      <title>290 cm</title>
+      <s:price currency="AUD">983.20</s:price>
+      <s:sku>452661</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7932790538476</id>
+    <published>2023-06-07T10:02:04+08:00</published>
+    <updated>2023-06-07T10:02:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/roy-jute-runner-natural"/>
+    <title>Roy Jute Runner - Natural</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/royjuterunner.png?v=1702353431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Roy Jute Runner features fringed edges and detailed handwoven textures, made from hardworking jute</span><span data-mce-fragment="1"> to protect floors in</span> high traffic areas of your home, like the kitchen and hallway.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor rug</s:tag>
+    <s:tag>jute rug</s:tag>
+    <s:tag>runner</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7932790538476</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">200.00</s:price>
+      <s:sku>451622</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7932786835692</id>
+    <published>2023-06-07T09:52:09+08:00</published>
+    <updated>2023-06-07T09:52:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/olinda-jute-rug-olive"/>
+    <title>Olinda Jute Rug - Olive</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/23W158.jpg?v=1686099260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            959.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor rug</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>jute rug</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7932786835692</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">959.20</s:price>
+      <s:sku>451623</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7932786671852</id>
+    <published>2023-06-07T09:17:10+08:00</published>
+    <updated>2023-06-07T09:17:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/jude-jute-rug-grey"/>
+    <title>Jude Jute Rug - Grey</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/23W171.jpg?v=1686099180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            720.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor rug</s:tag>
+    <s:tag>jute rug</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7932786671852</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">720.00</s:price>
+      <s:sku>451616</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7917458555116</id>
+    <published>2023-05-04T08:16:53+08:00</published>
+    <updated>2023-05-04T08:16:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/jute-rhyll-grey-rug"/>
+    <title>Jute Rhyll Grey Rug</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/JuteRhyllGreyRug.jpg?v=1683096222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            760.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A natural jute <a href="https://thefurnituregallery.com.au/collections/floor-rugs">rug</a> with texture, perfect for a coastal home.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>jute rug</s:tag>
+    <s:tag>natural rug</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7917458555116</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">760.00</s:price>
+      <s:sku>451619</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

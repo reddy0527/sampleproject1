@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/side-tables.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-05-24T13:09:18+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8477501980908</id>
+    <published>2024-05-24T13:09:18+08:00</published>
+    <updated>2024-05-24T13:09:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/akala-marble-side-table"/>
+    <title>Akala Marble Side Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/AkalaMarbleSideTable2.webp?v=1716523323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            449.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Introduce a touch of elegance to your living space with the Akala Marble Side Table. This side table perfectly blends contemporary design with timeless sophistication, featuring a luxurious pink marble top and a sleek gold-finished metal base.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>marble side table</s:tag>
+    <s:tag>metal side table</s:tag>
+    <s:tag>round side table</s:tag>
+    <s:tag>side table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8477501980908</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">449.00</s:price>
+      <s:sku>409273b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8453566595308</id>
+    <published>2024-05-14T12:09:32+08:00</published>
+    <updated>2024-05-14T12:09:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/travertine-side-table"/>
+    <title>Travertine Side Table</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Travertinesidetablestyled.webp?v=1717407651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafted with a natural stone top and an oak veneer base the Travertine Side Table has a classic-contemporary charm.  Pairs back beautifully with the <a href="https://thefurnituregallery.com.au/products/travertine-coffee-table" title="Travertine Coffee Table">Travertine Coffee Table.</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oak</s:tag>
+    <s:tag>round side table</s:tag>
+    <s:tag>side table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8453566595308</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>409209</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8436011466988</id>
+    <published>2024-05-07T09:08:38+08:00</published>
+    <updated>2024-05-07T09:08:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/jax-marble-side-table"/>
+    <title>Jax Marble Side Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/5dIgGu8Q.jpg?v=1716513398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafted from beautiful <span>white marble, the Jax Side Table exudes quiet sophistication, making it the perfect addition to effortlessly upscale your living space.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>round side table</s:tag>
+    <s:tag>side table</s:tag>
+    <s:tag>white marble</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8436011466988</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">499.00</s:price>
+      <s:sku>409240</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8384124584172</id>
+    <published>2024-04-24T07:38:55+08:00</published>
+    <updated>2024-04-24T07:38:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/wyatt-side-table"/>
+    <title>Wyatt Side Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/nUsxyxw.jpg?v=1716514986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Introducing the Wyatt Side Table, meticulously crafted from mango wood with a subtle white wash finish, this unique piece boasts a ribbed silhouette that exudes rustic charm and elegance.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>round side table</s:tag>
+    <s:tag>side table</s:tag>
+    <s:tag>timber side table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8384124584172</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">650.00</s:price>
+      <s:sku>409088</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8298910548204</id>
+    <published>2024-04-08T17:44:41+08:00</published>
+    <updated>2024-04-08T17:44:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/silvio-marble-side-table"/>
+    <title>Silvio Marble Side Table</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/IMG_7415.heic?v=1713931361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            469.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Silvio Marble Side Table effortlessly blends contemporary sleek design with artistic flair to add a luxurious focal point to your room.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8298910548204</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">469.00</s:price>
+      <s:sku>409049</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833299583212</id>
+    <published>2024-02-09T07:36:17+08:00</published>
+    <updated>2024-02-09T07:36:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/emery-side-table"/>
+    <title>Emery Side Table</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/IMG_2947.jpg?v=1669862084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Emery <a href="https://thefurnituregallery.com.au/collections/side-tables">Side Table</a> features a black metal frame and <a href="https://thefurnituregallery.com.au/products/hampton-glass-top-side-table">glass top</a> for a sleek, modern look.</p>
+<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass side table</s:tag>
+    <s:tag>glass table</s:tag>
+    <s:tag>metal side table</s:tag>
+    <s:tag>square side table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833299583212</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.00</s:price>
+      <s:sku>449745</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152053907692</id>
+    <published>2024-01-30T10:02:18+08:00</published>
+    <updated>2024-01-30T10:02:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/lyon-oak-wood-end-table-black"/>
+    <title>Lyon Oak Wood End Table - Black</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/LyonOakWoodEndtable-black_14ca05f7-fb58-4fb1-ba3b-dbaa5a0f1fc4.jpg?v=1706576062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A petite end table with a gorgeous French Country design..</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lamp table</s:tag>
+    <s:tag>side table</s:tag>
+    <s:tag>solid timber</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152053907692</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>452315P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970173124844</id>
+    <published>2024-01-30T08:52:52+08:00</published>
+    <updated>2024-01-30T08:52:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-lyon-oak-wood-end-table-black"/>
+    <title>Lyon Oak Wood End Table - Black &amp; Natural</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/LyonEndTable-natural_c3f028d3-5994-42a7-bffb-435223781779.jpg?v=1696983141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A petite end table with a gorgeous French Country design, timber top and contrasting black base.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lamp table</s:tag>
+    <s:tag>side table</s:tag>
+    <s:tag>solid timber</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970173124844</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>452316P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8127053463788</id>
+    <published>2024-01-03T15:10:50+08:00</published>
+    <updated>2024-01-03T15:10:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pete-pineapple-side-table"/>
+    <title>Pete Pineapple Side Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PetePineappleSideTable.webp?v=1704265721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Embrace a touch of tropical paradise with the Pete Pineapple Side Table.  Featuring a gold pineapple metal base supporting a glass top, seamlessly blending coastal charm with a hint of luxury.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent side table</s:tag>
+    <s:tag>glass side table</s:tag>
+    <s:tag>gold side table</s:tag>
+    <s:tag>metal side table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8127053463788</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">199.00</s:price>
+      <s:sku>408328</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8127052349676</id>
+    <published>2024-01-03T15:07:00+08:00</published>
+    <updated>2024-01-03T15:07:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pina-colada-side-table"/>
+    <title>Pina Colada Side Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PinacoladaCocktailTable.webp?v=1704265001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Infuse a tropical vibe into your space with the Pina Colada Side Table.  The gold palm tree base gracefully supports a round glass top, bringing a touch of exotic flair and coastal elegance to your décor.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8127052349676</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">149.00</s:price>
+      <s:sku>408330</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8127050023148</id>
+    <published>2024-01-03T15:05:55+08:00</published>
+    <updated>2024-01-03T15:05:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/antigua-side-table"/>
+    <title>Antigua Side Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/AntiguaSideTable.webp?v=1704264676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Boasting a stylish gold tropical palm tree base supporting a round glass top, the Antigua Side Table a fun and chic addition to your interior.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gold side table</s:tag>
+    <s:tag>metal side table</s:tag>
+    <s:tag>side table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8127050023148</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">199.00</s:price>
+      <s:sku>408329</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8127046516972</id>
+    <published>2024-01-03T15:05:03+08:00</published>
+    <updated>2024-01-03T15:05:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/aperitivo-marble-table"/>
+    <title>Aperitivo Marble Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/AperitivoMarbleTable.jpg?v=1704264144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            169.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Aperitivo Marble Table is a elegant modern piece, perfect for placing cocktails and wine on.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>round side table</s:tag>
+    <s:tag>side table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8127046516972</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">169.00</s:price>
+      <s:sku>408322</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8100384047340</id>
+    <published>2023-12-15T13:22:58+08:00</published>
+    <updated>2023-12-15T13:22:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/piper-square-side-table"/>
+    <title>Piper Square Side Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PiperSquareSideTable.jpg?v=1702617749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Beautifully contrasting a timber top with a white antique-style painted base, the Piper Square Side Table creates a whimsical yet timeless addition to your bedroom or living space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>side table</s:tag>
+    <s:tag>white bedside</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8100384047340</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">299.00</s:price>
+      <s:sku>487008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8106157211884</id>
+    <published>2023-12-06T16:37:52+08:00</published>
+    <updated>2023-12-06T16:37:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/charlotte-side-table-1"/>
+    <title>Charlotte Side Table</title>
+    <s:type>Living;Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CharlotteSideTable_1a1d2548-2ea6-473e-b9b8-0256d987a5d7.jpg?v=1701839216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Bedroom<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">A French provincial style side table featuring a light timber finish, embodying classic elegance.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>round side table</s:tag>
+    <s:tag>side table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8106157211884</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">299.00</s:price>
+      <s:sku>486082</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8100380213484</id>
+    <published>2023-12-01T08:31:10+08:00</published>
+    <updated>2023-12-01T08:31:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/piper-round-side-table"/>
+    <title>Piper Round Side Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PiperRoundSideTable1.jpg?v=1702617954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Piper Round Side Table is a gorgeous French Provincial-inspired side table crafted from timber in a cream finish.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>round side table</s:tag>
+    <s:tag>side table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8100380213484</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">299.00</s:price>
+      <s:sku>487011</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8100376969452</id>
+    <published>2023-12-01T08:08:24+08:00</published>
+    <updated>2023-12-01T08:08:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/piper-end-table"/>
+    <title>Piper End Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PiperEndTable.jpg?v=1701389303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Piper End Table exudes classic European elegance - cream timber, ornate details and a small rattan shelf.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french provincial</s:tag>
+    <s:tag>side table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8100376969452</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">299.00</s:price>
+      <s:sku>487010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8053070397676</id>
+    <published>2023-11-21T14:22:21+08:00</published>
+    <updated>2023-11-21T14:22:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/juliette-side-table"/>
+    <title>Juliette Side Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Juliettesidetable3.jpg?v=1700547795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Sleek, modern, compact. The Juliette </span><a href="https://thefurnituregallery.com.au/collections/side-tables" data-mce-fragment="1" data-mce-href="https://thefurnituregallery.com.au/collections/side-tables">Side Table</a><span data-mce-fragment="1"> is the perfect piece to sit beside an </span><a href="https://thefurnituregallery.com.au/products/dericka-accent-chair-gold" data-mce-fragment="1" data-mce-href="https://thefurnituregallery.com.au/products/dericka-accent-chair-gold">accent chair</a><span data-mce-fragment="1"> or </span><a href="https://thefurnituregallery.com.au/collections/sofas" data-mce-fragment="1" data-mce-href="https://thefurnituregallery.com.au/collections/sofas">sofa</a><span data-mce-fragment="1">.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>round side table</s:tag>
+    <s:tag>round table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8053070397676</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">349.00</s:price>
+      <s:sku>486084</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8077055983852</id>
+    <published>2023-11-10T13:04:12+08:00</published>
+    <updated>2023-11-10T13:04:12+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hampton-elite-side-table-1"/>
+    <title>Hampton Elite Side Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/6100c8afb46480b345168bfd_Hampton_20Side_20Table_a7db4d78-d6f5-4fd6-8abb-9a575c865d25.jpg?v=1699591904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Capture the magic of <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> home styling with our Hampton Elite <a href="https://thefurnituregallery.com.au/collections/side-tables">Side Table</a>. This <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired side table is defined by crisp white timber and cross detailing, offering a timeless, classic look. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>coastal style</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>side table</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8077055983852</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">349.00</s:price>
+      <s:sku>259009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8018213535980</id>
+    <published>2023-10-04T09:15:33+08:00</published>
+    <updated>2023-10-04T09:15:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cecile-side-table"/>
+    <title>Cecile Side Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CecileSideTable-angle.webp?v=1696379432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Cecile Side Table with marble top and iron base has a clean aesthetic, adapting to your living room or bedroom with stylish ease.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>round side table</s:tag>
+    <s:tag>side table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8018213535980</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>408717P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8014430241004</id>
+    <published>2023-09-24T13:02:57+08:00</published>
+    <updated>2023-09-24T13:02:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/carter-side-table-1"/>
+    <title>Carter Side Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/6359d3ce6f2b1e05ba2a4660_442217_WB_CarterSideTable_72fc5b8b-c204-403f-90e6-fa978340218a.jpg?v=1695531666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            649.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="content22-text-wrap">
+<p class="paragraph-70">Featuring a tempered <a href="https://thefurnituregallery.com.au/products/hampton-glass-top-side-table">glass top</a> and mirrored bottom shelf with brass frame, the Carter <a href="https://thefurnituregallery.com.au/collections/side-tables">Side Table</a> is an elegant, chic addition to your <a href="https://thefurnituregallery.com.au/collections/living">living room</a> look.</p>
+</div>
+<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>contemporary</s:tag>
+    <s:tag>glass side table</s:tag>
+    <s:tag>metal side table</s:tag>
+    <s:tag>side table</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8014430241004</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">649.00</s:price>
+      <s:sku>442217</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8012487164140</id>
+    <published>2023-09-20T12:12:14+08:00</published>
+    <updated>2023-09-20T12:12:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/donovan-round-end-table"/>
+    <title>Donovan Round End Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/DonovanEndRoundTable_ad8004b9-3644-4338-bcd5-8f19de23a3d2.jpg?v=1697156049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Donovan Round End Table</span><span data-mce-fragment="1"> is crafted from stunning and durable blue gum </span><a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection" data-mce-fragment="1" data-mce-href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">timber</a><span data-mce-fragment="1">, with a light wash feel making it a beautiful addition to a coastal, Scandi or minimalist home.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>round side table</s:tag>
+    <s:tag>round table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8012487164140</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>452282</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970195407084</id>
+    <published>2023-09-20T08:00:19+08:00</published>
+    <updated>2023-09-20T08:00:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/colorado-end-table"/>
+    <title>Colorado End Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ColoradoEndTablewhite.jpg?v=1695780599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            479.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Colorado End Table is crafted from acacia timber with a thick pedestal base.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>side table</s:tag>
+    <s:tag>solid timber</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970195407084</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">479.00</s:price>
+      <s:sku>452491</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7966094459116</id>
+    <published>2023-09-15T08:17:39+08:00</published>
+    <updated>2023-09-15T08:17:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/byron-cross-leg-end-table"/>
+    <title>Bremer Bay Cross Leg Side Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BremerBayCrossLegSideTable.webp?v=1696305224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Crafted from solid, reclaimed pine, the Bremer Bay Cross Leg Side Table features timber tops with a tawny stain to achieve a weathered look. Trestle style legs give it an open airy feel. </p>
+<p data-mce-fragment="1"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>side table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7966094459116</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">199.00</s:price>
+      <s:sku>452510</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7969432600812</id>
+    <published>2023-08-30T09:08:50+08:00</published>
+    <updated>2023-08-30T09:08:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-hampton-glass-top-side-table"/>
+    <title>Hampton Elite Glass Top Side Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/611879f7e3b2d58ff62fa797_Hampton_20Glass_20Side_20Table_0cef523f-4c9e-4851-ac9f-91593e884c80.jpg?v=1693353664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring a touch of <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> home styling to your <a href="https://thefurnituregallery.com.au/collections/living">living room</a> with the Hampton Elite Glass Top <a href="https://thefurnituregallery.com.au/collections/side-tables">Side Table</a>. This <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired side table is crafted using top grade hard wood painted crisp white, with cross detailing and a glass top.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>coastal</s:tag>
+    <s:tag>glass side table</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7969432600812</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">349.00</s:price>
+      <s:sku>259006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7967298879724</id>
+    <published>2023-08-25T08:23:40+08:00</published>
+    <updated>2023-08-25T08:23:40+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/oman-iron-glass-tall-boy-round-table"/>
+    <title>Oman Iron Glass Tall Round Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/QCOMTGOmanIronGlassTallBoyRoundTable.jpg?v=1692921339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            329.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This gold round side table made from iron adds a glam touch to any space.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>round glass side table</s:tag>
+    <s:tag>round side table</s:tag>
+    <s:tag>side table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7967298879724</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">329.00</s:price>
+      <s:sku>408405</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

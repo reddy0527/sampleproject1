@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/florals.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-02-14T05:00:32+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7997867655404</id>
+    <published>2024-02-14T05:00:32+08:00</published>
+    <updated>2024-02-14T05:00:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/peony-nite-berry-mix-garden-vase"/>
+    <title>Peony Nite Berry Mix - Garden Vase</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/76.10763.00WHPeonyNiteBerryMix-GardenVase.jpg?v=1693970031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            330.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>artificial flowers</s:tag>
+    <s:tag>faux floral</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7997867655404</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">330.00</s:price>
+      <s:sku>408571</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152873861356</id>
+    <published>2024-02-02T09:03:53+08:00</published>
+    <updated>2024-02-02T09:03:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/palm-kentia"/>
+    <title>Palm Kentia</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/palmKentia.webp?v=1706674586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            969.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful tall palm to compliment a tropical or relaxed décor.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decorative pieces</s:tag>
+    <s:tag>faux plant</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152873861356</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">969.00</s:price>
+      <s:sku>452253</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152862195948</id>
+    <published>2024-01-31T12:17:44+08:00</published>
+    <updated>2024-01-31T12:17:44+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/luxe-phalaenopsis-amiya-tall-vase-white"/>
+    <title>Luxe Phalaenopsis-Amiya Tall Vase - White</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/LuxePhalaenopsis-AmiyaTallVase.webp?v=1706671644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>faux floral</s:tag>
+    <s:tag>potted plant</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152862195948</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">499.00</s:price>
+      <s:sku>452750</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152858296556</id>
+    <published>2024-01-31T12:17:30+08:00</published>
+    <updated>2024-01-31T12:17:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hydrangea-dusty-miller-mix-white"/>
+    <title>Hydrangea Dusty Miller Mix - White</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/HydrangeaDustyMillerMixAll-white.webp?v=1706670958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Adorn your space with the timeless elegance of white hydrangeas showcased in a classic glass vase.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decorative pieces</s:tag>
+    <s:tag>faux floral</s:tag>
+    <s:tag>faux plant</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152858296556</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">119.00</s:price>
+      <s:sku>452656</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152859345132</id>
+    <published>2024-01-31T12:17:19+08:00</published>
+    <updated>2024-01-31T12:17:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hydrangea-dusty-miller-mix-soft-blue"/>
+    <title>Hydrangea Dusty Miller Mix - Soft Blue</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/HydrangeaDustyMillerMixAll-blue.webp?v=1706671184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Adorn your space with the timeless elegance of soft blue hydrangeas showcased in a classic glass vase.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decorative pieces</s:tag>
+    <s:tag>faux floral</s:tag>
+    <s:tag>faux plant</s:tag>
+    <s:tag>hydrangea</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152859345132</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">119.00</s:price>
+      <s:sku>452655</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152853414124</id>
+    <published>2024-01-31T12:16:54+08:00</published>
+    <updated>2024-01-31T12:16:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/fiddle-grand-tree"/>
+    <title>Fiddle Grand Tree</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/FiddleGrandTree60x60x240.webp?v=1706670251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Enhance your interior with the Fiddle Grand Tree.  Add a touch of vibrant greenery and botanical charm to your space without the hassle of maintenance.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decorative pieces</s:tag>
+    <s:tag>faux plant</s:tag>
+    <s:tag>fiddle leaf</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152853414124</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>452258</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8139028627692</id>
+    <published>2024-01-17T14:30:55+08:00</published>
+    <updated>2024-01-17T14:30:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hydrangea-allira-vase-soft-blue"/>
+    <title>Hydrangea Allira Vase - Soft Blue</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/HydrangeaAlliraVase-softblue.webp?v=1705469130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            189.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Set in a classic glass vase with beautiful blue tones the Hydrangea Allira is a pretty centre piece or serene addition to your décor.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>faux floral</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8139028627692</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">189.00</s:price>
+      <s:sku>452710</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8013670777068</id>
+    <published>2023-09-22T10:36:39+08:00</published>
+    <updated>2023-09-22T10:36:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ranunculus-bonquet-alma-vase"/>
+    <title>Ranunculus Bonquet Alma Vase</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Ranunculusbonquet.jpg?v=1695350150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>artificial flowers</s:tag>
+    <s:tag>faux floral</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8013670777068</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">119.00</s:price>
+      <s:sku>452677</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8013668974828</id>
+    <published>2023-09-22T10:33:23+08:00</published>
+    <updated>2023-09-22T10:33:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-protea-king-mix-in-allira-vase-white"/>
+    <title>Banksia Berzelia Mix tillie Vase - White</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BanksiaBerzeliaMixTillieVase.jpg?v=1695349998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>artificial flowers</s:tag>
+    <s:tag>faux floral</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8013668974828</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">299.00</s:price>
+      <s:sku>452680</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8013666287852</id>
+    <published>2023-09-22T10:28:42+08:00</published>
+    <updated>2023-09-22T10:28:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/protea-king-mix-in-allira-vase-pink"/>
+    <title>Protea King Mix in Allira Vase - Pink</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ProteaKingMixAlliraVase-pink.jpg?v=1695349723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            429.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>artificial flowers</s:tag>
+    <s:tag>faux floral</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8013666287852</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">429.00</s:price>
+      <s:sku>451992</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8013665108204</id>
+    <published>2023-09-22T10:25:50+08:00</published>
+    <updated>2023-09-22T10:25:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/protea-king-mix-in-allira-vase-white"/>
+    <title>Protea King Mix in Allira Vase - White</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ProteaKingMixinAlliraVase-white.jpg?v=1695349811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            429.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>artificial flowers</s:tag>
+    <s:tag>faux floral</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8013665108204</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">429.00</s:price>
+      <s:sku>451993</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7998409048300</id>
+    <published>2023-09-06T13:27:14+08:00</published>
+    <updated>2023-09-06T13:27:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hydrangea-sphere-vase-white"/>
+    <title>Hydrangea Sphere Vase - White</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/76.10333.00whHydrangeaSphereVaseWhite.jpg?v=1693977791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>faux plant</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7998409048300</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">40.00</s:price>
+      <s:sku>448967</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7998419108076</id>
+    <published>2023-09-06T13:26:29+08:00</published>
+    <updated>2023-09-06T13:26:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/native-mix-glass-fish-bowl"/>
+    <title>Native Mix - Glass Fish Bowl</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/76.10220.00gn_1NativeMixGlassFishBowl.jpg?v=1693977936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            179.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>faux floral</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7998419108076</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">179.95</s:price>
+      <s:sku>446429</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7998104895724</id>
+    <published>2023-09-06T13:18:27+08:00</published>
+    <updated>2023-09-06T13:18:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/peony-mix-claire-vase-white"/>
+    <title>Peony Mix - Claire Vase White</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/76.10699.00wh_1RoguePeonyMixClaireVase.jpg?v=1693973481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>artificial flowers</s:tag>
+    <s:tag>faux floral</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7998104895724</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">400.00</s:price>
+      <s:sku>408366</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7998122164460</id>
+    <published>2023-09-06T13:17:34+08:00</published>
+    <updated>2023-09-06T13:17:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/king-protea-native-mix-maliah-pot"/>
+    <title>King Protea Native Mix - Maliah Pot</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/76.10697.00gygn_1KingProteaNativeMixMaliaPot.jpg?v=1693973711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>artificial flowers</s:tag>
+    <s:tag>faux floral</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7998122164460</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">800.00</s:price>
+      <s:sku>408569</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7998139924716</id>
+    <published>2023-09-06T13:16:50+08:00</published>
+    <updated>2023-09-06T13:16:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/banksia-brach-mix-williams-vase"/>
+    <title>Banksia Brach Mix - Williams Vase</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/76.10745.18bn_1AcadamyBanksiaBranchMixwilliamsvase.jpg?v=1693973954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>artificial flowers</s:tag>
+    <s:tag>australian native</s:tag>
+    <s:tag>faux plant</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7998139924716</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">350.00</s:price>
+      <s:sku>408385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7998155358444</id>
+    <published>2023-09-06T13:16:33+08:00</published>
+    <updated>2023-09-06T13:16:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/peony-classic-bowl-white"/>
+    <title>Peony Classic Bowl - White</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/76.10695.00wh_1PeonyClassicBowl-white.jpg?v=1693974170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>artificial flowers</s:tag>
+    <s:tag>faux floral</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7998155358444</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">160.00</s:price>
+      <s:sku>408365</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7998174101740</id>
+    <published>2023-09-06T13:16:12+08:00</published>
+    <updated>2023-09-06T13:16:12+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/peony-sphere-vase-white"/>
+    <title>Peony Sphere Vase - White</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/76.10693.00wh_1roguepeonyspherevase.jpg?v=1693974427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>artificial flowers</s:tag>
+    <s:tag>faux floral</s:tag>
+    <s:tag>floral arrangements</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7998174101740</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">50.00</s:price>
+      <s:sku>408364</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7998222303468</id>
+    <published>2023-09-06T13:15:52+08:00</published>
+    <updated>2023-09-06T13:15:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/peony-classic-bowl-cream"/>
+    <title>Peony Classic Bowl - Cream</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/76.10694.00wh_1PeonyClassicBowlcream.jpg?v=1693975153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            110.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>artificial flowers</s:tag>
+    <s:tag>faux floral</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7998222303468</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">110.00</s:price>
+      <s:sku>408505</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7998237147372</id>
+    <published>2023-09-06T13:14:52+08:00</published>
+    <updated>2023-09-06T13:14:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/magnolia-grandiflora-garden-vase-white"/>
+    <title>Magnolia Grandiflora Garden Vase - White</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/76.10669.00wh_1MagnoliaGrandifloragardenVasewhite.jpg?v=1693975361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>faux floral</s:tag>
+    <s:tag>floral arrangements</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7998237147372</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">400.00</s:price>
+      <s:sku>408383</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7998256185580</id>
+    <published>2023-09-06T13:14:21+08:00</published>
+    <updated>2023-09-06T13:14:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/spider-plant-garden-pot-green-black"/>
+    <title>Spider Plant Garden Pot Green-Black</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/77.333.21gn_1SpiderPlantGardenPotGreen-black.jpg?v=1693975625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>faux plant</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7998256185580</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">130.00</s:price>
+      <s:sku>408386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7998274076908</id>
+    <published>2023-09-06T13:13:17+08:00</published>
+    <updated>2023-09-06T13:13:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/succulent-mix-scarlett-bowl"/>
+    <title>Succulent Mix Scarlett Bowl Small - Glass</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/76.10715.00gn_2SucculentMixScarlettBowlgreenglass.jpg?v=1693975869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>succulent</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7998274076908</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">170.00</s:price>
+      <s:sku>408506</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7998291476716</id>
+    <published>2023-09-06T13:11:55+08:00</published>
+    <updated>2023-09-06T13:11:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/succulent-garden-textured-cement-pot-green-cream"/>
+    <title>Succulent Garden - Textured Cement Pot Green-Cream</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/71.6502.02gn_1SucculentGardenTexturedCementPotGreencream.jpg?v=1693976109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>faux floral</s:tag>
+    <s:tag>floral arrangements</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7998291476716</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">500.00</s:price>
+      <s:sku>408379</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7998302585068</id>
+    <published>2023-09-06T13:11:15+08:00</published>
+    <updated>2023-09-06T13:11:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/succulent-mix-scarlett-bowl-green-glass"/>
+    <title>Succulent Mix Scarlett Bowl Green Large - Glass</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/76.10716.00gn_2SucculentMixScarlettBowlGreenglass.jpg?v=1693976514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>faux plant</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7998302585068</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">250.00</s:price>
+      <s:sku>408507</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7998306844908</id>
+    <published>2023-09-06T13:10:11+08:00</published>
+    <updated>2023-09-06T13:10:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/phalaenopsis-full-dahlia-bowl"/>
+    <title>Phalaenopsis Full - Dahlia Bowl</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/76.4626.00whPhalaenopsisFullDahliaBowl.jpg?v=1693976684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>faux plant</s:tag>
+    <s:tag>orchid</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7998306844908</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>406122</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

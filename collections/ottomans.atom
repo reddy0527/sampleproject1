@@ -1,0 +1,1006 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/ottomans.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-05-31T15:28:53+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8157256122604</id>
+    <published>2024-05-31T15:28:53+08:00</published>
+    <updated>2024-05-31T15:28:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/romilly-ottoman-dusk"/>
+    <title>Romilly Ottoman - Stone</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/IMG_4282.jpg?v=1717140519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>LAST CHANCE! ONLY ONE LEFT AT JOONDALUP!  </span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fabric ottoman</s:tag>
+    <s:tag>ottoman</s:tag>
+    <s:tag>square ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8157256122604</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">499.00</s:price>
+      <s:sku>408836</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8427024056556</id>
+    <published>2024-05-07T08:31:27+08:00</published>
+    <updated>2024-05-07T08:31:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/karoline-ottoman-linen"/>
+    <title>Karoline Ottoman - Linen</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/KarolineOttomanlinen-styled.jpg?v=1714716393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Karoline Ottoman is cosy and plush, upholstered in a textured neutral fabric.  Ideal accompaniment to the Karoline 3 Seater, 2 Seater and Single chair.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fabric ottoman</s:tag>
+    <s:tag>ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8427024056556</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">499.00</s:price>
+      <s:sku>408264</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8118577823980</id>
+    <published>2024-05-07T08:29:54+08:00</published>
+    <updated>2024-05-07T08:29:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/karoline-ottoman-smoke"/>
+    <title>Karoline Ottoman - Smoke</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/KarolineOttomanstyled-smoke.jpg?v=1702963937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Karoline Ottoman is cosy and plush, upholstered in a textured charcoal fabric.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fabric ottoman</s:tag>
+    <s:tag>ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8118577823980</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">499.00</s:price>
+      <s:sku>408260</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8305700045036</id>
+    <published>2024-04-12T08:59:26+08:00</published>
+    <updated>2024-04-12T08:59:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/callista-ottoman"/>
+    <title>Callista Ottoman</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CallistaOttoman-OPEN.jpg?v=1712722416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Crafted with meticulous attention to detail, the Callista Ottoman provides clever storage and boasts a built-in tray and cupholder concealed under its removable top. Perfect partner of the Callista Corner Suite with Chaise or the Callista Swivel Chair.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beige ottoman</s:tag>
+    <s:tag>fabric ottoman</s:tag>
+    <s:tag>ottoman</s:tag>
+    <s:tag>storage ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8305700045036</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">550.00</s:price>
+      <s:sku>408943</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8119127310572</id>
+    <published>2023-12-20T12:20:28+08:00</published>
+    <updated>2023-12-20T12:20:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bianca-boucle-ottoman"/>
+    <title>Bianca Boucle Ottoman</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BiancaOttoman-large.jpg?v=1708993975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Bianca Bouclé Ottoman seamlessly combines comfort and style with its plush texture and versatile design, making it a chic and functional addition to any living space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>boucle</s:tag>
+    <s:tag>ottoman</s:tag>
+    <s:tag>round ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8119127310572</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">299.00</s:price>
+      <s:sku>408331</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7914548134124</id>
+    <published>2023-11-24T09:44:52+08:00</published>
+    <updated>2023-11-24T09:44:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/luca-ottoman-small-black-white-boucle"/>
+    <title>Luca Ottoman Small - Black &amp; White Boucle</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/DDOLUCABW001B_Luca_Ottoman_BLACK_AND_WHITE_BOUCLE_B-1.jpg?v=1682399937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            449.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Introducing the stylish and versatile Luca Ottoman in Black and White boucle, featuring unique brushed gold metal legs (<strong>please note image features black but legs are gold</strong>).  Use it as an extra seat, footrest, or even as a coffee table to add a touch of sophistication.</span></p>
+<p><span data-mce-fragment="1">Also available in:  <a title="Luca Ottoman Small - Natural" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/copy-of-luca-ottoman-small-black-white-boucle">Natural</a>, <a title="Luca Ottoman Small - Blush" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-blush">Blush</a>, <a title="Luca Ottoman Small - Dark Amber" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-dark-amber">Dark Amber</a>, <a title="Luca Ottoman Small - Navy" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-navy">Navy</a> and <a title="Luca Ottoman Small - Black" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-black">Black</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fabric ottoman</s:tag>
+    <s:tag>round ottoman</s:tag>
+    <s:tag>small ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7914548134124</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">449.00</s:price>
+      <s:sku>451561</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8090969506028</id>
+    <published>2023-11-17T14:20:59+08:00</published>
+    <updated>2023-11-17T14:20:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-luca-ottoman-small-black-white-boucle"/>
+    <title>Luca Ottoman Small - Natural</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Luca_Ottoman_Riva_Natural.jpg?v=1700202052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            449.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Introducing the stylish and versatile Luca Ottoman in Natural, featuring unique brushed gold metal legs.  Use it as an extra seat, footrest, or even as a coffee table to add a touch of sophistication.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Also available in:  <a href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-black-white-boucle" title="Luca Ottoman Small - Black &amp; White Boucle">Black &amp; White Boucle</a>, <a title="Luca Ottoman Small - Blush" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-blush" data-mce-fragment="1" data-mce-href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-blush">Blush</a>, <a title="Luca Ottoman Small - Dark Amber" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-dark-amber" data-mce-fragment="1" data-mce-href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-dark-amber">Dark Amber</a>, <a title="Luca Ottoman Small - Navy" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-navy" data-mce-fragment="1" data-mce-href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-navy">Navy</a> and <a title="Luca Ottoman Small - Black" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-black" data-mce-fragment="1" data-mce-href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-black">Black</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fabric ottoman</s:tag>
+    <s:tag>round ottoman</s:tag>
+    <s:tag>small ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8090969506028</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">449.00</s:price>
+      <s:sku>445383</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7914543022316</id>
+    <published>2023-11-17T14:15:32+08:00</published>
+    <updated>2023-11-17T14:15:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/luca-ottoman-small-blush"/>
+    <title>Luca Ottoman Small - Blush</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/DDOLUCAB001G_Luca_Ottoman_Blush_1.jpg?v=1682399236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            449.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Introducing the stylish and versatile Luca Ottoman in Blush, featuring unique brushed gold metal legs.  Use it as an extra seat, footrest, or even as a coffee table to add a touch of sophistication.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Also available in:  <a href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-black-white-boucle" title="Luca Ottoman Small - Black &amp; White Boucle" data-mce-fragment="1" data-mce-href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-black-white-boucle">Black &amp; White Boucle</a>, <a title="Luca Ottoman Small - Dark Amber" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-dark-amber" data-mce-href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-dark-amber" data-mce-fragment="1">Dark Amber</a>, <a title="Luca Ottoman Small - Dark Amber" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-dark-amber" data-mce-fragment="1" data-mce-href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-dark-amber">Dark Amber</a>, <a title="Luca Ottoman Small - Navy" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-navy" data-mce-fragment="1" data-mce-href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-navy">Navy</a> and <a title="Luca Ottoman Small - Black" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-black" data-mce-fragment="1" data-mce-href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-black">Black</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ottoman</s:tag>
+    <s:tag>round ottoman</s:tag>
+    <s:tag>small ottoman</s:tag>
+    <s:tag>velvet ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7914543022316</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">449.00</s:price>
+      <s:sku>451557</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7914543481068</id>
+    <published>2023-11-17T14:15:03+08:00</published>
+    <updated>2023-11-17T14:15:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/luca-ottoman-small-black"/>
+    <title>Luca Ottoman Small - Black</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/DDOLUCABL001G_Luca_Ottoman_Black.jpg?v=1682399418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            449.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Introducing the stylish and versatile Luca Ottoman in Black, featuring unique brushed gold metal legs.  Use it as an extra seat, footrest, or even as a coffee table to add a touch of sophistication.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Also available in:  <a title="Luca Ottoman Small - Black &amp; White Boucle" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-black-white-boucle" data-mce-fragment="1" data-mce-href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-black-white-boucle">Black &amp; White Boucle</a>, <a href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-blush" title="Luca Ottoman Small - Blush" data-mce-fragment="1" data-mce-href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-blush">Blush</a>, <a href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/copy-of-luca-ottoman-small-black-white-boucle" title="Luca Ottoman Small - Natural" data-mce-fragment="1" data-mce-href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/copy-of-luca-ottoman-small-black-white-boucle">Natural</a>, <a href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-navy" title="Luca Ottoman Small - Navy" data-mce-fragment="1" data-mce-href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-navy">Navy</a> and <a title="Luca Ottoman Small - Dark Amber" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-dark-amber" data-mce-fragment="1" data-mce-href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-dark-amber">Dark Amber</a></span></p>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>round ottoman</s:tag>
+    <s:tag>small ottoman</s:tag>
+    <s:tag>velvet ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7914543481068</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">449.00</s:price>
+      <s:sku>451558</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7914546331884</id>
+    <published>2023-11-17T14:14:13+08:00</published>
+    <updated>2023-11-17T14:14:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/luca-ottoman-small-navy"/>
+    <title>Luca Ottoman Small - Navy</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/DDOLUCAN001G_Luca_Ottoman_Navy.jpg?v=1682399559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            449.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Introducing the stylish and versatile Luca Ottoman in Navy, featuring unique brushed gold metal legs.  Use it as an extra seat, footrest, or even as a coffee table to add a touch of sophistication.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Also available in:  <a href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-black-white-boucle" title="Luca Ottoman Small - Black &amp; White Boucle" data-mce-fragment="1" data-mce-href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-black-white-boucle">Black &amp; White Boucle</a>, <a title="Luca Ottoman Small - Blush" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-blush" data-mce-href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-blush" data-mce-fragment="1">Blush</a>, <a title="Luca Ottoman Small - Dark Amber" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-dark-amber" data-mce-href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-dark-amber" data-mce-fragment="1">Dark Amber</a>, <a href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/copy-of-luca-ottoman-small-black-white-boucle" title="Luca Ottoman Small - Natural" data-mce-fragment="1" data-mce-href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/copy-of-luca-ottoman-small-black-white-boucle">Natural</a> and <a title="Luca Ottoman Small - Black" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-black" data-mce-href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-black" data-mce-fragment="1">Black</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>navy</s:tag>
+    <s:tag>round ottoman</s:tag>
+    <s:tag>small ottoman</s:tag>
+    <s:tag>velvet ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7914546331884</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">449.00</s:price>
+      <s:sku>451559</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7914547806444</id>
+    <published>2023-11-17T14:13:34+08:00</published>
+    <updated>2023-11-17T14:13:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/luca-ottoman-small-dark-amber"/>
+    <title>Luca Ottoman Small - Dark Amber</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/DDOLUCADA001_Luca_Ottoman_Dark_Amber_A.jpg?v=1682399739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            449.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Introducing the stylish and versatile Luca Ottoman in Dark Amber, featuring unique brushed gold metal legs.  Use it as an extra seat, footrest, or even as a coffee table to add a touch of sophistication.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Also available in:  <a data-mce-fragment="1" title="Luca Ottoman Small - Black &amp; White Boucle" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-black-white-boucle" data-mce-href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-black-white-boucle">Black &amp; White Boucle</a>, <a data-mce-fragment="1" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-blush" title="Luca Ottoman Small - Blush" data-mce-href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-blush">Blush</a>, <a data-mce-fragment="1" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/copy-of-luca-ottoman-small-black-white-boucle" title="Luca Ottoman Small - Natural" data-mce-href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/copy-of-luca-ottoman-small-black-white-boucle">Natural</a>, <a data-mce-fragment="1" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-navy" title="Luca Ottoman Small - Navy" data-mce-href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-navy">Navy</a> and <a data-mce-fragment="1" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-black" title="Luca Ottoman Small - Black" data-mce-href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/luca-ottoman-small-black">Black</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ottoman</s:tag>
+    <s:tag>round ottoman</s:tag>
+    <s:tag>small ottoman</s:tag>
+    <s:tag>velvet ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7914547806444</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">449.00</s:price>
+      <s:sku>451560</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7913523020012</id>
+    <published>2023-11-17T14:09:17+08:00</published>
+    <updated>2023-11-17T14:09:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/mimi-ottoman-olive"/>
+    <title>Mimi Ottoman - Olive</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/DDOMIMIOG001G_Mimi_Ottoman_Olive_Green.jpg?v=1682056965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Mimi Ottoman in Olive features a unique ribbed design and brushed gold base for a luxe look. Use it as a footrest, side table or extra seat in the house.</span></p>
+<p>Also available in: <a href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-ivory-boucle" title="Mimi Ottoman - Ivory Boucle">Ivory Boucle</a>, <a href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-blush" title="Mimi Ottoman - Blush">Blush</a>, <a href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-charcoal" title="Mimi Ottoman - Charcoal">Charcoal</a>, <a href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-navy" title="Mimi Ottoman - Navy">Navy</a> &amp; <a href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-black" title="Mimi Ottoman - Black">Black</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent ottoman</s:tag>
+    <s:tag>ottoman</s:tag>
+    <s:tag>round ottoman</s:tag>
+    <s:tag>small ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7913523020012</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>451567</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7913519415532</id>
+    <published>2023-11-17T14:08:24+08:00</published>
+    <updated>2023-11-17T14:08:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/mimi-ottoman-navy"/>
+    <title>Mimi Ottoman - Navy</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/DDOMIMIN001G_Mimi_Ottoman_Navy.jpg?v=1682056683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Mimi Ottoman in Navy features a unique ribbed design and brushed gold base for a luxe look. Use it as a footrest, side table or extra seat in the house.</span></p>
+<p>Also available in: <a title="Mimi Ottoman - Ivory Boucle" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-ivory-boucle?_pos=4&amp;_sid=88454d984&amp;_ss=r">Ivory Boucle</a>, <a title="Mimi Ottoman - Blush" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-blush">Blush</a>, <a title="Mimi Ottoman - Olive" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-olive">Olive</a>, <a title="Mimi Ottoman - Charcoal" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-charcoal?_pos=3&amp;_sid=88454d984&amp;_ss=r">Charcoal</a> &amp; <a title="Mimi Ottoman - Black" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-black">Black</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>footstool</s:tag>
+    <s:tag>ottoman</s:tag>
+    <s:tag>round ottoman</s:tag>
+    <s:tag>small ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7913519415532</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>451566</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7913516826860</id>
+    <published>2023-11-17T14:07:16+08:00</published>
+    <updated>2023-11-17T14:07:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/mimi-ottoman-charcoal"/>
+    <title>Mimi Ottoman - Charcoal</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/DDOMIMICH001G_Mimi_Ottoman_Charcoal.jpg?v=1682056537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Mimi Ottoman in Charcoal features a unique ribbed design and brushed gold base for a luxe look. Use it as a footrest, side table or extra seat in the house.</span></p>
+<p>Also available in: <a href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-ivory-boucle" title="Mimi Ottoman - Ivory Boucle">Ivory Boucle</a>, <a href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-blush?_pos=6&amp;_sid=88454d984&amp;_ss=r" title="Mimi Ottoman - Blush">Blush</a>, <a href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-olive?_pos=1&amp;_sid=88454d984&amp;_ss=r" title="Mimi Ottoman - Olive">Olive</a>, <a href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-navy?_pos=2&amp;_sid=88454d984&amp;_ss=r" title="Mimi Ottoman - Navy">Navy</a> &amp; <a href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-black" title="Mimi Ottoman - Black">Black</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>footstool</s:tag>
+    <s:tag>round ottoman</s:tag>
+    <s:tag>small ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7913516826860</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>451565</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7913514336492</id>
+    <published>2023-11-17T14:06:40+08:00</published>
+    <updated>2023-11-17T14:06:40+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/mimi-ottoman-ivory-boucle"/>
+    <title>Mimi Ottoman - Ivory Boucle</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/DDOMIMIIB001G_Mimi_Ottoman_Boucle_A-2.jpg?v=1682056393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Mimi Ottoman in Ivory Boucle features a unique ribbed design and brushed gold base for a luxe look. Use it as a footrest, side table or extra seat in the house.</span></p>
+<p>Also available in:<span> <a href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-olive?_pos=1&amp;_sid=88454d984&amp;_ss=r" title="Mimi Ottoman - Olive" data-mce-fragment="1" data-mce-href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-olive?_pos=1&amp;_sid=88454d984&amp;_ss=r">Olive</a></span>,<span> </span><a title="Mimi Ottoman - Blush" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-blush">Blush</a>,<span> </span><a title="Mimi Ottoman - Charcoal" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-charcoal">Charcoal</a>,<span> </span><a title="Mimi Ottoman - Navy" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-navy">Navy</a><span> </span>&amp;<span> </span><a title="Mimi Ottoman - Black" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-black">Black</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>footstool</s:tag>
+    <s:tag>round ottoman</s:tag>
+    <s:tag>white ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7913514336492</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>451564</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7913509847276</id>
+    <published>2023-11-17T14:05:37+08:00</published>
+    <updated>2023-11-17T14:05:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/mimi-ottoman-black"/>
+    <title>Mimi Ottoman - Black</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/DDOMIMIBL001G_Mimi_Ottoman_Black.jpg?v=1682056131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Mimi Ottoman in Black features a unique ribbed design and brushed gold base for a luxe look. Use it as a footrest, side table or extra seat in the house.</span></p>
+<p>Also available in:<span> </span><a title="Mimi Ottoman - Ivory Boucle" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-ivory-boucle">Ivory Boucle</a>,<span> </span><a title="Mimi Ottoman - Blush" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-blush?_pos=6&amp;_sid=88454d984&amp;_ss=r">Blush</a>,<span> </span><a title="Mimi Ottoman - Olive" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-olive?_pos=1&amp;_sid=88454d984&amp;_ss=r">Olive</a>,<span> </span><a title="Mimi Ottoman - Navy" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-navy?_pos=2&amp;_sid=88454d984&amp;_ss=r">Navy</a><span> </span>&amp;<span> <a href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-charcoal" title="Mimi Ottoman - Charcoal" data-mce-fragment="1" data-mce-href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-charcoal">Charcoal</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent ottoman</s:tag>
+    <s:tag>velvet</s:tag>
+    <s:tag>velvet ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7913509847276</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>451563</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7913505456364</id>
+    <published>2023-11-17T14:05:02+08:00</published>
+    <updated>2023-11-17T14:05:02+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/mimi-ottoman-blush"/>
+    <title>Mimi Ottoman - Blush</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/DDOMIMIB001G_Mimi_Ottoman_Blush.jpg?v=1682055879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Mimi Ottoman in Blush features a unique ribbed design and brushed gold base for a luxe look. Use it as a footrest, side table or extra seat in the house.</span></p>
+<p>Also available in:<span> </span><a title="Mimi Ottoman - Ivory Boucle" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-ivory-boucle">Ivory Boucle</a>,<span> <a href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-olive?_pos=1&amp;_sid=88454d984&amp;_ss=r" title="Mimi Ottoman - Olive" data-mce-fragment="1" data-mce-href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-olive?_pos=1&amp;_sid=88454d984&amp;_ss=r">Olive</a></span>,<span> </span><a title="Mimi Ottoman - Charcoal" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-charcoal">Charcoal</a>,<span> </span><a title="Mimi Ottoman - Navy" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-navy">Navy</a><span> </span>&amp;<span> </span><a title="Mimi Ottoman - Black" href="https://gtofdh6fbal5k1sw-65021903084.shopifypreview.com/products/mimi-ottoman-black">Black</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7913505456364</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>451562</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8082525356268</id>
+    <published>2023-11-14T14:04:54+08:00</published>
+    <updated>2023-11-14T14:04:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-wesley-linen-ottoman-milk"/>
+    <title>Wesley Linen Ottoman - Milk</title>
+    <s:type>Living;Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/451174-WesleyLinenOttoman-Milk_67f2c833-4d21-4081-b098-96ec26de22dc.jpg?v=1699939625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Bedroom<br>
+        <strong>Price: </strong>
+            329.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafted from soft cream linen, add the Wesley Linen Ottoman in Milk to your space for an easy coastal or contemporary look.</p>
+<p>Also available in:  <a href="https://thefurnituregallery.com.au/products/wesley" title="Wesley Linen Ottoman - Oak">Oa</a>t</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>footstool</s:tag>
+    <s:tag>round ottoman</s:tag>
+    <s:tag>small ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8082525356268</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">329.00</s:price>
+      <s:sku>451174</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7991469867244</id>
+    <published>2023-10-23T08:46:48+08:00</published>
+    <updated>2023-10-23T08:46:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/luna-ottoman"/>
+    <title>Luna Ottoman - Playful Optical</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/LunaModularOttoman.jpg?v=1698021669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">Add this luxurious ottoman to your Luna lounge look for effortless style - perfect for using as a coffee table or as a place to elevate your legs.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Purchase any Luna Sofa in store and receive the Luna Ottoman for $799.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fabric ottoman</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>ottoman</s:tag>
+    <s:tag>white ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7991469867244</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">899.00</s:price>
+      <s:sku>452740</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8025061654764</id>
+    <published>2023-10-10T15:39:49+08:00</published>
+    <updated>2023-10-10T15:39:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/imogen-round-ottoman-velvet-blue"/>
+    <title>Imogen Round Ottoman - Velvet Blue</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/445527_WB_ImogenRoundOttomanVelvetBlueangle.jpg?v=1696896857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Perfect for elevating your living space, the Imogen Round Ottoman enveloped in </span><span data-mce-fragment="1">soft velvet with gold base i</span><span data-mce-fragment="1">s a stylish addition.</span></p>
+<p><span data-mce-fragment="1">Also available in:  <a href="https://thefurnituregallery.com.au/products/imogen-round-ottoman-velvet-red?_pos=2&amp;_sid=242eadcf9&amp;_ss=r" title="Imogen Round Ottoman - Velvet Red">Red</a> &amp; <a href="https://thefurnituregallery.com.au/products/copy-of-imogen-round-ottoman-velvet-blue?_pos=3&amp;_sid=242eadcf9&amp;_ss=r" title="Imogen Round Ottoman - Velvet Green">Green</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ottoman</s:tag>
+    <s:tag>small ottoman</s:tag>
+    <s:tag>velvet ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8025061654764</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.00</s:price>
+      <s:sku>445527</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8025061687532</id>
+    <published>2023-10-10T15:39:33+08:00</published>
+    <updated>2023-10-10T15:39:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-imogen-round-ottoman-velvet-blue"/>
+    <title>Imogen Round Ottoman - Velvet Green</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/445529_WB_ImogenRoundOttomanVelvetGreenangle.jpg?v=1696896884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Perfect for elevating your living space, the Imogen Round Ottoman enveloped in </span><span data-mce-fragment="1">soft velvet with gold base i</span><span data-mce-fragment="1">s a stylish addition.</span></p>
+<p><span data-mce-fragment="1">Also available in:  <a href="https://thefurnituregallery.com.au/products/imogen-round-ottoman-velvet-red" title="Imogen Round Ottoman - Velvet Red">Red</a> &amp; <a href="https://thefurnituregallery.com.au/products/imogen-round-ottoman-velvet-blue?_pos=4&amp;_sid=242eadcf9&amp;_ss=r" title="Imogen Round Ottoman - Velvet Blue">Blue</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ottoman</s:tag>
+    <s:tag>small ottoman</s:tag>
+    <s:tag>velvet ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8025061687532</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.00</s:price>
+      <s:sku>445529</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8025061720300</id>
+    <published>2023-10-10T15:38:18+08:00</published>
+    <updated>2023-10-10T15:38:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/imogen-round-ottoman-velvet-red"/>
+    <title>Imogen Round Ottoman - Velvet Red</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/445528_WB_ImogenRoundOttomanVelvetRedangle.jpg?v=1696896938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for elevating your living space, the Imogen Round Ottoman enveloped in soft velvet with gold base is a stylish addition.</p>
+<p>Also available in: <a title="Imogen Round Ottoman - Velvet Blue" href="https://thefurnituregallery.com.au/products/imogen-round-ottoman-velvet-blue">Blue</a> &amp; <a href="https://thefurnituregallery.com.au/products/copy-of-imogen-round-ottoman-velvet-blue" title="Imogen Round Ottoman - Velvet Green">Green.</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ottoman</s:tag>
+    <s:tag>small ottoman</s:tag>
+    <s:tag>velvet ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8025061720300</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.00</s:price>
+      <s:sku>445528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8025061916908</id>
+    <published>2023-10-10T15:38:00+08:00</published>
+    <updated>2023-10-10T15:38:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/imogen-round-ottoman-velvet-black"/>
+    <title>Imogen Round Ottoman - Velvet Black</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/445530_WB_ImogenRoundOttomanVelvetBlackangle.jpg?v=1696896980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Perfect for elevating your living space, the Imogen Round Ottoman enveloped in </span><span data-mce-fragment="1">soft velvet with gold base i</span><span data-mce-fragment="1">s a stylish addition.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ottoman</s:tag>
+    <s:tag>small ottoman</s:tag>
+    <s:tag>velvet ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8025061916908</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.00</s:price>
+      <s:sku>445530</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7952354738412</id>
+    <published>2023-07-25T13:32:02+08:00</published>
+    <updated>2023-07-25T13:32:02+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/scarlett-storage-ottoman"/>
+    <title>Scarlett Velvet Storage Ottoman</title>
+    <s:type>Living;Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ScarlettStorageOttomanangle2.jpg?v=1690263223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Bedroom<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A luxurious storage ottoman upholstered in jet black velvet, perfect for the bedroom.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bedroom storage</s:tag>
+    <s:tag>storage ottoman</s:tag>
+    <s:tag>velvet</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7952354738412</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">499.00</s:price>
+      <s:sku>002284</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7948515705068</id>
+    <published>2023-07-12T16:07:03+08:00</published>
+    <updated>2023-07-12T16:07:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-xander-ottoman"/>
+    <title>Xander Ottoman</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/xanderottoman_b9967abf-726d-4508-aeee-a492b64d2b8f.jpg?v=1689145361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SPECIAL DISPLAY STOCK SALE PRICE - $399 (contact stores for more details).  ALL NEW STOCK AS PER LISTED PRICING.</p>
+<p>Complement the Xander <a title="https://thefurnituregallery.com.au/collections/sofas" href="https://thefurnituregallery.com.au/collections/sofas">Sofa </a>range with the Xander Ottoman, featuring a textured chenille upholstery and black metal legs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7948515705068</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">550.00</s:price>
+      <s:sku>452549</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

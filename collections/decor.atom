@@ -1,0 +1,981 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/decor.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-05-31T17:45:03+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970283716844</id>
+    <published>2024-05-31T17:45:03+08:00</published>
+    <updated>2024-05-31T17:45:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pony-rectangle-floor-rug-dark-grey"/>
+    <title>Pony Rectangle Floor Rug - Dark Grey</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PON-DKGREY.jpg?v=1693549726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            319.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Make any space feel cosy with the Pony Rectangle </span><a href="https://thefurnituregallery.com.au/collections/floor-rugs">Rug</a><span> in Dark Grey, featuring a super soft exterior, perfect for sinking your feet into.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor rug</s:tag>
+    <s:tag>soft floor rug</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970283716844</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">319.20</s:price>
+      <s:sku>448405</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8472483561708</id>
+    <published>2024-05-22T10:45:22+08:00</published>
+    <updated>2024-05-22T10:45:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/seagate-soft"/>
+    <title>Seagate Soft</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/SeagateSoft.webp?v=1716345916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The abstract design and light timber frame combine to create a stylish and timeless art piece.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>modern art</s:tag>
+    <s:tag>muted art piece</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8472483561708</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>408958</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8472440602860</id>
+    <published>2024-05-22T09:08:58+08:00</published>
+    <updated>2024-05-22T09:08:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/yaiza-hand-painted-wall-art"/>
+    <title>Yaiza Hand Painted Wall Art</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/YaizaHandPaintedWallArt_jpeg.png?v=1716336831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stunning hand-painted abstract art piece, bringing visual interest to your living space.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>modern art</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8472440602860</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.00</s:price>
+      <s:sku>409258</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8472427266284</id>
+    <published>2024-05-22T09:08:35+08:00</published>
+    <updated>2024-05-22T09:08:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/shawnee-hand-painted-wall-art"/>
+    <title>Shawnee Hand Painted Wall Art</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ShawneeHandPaintedWallArt.webp?v=1716336307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            639.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Transform your home with the captivating Shawnee Wall art, hand painted with oil paint, elegantly framed in a sleek black frame.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>modern art</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8472427266284</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">639.00</s:price>
+      <s:sku>409257</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8471330029804</id>
+    <published>2024-05-21T14:07:31+08:00</published>
+    <updated>2024-05-21T14:07:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/talstone-linen-floor-lamp-copy"/>
+    <title>Talstone Linen Floor Lamp.</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/TalstoneLinenfloorlamp_bc17ddf8-f411-4835-a9e8-2375c3b7a92f.jpg?v=1716268168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Brighten up your space with our elegant Talstone Floor lamp, featuring a warm-toned fluted linen lampshade that adds a touch of cosy sophistication to any room.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor lamp</s:tag>
+    <s:tag>lamp</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8471330029804</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">300.00</s:price>
+      <s:sku>409099</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8471285367020</id>
+    <published>2024-05-21T13:06:01+08:00</published>
+    <updated>2024-05-21T13:06:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/morning-fog"/>
+    <title>Morning Fog</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/FOkpIq7Q.jpg?v=1716263202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            701.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy the warmth of this hand painted abstract piece on stretched canvas enveloped by a lightly toned frame.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>art</s:tag>
+    <s:tag>modern art</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8471285367020</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">701.10</s:price>
+      <s:sku>409259</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8453565186284</id>
+    <published>2024-05-14T12:09:07+08:00</published>
+    <updated>2024-05-14T12:09:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/sierra-table-lamp"/>
+    <title>Sierra Table Lamp</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/SierraLampstyled.jpg?v=1716513566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Illuminate your space with the understated elegance of the Sierra Table Lamp, featuring a smooth wooden base paired back with a warm neutral linen light shade.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lamp</s:tag>
+    <s:tag>neutral lamp</s:tag>
+    <s:tag>table lamp</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8453565186284</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.00</s:price>
+      <s:sku>409213</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8453556044012</id>
+    <published>2024-05-14T12:08:03+08:00</published>
+    <updated>2024-05-14T12:08:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/royale-floor-mirror-gold"/>
+    <title>Royale Floor Mirror - Gold</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/RoyaleFloorMirror-gold.webp?v=1715656716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            799.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted with a sleek gold frame, the Royale Floor Mirror features a concave shape at both the base and top, creating a striking visual effect that draws the eye and enhances the overall aesthetic.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor mirror</s:tag>
+    <s:tag>gold mirror</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8453556044012</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.20</s:price>
+      <s:sku>409226</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446684168428</id>
+    <published>2024-05-10T13:24:05+08:00</published>
+    <updated>2024-05-10T13:24:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/glasshouse-sunsets-in-capri-380g-candle-white-peach-sea-breeze-copy"/>
+    <title>Glasshouse Sunsets in Capri 380g Candle - White Peach &amp; Sea Breeze</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GlasshouseSunsetinCapricandlestyled_8b88387f-f12d-42d5-828f-cdc92e09ffa1.webp?v=1715318437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Immerse yourself in the sweet and refreshing scent of white peach, perfectly complemented by the invigorating aroma of sea breeze. </span></p>
+<p><strong>Top Notes: Cassis Bud, Mandarin, Green, Peach<br>Middle Notes: Jasmine, Lily, Peach<br>Base Notes: Amber, Musk, Marine Notes </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candle</s:tag>
+    <s:tag>scented candle</s:tag>
+    <s:tag>soy candles</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446684168428</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">54.95</s:price>
+      <s:sku>450534</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446672175340</id>
+    <published>2024-05-10T13:10:09+08:00</published>
+    <updated>2024-05-10T13:10:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/glasshouse-sunsets-in-capri-380g-white-peach-sea-breeze-copy"/>
+    <title>Glasshouse Arabian Nights 380g Candle - White Oud</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GlasshouseArabianNightsCandle-front.webp?v=1715314403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Immerse yourself in the rich and captivating aroma of saffron, known for its warm and spicy notes, perfectly balanced by the subtle elegance of white oud.</p>
+<p><strong>Top Notes: Saffron, Olibanum </strong><br><strong>Middle Notes: White Rose, Jasmine</strong><br><strong>Base Notes: Oud (Agarwood), Sandalwood, Amber </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candle</s:tag>
+    <s:tag>scented candle</s:tag>
+    <s:tag>soy candles</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446672175340</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">54.95</s:price>
+      <s:sku>447139</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446672732396</id>
+    <published>2024-05-10T13:09:50+08:00</published>
+    <updated>2024-05-10T13:09:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/glasshouse-bora-bora-bungalow-380-g-candle"/>
+    <title>Glasshouse Bora Bora Bungalow 380g Candle - Cilantro &amp; Orange Zest</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GlasshouseBoraBorabungalowcandle-front.webp?v=1715318324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Sun-dappled orange blossoms, salty skin, cilantro mimosas and Tahitian vanilla sorbet.</span></p>
+<p><strong>Top Notes: Cilantro Leaves, Orange Zest </strong><br><strong>Middle Notes: Orange Blossom, Clementine</strong><br><strong>Base Notes: Galbanum Resin, Vanilla Bean</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candle</s:tag>
+    <s:tag>scented candle</s:tag>
+    <s:tag>soy candles</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446672732396</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">54.95</s:price>
+      <s:sku>447137</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446673420524</id>
+    <published>2024-05-10T13:09:34+08:00</published>
+    <updated>2024-05-10T13:09:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/glasshouse-melbourne-muse-380g-candle-coffee-flower-vanilla"/>
+    <title>Glasshouse Melbourne Muse 380g Candle - Coffee Flower &amp; Vanilla</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GlasshouseMelbourneMuseCandle.front-jpeg.webp?v=1715315347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Immerse yourself in the comforting warmth of sweet vanilla, uplifted by the invigorating notes of coffee flowers and the refreshing scent of orange blossoms.</span></p>
+<p><strong>Top Notes: Acacia, Neroli, Orange Flower </strong><br><strong>Middle Notes: Coffee Flower, Jasmine, White Floral</strong><br><strong>Base Notes: Patchouli, Sandalwood, Vanilla </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candle</s:tag>
+    <s:tag>scented candle</s:tag>
+    <s:tag>soy candles</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446673420524</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">54.95</s:price>
+      <s:sku>447159</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446673879276</id>
+    <published>2024-05-10T13:09:18+08:00</published>
+    <updated>2024-05-10T13:09:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/glasshouse-rendezvous-380g-candle-amber-orchid"/>
+    <title>Glasshouse Rendezvous 380g Candle - Amber &amp; Orchid</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GlasshouseRendezvoousCandlefront.webp?v=1715315758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The delicate fragrance of white florals intertwines with the sweetness of sugar cane, maturing into something softer and more nuanced over time.</span></p>
+<p><strong>Top Notes: White Floral Bouquet, Sugar Cane </strong><br><strong>Middle Notes: Orchid, Gardenia, Neroli</strong><br><strong>Base Notes: Amber, Vanilla, Musk </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candle</s:tag>
+    <s:tag>scented candle</s:tag>
+    <s:tag>soy candles</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446673879276</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">54.95</s:price>
+      <s:sku>447155</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446674305260</id>
+    <published>2024-05-10T13:08:51+08:00</published>
+    <updated>2024-05-10T13:08:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/glasshouse-250ml-montego-bay-rhythm-coconut-lime"/>
+    <title>Glasshouse 250ml Montego Bay Rhythm Diffuser - Coconut &amp; Lime</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GlasshouseMontegoBayRhythmdiffuserfront.webp?v=1715316082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Immerse yourself in the zesty freshness of lime, perfectly balanced by the creamy sweetness of coconut and the rich warmth of boozy vanilla.</p>
+<p><strong>Top Notes: Lime and Lemon </strong><br><strong>Middle Notes: Vanilla and Amber</strong><br><span><strong>Base Notes: Coconut and Mandarin Oranges</strong> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diffuser</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446674305260</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">54.95</s:price>
+      <s:sku>447147</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446675615980</id>
+    <published>2024-05-10T13:08:37+08:00</published>
+    <updated>2024-05-10T13:08:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/glasshouse-250ml-the-hamptons-diffuser-teak-petitgrain"/>
+    <title>Glasshouse 250ml The Hamptons Diffuser - Teak &amp; Petitgrain</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GlasshouseTheHamptonsfrontDiffuser.webp?v=1715316328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the coastal escape, you’ll sense sunshine, soft cashmere, and expensive gin.</p>
+<p><strong>Top Notes: Juniper berry, Green Cognac, Petitgrain </strong><br><strong>Middle Notes: Lemon Verbena, Iris, Fig Leaves</strong><br><strong>Base Notes: Ambergris, Teak, White Patchouli </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diffuser</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446675615980</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">54.95</s:price>
+      <s:sku>447144</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446641078508</id>
+    <published>2024-05-10T11:08:14+08:00</published>
+    <updated>2024-05-10T11:08:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bethany-floor-mirror-black"/>
+    <title>Bethany Floor Mirror - Black</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BethanyFloorMirror-styled.webp?v=1717408245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            1119.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Bethany Floor Mirror features a sleek black frame and wave edge design exuding modern elegance, designed to add a touch of drama to any space.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor mirror</s:tag>
+    <s:tag>leaner mirror</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446641078508</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1119.20</s:price>
+      <s:sku>409206</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446642520300</id>
+    <published>2024-05-10T11:07:56+08:00</published>
+    <updated>2024-05-10T11:07:56+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bethany-floor-mirror-black-copy"/>
+    <title>Marseille Mirror - Gold</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/marseillegoldmirrorstyled2.jpg?v=1716515182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            527.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Step back in time with the vintage-inspired Marseille Mirror, adorned with elegant gold baroque framing that exudes refined charm. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent mirror</s:tag>
+    <s:tag>antique gold</s:tag>
+    <s:tag>antique style</s:tag>
+    <s:tag>gold mirror</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446642520300</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">527.20</s:price>
+      <s:sku>409207</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446615879916</id>
+    <published>2024-05-10T09:55:56+08:00</published>
+    <updated>2024-05-10T09:55:56+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/woodbury-wall-art"/>
+    <title>Woodbury Wall Art</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/WoodburyWallArt-80x122.webp?v=1715305859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            305.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Immerse yourself in the captivating allure of the Woodbury Wall Art piece, delicately rendered on stretched canvas and elegantly framed. Moody and evocative, this piece will add mystery and intrigue to your space.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canvas art</s:tag>
+    <s:tag>muted art piece</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446615879916</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">305.10</s:price>
+      <s:sku>409211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446615388396</id>
+    <published>2024-05-10T09:32:19+08:00</published>
+    <updated>2024-05-10T09:32:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/waterside-wall-art"/>
+    <title>Waterside Wall Art</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/WatersideWallArt-100x100stretchedcanvas.webp?v=1715909056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            422.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Enhance your décor with the soothing elegance of the Waterside Wall Art. Enjoy the timeless beauty and tranquillity of gentle ocean waves.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canvas art</s:tag>
+    <s:tag>muted art piece</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446615388396</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">422.10</s:price>
+      <s:sku>409205</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8439363633388</id>
+    <published>2024-05-08T13:35:16+08:00</published>
+    <updated>2024-05-08T13:35:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/slip-silk-sleep-mask-jet-lagged"/>
+    <title>Slip Silk Sleep Mask - Jet Lagged</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/slip-jet-lagged-sleep-mask_15414614_27132433_2048.jpg?v=1715146474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted with the same premium slipsilk™ fabric, the Slip silk sleep mask ensures a gentle and luxurious sleep experience for your skin and eyes. A pure silk filler and internal liner are designed to provide the utmost comfort and effectiveness, offering an elegant sanctuary for your nightly rest.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silk face mask</s:tag>
+    <s:tag>sleep mask</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8439363633388</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">55.00</s:price>
+      <s:sku>447901</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8439360127212</id>
+    <published>2024-05-08T13:31:17+08:00</published>
+    <updated>2024-05-08T13:31:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/slip-silk-sleep-mask-capri"/>
+    <title>Slip Silk Sleep Mask - Capri</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Slipsleepmaskcapri.webp?v=1715146196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted with the same premium slipsilk™ fabric, the Slip silk sleep mask ensures a gentle and luxurious sleep experience for your skin and eyes. A pure silk filler and internal liner are designed to provide the utmost comfort and effectiveness, offering an elegant sanctuary for your nightly rest.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silk face mask</s:tag>
+    <s:tag>sleep mask</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8439360127212</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">55.00</s:price>
+      <s:sku>452442</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8439109484780</id>
+    <published>2024-05-08T13:05:39+08:00</published>
+    <updated>2024-05-08T13:05:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/glasshouse-250ml-tahaa-affair-frangrance-diffuser-vanilla-caramel-copy"/>
+    <title>Glasshouse 250ml Tahaa Affair Fragrance Diffuser - Vanilla Caramel</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GlasshouseTahaaAffair-vanillacarmel_a6a9538f-4725-4ad6-9656-9a79e6ce9624.webp?v=1715143849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Ambrosial with lush caramel, vanilla and coconut notes, the Tahaa Affair Diffuser will transport you to the beaches of Tahaa.</span></p>
+<p><span>Top Notes: Pineapple <br>Middle Notes: Coconut Fruity, Frankincense<br>Base Notes: Caramel and Vanilla</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diffuser</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8439109484780</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">54.95</s:price>
+      <s:sku>405881</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8436656111852</id>
+    <published>2024-05-08T13:02:30+08:00</published>
+    <updated>2024-05-08T13:02:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/slip-silk-sleep-mask-charcoal"/>
+    <title>Slip Silk Sleep Mask - Charcoal</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/853218006124_SLIP_SLEEPMASK_Charcoal_SHOT1_2400x3680_4bcd0a2a-3275-4fef-a681-1b743dfd94e4.jpg?v=1715128765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted with the same premium slipsilk™ fabric, the Slip silk sleep mask ensures a gentle and luxurious sleep experience for your skin and eyes. A pure silk filler and internal liner are designed to provide the utmost comfort and effectiveness, offering an elegant sanctuary for your nightly rest.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silk face mask</s:tag>
+    <s:tag>sleep mask</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8436656111852</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">55.00</s:price>
+      <s:sku>401624C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8436654506220</id>
+    <published>2024-05-08T13:01:36+08:00</published>
+    <updated>2024-05-08T13:01:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/slip-silk-sleep-mask-black"/>
+    <title>Slip Silk Sleep Mask - Black</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/853218006100_SLIP_SLEEPMASK_Black_SHOT3_2400x3680_eab0e602-ad22-41a6-b0af-ce3a6ba14b9c.jpg?v=1715144810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted with the same premium slipsilk™ fabric, the Slip silk sleep mask ensures a gentle and luxurious sleep experience for your skin and eyes. A pure silk filler and internal liner are designed to provide the utmost comfort and effectiveness, offering an elegant sanctuary for your nightly rest.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silk face mask</s:tag>
+    <s:tag>sleep mask</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8436654506220</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">55.00</s:price>
+      <s:sku>401624</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8436657979628</id>
+    <published>2024-05-08T12:58:53+08:00</published>
+    <updated>2024-05-08T12:58:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/slip-silk-sleep-mask-caramel"/>
+    <title>Slip Silk Sleep Mask - Caramel</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/853218006117_SLIP_SLEEPMASK_Caramel_SHOT4_2400x3680_e420dd43-f8f8-4f2c-af23-48fdec209f4b.jpg?v=1715144331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted with the same premium slipsilk™ fabric, the Slip silk sleep mask ensures a gentle and luxurious sleep experience for your skin and eyes. A pure silk filler and internal liner are designed to provide the utmost comfort and effectiveness, offering an elegant sanctuary for your nightly rest.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silk face mask</s:tag>
+    <s:tag>sleep mask</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8436657979628</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">55.00</s:price>
+      <s:sku>401624CA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

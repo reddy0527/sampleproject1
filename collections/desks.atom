@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/desks.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2023-12-06T07:07:10+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8104682553580</id>
+    <published>2023-12-06T07:07:10+08:00</published>
+    <updated>2023-12-06T07:07:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/charlotte-writing-desk"/>
+    <title>Charlotte Writing Desk</title>
+    <s:type>Office</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CharlotteWritingDesk.jpg?v=1701744982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Office<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This writing desk features an old-world design with classic details that will imbue your home with a hint of French Provincial elegance.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>antique desk</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>home office desk</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8104682553580</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">899.00</s:price>
+      <s:sku>486077</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8100382540012</id>
+    <published>2023-12-01T08:06:33+08:00</published>
+    <updated>2023-12-01T08:06:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/piper-writing-desk"/>
+    <title>Piper Writing Desk</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PiperWritingDesk.jpg?v=1701389191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Piper Writing Desk is a classic French Provincial style piece showcasing a refined two-tone aesthetic, with a cream-colored base contrasting beautifully against a rustic timber top.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french provincial</s:tag>
+    <s:tag>home office desk</s:tag>
+    <s:tag>white desk</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8100382540012</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>487005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8010748231916</id>
+    <published>2023-09-19T10:54:49+08:00</published>
+    <updated>2023-09-19T10:54:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-desk"/>
+    <title>Surrey Desk</title>
+    <s:type>Office</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/SurreyDeskstyled.jpg?v=1697496372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Office<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Fashioned from solid acacia timber</span><span data-mce-fragment="1"> with a wenge wood top, the Surrey Desk </span><span data-mce-fragment="1">will bring a relaxed </span><a href="https://thefurnituregallery.com.au/collections/hamptons-collection" data-mce-fragment="1" data-mce-href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a><span data-mce-fragment="1"> feel to your home office.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>home office desk</s:tag>
+    <s:tag>timber desk</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8010748231916</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>452626</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7969432535276</id>
+    <published>2023-08-30T09:09:21+08:00</published>
+    <updated>2023-08-30T09:09:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-hampton-desk"/>
+    <title>Hampton Elite Desk</title>
+    <s:type>Office</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/611ca0d92ed6f181f33a601c_Hampton_20Desk_20copy_33129bdf-e117-451e-8c54-1591c4a4bc03.jpg?v=1693353596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Office<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Capture the magic of <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> home styling with the Hampton Elite Desk. This <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired <a href="https://thefurnituregallery.com.au/collections/desks">desk</a> is crafted using top grade hard wood timber and finished in crisp white. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>coastal style</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>white desk</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7969432535276</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1399.00</s:price>
+      <s:sku>259005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7960326897900</id>
+    <published>2023-08-08T13:08:25+08:00</published>
+    <updated>2023-08-08T13:08:25+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-long-beach-desk"/>
+    <title>Long Beach Elite Desk</title>
+    <s:type>Office</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/621565857a88aa2e4fb35fad_Long_20Beach_20Desk_53b184ea-1784-4e0c-a6f1-e2002a591501.jpg?v=1691469045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Office<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect to achieve a relaxed <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a> look in your home office space, the Elite Long Beach <a href="https://thefurnituregallery.com.au/collections/desks">Desk</a> is crafted from premium grade hard wood and painted crisp white, with ample storage space. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>coastal style</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>white desk</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7960326897900</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>259203</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7935848874220</id>
+    <published>2023-06-16T09:02:33+08:00</published>
+    <updated>2023-06-16T09:02:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/townser-home-office-desk"/>
+    <title>Townser Home Office Desk</title>
+    <s:type>Office</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/TownserHomeOfficeDesk-styled.jpg?v=1686877082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Office<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Inspired by the timeless appeal, the Townser <a href="https://thefurnituregallery.com.au/collections/desks">home office desk</a> revisits tradition in style. Rough milled pine wood is naturally textured and enhanced by a deep finish with grey undertones. Planked surface infuses an element of rustic refinement. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>classic style</s:tag>
+    <s:tag>dark wood desk</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7935848874220</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>441877</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7931490926828</id>
+    <published>2023-06-02T14:16:05+08:00</published>
+    <updated>2023-06-02T14:16:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/baldridge-home-office-desk"/>
+    <title>Baldridge Home Office Desk</title>
+    <s:type>Office</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/442568_WB_BaldridgeHomeOfficeDeskfront.jpg?v=1685683288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Office<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="ProductMeta__Description">
+<div class="Rte">Made from acacia and hardwood and featuring French dovetailed drawers and industrial style hardware, the Baldridge Home Office Desk is the perfect addition to your home office interior.</div>
+</div>
+<div class="dimension-container"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>timber desk</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7931490926828</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>442568</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7876272259308</id>
+    <published>2023-02-15T11:04:50+08:00</published>
+    <updated>2023-02-15T11:04:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/carynhurst-desk"/>
+    <title>Carynhurst Desk</title>
+    <s:type>Living;Office</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/CarynhurstDesk-styled.jpg?v=1675838818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Office<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="auto" data-pm-slice="1 1 []" data-mce-fragment="1">Upgrade your office space with the stylish and functional Carynhurst <a href="https://thefurnituregallery.com.au/collections/desks">Desk</a>. The white-washed finish will add a contemporary touch to any workspace, while the two drawers provide ample storage for all of your work essentials. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>antique desk</s:tag>
+    <s:tag>white desk</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7876272259308</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>447818</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669978104044</id>
+    <published>2022-06-19T12:51:33+08:00</published>
+    <updated>2022-06-19T12:51:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/provence-desk"/>
+    <title>Provence Desk</title>
+    <s:type>Office</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6215bbc0ec70a040e5f2dedb_Provence_20Desk..jpg?v=1655614293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Office<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring chic Provincial style to your office space with this gorgeous <a href="https://thefurnituregallery.com.au/collections/desks">desk</a>. With ornate detailing and a rustic finish, reminiscent of an antique, the Provence Desk is a true representation of <a href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French country style</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>antique desk</s:tag>
+    <s:tag>cream</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669978104044</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>403061</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

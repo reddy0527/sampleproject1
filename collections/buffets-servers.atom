@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/buffets-servers.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-04-09T08:23:53+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7940846813420</id>
+    <published>2024-04-09T08:23:53+08:00</published>
+    <updated>2024-04-09T08:23:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/karri-valley-3-door-3-drawer-sideboard"/>
+    <title>Karri Valley 3 Door 3 Drawer Sideboard</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/8C5B888B-8D5D-435E-BB70-49B1BAE32363_1_105_c.jpg?v=1688957204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            2599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This stunning sideboard is a timeless timber piece that embraces the natural beauty of WA.  Crafted with premium Marri timber.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sideboard</s:tag>
+    <s:tag>solid timber</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7940846813420</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2599.00</s:price>
+      <s:sku>452618</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8249472680172</id>
+    <published>2024-03-19T13:10:37+08:00</published>
+    <updated>2024-03-19T13:10:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/long-beach-3-drawer-3-door-sideboard-1"/>
+    <title>Long Beach Elite 3 Drawer 3 Door Sideboard</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/621569c981ab4816e8ed2b3f_Long_20Beach_203_20Door_203_20Drawer_20Buffet_849b9e00-bd31-4d6b-a75d-d054f0f0df12.jpg?v=1710822780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Featuring both drawers and cupboards for ample storage space, the Long Beach 3 Drawer 3 Door <a href="https://thefurnituregallery.com.au/products/storm-sideboard">Sideboard</a> is made from crisp <a href="https://thefurnituregallery.com.au/products/hampton-4-door-4-drawer-sideboard">white pine timber</a> with contrasting black handles. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>coastal style</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>sideboard</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>storage</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8249472680172</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>409909</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8249112330476</id>
+    <published>2024-03-19T08:58:21+08:00</published>
+    <updated>2024-03-19T08:58:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/brighton-sideboard"/>
+    <title>Brighton Sideboard</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/brighton_sideboard_custom_resized.jpg?v=1710799201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Evoke a sense of coastal tranquillity with the oak Brighton Sideboard.  Harmonizing natural textures and classic design.  </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>rattan</s:tag>
+    <s:tag>sideboard</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8249112330476</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>445643</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8214566600940</id>
+    <published>2024-03-05T07:36:47+08:00</published>
+    <updated>2024-03-05T07:36:47+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pemberton-large-buffet"/>
+    <title>Pemberton Large Buffet</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PembertonBuffet_01.jpg?v=1710297869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            3499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Introducing the Pemberton Large Buffet, meticulously crafted from premium grade West Australian Marri. Offering generous storage with two drawers and four doors, this stunning natural timber grain buffet will add a touch of rustic elegance to your space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>marri timber</s:tag>
+    <s:tag>timber buffet</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8214566600940</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3499.00</s:price>
+      <s:sku>408512</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8159285018860</id>
+    <published>2024-02-09T09:07:53+08:00</published>
+    <updated>2024-02-09T09:07:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hampton-elite-4-door-sideboard"/>
+    <title>Hampton Elite 4 Door Sideboard</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Hampton4DoorSideboard_bf350b4c-3987-46ff-8b18-4b17562e2196.jpg?v=1707439832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Capture the magic of <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> home styling with the Hampton 4 Doors Sideboard. With plenty of practical storage, this <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired sideboard is defined by crisp <a href="https://thefurnituregallery.com.au/products/hampton-4-door-4-drawer-sideboard">white timber</a> and cross detailing, offering a timeless, classic look. *Matching hutch available</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>sideboard</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8159285018860</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>408947</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8148480524524</id>
+    <published>2024-01-26T09:46:58+08:00</published>
+    <updated>2024-01-26T09:46:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/lyon-oak-wood-dresser-black-and-natural"/>
+    <title>Lyon Oak Wood Dresser - Black &amp; Natural</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/LyonOakWoodDresser-blackandnatural.jpg?v=1706233551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            3999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">The Lyon Oak Wood Dresser is defined by a solid oak frame, dark and natural timber featuring antique silver hardware that results in a regal, striking design.  Perfectly pairs with a timeless décor.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sideboard</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8148480524524</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3999.00</s:price>
+      <s:sku>452306P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8130827550956</id>
+    <published>2024-01-19T13:06:41+08:00</published>
+    <updated>2024-01-19T13:06:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/chantelle-4-door-display-black"/>
+    <title>Chantelle 4 Door Display - Matte Black</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Chantelle4DoorDisplay-blackopen_jpeg.jpg?v=1704754290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            4698.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elevate your home décor with the stunning matte black Chantelle Display Cabinet. Featuring four glass doors for an upper showcase and four enclosed doors below.  A versatile display piece seamlessly combining functionality with a touch of elegance.</p>
+<p><strong data-mce-fragment="1">*See in store, available for special order only. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>display cabinet</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8130827550956</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">4698.00</s:price>
+      <s:sku>408578</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8116122321132</id>
+    <published>2024-01-19T12:47:31+08:00</published>
+    <updated>2024-01-19T12:47:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/arwana-sideboard"/>
+    <title>Arwana Sideboard</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ArwanaSideboard.jpg?v=1702598432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Arwana Sideboard features beautiful Teak timber.  With black contrasting features, including an open shelf. This sideboard imbues a modern classic style.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sideboard</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8116122321132</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1999.00</s:price>
+      <s:sku>403803</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8082560581868</id>
+    <published>2023-11-14T14:02:11+08:00</published>
+    <updated>2023-11-14T14:02:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-sienna-sideboard-marri-wood"/>
+    <title>Sienna Sideboard - Marri Wood</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/siennabuffet_0bebc1d0-daee-477b-98dc-5fb21eb3c5e0.png?v=1699941316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            2499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Sienna <a href="https://thefurnituregallery.com.au/collections/buffets-servers">Buffet</a> is crafted from <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">solid Marri wood</a>, with a gorgeous live edge, and features a contrasting black glass panel on top for a modern twist. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8082560581868</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2499.00</s:price>
+      <s:sku>446695</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8076919079148</id>
+    <published>2023-11-10T10:19:23+08:00</published>
+    <updated>2023-11-10T10:19:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-hampton-4-door-4-drawer-sideboard"/>
+    <title>Hampton Elite 4 Door 4 Drawer Sideboard</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/61187cd4e10dfd1af691bd49_Hampton_204_20Door_204_20Drawer_20Sideboard_20copy_87c2978e-013a-42d0-b453-409c1fb0f146.jpg?v=1699580182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Capture the magic of <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> home styling with the Hampton Elite 4 Door 4 Drawer <a href="https://thefurnituregallery.com.au/products/storm-sideboard">Sideboard</a>. With plenty of practical storage, this <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired sideboard is defined by crisp white timber and cross detailing, offering a timeless, classic look. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coastal style</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>sideboard</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>storage</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8076919079148</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>259002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8015181676780</id>
+    <published>2023-09-27T15:04:20+08:00</published>
+    <updated>2023-09-27T15:04:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/donovan-sideboard"/>
+    <title>Donovan Sideboard</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/DonovanSideboard_cbdebb46-0007-450b-97d6-6c9ede4e650e.jpg?v=1697156112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">A light and durable blue gum timber sideboard, ideal for coastal, Scandi, or minimalist interiors, boasting a timeless design that effortlessly combines natural elegance with versatile functionality.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coastal style</s:tag>
+    <s:tag>sideboard</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8015181676780</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>452279</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970255012076</id>
+    <published>2023-09-20T07:43:30+08:00</published>
+    <updated>2023-09-20T07:43:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/colorado-4-doors-1-drawer-sideboard"/>
+    <title>Colorado 4 doors 1 Drawer Sideboard</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/T2_1889Colorado4Doors1Drawerfront.jpg?v=1697601997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Colorado 4 Drawer 1 Door Sideboard is crafted from acacia timber and exudes rustic farmhouse appeal.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sideboard</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970255012076</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1699.00</s:price>
+      <s:sku>452486</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970255339756</id>
+    <published>2023-09-20T07:42:51+08:00</published>
+    <updated>2023-09-20T07:42:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/colorado-2-drawer-3-door-sideboard"/>
+    <title>Colorado 3 Drawer 2 Door Sideboard</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/T2_1972Colorado2Doors3DrawersSideboard.jpg?v=1697603253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Colorado 3 Drawer 2 Door Sideboard is crafted from acacia timber and exudes rustic farmhouse appeal.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sideboard</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970255339756</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>452485</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7966089773292</id>
+    <published>2023-09-15T08:04:52+08:00</published>
+    <updated>2023-09-15T08:04:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/byron-sideboard"/>
+    <title>Bremer Bay 2100 Sideboard</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BremerBaySideboardstyled.webp?v=1696304631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Fashioned from solid, reclaimed pine, the Bremer Bay 2100 Sideboard features a timber top with a tawny stain to achieve a weathered look, and contrasting ivory base. </p>
+<p data-mce-fragment="1"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>country style</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>sideboard</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7966089773292</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1699.00</s:price>
+      <s:sku>452509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970172174572</id>
+    <published>2023-09-14T15:09:01+08:00</published>
+    <updated>2023-09-14T15:09:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/lyon-oak-wood-sideboard-black"/>
+    <title>Lyon Oak Wood Sideboard - Black</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/LyonDresser-Black_be87e007-a13c-4d59-a55f-c4630d6c8362.jpg?v=1697496192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            2499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Lyon Oak Wood Sideboard features a solid oak frame, black timber and antique silver hardware that results in a regal, striking design that pairs perfectly with timeless decor and elegant touches.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sideboard</s:tag>
+    <s:tag>solid timber</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970172174572</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2499.00</s:price>
+      <s:sku>452305</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7969433780460</id>
+    <published>2023-08-30T09:11:56+08:00</published>
+    <updated>2023-08-30T09:11:56+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-long-beach-elite-4-door-cabinet"/>
+    <title>Long Beach Elite 4 Door Cabinet</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/62156a9421a72c0751eff482_Long_20Beach_204_20Door_20Sideboard._77f0175a-7e76-4684-89f0-ce6e9671bac5.jpg?v=1693354219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Offering plenty of storage space for your valuables, the <a href="https://thefurnituregallery.com.au/products/long-beach-3-drawer-3-door-sideboard">Long Beach</a> 4 Door Cabinet is a gorgeous <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired piece crafted using top grade hard wood finished in crisp white, with contrasting black handles for just the right amount of detail. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coastal style</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>sideboard</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>storage</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7969433780460</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>259010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7969432207596</id>
+    <published>2023-08-30T08:05:39+08:00</published>
+    <updated>2023-08-30T08:05:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-hampton-3-door-3-drawer-buffet"/>
+    <title>Hampton Elite 3 Door 3 Drawer Buffet</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/611878412ba0ad373c59bd3e_Hampton_203_20Door_203_20Drawer_20Sideboard_28d97c15-56e3-4096-8a42-64508162af65.jpg?v=1693353312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Capture the magic of <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> home styling with the Hampton Elite 3 Door 3 Drawer Buffet. This <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired buffet features cross detailing and is crafted using top grade hard wood, finished in crisp white.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coastal style</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>sideboard</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>storage</s:tag>
+    <s:tag>timber buffet</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7969432207596</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1199.00</s:price>
+      <s:sku>259000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7953933762796</id>
+    <published>2023-07-25T08:34:59+08:00</published>
+    <updated>2023-07-25T08:34:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pippard-cocktail-cabinet-black"/>
+    <title>Pippard Cocktail Cabinet - Black</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PippardCocktailCabinet-black.jpg?v=1690238852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">A stunning statement piece. The Pippard <a href="https://thefurnituregallery.com.au/products/pippard-cocktail-cabinet">Cocktail Cabinet</a> features a black metal frame, bevelled mirror design, and plenty of curating potential, allowing you to display or store away glassware and more.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cocktail bar</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7953933762796</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>449410</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7939438117100</id>
+    <published>2023-07-18T07:17:18+08:00</published>
+    <updated>2023-07-18T07:17:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-harvard-buffet"/>
+    <title>Walpole Buffet</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/62143ca0d51106f6c8425d13_405710_WB_Harvard_20Buffet_20Tasmanian_20Oak_20front_58b423e7-990e-45fd-a5fa-4158c30f9732.jpg?v=1687833896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            1899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style data-mce-fragment="1" type="text/css"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-mce-fragment="1" data-sheets-userformat='{"2":15235,"3":{"1":0},"4":{"1":2,"2":65280},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-sheets-value='{"1":2,"2":"Constructed from Tasmanian oak, the Harvard Buffet bears the mark of old-fashioned craftsmanship. Combined with its clean lines and a bold finish, itâ€™s a discerning choice for the modern day timber connoisseur."}'>Constructed from Tasmanian oak, the Walpole <a href="https://thefurnituregallery.com.au/collections/buffets-servers">Buffet</a> bears the mark of old-fashioned craftsmanship. Combined with its clean lines and a bold finish, it is a discerning choice for the modern day <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">timber</a> connoisseur.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>solid timber</s:tag>
+    <s:tag>timber buffet</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7939438117100</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1899.00</s:price>
+      <s:sku>451977</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840518045932</id>
+    <published>2022-12-05T23:12:13+08:00</published>
+    <updated>2022-12-05T23:12:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/seville-sideboard"/>
+    <title>Seville Sideboard</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/61bfd702e34f90039ce6f7fd_Seville_20Sideboard_d033150a-b073-4618-9ec9-0e5f41a3fbc7.jpg?v=1713330321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"Bring modern elegance to your living room with the Seville sideboard, made from white oak and solid European beech. Featuring a distinctive herringbone pattern and brass accents that offset the painted black timber, this sideboard is simply stunning."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Bring modern elegance to your <a href="https://thefurnituregallery.com.au/collections/living">living room</a> with the Seville <a href="https://thefurnituregallery.com.au/products/storm-sideboard">sideboard</a>, made from white oak and solid <a href="https://thefurnituregallery.com.au/products/verdelho-sideboard">European beech</a>. Featuring a distinctive herringbone pattern and brass accents that offset the painted black timber, this sideboard is simply stunning.</span></p>
+<p><span data-sheets-value='{"1":2,"2":"The Verdelho Coffee Table is crafted from beautiful American oak combined with European Beech Timber, featuring a gorgeous parquetry pattern table top to imbue your living room with classic elegance."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">This product is made exclusively with <strong data-mce-fragment="1">Blum </strong></span><span data-sheets-value='{"1":2,"2":"The Verdelho Coffee Table is crafted from beautiful American oak combined with European Beech Timber, featuring a gorgeous parquetry pattern table top to imbue your living room with classic elegance."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">hardware.</span></p>
+<p><img height="113" width="195" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Blum_480x480.jpg?v=1682635880" data-mce-selected="1"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840518045932</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1899.00</s:price>
+      <s:sku>449778</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840485769452</id>
+    <published>2022-12-05T21:55:09+08:00</published>
+    <updated>2022-12-05T21:55:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ignacio-sideboard-marri-wood"/>
+    <title>Ignacio Sideboard - Marri Wood</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6212f6940966fde84128a9e8_444826_WB_Ignacio_202000_20Sideboard_20Marri_20front_8851bf4a-b3db-4eb9-9227-e3fd9cf69a1a.jpg?v=1670248509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-sheets-value='{"1":2,"2":"Made from native West Australian solid Marri timber, the Ignacio Sideboard will imbue your home with natural beauty."}' data-mce-fragment="1">Crafted from premium grade <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">solid Marri timber</a>, the Ignacio <a href="https://thefurnituregallery.com.au/products/verdelho-sideboard">Sideboard</a> will imbue your home with natural beauty. Marri is native to West Australia and renowned for its superb quality and durability, with a distinct grain featuring intricate patterns.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840485769452</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2899.00</s:price>
+      <s:sku>444826</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833307349228</id>
+    <published>2022-11-28T13:19:09+08:00</published>
+    <updated>2022-11-28T13:19:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-sideboard-1900"/>
+    <title>Surrey Sideboard (Large)</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/Surrey1900Sideboardangle.jpg?v=1670643976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Surrey <a href="https://thefurnituregallery.com.au/products/surrey-sideboard">Sideboard</a> features a relaxed <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a> design that will complement a range of interiors from the Hamptons to the <a href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French Country</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833307349228</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>442653</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669979939052</id>
+    <published>2022-06-19T12:53:31+08:00</published>
+    <updated>2022-06-19T12:53:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/verdelho-sideboard"/>
+    <title>Verdelho Sideboard</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/61c11485cc90ef77e8973d0b_Verdelho_20Sideboard.jpg?v=1655614411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>American oak combines with <a href="https://thefurnituregallery.com.au/products/seville-sideboard">European Beech</a> Timber to create the stunning Verdelho <a href="https://thefurnituregallery.com.au/products/surrey-sideboard">Sideboard</a>, featuring a contrasting white base and a gorgeous parquetry pattern top.</p>
+<p><span data-mce-fragment="1" data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-sheets-value='{"1":2,"2":"The Verdelho Coffee Table is crafted from beautiful American oak combined with European Beech Timber, featuring a gorgeous parquetry pattern table top to imbue your living room with classic elegance."}'>This product is made exclusively with <strong data-mce-fragment="1">Blum </strong></span><span data-mce-fragment="1" data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-sheets-value='{"1":2,"2":"The Verdelho Coffee Table is crafted from beautiful American oak combined with European Beech Timber, featuring a gorgeous parquetry pattern table top to imbue your living room with classic elegance."}'>hardware.</span></p>
+<div style="text-align: left;"><img height="113" width="195" style="margin-bottom: 16px; float: none;" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Blum_480x480.jpg?v=1682635880"></div>
+<p><span data-mce-fragment="1" data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-sheets-value='{"1":2,"2":"The Verdelho Coffee Table is crafted from beautiful American oak combined with European Beech Timber, featuring a gorgeous parquetry pattern table top to imbue your living room with classic elegance."}'></span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>parquetry design</s:tag>
+    <s:tag>sideboard</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>storage</s:tag>
+    <s:tag>two-tone</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669979939052</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1999.00</s:price>
+      <s:sku>445549</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669979513068</id>
+    <published>2022-06-19T12:53:04+08:00</published>
+    <updated>2022-06-19T12:53:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-sideboard"/>
+    <title>Surrey Sideboard (Small)</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/61c11bd45665cd2834867294_Surrey_20Sideboard.jpg?v=1655614384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Surrey <a href="https://thefurnituregallery.com.au/products/surrey-sideboard-1900">Sideboard</a> features a relaxed <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a> design that will complement a range of interiors from the Hamptons to the <a href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French Country</a>. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>sideboard</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>storage</s:tag>
+    <s:tag>timber buffet</s:tag>
+    <s:tag>two-tone</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669979513068</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>405974</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669979250924</id>
+    <published>2022-06-19T12:52:42+08:00</published>
+    <updated>2022-06-19T12:52:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/storm-sideboard"/>
+    <title>Storm 4 Door Sideboard</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/614725c403b6b87a4b9ef7aa_Storm_20Sideboard....jpg?v=1655614362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A dramatic, eye-catching addition to your <a href="https://thefurnituregallery.com.au/collections/living">living room</a> or hallway. The Storm <a href="https://thefurnituregallery.com.au/products/lafayette-sideboard">Sideboard</a> is crafted from new elm timber in a storm grey hue, with an ornate mirrored design on the front doors.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decorative sideboard</s:tag>
+    <s:tag>mirrored sideboard</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>storage</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669979250924</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3499.00</s:price>
+      <s:sku>443818</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

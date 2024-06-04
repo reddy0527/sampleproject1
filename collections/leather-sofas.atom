@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/leather-sofas.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-05-31T17:52:38+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8488674197740</id>
+    <published>2024-05-31T17:52:38+08:00</published>
+    <updated>2024-05-31T17:52:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/valeria-2-seater-black"/>
+    <title>Valeria Leather 2 Seater - Black</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Valeria2Seatercrop.jpg?v=1716957458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Valeria Leather 2 Seater Sofa is a sleek, contemporary lounge crafted from smooth black leather.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 seater</s:tag>
+    <s:tag>black leather sofa</s:tag>
+    <s:tag>leather sofa</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8488674197740</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>408967b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8488675803372</id>
+    <published>2024-05-31T17:50:48+08:00</published>
+    <updated>2024-05-31T17:50:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/valeria-3-seater-black"/>
+    <title>Valeria Leather 3 Seater - Black</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/VALERIA1.jpg?v=1717255069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Valeria Leather 3 Seater Sofa is a sleek, contemporary lounge crafted from smooth black leather.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 seater</s:tag>
+    <s:tag>3 seater sofa</s:tag>
+    <s:tag>black leather sofa</s:tag>
+    <s:tag>leather sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8488675803372</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>408967a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840488849644</id>
+    <published>2023-08-23T06:10:51+08:00</published>
+    <updated>2023-08-23T06:10:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/manchester-4-seater"/>
+    <title>Manchester 4 Seater - Taupe</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6115e6b5b418642193963062_Manchester_3b_with_Kirana_228c8da8-291e-4d46-8850-61efe3a51526.jpg?v=1670248682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"Finished in full grain leather with seamed edges, the Manchester 4 Seater Leather Sofa in Taupe rests on sleek stainless steel legs to deliver a clean, minimalist aesthetic."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Finished in full grain leather with seamed edges, the Manchester 4 Seater Leather Sofa in Taupe rests on sleek stainless steel legs to deliver a clean, minimalist aesthetic.</span></p>
+<p><span data-sheets-value='{"1":2,"2":"Finished in full grain leather with seamed edges, the Manchester 4 Seater Leather Sofa in Taupe rests on sleek stainless steel legs to deliver a clean, minimalist aesthetic."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Also available in:  <a href="https://thefurnituregallery.com.au/products/copy-of-manchester-4-seater-vintage-brown?_pos=1&amp;_sid=6c632cb48&amp;_ss=r" title="Manchester 4 Seater - Vintage Black">Vintage Black</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840488849644</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">5999.00</s:price>
+      <s:sku>403130</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7965687283948</id>
+    <published>2023-08-23T06:09:37+08:00</published>
+    <updated>2023-08-23T06:09:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-manchester-4-seater-vintage-brown"/>
+    <title>Manchester 4 Seater - Vintage Black</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ManchesterandHideChairs.jpg?v=1692683098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            5999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"Finished in full grain leather with seamed edges, the Manchester 4 Seater Leather Sofa in Taupe rests on sleek stainless steel legs to deliver a clean, minimalist aesthetic."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Finished in full grain leather with seamed edges, the Manchester 4 Seater Leather Sofa in vintage black rests on sleek stainless steel legs to deliver a clean, minimalist aesthetic.</span></p>
+<p><span data-sheets-value='{"1":2,"2":"Finished in full grain leather with seamed edges, the Manchester 4 Seater Leather Sofa in Taupe rests on sleek stainless steel legs to deliver a clean, minimalist aesthetic."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Also available in: <a title="Manchester 4 Seater - Taupe" href="https://thefurnituregallery.com.au/products/manchester-4-seater?_pos=2&amp;_sid=6c632cb48&amp;_ss=r">Taupe</a>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black leather sofa</s:tag>
+    <s:tag>distressed leather sofa</s:tag>
+    <s:tag>vintage style</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7965687283948</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">5999.00</s:price>
+      <s:sku>400761</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7940797858028</id>
+    <published>2023-07-10T10:50:39+08:00</published>
+    <updated>2023-07-10T10:50:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/valeria-2-seater"/>
+    <title>Valeria Leather 2 Seater - Wheat</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Valeria2_3Seater.jpg?v=1688957547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>The Valeria Leather 3 Seater Sofa is a sleek, contemporary lounge crafted from smooth cream leather.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 seater</s:tag>
+    <s:tag>leather sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7940797858028</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>452617b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7940798054636</id>
+    <published>2023-07-05T12:48:12+08:00</published>
+    <updated>2023-07-05T12:48:12+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/valeria-3-seater"/>
+    <title>Valeria Leather 3 Seater - Wheat</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Valeria3Seater.jpg?v=1688610787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Valeria Leather 3 Seater Sofa is a sleek, contemporary lounge crafted from smooth cream leather.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 seater sofa</s:tag>
+    <s:tag>leather sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7940798054636</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1999.00</s:price>
+      <s:sku>452617a</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7927428481260</id>
+    <published>2023-06-15T11:04:05+08:00</published>
+    <updated>2023-06-15T11:04:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/manhattan-3-seater-regatta-fern"/>
+    <title>Manhattan 3 Seater Recliner Lounge - Regatta Fern</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ManhattanReclinerLounge2-RegattaFern-designercarspic.jpg?v=1686880288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            5470.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Coated in </span><span data-mce-fragment="1">beautiful leather </span><span data-mce-fragment="1">in a stunning fern hue, the Manhattan is a true modular, allowing you to customise it to your space. Electric recliners and plush seating allow you to truly relax in stylish, modern comfort.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>electric recliner</s:tag>
+    <s:tag>leather sofa</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7927428481260</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">5470.00</s:price>
+      <s:sku>452495</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7927491526892</id>
+    <published>2023-06-15T11:03:39+08:00</published>
+    <updated>2023-06-15T11:03:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/manhattan-theatre-lounge-regatta-fern"/>
+    <title>Manhattan Theatre Lounge - Regatta Fern</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/452500-ManhattanTheatreLoungeopen-RegattaFern.jpg?v=1686880396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            8068.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Coated in </span><span data-mce-fragment="1">beautiful leather </span><span data-mce-fragment="1">in a stunning fern hue, the Manhattan is a true modular, allowing you to customise it to your space. This theatre lounge features 3 electric recliners, a chaise lounge for stretching out, 2 consoles with cupholders and plush seating, allowing you to truly relax in stylish, modern comfort.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>electric recliner</s:tag>
+    <s:tag>leather</s:tag>
+    <s:tag>leather chaise sofa</s:tag>
+    <s:tag>leather sofa</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7927491526892</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">8068.00</s:price>
+      <s:sku>452500</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7927426384108</id>
+    <published>2023-06-15T11:01:56+08:00</published>
+    <updated>2023-06-15T11:01:56+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/manhattan-3-seater-with-console-regatta"/>
+    <title>Manhattan 3 Seater Recliner Lounge with Console - Regatta Fern</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/452494-ManhattanReclinerLounge-3SeaterwithConsole.jpg?v=1684886572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            6069.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Coated in </span><span data-mce-fragment="1">beautiful leather </span><span data-mce-fragment="1">in a stunning fern hue, the Manhattan is a true modular, allowing you to customise it to your space. Featuring electric recliners, a console with cupholders and plush seating, this sofa allows you to truly relax in stylish, modern comfort.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>electric recliner</s:tag>
+    <s:tag>leather</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7927426384108</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">6069.00</s:price>
+      <s:sku>452494</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7927482089708</id>
+    <published>2023-06-15T10:58:01+08:00</published>
+    <updated>2023-06-15T10:58:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/manhattan-3-seater-chaise-lounge-with-chaise-regatta-fern"/>
+    <title>Manhattan 3 Seater Recliner Chaise Lounge with Console - Regatta Fern</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/452498-Manhattan3SeaterwithConsoleandChaiseopen-RegattaFern.jpg?v=1686880375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            5979.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Coated in beautiful leather in a stunning fern hue, the Manhattan is a true modular, allowing you to customise it to your space. With recliners, a console with cupholders, a chaise for stretching out and extra comfy seating, this is your new go-to for modern reclining.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chaise lounge</s:tag>
+    <s:tag>leather</s:tag>
+    <s:tag>leather sofa</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7927482089708</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">5979.00</s:price>
+      <s:sku>452498</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7927488577772</id>
+    <published>2023-06-15T10:55:35+08:00</published>
+    <updated>2023-06-15T10:55:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/manhattan-3-seater-recliner-chaise-lounge-regatta-fern"/>
+    <title>Manhattan 3 Seater Recliner Chaise Lounge - Regatta Fern</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ManhattanReclinerLounge8-RegattaFern-designercarspic.jpg?v=1684899614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            5380.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Coated in </span><span data-mce-fragment="1">beautiful leather </span><span data-mce-fragment="1">in a stunning fern hue, the Manhattan is a true modular, allowing you to customise it to your space. Featuring 2 electric recliners and plush seating with a chaise for stretching out, this sofa allows you to truly relax in stylish, modern comfort.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>leather</s:tag>
+    <s:tag>leather chaise sofa</s:tag>
+    <s:tag>leather sofa</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7927488577772</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">5380.00</s:price>
+      <s:sku>452499</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7927428874476</id>
+    <published>2023-06-15T10:54:34+08:00</published>
+    <updated>2023-06-15T10:54:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/manhattan-2-seater-with-console-regatta-fern"/>
+    <title>Manhattan 2 Seater Recliner Lounge with Console - Regatta Fern</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/452497-Manhattan2SeaterwithConsole_2.jpg?v=1684888211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            4579.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Coated in beautiful leather in a stunning fern hue, the Manhattan is a true modular, allowing you to customise it to your space. With recliners, a console with cupholders and extra comfy seating, this is your new go-to for modern reclining.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>electric recliner</s:tag>
+    <s:tag>leather</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7927428874476</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">4579.00</s:price>
+      <s:sku>452497</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7927477633260</id>
+    <published>2023-06-15T10:53:52+08:00</published>
+    <updated>2023-06-15T10:53:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/manhattan-2-seater-regatta-fern"/>
+    <title>Manhattan 2 Seater Recliner Lounge - Regatta Fern</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/452496-Manhattan2Seater-RegattaFern.jpg?v=1684897498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3980.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Coated in </span><span data-mce-fragment="1">beautiful leather </span><span data-mce-fragment="1">in a stunning fern hue, the Manhattan is a true modular, allowing you to customise it to your space. Electric recliners and plush seating allow you to truly relax in stylish, modern comfort.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>leather sofa</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7927477633260</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3980.00</s:price>
+      <s:sku>452496</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7933159801068</id>
+    <published>2023-06-12T13:17:59+08:00</published>
+    <updated>2023-06-12T13:17:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/rogue-full-aniline-leather-2-seater-coal"/>
+    <title>Rogue FULL ANILINE LEATHER 2 Seater - Coal</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/RogueLeather1_052c2e43-3e7f-47ab-8f06-7ce9163c642b.jpg?v=1686545167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Draped in full aniline leather for a soft, plush sit, the Rogue is elevated by slender metal legs for a modern look.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 seater</s:tag>
+    <s:tag>black leather sofa</s:tag>
+    <s:tag>leather sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7933159801068</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1999.00</s:price>
+      <s:sku>407099</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7908107518188</id>
+    <published>2023-05-17T11:28:55+08:00</published>
+    <updated>2023-05-17T11:28:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-modular-cognac-leather"/>
+    <title>Cloud Corner Lounge with Ottoman - Cognac Leather</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/cloud.jpg?v=1681186782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7908107518188</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">11995.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833297125612</id>
+    <published>2023-05-03T11:34:46+08:00</published>
+    <updated>2023-05-03T11:34:46+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/brooklyn-2-5-seater-sofa"/>
+    <title>Brooklyn 2.5 Seater Sofa - Caviar</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/62cbed0de819843239c7bbe9_brooklyn_202.5.jpg?v=1669612429"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            2390.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Brooklyn 2.5 Seater is the ultimate New York style loft lounge. Encased in soft, supple leather, this sofa’s sleek, modern silhouette is elevated by slender metal legs. Also available in Chestnut.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black leather sofa</s:tag>
+    <s:tag>black sofa</s:tag>
+    <s:tag>leather sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833297125612</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2390.00</s:price>
+      <s:sku>448624</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669977514220</id>
+    <published>2023-01-24T10:50:59+08:00</published>
+    <updated>2023-01-24T10:50:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/oslo-3-seater-leather-lounge-cognac"/>
+    <title>Oslo 3 Seater Leather Lounge - Cognac</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/Maverickstyled_45270dcb-e558-4f29-9d3d-36404a52aab3.jpg?v=1674528549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Draped in full-aniline Italian <a href="https://thefurnituregallery.com.au/collections/leather-sofas" target="_blank" rel="noopener noreferrer">leather</a>, with a solid <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection" target="_blank" rel="noopener noreferrer">timber</a> frame and high density foam seating, the <a href="https://thefurnituregallery.com.au/products/oslo-2-seater-leather-lounge-cognac" target="_blank" rel="noopener noreferrer">Oslo</a> is the quintessential expression of fashion and style for the leather connoisseur. </p>
+<p>Also available in:  <a href="https://thefurnituregallery.com.au/products/oslo-3-seater-sofa" title="Oslo 3 Seater Leather Lounge - Caviar" target="_blank" rel="noopener noreferrer">Caviar</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>contemporary</s:tag>
+    <s:tag>leather</s:tag>
+    <s:tag>leather sofa</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>tan leather sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669977514220</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2999.00</s:price>
+      <s:sku>449312</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669977481452</id>
+    <published>2023-01-24T10:50:36+08:00</published>
+    <updated>2023-01-24T10:50:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/oslo-2-seater-leather-lounge-cognac"/>
+    <title>Oslo 2 Seater Leather Lounge - Cognac</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/Maverickstyled.jpg?v=1674528504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Draped in full-aniline Italian <a href="https://thefurnituregallery.com.au/collections/leather-sofas" target="_blank" rel="noopener noreferrer">leather</a>, with a solid <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection" target="_blank" rel="noopener noreferrer">timber</a> frame and high density foam seating, the <a href="https://thefurnituregallery.com.au/products/oslo-3-seater-leather-lounge-cognac">Oslo</a> is the quintessential expression of fashion and style for the leather connoisseur. </p>
+<p>Also available in:  <a href="https://thefurnituregallery.com.au/products/copy-of-oslo-3-seater-sofa" title="Oslo 2 Seater Leather Lounge - Caviar" target="_blank" rel="noopener noreferrer">Caviar</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>contemporary</s:tag>
+    <s:tag>leather</s:tag>
+    <s:tag>leather sofa</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>tan leather sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669977481452</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2299.00</s:price>
+      <s:sku>449311</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7849298428140</id>
+    <published>2022-12-20T16:12:03+08:00</published>
+    <updated>2022-12-20T16:12:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-oslo-2-seater-sofa-caviar"/>
+    <title>Oslo 2 Seater Leather Sofa - Caviar</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/Oslo2strleather-caviarcopy_2.jpg?v=1671544120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Draped in full grain <a href="https://thefurnituregallery.com.au/collections/leather-sofas" target="_blank" rel="noopener noreferrer">leather</a>, with matt black metal legs, the Oslo 2 Seater <a href="https://thefurnituregallery.com.au/collections/sofas" target="_blank" rel="noopener noreferrer">Sofa</a> is the ultimate modern sofa for the leather connoisseur.</span></p>
+<p><span data-mce-fragment="1">Also available in:  <a href="https://thefurnituregallery.com.au/products/oslo-2-seater-leather-lounge-cognac" title="Oslo 2 Seater Leather Sofa - Cognac" target="_blank" rel="noopener noreferrer">Cognac</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7849298428140</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2299.00</s:price>
+      <s:sku>408166</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7849296920812</id>
+    <published>2022-12-20T16:00:00+08:00</published>
+    <updated>2022-12-20T16:00:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/oslo-3-seater-sofa"/>
+    <title>Oslo 3 Seater Leather Sofa - Caviar</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/Oslo2_3strleather-caviarcopy.jpg?v=1687233834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Draped in full grain leather, with matt black metal legs, the Oslo 3 Seater <a href="https://thefurnituregallery.com.au/collections/sofas" rel="noopener noreferrer" target="_blank">Sofa</a> is the ultimate modern sofa for the <a href="https://thefurnituregallery.com.au/collections/leather-sofas" rel="noopener noreferrer" target="_blank">leather</a> connoisseur.</span></p>
+<p><span data-mce-fragment="1">Also available in: <a href="https://thefurnituregallery.com.au/products/oslo-3-seater-leather-lounge-cognac/" title="Oslo 3 Seater Leather Sofa - Cognac" rel="noopener noreferrer" target="_blank">Cognac﻿</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7849296920812</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2999.00</s:price>
+      <s:sku>408167</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840933806316</id>
+    <published>2022-12-06T19:42:14+08:00</published>
+    <updated>2022-12-06T19:42:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/chiswick-leather-3-seater-sofa"/>
+    <title>Chiswick Leather 3 Seater Sofa</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Chiswick3seater.jpg?v=1694149449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Embracing vintage, retro styling, the Chiswick Leather 3 Seater Sofa is dressed in beautiful caramel leather and detailed with classic buttoned tufting. Slender timber legs add a modern Scandinavian touch."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Embracing vintage, retro styling, the <a href="https://thefurnituregallery.com.au/products/chiswick-leather-2-seater-sofa" target="_blank" rel="noopener noreferrer">Chiswick</a> Leather <a href="https://thefurnituregallery.com.au/products/oslo-3-seater-leather-lounge-cognac" target="_blank" rel="noopener noreferrer">3 Seater Sofa</a> is dressed in beautiful caramel <a href="https://thefurnituregallery.com.au/collections/leather-sofas" target="_blank" rel="noopener noreferrer">leather</a> and detailed with classic buttoned tufting. Slender <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection" target="_blank" rel="noopener noreferrer">timber</a> legs add a modern Scandinavian touch.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840933806316</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2499.00</s:price>
+      <s:sku>450840</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833307971820</id>
+    <published>2022-11-28T13:19:24+08:00</published>
+    <updated>2022-11-28T13:19:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/urban-3-seater"/>
+    <title>Urban 3 Seater</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/ScreenShot2022-12-05at10.12.51am.png?v=1670209701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            2999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made from genuine, supple <a href="https://thefurnituregallery.com.au/collections/leather-sofas" target="_blank" rel="noopener noreferrer">leather</a>, the Urban <a href="https://thefurnituregallery.com.au/products/bloomsburg-sofa-forest" target="_blank" rel="noopener noreferrer">3 Seater</a> features a rich <a href="https://thefurnituregallery.com.au/products/oslo-3-seater-leather-lounge-cognac/" target="_blank" rel="noopener noreferrer">cognac</a> hue that forms a versatile base for your living room colour palette. Sitting atop a timber frame with buttoned detailing, this <a href="https://thefurnituregallery.com.au/collections/lounges" target="_blank" rel="noopener noreferrer">lounge</a> is the perfect blend of modern and retro styling.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833307971820</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2999.00</s:price>
+      <s:sku>450846</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833307906284</id>
+    <published>2022-11-28T13:19:22+08:00</published>
+    <updated>2022-11-28T13:19:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/urban-2-seater"/>
+    <title>Urban 2 Seater</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/ScreenShot2022-12-05at10.20.12am.png?v=1670210140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            2399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made from genuine, supple <a href="https://thefurnituregallery.com.au/collections/leather-sofas" target="_blank" rel="noopener noreferrer">leather</a>, the Urban <a href="https://thefurnituregallery.com.au/products/copy-of-oslo-3-seater-sofa" target="_blank" rel="noopener noreferrer">2 Seater</a> features a rich <a href="https://thefurnituregallery.com.au/products/oslo-3-seater-leather-lounge-cognac/" target="_blank" rel="noopener noreferrer">cognac</a> hue that forms a versatile base for your living room colour palette. Sitting atop a timber frame with buttoned detailing, this <a href="https://thefurnituregallery.com.au/collections/lounges">lounge</a> is the perfect blend of modern and retro styling.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833307906284</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2399.00</s:price>
+      <s:sku>450847</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833307742444</id>
+    <published>2022-11-28T13:19:21+08:00</published>
+    <updated>2022-11-28T13:19:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ultimo-3-seater"/>
+    <title>Ultimo 3 Seater</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/63368460ebf21f9e74e1a2a0_Ultimo_203_20seater_20-_20resized.jpg?v=1669870892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            2899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The perfect <a href="https://thefurnituregallery.com.au/collections/sofas" target="_blank" rel="noopener noreferrer">sofa</a> for modern, inner-city living, the Ultimo <a href="https://thefurnituregallery.com.au/products/bloomsburg-sofa-forest" target="_blank" rel="noopener noreferrer">3 Seater</a> features supple dark grey <a href="https://thefurnituregallery.com.au/collections/leather-sofas" target="_blank" rel="noopener noreferrer">leather</a>, a timber frame and a Scandinavian-inspired silhouette.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833307742444</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2899.00</s:price>
+      <s:sku>450844</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833307676908</id>
+    <published>2022-11-28T13:19:18+08:00</published>
+    <updated>2022-11-28T13:19:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ultimo-2-seater"/>
+    <title>Ultimo 2 Seater</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/633681a6b4a4fc944be8771a_Ultimo_202str_20-_20resized.jpg?v=1669870904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            2299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The perfect <a href="https://thefurnituregallery.com.au/collections/sofas" target="_blank" rel="noopener noreferrer">sofa</a> for modern, inner-city living, the Ultimo <a href="https://thefurnituregallery.com.au/products/copy-of-oslo-3-seater-sofa" target="_blank" rel="noopener noreferrer">2 Seater</a> features supple dark grey <a href="https://thefurnituregallery.com.au/collections/leather-sofas" target="_blank" rel="noopener noreferrer">leather</a>, a timber frame and a Scandinavian-inspired silhouette.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833307676908</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2299.00</s:price>
+      <s:sku>450845</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

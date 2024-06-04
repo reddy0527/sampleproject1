@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/1-5-seater.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-04-24T12:45:21+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8386788229356</id>
+    <published>2024-04-24T12:45:21+08:00</published>
+    <updated>2024-04-24T12:45:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/willow-single-seater-sofa"/>
+    <title>Willow Single Seater Sofa</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/WillowSingleSeaterSofa.jpg?v=1716512842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Dreamy and opulent, the Willow is dressed in off-white boucle upholstery. It effortlessly exudes modern luxury and sophistication with its plush, inviting design.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8386788229356</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">750.00</s:price>
+      <s:sku>409095</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7916843139308</id>
+    <published>2023-05-01T09:06:58+08:00</published>
+    <updated>2023-05-01T09:06:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-andersen-armchair"/>
+    <title>Andersen Armchair</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/62ac27209617505d57da2b38_Andersen_20Chair_20and_20Ottoman_20styled_16a94dd5-9616-458c-8562-45c596520e54.jpg?v=1682902624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Upholstered in a soft neutral linen-like fabric, the Andersen is the ultimate homely <a href="https://thefurnituregallery.com.au/collections/armchairs">armchair</a>. Featuring a structured, minimalist silhouette with super plush cushions, this chair is cosy, comfortable and offers endless styling opportunities.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>fabric armchair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7916843139308</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>450644</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840504873196</id>
+    <published>2022-12-05T22:23:40+08:00</published>
+    <updated>2022-12-05T22:23:40+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/montana-1-5-seater"/>
+    <title>Montana 1.5 Seater</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Montanastyledottoman..jpg?v=1697770921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"A triumph in transitional design, the Montana invites you to indulge in eye-catching texture and cosy comfort. Flared roll arms and a reversible cushion give this classically styled arm chair a sense of everyday ease. A soothing blue-hue accent pillow add a wonderful layer of interest. Includes 1 accent cushion."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">A triumph in transitional design, the Montana invites you to indulge in eye-catching texture and cosy comfort. Flared roll arms and a reversible cushion give this classically styled arm chair a sense of everyday ease. A soothing blue-hue accent pillow add a wonderful layer of interest. Includes 1 accent cushion.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840504873196</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>446692</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833294995692</id>
+    <published>2022-11-28T13:12:31+08:00</published>
+    <updated>2022-11-28T13:12:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/addison-armchair"/>
+    <title>Addison Armchair</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/62ff067be561b520a3743ffd_13201-23_asl20211.jpg?v=1669612351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Homely and cosy, the Addison <a href="https://thefurnituregallery.com.au/collections/armchairs">Armchair</a> features a richly textured chenille fabric, combined with roll arms and indulgently plush cushions with feather blend fill.</p>
+<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833294995692</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>450640</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669978497260</id>
+    <published>2022-06-19T12:51:58+08:00</published>
+    <updated>2022-06-19T12:51:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/santorini-1-5-seater"/>
+    <title>Santorini 1.5 Seater</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/60ff99f7f7b1171fc3f47f89_Santorini_20single.jpg?v=1655614318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Santorini is a large, comfy <a href="https://thefurnituregallery.com.au/collections/armchairs">armchair</a> featuring rolled arms and textured chenille fabric. The jacquard paisley accent cushion makes a muted, mellow complement to the neutral upholstery.</p>
+<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chenille</s:tag>
+    <s:tag>comfy couch</s:tag>
+    <s:tag>cream</s:tag>
+    <s:tag>fabric chair</s:tag>
+    <s:tag>large armchair</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669978497260</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>444724</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

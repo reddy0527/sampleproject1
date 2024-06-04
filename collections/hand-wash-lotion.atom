@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/hand-wash-lotion.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-04-03T13:09:55+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8284013428972</id>
+    <published>2024-04-03T13:09:55+08:00</published>
+    <updated>2024-04-03T13:09:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/al-ive-dishwashing-liquid-hand-wash-duo-waffle-towel-gift-set"/>
+    <title>Al.ive Dishwashing Liquid &amp; Hand Wash Duo + Waffle Towel Gift Set</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/dishwashing-liquid-hand-wash-duo-waffle-towel-gift-set-kitchensink.webp?v=1712296887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Elevate your kitchen experience with the limited edition Al.ive Lemon &amp; Pomegranate Dishwashing Liquid &amp; Watermelon &amp; Lime Hand Wash Kitchen Duo + Waffle Towel Gift Set. This set features our best-selling Kitchen Duo paired with a Cotton Waffle Towel.  </span><span>Expertly formulated with botanical extracts.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Al.live</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8284013428972</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">65.00</s:price>
+      <s:sku>409083</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8283984494828</id>
+    <published>2024-04-03T12:09:51+08:00</published>
+    <updated>2024-04-03T12:09:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/al-ive-wash-lotion-duo-tray-mango-lychee"/>
+    <title>Al.ive Wash &amp; Lotion Duo + Tray - Mango &amp; Lychee</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Wash-lotion-duo-tray-Mangoandlychee-bathroom.webp?v=1712117385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            84.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Al.ive Body Mango &amp; Lychee Wash &amp; Body Wash/Lotion Duo contains a luxurious blend of naturally derived ingredients, fortified with essential oils and native botanical extracts.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Al.live</s:tag>
+    <s:tag>hand lotion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8283984494828</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">84.00</s:price>
+      <s:sku>409082</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8283945500908</id>
+    <published>2024-04-03T12:08:49+08:00</published>
+    <updated>2024-04-03T12:08:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/al-ive-wash-lotion-duo-tray-sea-cotton-coconut"/>
+    <title>Al.ive Wash &amp; Lotion Duo + Tray - Sea Cotton &amp; Coconut</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/wash-lotion-duo-tray-sea-cotton-coconut-bathroomsink.webp?v=1712116677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            84.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Al.ive Body Sea Cotton &amp; Coconut Hand &amp; Body Wash/Lotion Duo contains a luxurious blend of naturally derived ingredients, fortified with essential oils and native botanical extracts.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Al.live</s:tag>
+    <s:tag>hand lotion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8283945500908</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">84.00</s:price>
+      <s:sku>409080</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8283937505516</id>
+    <published>2024-04-03T12:08:31+08:00</published>
+    <updated>2024-04-03T12:08:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/al-ive-wash-lotion-duo-tray-kaffir-lime-green-tea"/>
+    <title>Al.ive Wash &amp; Lotion Duo + Tray - Kaffir Lime &amp; Green Tea</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/wash-lotion-duo-tray-kaffir-lime-green-tea-Kitchen.webp?v=1712114561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            84.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Al.ive Body Kaffir Lime &amp; Green Tea Hand &amp; Body Wash/Lotion Duo contains a luxurious blend of naturally derived ingredients, fortified with essential oils and native botanical extracts.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Al.live</s:tag>
+    <s:tag>hand lotion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8283937505516</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">84.00</s:price>
+      <s:sku>409081</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8283933802732</id>
+    <published>2024-04-03T12:08:03+08:00</published>
+    <updated>2024-04-03T12:08:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/al-ive-wash-lotion-duo-tray-coconut-wild-orange"/>
+    <title>Al.ive Wash &amp; Lotion Duo + Tray - Coconut &amp; Wild Orange</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/wash-lotion-duo-tray-coconut-wild-orange-styled.webp?v=1712113281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            84.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Al.ive Body Coconut &amp; Wild Orange Hand &amp; Body Wash/Lotion Duo contains a luxurious blend of naturally derived ingredients, fortified with essential oils and native botanical extracts.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Al.live</s:tag>
+    <s:tag>hand lotion</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8283933802732</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">84.00</s:price>
+      <s:sku>409079</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/silk-pillowcases.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-05-08T13:35:16+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8439363633388</id>
+    <published>2024-05-08T13:35:16+08:00</published>
+    <updated>2024-05-08T13:35:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/slip-silk-sleep-mask-jet-lagged"/>
+    <title>Slip Silk Sleep Mask - Jet Lagged</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/slip-jet-lagged-sleep-mask_15414614_27132433_2048.jpg?v=1715146474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted with the same premium slipsilk™ fabric, the Slip silk sleep mask ensures a gentle and luxurious sleep experience for your skin and eyes. A pure silk filler and internal liner are designed to provide the utmost comfort and effectiveness, offering an elegant sanctuary for your nightly rest.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silk face mask</s:tag>
+    <s:tag>sleep mask</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8439363633388</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">55.00</s:price>
+      <s:sku>447901</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8439360127212</id>
+    <published>2024-05-08T13:31:17+08:00</published>
+    <updated>2024-05-08T13:31:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/slip-silk-sleep-mask-capri"/>
+    <title>Slip Silk Sleep Mask - Capri</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Slipsleepmaskcapri.webp?v=1715146196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted with the same premium slipsilk™ fabric, the Slip silk sleep mask ensures a gentle and luxurious sleep experience for your skin and eyes. A pure silk filler and internal liner are designed to provide the utmost comfort and effectiveness, offering an elegant sanctuary for your nightly rest.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silk face mask</s:tag>
+    <s:tag>sleep mask</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8439360127212</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">55.00</s:price>
+      <s:sku>452442</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8436656111852</id>
+    <published>2024-05-08T13:02:30+08:00</published>
+    <updated>2024-05-08T13:02:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/slip-silk-sleep-mask-charcoal"/>
+    <title>Slip Silk Sleep Mask - Charcoal</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/853218006124_SLIP_SLEEPMASK_Charcoal_SHOT1_2400x3680_4bcd0a2a-3275-4fef-a681-1b743dfd94e4.jpg?v=1715128765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted with the same premium slipsilk™ fabric, the Slip silk sleep mask ensures a gentle and luxurious sleep experience for your skin and eyes. A pure silk filler and internal liner are designed to provide the utmost comfort and effectiveness, offering an elegant sanctuary for your nightly rest.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silk face mask</s:tag>
+    <s:tag>sleep mask</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8436656111852</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">55.00</s:price>
+      <s:sku>401624C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8436654506220</id>
+    <published>2024-05-08T13:01:36+08:00</published>
+    <updated>2024-05-08T13:01:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/slip-silk-sleep-mask-black"/>
+    <title>Slip Silk Sleep Mask - Black</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/853218006100_SLIP_SLEEPMASK_Black_SHOT3_2400x3680_eab0e602-ad22-41a6-b0af-ce3a6ba14b9c.jpg?v=1715144810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted with the same premium slipsilk™ fabric, the Slip silk sleep mask ensures a gentle and luxurious sleep experience for your skin and eyes. A pure silk filler and internal liner are designed to provide the utmost comfort and effectiveness, offering an elegant sanctuary for your nightly rest.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silk face mask</s:tag>
+    <s:tag>sleep mask</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8436654506220</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">55.00</s:price>
+      <s:sku>401624</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8436657979628</id>
+    <published>2024-05-08T12:58:53+08:00</published>
+    <updated>2024-05-08T12:58:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/slip-silk-sleep-mask-caramel"/>
+    <title>Slip Silk Sleep Mask - Caramel</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/853218006117_SLIP_SLEEPMASK_Caramel_SHOT4_2400x3680_e420dd43-f8f8-4f2c-af23-48fdec209f4b.jpg?v=1715144331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted with the same premium slipsilk™ fabric, the Slip silk sleep mask ensures a gentle and luxurious sleep experience for your skin and eyes. A pure silk filler and internal liner are designed to provide the utmost comfort and effectiveness, offering an elegant sanctuary for your nightly rest.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silk face mask</s:tag>
+    <s:tag>sleep mask</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8436657979628</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">55.00</s:price>
+      <s:sku>401624CA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8436658471148</id>
+    <published>2024-05-08T12:58:33+08:00</published>
+    <updated>2024-05-08T12:58:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/slip-silk-sleep-mask-navy"/>
+    <title>Slip Silk Sleep Mask - Navy</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/853218006179_SLIP_SLEEPMASK_Navy_SHOT1_2400x3680_3846159d-fad5-4415-b0bb-ac5ccdd76567.jpg?v=1715129712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted with the same premium slipsilk™ fabric, the Slip silk sleep mask ensures a gentle and luxurious sleep experience for your skin and eyes. A pure silk filler and internal liner are designed to provide the utmost comfort and effectiveness, offering an elegant sanctuary for your nightly rest.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silk face mask</s:tag>
+    <s:tag>sleep mask</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8436658471148</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">55.00</s:price>
+      <s:sku>401624N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8436659257580</id>
+    <published>2024-05-08T12:58:18+08:00</published>
+    <updated>2024-05-08T12:58:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/slip-silk-sleep-mask-pink"/>
+    <title>Slip Silk Sleep Mask - Pink</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/853218006131_SLIP_SLEEPMASK_Pink_SHOT1_2400x3077_091a54bc-954d-4a0e-8912-8bf5a1cc781d.jpg?v=1715129892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted with the same premium slipsilk™ fabric, the Slip silk sleep mask ensures a gentle and luxurious sleep experience for your skin and eyes. A pure silk filler and internal liner are designed to provide the utmost comfort and effectiveness, offering an elegant sanctuary for your nightly rest.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silk face mask</s:tag>
+    <s:tag>sleep mask</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8436659257580</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">55.00</s:price>
+      <s:sku>401624P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8436659454188</id>
+    <published>2024-05-08T12:58:01+08:00</published>
+    <updated>2024-05-08T12:58:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/slip-silk-sleep-mask-silver"/>
+    <title>Slip Silk Sleep Mask - Silver</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/853218006346_SLIP_SLEEPMASK_Silver_SHOT2_2400x3077_dbc48921-ad25-48dd-8440-7e9571d045dd.jpg?v=1715144607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted with the same premium slipsilk™ fabric, the Slip silk sleep mask ensures a gentle and luxurious sleep experience for your skin and eyes. A pure silk filler and internal liner are designed to provide the utmost comfort and effectiveness, offering an elegant sanctuary for your nightly rest.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silk face mask</s:tag>
+    <s:tag>sleep mask</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8436659454188</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">55.00</s:price>
+      <s:sku>401624S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8436644643052</id>
+    <published>2024-05-08T08:26:35+08:00</published>
+    <updated>2024-05-08T08:26:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/slip-silk-pillowcase-pink"/>
+    <title>Slip Silk Pillowcase - Pink</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/SLIP_PC_pink.jpg?v=1715122909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted from luxurious Slipsilk™ fabric and laboratory-tested for efficacy, the Slip hypoallergenic pillowcase provides a gentle and nourishing surface for your skin and hair. Trusted by celebrity hairstylists, dermatologists, and beauty experts worldwide, it's the ultimate beauty secret you can't afford to miss.  Includes x1 pillowcase.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silk pillowcase</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8436644643052</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">95.00</s:price>
+      <s:sku>401628</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8436645593324</id>
+    <published>2024-05-08T08:26:16+08:00</published>
+    <updated>2024-05-08T08:26:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/slip-silk-pillowcase-charcoal"/>
+    <title>Slip Silk Pillowcase - Charcoal</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/SLIP_PC_QUEEN_Charcoal_SHOTA_2400x3680_1eefb66c-ac03-4746-af06-a2ab348ef875.jpg?v=1715123261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted from luxurious Slipsilk™ fabric and laboratory-tested for efficacy, the Slip hypoallergenic pillowcase provides a gentle and nourishing surface for your skin and hair. Trusted by celebrity hairstylists, dermatologists, and beauty experts worldwide, it's the ultimate beauty secret you can't afford to miss.  Includes x1 pillowcase.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silk pillowcase</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8436645593324</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">95.00</s:price>
+      <s:sku>401629</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8436646740204</id>
+    <published>2024-05-08T08:25:52+08:00</published>
+    <updated>2024-05-08T08:25:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/slip-silk-pillowcase-black"/>
+    <title>Slip Silk Pillowcase - Black</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/SLIP_PC_QUEEN_Black_LF_2400x3680_fbd55c2f-9cbe-4e2b-8c27-5cc717d26c21.jpg?v=1715129157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted from luxurious Slipsilk™ fabric and laboratory-tested for efficacy, the Slip hypoallergenic pillowcase provides a gentle and nourishing surface for your skin and hair. Trusted by celebrity hairstylists, dermatologists, and beauty experts worldwide, it's the ultimate beauty secret you can't afford to miss.  Includes x1 pillowcase.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silk pillowcase</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8436646740204</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">95.00</s:price>
+      <s:sku>401630</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8436647133420</id>
+    <published>2024-05-08T08:25:36+08:00</published>
+    <updated>2024-05-08T08:25:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/slip-silk-pillowcase-black-copy"/>
+    <title>Slip Silk Pillowcase - White</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/SLIP_PC_QUEEN_White_SHOTA_1600x1800_eab4256a-eded-4504-91c8-8ee9831c225c.jpg?v=1715123766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted from luxurious Slipsilk™ fabric and laboratory-tested for efficacy, the Slip hypoallergenic pillowcase provides a gentle and nourishing surface for your skin and hair. Trusted by celebrity hairstylists, dermatologists, and beauty experts worldwide, it's the ultimate beauty secret you can't afford to miss.  Includes x1 pillowcase.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silk pillowcase</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8436647133420</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">95.00</s:price>
+      <s:sku>444544</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8436648804588</id>
+    <published>2024-05-08T08:25:19+08:00</published>
+    <updated>2024-05-08T08:25:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/slip-silk-pillowcase-silver"/>
+    <title>Slip Silk Pillowcase - Silver</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/SLIP_PC_QUEEN_Silver_SHOTA_2000x2000_5d599c7f-bc92-45b1-b9d0-355ac925982e.jpg?v=1715124408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted from luxurious Slipsilk™ fabric and laboratory-tested for efficacy, the Slip hypoallergenic pillowcase provides a gentle and nourishing surface for your skin and hair. Trusted by celebrity hairstylists, dermatologists, and beauty experts worldwide, it's the ultimate beauty secret you can't afford to miss.  Includes x1 pillowcase.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silk pillowcase</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8436648804588</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">95.00</s:price>
+      <s:sku>445895</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8436649230572</id>
+    <published>2024-05-08T08:25:07+08:00</published>
+    <updated>2024-05-08T08:25:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/slip-silk-pillowcase-gold"/>
+    <title>Slip Silk Pillowcase - Gold</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/SLIP_PC_QUEEN_Gold_SHOTB.webp?v=1715138795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted from luxurious Slipsilk™ fabric and laboratory-tested for efficacy, the Slip hypoallergenic pillowcase provides a gentle and nourishing surface for your skin and hair. Trusted by celebrity hairstylists, dermatologists, and beauty experts worldwide, it's the ultimate beauty secret you can't afford to miss.  Includes x1 pillowcase.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silk pillowcase</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8436649230572</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">95.00</s:price>
+      <s:sku>447899</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8436649459948</id>
+    <published>2024-05-08T08:24:54+08:00</published>
+    <updated>2024-05-08T08:24:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/slip-silk-pillowcase-navy"/>
+    <title>Slip Silk Pillowcase - Navy</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/SLIP_PC_QUEEN_Navy_SHOTA_2000x2000_7fcdef1f-ee87-4508-8e6f-789b14431711.jpg?v=1715124774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted from luxurious Slipsilk™ fabric and laboratory-tested for efficacy, the Slip hypoallergenic pillowcase provides a gentle and nourishing surface for your skin and hair. Trusted by celebrity hairstylists, dermatologists, and beauty experts worldwide, it's the ultimate beauty secret you can't afford to miss.  Includes x1 pillowcase.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silk pillowcase</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8436649459948</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">95.00</s:price>
+      <s:sku>447900</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8436650377452</id>
+    <published>2024-05-08T08:24:41+08:00</published>
+    <updated>2024-05-08T08:24:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/slip-silk-pillowcase-portofino"/>
+    <title>Slip Silk Pillowcase - Portofino</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/810046983102_SLIP_S23_PC_QUEEN_PORTOFINO_SHOT1_1535x2000_0ca1c1f8-e24c-46c3-8580-4dd2ea756da4.jpg?v=1715125272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted from luxurious Slipsilk™ fabric and laboratory-tested for efficacy, the Slip hypoallergenic pillowcase provides a gentle and nourishing surface for your skin and hair. Trusted by celebrity hairstylists, dermatologists, and beauty experts worldwide, it's the ultimate beauty secret you can't afford to miss.  Includes x1 pillowcase.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silk pillowcase</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8436650377452</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">95.00</s:price>
+      <s:sku>452439</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8436650803436</id>
+    <published>2024-05-08T08:24:27+08:00</published>
+    <updated>2024-05-08T08:24:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/slip-silk-pillowcase-limoncello"/>
+    <title>Slip Silk Pillowcase - Limoncello</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/810046983096_SLIP_S23_PC_QUEEN_LIMONCELLO_SHOT1_1535x2000_860ba965-b867-4dba-aa34-3e5d6d6dbc6e.jpg?v=1715125480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted from luxurious Slipsilk™ fabric and laboratory-tested for efficacy, the Slip hypoallergenic pillowcase provides a gentle and nourishing surface for your skin and hair. Trusted by celebrity hairstylists, dermatologists, and beauty experts worldwide, it's the ultimate beauty secret you can't afford to miss.  Includes x1 pillowcase.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silk pillowcase</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8436650803436</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">95.00</s:price>
+      <s:sku>452440</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8436651131116</id>
+    <published>2024-05-08T08:24:13+08:00</published>
+    <updated>2024-05-08T08:24:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/slip-silk-pillowcase-pistachio"/>
+    <title>Slip Silk Pillowcase - Pistachio</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/810046983089_SLIP_S23_PC_QUEEN_PISTACHIO_SHOT1_1535x2000_c561f312-193b-414c-bfa2-49cbce6ffbb2.jpg?v=1715125731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted from luxurious Slipsilk™ fabric and laboratory-tested for efficacy, the Slip hypoallergenic pillowcase provides a gentle and nourishing surface for your skin and hair. Trusted by celebrity hairstylists, dermatologists, and beauty experts worldwide, it's the ultimate beauty secret you can't afford to miss.  Includes x1 pillowcase.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silk pillowcase</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8436651131116</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">95.00</s:price>
+      <s:sku>452441</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8436633600236</id>
+    <published>2024-05-08T07:16:50+08:00</published>
+    <updated>2024-05-08T07:16:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/slip-silk-pillowcase-caramel"/>
+    <title>Slip Silk Pillowcase - Caramel</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/SLIP_PC_QUEEN_Caramel_LF_1080x1080_1.jpg?v=1715129147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted from luxurious Slipsilk™ fabric and laboratory-tested for efficacy, the Slip hypoallergenic pillowcase provides a gentle and nourishing surface for your skin and hair. Trusted by celebrity hairstylists, dermatologists, and beauty experts worldwide, it's the ultimate beauty secret you can't afford to miss.  Includes x1 pillowcase.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silk pillowcase</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8436633600236</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">95.00</s:price>
+      <s:sku>401626</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

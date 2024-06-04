@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/chaises.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-04-12T08:52:49+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8306716279020</id>
+    <published>2024-04-12T08:52:49+08:00</published>
+    <updated>2024-04-12T08:52:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/callista-corner-suite-with-chaise"/>
+    <title>Callista Corner Suite with Chaise</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Callista_Corner_Suite_RHS_styled_f90904fe-b1bd-4ada-8f5f-919d02a2292f.jpg?v=1712727504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Callista Corner Suite with Chaise features sleek lines and a modern design, an ideal addition to any contemporary living space. With reversible seat cushions for added versatility and four throw cushions included for extra comfort and style.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>corner lounge</s:tag>
+    <s:tag>grey corner lounge</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8306716279020</id>
+      <title>RHS</title>
+      <s:price currency="AUD">2699.00</s:price>
+      <s:sku>408941</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8306716279020</id>
+      <title>LHS</title>
+      <s:price currency="AUD">2699.00</s:price>
+      <s:sku>410007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8128083722476</id>
+    <published>2024-01-24T16:19:33+08:00</published>
+    <updated>2024-01-24T16:19:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/mornington-modular-three-seater-chaise-1"/>
+    <title>Mornington Modular - Three Seater Chaise</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Mornington-Modular-Setup-9.jpg?v=1704506946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3596.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Featuring premium goose feather filled cushions, the Mornington modular has slender track arms and is upholstered in a serene shade of grey. As a true modular, the Mornington features 5 unique pieces that can be arranged in almost endless combinations to suit your space.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This bundle includes 1x Left Arm, 1x Armless, 1x Right Arm piece and an ottoman.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>modular</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8128083722476</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3596.00</s:price>
+      <s:sku>409007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8133890605292</id>
+    <published>2024-01-12T12:08:37+08:00</published>
+    <updated>2024-01-12T12:08:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/vienna-4-seater-with-chaise-grey-gum"/>
+    <title>Vienna 4 Seater with Chaise - Grey Gum</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Vienna4SeaterwithChaiseRHS-GreyGum.jpg?v=1705028464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Featuring extra deep feather seating, the Vienna </span><a href="https://thefurnituregallery.com.au/products/avoca-4-seater-sofa" data-mce-fragment="1" data-mce-href="https://thefurnituregallery.com.au/products/avoca-4-seater-sofa" target="_blank">4 Seater</a><span data-mce-fragment="1"> with </span><a href="https://thefurnituregallery.com.au/collections/chaises" data-mce-fragment="1" data-mce-href="https://thefurnituregallery.com.au/collections/chaises" target="_blank">Chaise</a><span data-mce-fragment="1"> is constructed and upholstered to the highest standards. With on trend low slung lounging, it will bring understated style and exceptional comfort to your </span><a href="https://thefurnituregallery.com.au/collections/living" data-mce-fragment="1" data-mce-href="https://thefurnituregallery.com.au/collections/living" target="_blank">living room</a><span data-mce-fragment="1">. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chaise lounge</s:tag>
+    <s:tag>chaise sofa</s:tag>
+    <s:tag>grey chaise</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8133890605292</id>
+      <title>RHS</title>
+      <s:price currency="AUD">3299.00</s:price>
+      <s:sku>448613</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8133890605292</id>
+      <title>LHS</title>
+      <s:price currency="AUD">3299.00</s:price>
+      <s:sku>448615</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8116182876396</id>
+    <published>2023-12-22T18:21:17+08:00</published>
+    <updated>2023-12-22T18:21:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/glebe-modular-six-seater-with-chaise-1"/>
+    <title>Glebe Modular - Six Seater with Chaise</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GlebeModularwithOttoman_183213e9-9658-4ce3-b649-ac99a7441393.jpg?v=1702609812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            4996.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">Laidback and oversized, the Glebe modular is the perfect sofa for relaxing in sumptuous comfort and the ultimate daybed. The deep seating with high density foam and goose feather filling mean this sofa is made for lounging, while the silhouette is both on trend and timeless.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This bundle includes 1 x left corner piece, 1 x right corner piece, 1 x armless piece and 1 x ottoman to complete the chaise sofa / lounge.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fabric lounge</s:tag>
+    <s:tag>fabric sofa</s:tag>
+    <s:tag>glebe</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8116182876396</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">4996.00</s:price>
+      <s:sku>409000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8113781833964</id>
+    <published>2023-12-12T09:37:10+08:00</published>
+    <updated>2023-12-12T09:37:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-three-seater-with-chaise"/>
+    <title>Cloud - Three Seater With Chaise</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CloudModularSetup3_89094302-6041-4565-9a7c-caa93825a44a.jpg?v=1702341561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            4339.00 - 8005.00
+            <a href="https://thefurnituregallery.com.au/products/cloud-three-seater-with-chaise">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The ultimate sofa - 100% goose feather filled cushions encased in your choice of soft linen or supple cognac leather, and 3 separate modular pieces (corner, armless and ottoman) allowing endless configurations for your space. The Cloud offers unparalleled comfort and comes with a comprehensive lifetime warranty, due to its outstanding craftsmanship. **Scatter cushions included ONLY with FABRIC Cloud Modular not LEATHER.  </span></p>
+<p><meta charset="utf-8"><span data-mce-fragment="1">More colours available exclusively in store.</span><span data-mce-fragment="1"> </span><br><meta charset="utf-8"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>bestseller</s:tag>
+    <s:tag>cloud</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113781833964</id>
+      <title>Optical White</title>
+      <s:price currency="AUD">4339.00</s:price>
+      <s:sku>408990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113781833964</id>
+      <title>Cognac Leather</title>
+      <s:price currency="AUD">8005.00</s:price>
+      <s:sku>408996</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7991480582380</id>
+    <published>2023-10-23T08:37:45+08:00</published>
+    <updated>2023-10-23T08:37:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/luna-large-modular-with-right-chaise-playful-optical"/>
+    <title>Luna Large Corner Suite with Right Chaise - Playful Optical</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/LunaModular1-styled.jpg?v=1709791148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            7199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="ProductMeta__Description" data-mce-fragment="1">
+<div class="Rte" data-mce-fragment="1"><strong>Please note: Ottoman pictured in-situ photo is purchased separately - available <a title="Luna Ottoman - Playful Optical" href="https://thefurnituregallery.com.au/products/luna-ottoman?_pos=2&amp;_sid=1a02d9ba7&amp;_ss=r"><span style="text-decoration: underline;">here</span></a>.</strong></div>
+<div class="Rte" data-mce-fragment="1"><strong></strong></div>
+<div class="Rte" data-mce-fragment="1">
+<span data-mce-fragment="1">Filled with goose feathers and featuring latex core reversible cushions for superb comfort, the Luna is the effortless sofa that's made to last <meta charset="utf-8">(10 year seating warranty, 10 year frame warranty). Low maintenance and easy to keep clean, the slip covers are removable, waterproof and machine washable. </span><span data-mce-fragment="1">The Luna is upholstered in a hardwearing, durable fabric that looks as luxurious as it feels. </span>This is the dream sofa.</div>
+<div class="Rte" data-mce-fragment="1"><br></div>
+<div class="Rte" data-mce-fragment="1"><br></div>
+<div class="Rte" data-mce-fragment="1"><br></div>
+<div class="Rte" data-mce-fragment="1">
+<meta charset="utf-8">
+<p><br></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chaise lounge</s:tag>
+    <s:tag>hamptons lounge</s:tag>
+    <s:tag>hamptons sofa</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>white fabric sofa</s:tag>
+    <s:tag>white lounge</s:tag>
+    <s:tag>white sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7991480582380</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">7199.00</s:price>
+      <s:sku>452772M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7991436443884</id>
+    <published>2023-10-02T15:40:30+08:00</published>
+    <updated>2023-10-02T15:40:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/luna-3-seater-playful-optical-1"/>
+    <title>Luna 3 Seater with Chaise - Playful Optical</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/LunaModular3.jpg?v=1697699598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="ProductMeta__Description" data-mce-fragment="1">
+<div class="Rte" data-mce-fragment="1">
+<meta charset="utf-8"> <span data-mce-fragment="1">Filled with goose feathers and featuring latex core reversible cushions for superb comfort, the Luna is the effortless sofa that's made to last <meta charset="utf-8">(10 year seating warranty, 10 year frame warranty). Low maintenance and easy to keep clean, the slip covers are removable, waterproof and machine washable. </span><span data-mce-fragment="1">The Luna is upholstered in a hardwearing, durable fabric that looks as luxurious as it feels.</span>
+</div>
+</div>
+<div class="dimension-container" data-mce-fragment="1"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chaise lounge</s:tag>
+    <s:tag>hamptons lounge</s:tag>
+    <s:tag>hamptons sofa</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>white fabric sofa</s:tag>
+    <s:tag>white lounge</s:tag>
+    <s:tag>white sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7991436443884</id>
+      <title>RHS</title>
+      <s:price currency="AUD">3999.00</s:price>
+      <s:sku>452772</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7991436443884</id>
+      <title>LHS</title>
+      <s:price currency="AUD">3999.00</s:price>
+      <s:sku>452773</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7993737576684</id>
+    <published>2023-09-06T08:19:42+08:00</published>
+    <updated>2023-09-06T08:19:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/oregon-3-seater-chaise-lounge"/>
+    <title>Oregon 3 Seater Chaise Lounge</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Oregon3SeaterwithLHSChaise.jpg?v=1693909684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2509.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cosy and inviting, the <a href="https://thefurnituregallery.com.au/products/monaco-6-piece-corner-lounge">Oregon</a> features minimal detail and a low profile for an understated, versatile look. Exposed seams add a relaxed, modern touch. </p>
+<p><meta charset="utf-8"><strong>This product is available in more colours exclusively in store, for special order.</strong></p>
+<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>comfy couch</s:tag>
+    <s:tag>fabric sofa</s:tag>
+    <s:tag>grey corner lounge</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:tag>sofa with ottoman</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7993737576684</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2509.00</s:price>
+      <s:sku>449128L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7993828933868</id>
+    <published>2023-09-06T08:19:29+08:00</published>
+    <updated>2023-09-06T08:19:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/oregon-4-seater-chaise-lounge"/>
+    <title>Oregon 4 Seater Chaise Lounge</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Oregon4SeaterRHSChaiseLounge.jpg?v=1693910669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3089.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cosy and inviting, the <a href="https://thefurnituregallery.com.au/products/monaco-6-piece-corner-lounge">Oregon</a> features minimal detail and a low profile for an understated, versatile look. Exposed seams add a relaxed, modern touch. </p>
+<p><meta charset="utf-8"><strong>This product is available in more colours exclusively in store, for special order.</strong></p>
+<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>comfy couch</s:tag>
+    <s:tag>fabric sofa</s:tag>
+    <s:tag>grey corner lounge</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:tag>sofa with ottoman</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7993828933868</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3089.00</s:price>
+      <s:sku>449128M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7939792797932</id>
+    <published>2023-06-28T11:08:27+08:00</published>
+    <updated>2023-06-28T11:08:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/monaco-3-seater-with-chaise"/>
+    <title>Monaco 3 Seater with Chaise</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/Monaco3SeaterwithChaise-RHS.jpg?v=1687921100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Upholstered in a WATERPROOF fabric, the </span><a href="https://thefurnituregallery.com.au/products/monaco-6-piece-corner-lounge" data-mce-fragment="1" data-mce-href="https://thefurnituregallery.com.au/products/monaco-6-piece-corner-lounge">Monaco</a><span data-mce-fragment="1"> is a classic </span><a href="https://thefurnituregallery.com.au/collections/sofas" data-mce-fragment="1" data-mce-href="https://thefurnituregallery.com.au/collections/sofas">sofa</a><span data-mce-fragment="1"> that seamlessly blends into any interior, with a versatile colour that offers endless styling potential. Its modern, elegant form is complemented by extra wide seating, featuring a combination of high-density foam and goose feathers for incredible comfort.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>grey chaise</s:tag>
+    <s:tag>lounge with chaise</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7939792797932</id>
+      <title>RHS Chaise</title>
+      <s:price currency="AUD">2499.00</s:price>
+      <s:sku>452115</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7939792797932</id>
+      <title>LHS Chaise</title>
+      <s:price currency="AUD">2499.00</s:price>
+      <s:sku>452114</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7927491526892</id>
+    <published>2023-06-15T11:03:39+08:00</published>
+    <updated>2023-06-15T11:03:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/manhattan-theatre-lounge-regatta-fern"/>
+    <title>Manhattan Theatre Lounge - Regatta Fern</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/452500-ManhattanTheatreLoungeopen-RegattaFern.jpg?v=1686880396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            8068.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Coated in </span><span data-mce-fragment="1">beautiful leather </span><span data-mce-fragment="1">in a stunning fern hue, the Manhattan is a true modular, allowing you to customise it to your space. This theatre lounge features 3 electric recliners, a chaise lounge for stretching out, 2 consoles with cupholders and plush seating, allowing you to truly relax in stylish, modern comfort.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>electric recliner</s:tag>
+    <s:tag>leather</s:tag>
+    <s:tag>leather chaise sofa</s:tag>
+    <s:tag>leather sofa</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7927491526892</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">8068.00</s:price>
+      <s:sku>452500</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7927482089708</id>
+    <published>2023-06-15T10:58:01+08:00</published>
+    <updated>2023-06-15T10:58:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/manhattan-3-seater-chaise-lounge-with-chaise-regatta-fern"/>
+    <title>Manhattan 3 Seater Recliner Chaise Lounge with Console - Regatta Fern</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/452498-Manhattan3SeaterwithConsoleandChaiseopen-RegattaFern.jpg?v=1686880375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            5979.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Coated in beautiful leather in a stunning fern hue, the Manhattan is a true modular, allowing you to customise it to your space. With recliners, a console with cupholders, a chaise for stretching out and extra comfy seating, this is your new go-to for modern reclining.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chaise lounge</s:tag>
+    <s:tag>leather</s:tag>
+    <s:tag>leather sofa</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7927482089708</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">5979.00</s:price>
+      <s:sku>452498</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7927488577772</id>
+    <published>2023-06-15T10:55:35+08:00</published>
+    <updated>2023-06-15T10:55:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/manhattan-3-seater-recliner-chaise-lounge-regatta-fern"/>
+    <title>Manhattan 3 Seater Recliner Chaise Lounge - Regatta Fern</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ManhattanReclinerLounge8-RegattaFern-designercarspic.jpg?v=1684899614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            5380.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Coated in </span><span data-mce-fragment="1">beautiful leather </span><span data-mce-fragment="1">in a stunning fern hue, the Manhattan is a true modular, allowing you to customise it to your space. Featuring 2 electric recliners and plush seating with a chaise for stretching out, this sofa allows you to truly relax in stylish, modern comfort.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>leather</s:tag>
+    <s:tag>leather chaise sofa</s:tag>
+    <s:tag>leather sofa</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7927488577772</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">5380.00</s:price>
+      <s:sku>452499</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7856671326444</id>
+    <published>2023-05-12T14:57:02+08:00</published>
+    <updated>2023-05-12T14:57:02+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/spencer-4-seater-with-reversible-chaise"/>
+    <title>Spencer 4 Seater with Reversible Chaise</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/SpencerChaiseLounge-granite-resize.jpg?v=1672719159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>This product is available exclusively in store, for special order.</strong></p>
+<p>Exposed seams and a brushed grey fabric give the Spencer a cool modern look.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fabric sofa</s:tag>
+    <s:tag>grey chaise</s:tag>
+    <s:tag>grey corner lounge</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7856671326444</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1999.00</s:price>
+      <s:sku>451229</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7904818135276</id>
+    <published>2023-04-05T11:05:09+08:00</published>
+    <updated>2023-04-05T11:05:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/xavier-3-seater-with-chaise-stone"/>
+    <title>Xavier 3 Seater with Chaise - Stone</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/XavierChaiseLounge-stone-resize_f1651c15-aac5-4b89-a3dc-af1f1467db04.jpg?v=1711430964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Embracing the beauty of simple, clean design, the Xavier 3 Seater with RHS Chaise in Stone will make a sensational addition to your living room.</span></p>
+<p><span><meta charset="utf-8"> <strong>This product is available in more colours exclusively in store, for special order (see swatch image). </strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>comfy couch</s:tag>
+    <s:tag>lounge with chaise</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7904818135276</id>
+      <title>RHS</title>
+      <s:price currency="AUD">1999.00</s:price>
+      <s:sku>451219</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7904818135276</id>
+      <title>LHS</title>
+      <s:price currency="AUD">1999.00</s:price>
+      <s:sku>451882</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7901623451884</id>
+    <published>2023-03-30T10:44:51+08:00</published>
+    <updated>2023-03-30T10:44:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/harlow-4-seater-with-ottoman-sand"/>
+    <title>Harlow 4 Seater Lounge with Ottoman - Sand</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/HarlowLounge1.jpg?v=1686621348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This versatile 4 seater lounge can be configured in different ways, with the ottoman forming part of the sofa or a separate piece. The light fabric upholstery and classic design make it the perfect blank canvas in any living room. </p>
+<p><strong>This product is available in more colours exclusively in store, for special order.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>comfy couch</s:tag>
+    <s:tag>neutral sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7901623451884</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1999.00</s:price>
+      <s:sku>451225</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669980070124</id>
+    <published>2022-06-19T12:53:44+08:00</published>
+    <updated>2022-06-19T12:53:44+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/vienna-4-seater-with-chaise"/>
+    <title>Vienna 4 Seater with Chaise - Cobblestone</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/620b08a6862a2b9c62fd302b_Vienna_204str_20with_20Chaise_20LHS_20-_20cobblestone._43929a1a-3555-4dd5-8ce8-6aeb42b938ef.jpg?v=1656027895"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Featuring extra deep feather seating, the Vienna <a href="https://thefurnituregallery.com.au/products/avoca-4-seater-sofa" target="_blank" rel="noopener noreferrer">4 Seater</a> with <a href="https://thefurnituregallery.com.au/collections/chaises" target="_blank" rel="noopener noreferrer">Chaise</a> is constructed and upholstered to the highest standards. With on trend low slung lounging, it will bring understated style and exceptional comfort to your <a href="https://thefurnituregallery.com.au/collections/living" target="_blank" rel="noopener noreferrer">living room</a>. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chaise sofa</s:tag>
+    <s:tag>comfy couch</s:tag>
+    <s:tag>cream</s:tag>
+    <s:tag>feather sofa</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669980070124</id>
+      <title>Left Hand Chaise</title>
+      <s:price currency="AUD">3299.00</s:price>
+      <s:sku>448616</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669980070124</id>
+      <title>Right Hand Chaise</title>
+      <s:price currency="AUD">3299.00</s:price>
+      <s:sku>448614</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669973254380</id>
+    <published>2022-06-19T12:46:01+08:00</published>
+    <updated>2022-06-19T12:46:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/casablanca-3-seater-lounge-with-chaise"/>
+    <title>Casablanca 3 Seater Lounge with Chaise - Smoke</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/60fa546df078ee989f8458e4_Casablanca_20Chaise_cffd187a-f1e7-4b39-9072-a2047e48c596_1800x1200copy.jpg?v=1678688704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For those who like their lounges extra plush, the Casablanca <a href="https://thefurnituregallery.com.au/products/xander-3-seater-sofa" rel="noopener noreferrer" target="_blank">3 Seater</a> <a href="https://thefurnituregallery.com.au/collections/lounges" rel="noopener noreferrer" target="_blank">Lounge</a> with <a href="https://thefurnituregallery.com.au/collections/chaises" rel="noopener noreferrer" target="_blank">Chaise</a> features a decadent mix of high resilience, high density foam seat cushions and feather blend back cushions on a solid timber frame. Finished in luxe <a href="https://thefurnituregallery.com.au/collections/velvet" rel="noopener noreferrer" target="_blank">velvet</a> with silver studding and extra scatter cushions for an upscale look and feel. </p>
+<p><strong>Available for special order in store only.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>studded velvet sofa</s:tag>
+    <s:tag>velvet lounge</s:tag>
+    <s:tag>Velvet sofa</s:tag>
+    <s:tag>velvet sofa chaise</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669973254380</id>
+      <title>Left Chaise</title>
+      <s:price currency="AUD">3999.00</s:price>
+      <s:sku>447582</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669973254380</id>
+      <title>Right Chaise</title>
+      <s:price currency="AUD">3999.00</s:price>
+      <s:sku>447578</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669973025004</id>
+    <published>2022-06-19T12:45:41+08:00</published>
+    <updated>2022-06-19T12:45:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/brooklyn-leather-chaise"/>
+    <title>Brooklyn Leather Chaise</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/BrooklynRHSLeatherChaise_6a4f4277-9044-49db-851a-75a0bc265641.jpg?v=1678685235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            4699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Brooklyn <a href="https://thefurnituregallery.com.au/products/santorini-3-seater" target="_blank" rel="noopener noreferrer">3 Seater</a> with <a href="https://thefurnituregallery.com.au/collections/chaises" target="_blank" rel="noopener noreferrer">Chaise</a> is the ultimate New York style loft <a href="https://thefurnituregallery.com.au/collections/lounges" target="_blank" rel="noopener noreferrer">lounge</a>. Encased in soft, supple <a href="https://thefurnituregallery.com.au/collections/leather-sofas" target="_blank" rel="noopener noreferrer">leather</a>, this <a href="https://thefurnituregallery.com.au/collections/sofas" target="_blank" rel="noopener noreferrer">sofa’s</a> sleek, modern silhouette is elevated by slender metal legs. Chaise side is as you look at it.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black leather sofa</s:tag>
+    <s:tag>leather chaise sofa</s:tag>
+    <s:tag>leather sofa</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669973025004</id>
+      <title>Left Chaise / Caviar</title>
+      <s:price currency="AUD">4699.00</s:price>
+      <s:sku>448620</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669973025004</id>
+      <title>Left Chaise / Chestnut</title>
+      <s:price currency="AUD">4699.00</s:price>
+      <s:sku>448619</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669973025004</id>
+      <title>Right Chaise / Caviar</title>
+      <s:price currency="AUD">4699.00</s:price>
+      <s:sku>448622</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669973025004</id>
+      <title>Right Chaise / Chestnut</title>
+      <s:price currency="AUD">4699.00</s:price>
+      <s:sku>448621</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

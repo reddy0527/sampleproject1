@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/whats-new.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-05-31T11:28:32+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8488623997164</id>
+    <published>2024-05-31T11:28:32+08:00</published>
+    <updated>2024-05-31T11:28:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/axel-4-seater-with-ottoman"/>
+    <title>Axel Full Modular Lounge - Grey Gum</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Axel4SeaterwithOttomanstyled.jpg?v=1717125480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3497.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><span>Introducing the Axel Full Modular Lounge, the ultimate spacious lounge for families - with plenty of room for everyone. Comfortable, chic and versatile, this lounge features separate modular pieces that allow you to customise your seating arrangement, so you can create the perfect layout for your space and lifestyle. Each modular piece features extra wide seating, enabling more people to fit onto the lounge and giving it a luxurious feel. </span></span></p>
+<p><span data-mce-fragment="1"><span>This configuration features:</span></span><span data-mce-fragment="1"><span></span></span></p>
+<ul type="disc">
+<li class="x_MsoListParagraph"><span>1 x 1.5 Seater with Left Armrest</span></li>
+<li class="x_MsoListParagraph"><span>1 x Armless piece</span></li>
+<li class="x_MsoListParagraph"><span>1 x Ottoman</span></li>
+<li class="x_MsoListParagraph"><span>1 x Corner Seat</span></li>
+<li class="x_MsoListParagraph"><span>1 x 1.5 Seater with Right Terminal</span></li>
+</ul>
+<p><span data-mce-fragment="1">More colours available exclusively in store.</span><span data-mce-fragment="1"> </span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>large family lounge</s:tag>
+    <s:tag>modular</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8488623997164</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3497.00</s:price>
+      <s:sku>409025</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8498438144236</id>
+    <published>2024-05-31T09:19:31+08:00</published>
+    <updated>2024-05-31T09:19:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/omaha-swivel-chair"/>
+    <title>Omaha Swivel Chair</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/OmahaSwivelchairstyled_b0f2226a-cb99-4370-bece-cefc36385b53.jpg?v=1717112270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy the sleek and contemporary design of the Omaha Swivel Chair, complementing a variety of interior styles with its chic caviar upholstery and cosy tub silhouette. Effortlessly turn in any direction with the chair's smooth swivel mechanism.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>large armchair</s:tag>
+    <s:tag>swivel chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8498438144236</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">900.00</s:price>
+      <s:sku>409296</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8477501980908</id>
+    <published>2024-05-24T13:09:18+08:00</published>
+    <updated>2024-05-24T13:09:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/akala-marble-side-table"/>
+    <title>Akala Marble Side Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/AkalaMarbleSideTable2.webp?v=1716523323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            449.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Introduce a touch of elegance to your living space with the Akala Marble Side Table. This side table perfectly blends contemporary design with timeless sophistication, featuring a luxurious pink marble top and a sleek gold-finished metal base.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>marble side table</s:tag>
+    <s:tag>metal side table</s:tag>
+    <s:tag>round side table</s:tag>
+    <s:tag>side table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8477501980908</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">449.00</s:price>
+      <s:sku>409273b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8477624959212</id>
+    <published>2024-05-24T13:09:05+08:00</published>
+    <updated>2024-05-24T13:09:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/akala-marble-coffee-table"/>
+    <title>Akala Marble Coffee Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/AkalaMarbleCoffeeTable.webp?v=1716523648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Featuring an exquisite pink marble surface atop a contemporary gold-finished metal base the Akala Marble Coffee Table will add a touch of opulence to any room.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent coffee table</s:tag>
+    <s:tag>Marble coffee table</s:tag>
+    <s:tag>round coffee table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8477624959212</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>409274b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8476596797676</id>
+    <published>2024-05-24T10:16:37+08:00</published>
+    <updated>2024-05-24T10:16:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/darcy-3-seater-1"/>
+    <title>Darcy 3 Seater</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Darcy3Seaterstyled_8eabeb3c-4ebb-44b9-9eb0-6d0ffa560768.jpg?v=1717407106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy this <a href="https://thefurnituregallery.com.au/products/xander-armchair">mid-century</a> modern<a href="https://thefurnituregallery.com.au/search?q=3+seater&amp;type=product" title="3 Seater"> 3-Seater </a>in a deep forest hue with contrasting <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">timber</a> touches, brings an eclectic look to a contemporary space.</p>
+<p><a title="Darcy Armchair" href="https://thefurnituregallery.com.au/products/darcy-arm-chair?_pos=1&amp;_sid=fbf62af36&amp;_ss=r">Darcy Armchair</a> also available.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8476596797676</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>409279</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8453566595308</id>
+    <published>2024-05-14T12:09:32+08:00</published>
+    <updated>2024-05-14T12:09:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/travertine-side-table"/>
+    <title>Travertine Side Table</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Travertinesidetablestyled.webp?v=1717407651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafted with a natural stone top and an oak veneer base the Travertine Side Table has a classic-contemporary charm.  Pairs back beautifully with the <a href="https://thefurnituregallery.com.au/products/travertine-coffee-table" title="Travertine Coffee Table">Travertine Coffee Table.</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>oak</s:tag>
+    <s:tag>round side table</s:tag>
+    <s:tag>side table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8453566595308</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>409209</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8453565186284</id>
+    <published>2024-05-14T12:09:07+08:00</published>
+    <updated>2024-05-14T12:09:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/sierra-table-lamp"/>
+    <title>Sierra Table Lamp</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/SierraLampstyled.jpg?v=1716513566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Illuminate your space with the understated elegance of the Sierra Table Lamp, featuring a smooth wooden base paired back with a warm neutral linen light shade.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>lamp</s:tag>
+    <s:tag>neutral lamp</s:tag>
+    <s:tag>table lamp</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8453565186284</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.00</s:price>
+      <s:sku>409213</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8453556044012</id>
+    <published>2024-05-14T12:08:03+08:00</published>
+    <updated>2024-05-14T12:08:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/royale-floor-mirror-gold"/>
+    <title>Royale Floor Mirror - Gold</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/RoyaleFloorMirror-gold.webp?v=1715656716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            799.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted with a sleek gold frame, the Royale Floor Mirror features a concave shape at both the base and top, creating a striking visual effect that draws the eye and enhances the overall aesthetic.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor mirror</s:tag>
+    <s:tag>gold mirror</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8453556044012</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.20</s:price>
+      <s:sku>409226</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446656676076</id>
+    <published>2024-05-10T11:08:29+08:00</published>
+    <updated>2024-05-10T11:08:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/travertine-coffee-table"/>
+    <title>Travertine Coffee Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ukyhhaeQ.jpg?v=1716513263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted with a natural stone top and an oak veneer base the Travertine Coffee Table is a captivating centre-piece, anchoring your lounge space with its classic-contemporary charm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>square coffee table</s:tag>
+    <s:tag>timber coffee table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446656676076</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>409210</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446641078508</id>
+    <published>2024-05-10T11:08:14+08:00</published>
+    <updated>2024-05-10T11:08:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bethany-floor-mirror-black"/>
+    <title>Bethany Floor Mirror - Black</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BethanyFloorMirror-styled.webp?v=1717408245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            1119.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Bethany Floor Mirror features a sleek black frame and wave edge design exuding modern elegance, designed to add a touch of drama to any space.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floor mirror</s:tag>
+    <s:tag>leaner mirror</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446641078508</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1119.20</s:price>
+      <s:sku>409206</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446642520300</id>
+    <published>2024-05-10T11:07:56+08:00</published>
+    <updated>2024-05-10T11:07:56+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bethany-floor-mirror-black-copy"/>
+    <title>Marseille Mirror - Gold</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/marseillegoldmirrorstyled2.jpg?v=1716515182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            527.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Step back in time with the vintage-inspired Marseille Mirror, adorned with elegant gold baroque framing that exudes refined charm. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent mirror</s:tag>
+    <s:tag>antique gold</s:tag>
+    <s:tag>antique style</s:tag>
+    <s:tag>gold mirror</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446642520300</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">527.20</s:price>
+      <s:sku>409207</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446652678380</id>
+    <published>2024-05-10T11:07:38+08:00</published>
+    <updated>2024-05-10T11:07:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/manarola-coffee-table-nest-set-of-2"/>
+    <title>Manarola Coffee Table - Set of 2</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/oba2t25w.jpg?v=1716265680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Manarola Coffee Table nesting set displays contemporary elegance and functionality. Featuring a sleek black metal frame and glass top, these tables are a versatile addition to any living space large or small.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass coffee table</s:tag>
+    <s:tag>glass metal coffee table</s:tag>
+    <s:tag>nesting coffee table</s:tag>
+    <s:tag>round coffee table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446652678380</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1399.00</s:price>
+      <s:sku>409208</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446615879916</id>
+    <published>2024-05-10T09:55:56+08:00</published>
+    <updated>2024-05-10T09:55:56+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/woodbury-wall-art"/>
+    <title>Woodbury Wall Art</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/WoodburyWallArt-80x122.webp?v=1715305859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            305.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Immerse yourself in the captivating allure of the Woodbury Wall Art piece, delicately rendered on stretched canvas and elegantly framed. Moody and evocative, this piece will add mystery and intrigue to your space.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canvas art</s:tag>
+    <s:tag>muted art piece</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446615879916</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">305.10</s:price>
+      <s:sku>409211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446615388396</id>
+    <published>2024-05-10T09:32:19+08:00</published>
+    <updated>2024-05-10T09:32:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/waterside-wall-art"/>
+    <title>Waterside Wall Art</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/WatersideWallArt-100x100stretchedcanvas.webp?v=1715909056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            422.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Enhance your décor with the soothing elegance of the Waterside Wall Art. Enjoy the timeless beauty and tranquillity of gentle ocean waves.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canvas art</s:tag>
+    <s:tag>muted art piece</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446615388396</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">422.10</s:price>
+      <s:sku>409205</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446614962412</id>
+    <published>2024-05-10T09:25:22+08:00</published>
+    <updated>2024-05-10T09:25:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/musa-wall-art"/>
+    <title>Musa Wall Art</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/MusaWallArt-60x90stretchcanvaslightframe.webp?v=1715302177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            287.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Elevate your decor with the understated elegance of the Musa Wall Art, and let its calming presence infuse your space with warmth and serenity.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canvas art</s:tag>
+    <s:tag>muted art piece</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446614962412</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">287.10</s:price>
+      <s:sku>409204</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446614536428</id>
+    <published>2024-05-10T09:16:34+08:00</published>
+    <updated>2024-05-10T09:16:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/horizon-wall-art"/>
+    <title>Horizon Wall Art</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/HorizonWallArt80x80-stretchedcanvaswithlightframe.webp?v=1715302046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            305.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Immerse yourself in the subtle beauty of Horizon Wall Art as it stretches out before you, inviting contemplation and reflection. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>canvas art</s:tag>
+    <s:tag>muted art piece</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446614536428</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">305.10</s:price>
+      <s:sku>409203</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8436011466988</id>
+    <published>2024-05-07T09:08:38+08:00</published>
+    <updated>2024-05-07T09:08:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/jax-marble-side-table"/>
+    <title>Jax Marble Side Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/5dIgGu8Q.jpg?v=1716513398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafted from beautiful <span>white marble, the Jax Side Table exudes quiet sophistication, making it the perfect addition to effortlessly upscale your living space.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>round side table</s:tag>
+    <s:tag>side table</s:tag>
+    <s:tag>white marble</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8436011466988</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">499.00</s:price>
+      <s:sku>409240</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8386788229356</id>
+    <published>2024-04-24T12:45:21+08:00</published>
+    <updated>2024-04-24T12:45:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/willow-single-seater-sofa"/>
+    <title>Willow Single Seater Sofa</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/WillowSingleSeaterSofa.jpg?v=1716512842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Dreamy and opulent, the Willow is dressed in off-white boucle upholstery. It effortlessly exudes modern luxury and sophistication with its plush, inviting design.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8386788229356</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">750.00</s:price>
+      <s:sku>409095</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8384124584172</id>
+    <published>2024-04-24T07:38:55+08:00</published>
+    <updated>2024-04-24T07:38:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/wyatt-side-table"/>
+    <title>Wyatt Side Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/nUsxyxw.jpg?v=1716514986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Introducing the Wyatt Side Table, meticulously crafted from mango wood with a subtle white wash finish, this unique piece boasts a ribbed silhouette that exudes rustic charm and elegance.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>round side table</s:tag>
+    <s:tag>side table</s:tag>
+    <s:tag>timber side table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8384124584172</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">650.00</s:price>
+      <s:sku>409088</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8384125239532</id>
+    <published>2024-04-24T07:19:23+08:00</published>
+    <updated>2024-04-24T07:19:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/wyatt-coffee-table"/>
+    <title>Wyatt Coffee Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Image01_2.jpg?v=1717407441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Wyatt Coffee Table effortlessly combines functionality with distinctive design. Crafted from white-washed mango wood and showcasing a unique ribbed silhouette, adding character to any space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>white washed</s:tag>
+    <s:tag>wooden table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8384125239532</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1200.00</s:price>
+      <s:sku>409086</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8319925387500</id>
+    <published>2024-04-12T15:07:54+08:00</published>
+    <updated>2024-04-12T15:07:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/alexa-floor-mirror-black"/>
+    <title>Alexa Floor Mirror - Black</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Alexa_Floor_Mirror_-_140_afd58d5a-a435-4b9f-a43b-27909f0a475c.webp?v=1712898721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            639.20 - 959.20
+            <a href="https://thefurnituregallery.com.au/products/alexa-floor-mirror-black">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A beautiful arched floor mirror, simple and elegant.  Perfect for reflecting light and opening up the room in any bedroom or living space.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>arch mirror</s:tag>
+    <s:tag>floor mirror</s:tag>
+    <s:tag>leaner mirror</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8319925387500</id>
+      <title>140cm x 215cm</title>
+      <s:price currency="AUD">959.20</s:price>
+      <s:sku>452111</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8319925387500</id>
+      <title>100cm x 200cm</title>
+      <s:price currency="AUD">639.20</s:price>
+      <s:sku>452110</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8319912870124</id>
+    <published>2024-04-12T13:10:01+08:00</published>
+    <updated>2024-04-12T13:10:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ligne-wood-console"/>
+    <title>Ligne Wood Console</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/LigneConsole2_689c7744-267b-42bf-b374-a04592837938.jpg?v=1717407783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            829.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Ligne Wood Console exudes timeless elegance. With its cylinder-shaped legs and beautifully rounded top, this console features a sleek and slim design that adds a touch of contemporary flair to any space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>console</s:tag>
+    <s:tag>timber console</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8319912870124</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">829.00</s:price>
+      <s:sku>408318</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8319833571564</id>
+    <published>2024-04-12T11:15:01+08:00</published>
+    <updated>2024-04-12T11:15:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/formes-curved-3-seater-sofa-1"/>
+    <title>Formes Curved 3 Seater Sofa</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BbFPCLJQ.jpg?v=1716514905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Formes Curved 3-Seater Sofa</span><span data-mce-fragment="1"> displays a curved, cloud-like silhouette with grey plush upholstery. </span><span data-mce-fragment="1">A visual statement piece, complementing both classic and contemporary interiors alike.</span><br data-mce-fragment="1"><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>curved back</s:tag>
+    <s:tag>curved sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8319833571564</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>409087</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8298910548204</id>
+    <published>2024-04-08T17:44:41+08:00</published>
+    <updated>2024-04-08T17:44:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/silvio-marble-side-table"/>
+    <title>Silvio Marble Side Table</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/IMG_7415.heic?v=1713931361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            469.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Silvio Marble Side Table effortlessly blends contemporary sleek design with artistic flair to add a luxurious focal point to your room.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8298910548204</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">469.00</s:price>
+      <s:sku>409049</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8284040593644</id>
+    <published>2024-04-03T13:10:39+08:00</published>
+    <updated>2024-04-03T13:10:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/al-ive-mini-soy-candle-a-moment-to-bloom"/>
+    <title>Al.ive Mini Soy Candle - A Moment to Bloom</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/mini-soy-candle-a-moment-to-bloom-withflowers.webp?v=1712119388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Al.ive Mini Soy Candle is hand-poured in a beautifully designed vessel.  Immerse yourself in uplifting floral fragrances, elevating your space and celebrating nature's beauty.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>al.ive</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8284040593644</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">28.00</s:price>
+      <s:sku>409085</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

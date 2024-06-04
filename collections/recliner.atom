@@ -1,0 +1,893 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/recliner.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-05-21T15:10:35+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8471374201068</id>
+    <published>2024-05-21T15:10:35+08:00</published>
+    <updated>2024-05-21T15:10:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/mayan-single-power-recliner"/>
+    <title>Mayan Single Power Recliner</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/mpO0EIFQ.jpg?v=1716275402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>electric recliner</s:tag>
+    <s:tag>grey recliner</s:tag>
+    <s:tag>recliner</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8471374201068</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">899.00</s:price>
+      <s:sku>408831</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8471370596588</id>
+    <published>2024-05-21T14:57:01+08:00</published>
+    <updated>2024-05-21T14:57:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/mayan-2-5-seater-power-recliner"/>
+    <title>Mayan 2.5 Seater Power Recliner</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/FyjIzR4w.jpg?v=1716274590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Transform your living space with the Mayan 2.5 Seater Power Recliner, designed to offer unparalleled comfort and modern elegance.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2.5 seater</s:tag>
+    <s:tag>recliner</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8471370596588</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1999.00</s:price>
+      <s:sku>408829</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8460585926892</id>
+    <published>2024-05-21T13:01:51+08:00</published>
+    <updated>2024-05-21T13:01:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/mayan-2-seater-recliner"/>
+    <title>Mayan 2 Seater Power Recliner</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/d91Cl48Q.jpg?v=1716329669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Transform your living space with the Mayan 2 Seater Power Recliner, designed to offer unparalleled comfort and modern elegance.</span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 seater</s:tag>
+    <s:tag>recliner</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8460585926892</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>408830</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8090885619948</id>
+    <published>2023-11-17T10:33:35+08:00</published>
+    <updated>2023-11-17T10:33:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-power-recliner-family-suite-with-ottoman-opulence-optical"/>
+    <title>Cloud Power Recliner Family Suite with Ottoman - Opulence Optical</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CloudPowerReclinerFamilySuitewithOttomantoday_b065e4f1-fe69-4ee4-9add-94122548059b.jpg?v=1700184203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            10095.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-pm-slice="1 1 []" dir="auto" data-mce-fragment="1">Experience the ultimate in luxury and comfort with the Cloud Power Recliner Corner Suite with Ottoman. Upholstered in "Opulence" fabric, designed to provide the highest grade of stain resistance. With power recliners, ottoman and a convenient console for storage, elevate your living space with this exquisite lounge suite that seamlessly combines style and comfort.</p>
+<p data-pm-slice="1 1 []" dir="auto" data-mce-fragment="1"><span data-mce-fragment="1">This bundle consists of 1 x left recliner, 1 x right recliner, 2 x armless recliners, 1 x corner piece, 1 x console and 1 x ottoman.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>electric recliner</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>modular</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8090885619948</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">10095.00</s:price>
+      <s:sku>452741O</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8090865271020</id>
+    <published>2023-11-17T09:50:59+08:00</published>
+    <updated>2023-11-17T09:50:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-2-seater-power-recliner-suite-opulence-optical"/>
+    <title>Cloud 2 Seater Power Recliner Suite - Opulence Optical</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Cloud2SeaterPowerReclinerSuite.jpg?v=1700180596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Experience the epitome of luxury and comfort with the Cloud 2 Seater Power Recliner Suite. Includes two power recliners and console, this stunning lounge suite is upholstered in "Opulence" fabric, offering the highest grade of stain resistance.</span></p>
+<p><span data-mce-fragment="1">This bundle includes 1 x left recliner, 1 x right recliner and 1 x console.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>electric recliner</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>modular</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8090865271020</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3899.00</s:price>
+      <s:sku>452741T</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8090863075564</id>
+    <published>2023-11-17T09:49:07+08:00</published>
+    <updated>2023-11-17T09:49:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-4-seater-power-recliner-suite-opulence-optical"/>
+    <title>Cloud 4 Seater Power Recliner Suite - Opulence Optical</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Cloud4SeaterPowerReclinerSuite.jpg?v=1700180241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            7496.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="auto" data-pm-slice="1 1 []" data-mce-fragment="1">Indulge in the epitome of comfort and luxury with the Cloud 4 Seater Power Recliner Suite. Enveloped in the exquisite "Opulence" fabric, engineered to withstand the test of time with the highest stain resistance.  With built-in power recliners and two convenient consoles, this masterpiece brings relaxation and style to another level.</p>
+<p dir="auto" data-pm-slice="1 1 []" data-mce-fragment="1">This bundle consists of 1 x left recliner, 1 x right recliner, 2 x armless recliners and 2 x consoles.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>electric recliner</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>modular</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8090863075564</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">7496.00</s:price>
+      <s:sku>452741S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8090864550124</id>
+    <published>2023-11-17T09:46:32+08:00</published>
+    <updated>2023-11-17T09:46:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-power-recliner-corner-suite-opulence-optical"/>
+    <title>Cloud Power Recliner Corner Suite - Opulence Optical</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CloudPowerReclinerCornerSuite.jpg?v=1700183496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            7897.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Experience the ultimate in luxury and comfort with the Cloud Power Recliner Corner Suite. Upholstered in "Opulence" fabric, designed to provide the highest grade of stain resistance. With power recliners and a convenient console for storage, elevate your living space with this exquisite lounge suite that seamlessly combines style and comfort.</span></p>
+<p><span data-mce-fragment="1">This bundle consists of 1 x left recliner, 1 x right recliner, 2 x armless recliners, 1 x corner piece and 1 x console.﻿</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>electric recliner</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>modular</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8090864550124</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">7897.00</s:price>
+      <s:sku>452741C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8090863173868</id>
+    <published>2023-11-17T09:45:20+08:00</published>
+    <updated>2023-11-17T09:45:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-3-seater-power-recliner-suite-opulence-optical"/>
+    <title>Cloud 3 Seater Power Recliner Suite - Opulence Optical</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Cloud3SeaterPowerReclinerSuite.jpg?v=1700180365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            5298.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-pm-slice="1 1 []" dir="auto">Experience the epitome of luxury and comfort with the Cloud 3 Seater Power Recliner Suite. Includes three power recliners and console, this stunning lounge suite is upholstered in "Opulence" fabric, offering the highest grade of stain resistance.</p>
+<p dir="auto" data-pm-slice="1 1 []" data-mce-fragment="1">This bundle consists of 1 x left recliner, 1 x right recliner, 1 x armless piece and 1 x console.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>electric recliner</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>modular</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8090863173868</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">5298.00</s:price>
+      <s:sku>452741R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8029290299628</id>
+    <published>2023-10-13T06:29:58+08:00</published>
+    <updated>2023-10-13T06:29:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-normandy-rocker-recliner"/>
+    <title>Normandy Rocker Recliner</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/60ffa133c9f10059bf3f06e1_Normandy_20Rocker_2_159103a9-71f3-4dac-8f57-857d18dceb4a.jpg?v=1697149718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-sheets-value='{"1":2,"2":"Relax in pure comfort with this classic recliner, featuring chocolate vegan leather, plump cushioning and studded detailing. *$899 if purchased with any Normandy Lounge (x1 rocker per lounge)."}' data-mce-fragment="1">Relax in pure comfort with this classic <a href="https://thefurnituregallery.com.au/collections/recliner">recliner</a>, featuring chocolate vegan <a href="https://thefurnituregallery.com.au/collections/leather-sofas">leather</a>, plump cushioning and studded detailing. </span></p>
+<p>*Purchase any Normandy Sofa in store and save an extra $100 on this rocker recliner chair. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8029290299628</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>408515</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8017110663404</id>
+    <published>2023-10-10T10:02:13+08:00</published>
+    <updated>2023-10-10T10:02:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/newport-single-recliner"/>
+    <title>Newport Single Recliner</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/NewportSingleReclinerstyled.jpg?v=1697155656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Gorgeously plush, the Newport offers luxuriously wide seating and plush cushioning for extra cosiness. Boasting practical features including power adjustable headrests and power recliners.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>electric recliner</s:tag>
+    <s:tag>grey recliner</s:tag>
+    <s:tag>recliner</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8017110663404</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1899.00</s:price>
+      <s:sku>447052f</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8012484477164</id>
+    <published>2023-09-20T10:50:32+08:00</published>
+    <updated>2023-09-20T10:50:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/evelyn-single-power-recliner-steel"/>
+    <title>Evelyn Single Power Recliner - Steel</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/EvelynReclinerstyledopen-steel.jpg?v=1697154615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The Evelyn Power Recliner in Steel features a textured grey fabric, comfy seating and wide armrests.  </span></p>
+<p><span data-mce-fragment="1">*Price is $999 if purchased with 2 or 2.5 Seater Evelyn Recliner in store. </span></p>
+<p><span data-mce-fragment="1">Also available in <a href="https://7iw2ib9vjkv5b6y3-65021903084.shopifypreview.com/products/evelyn-power-recliner-pearl?_pos=2&amp;_sid=36a16420f&amp;_ss=r" title="Evelyn Single Power Recliner - Pearl">Pearl</a>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>electric recliner</s:tag>
+    <s:tag>grey recliner</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8012484477164</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>452757</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7940859953388</id>
+    <published>2023-07-05T12:50:31+08:00</published>
+    <updated>2023-07-05T12:50:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/evelyn-power-recliner-pearl"/>
+    <title>Evelyn Single Power Recliner - Pearl</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/EvelynReclinerstyledopen-pearl.jpg?v=1697153493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Evelyn Power Recliner in Pearl features a textured pearl fabric, comfy seating and wide armrests.  *$999 if purchased with with 2 or 2.5 Seater Evelyn Recliner.  $1299 if purchased individually.</p>
+<p>Also available in <a href="https://7iw2ib9vjkv5b6y3-65021903084.shopifypreview.com/products/evelyn-single-power-recliner-steel?_pos=1&amp;_sid=36a16420f&amp;_ss=r" title="Evelyn Single Power Recliner - Steel">Steel</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>electric recliner</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7940859953388</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>452615</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7927428481260</id>
+    <published>2023-06-15T11:04:05+08:00</published>
+    <updated>2023-06-15T11:04:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/manhattan-3-seater-regatta-fern"/>
+    <title>Manhattan 3 Seater Recliner Lounge - Regatta Fern</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ManhattanReclinerLounge2-RegattaFern-designercarspic.jpg?v=1686880288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            5470.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Coated in </span><span data-mce-fragment="1">beautiful leather </span><span data-mce-fragment="1">in a stunning fern hue, the Manhattan is a true modular, allowing you to customise it to your space. Electric recliners and plush seating allow you to truly relax in stylish, modern comfort.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>electric recliner</s:tag>
+    <s:tag>leather sofa</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7927428481260</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">5470.00</s:price>
+      <s:sku>452495</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7927491526892</id>
+    <published>2023-06-15T11:03:39+08:00</published>
+    <updated>2023-06-15T11:03:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/manhattan-theatre-lounge-regatta-fern"/>
+    <title>Manhattan Theatre Lounge - Regatta Fern</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/452500-ManhattanTheatreLoungeopen-RegattaFern.jpg?v=1686880396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            8068.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Coated in </span><span data-mce-fragment="1">beautiful leather </span><span data-mce-fragment="1">in a stunning fern hue, the Manhattan is a true modular, allowing you to customise it to your space. This theatre lounge features 3 electric recliners, a chaise lounge for stretching out, 2 consoles with cupholders and plush seating, allowing you to truly relax in stylish, modern comfort.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>electric recliner</s:tag>
+    <s:tag>leather</s:tag>
+    <s:tag>leather chaise sofa</s:tag>
+    <s:tag>leather sofa</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7927491526892</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">8068.00</s:price>
+      <s:sku>452500</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7927426384108</id>
+    <published>2023-06-15T11:01:56+08:00</published>
+    <updated>2023-06-15T11:01:56+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/manhattan-3-seater-with-console-regatta"/>
+    <title>Manhattan 3 Seater Recliner Lounge with Console - Regatta Fern</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/452494-ManhattanReclinerLounge-3SeaterwithConsole.jpg?v=1684886572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            6069.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Coated in </span><span data-mce-fragment="1">beautiful leather </span><span data-mce-fragment="1">in a stunning fern hue, the Manhattan is a true modular, allowing you to customise it to your space. Featuring electric recliners, a console with cupholders and plush seating, this sofa allows you to truly relax in stylish, modern comfort.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>electric recliner</s:tag>
+    <s:tag>leather</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7927426384108</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">6069.00</s:price>
+      <s:sku>452494</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7927482089708</id>
+    <published>2023-06-15T10:58:01+08:00</published>
+    <updated>2023-06-15T10:58:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/manhattan-3-seater-chaise-lounge-with-chaise-regatta-fern"/>
+    <title>Manhattan 3 Seater Recliner Chaise Lounge with Console - Regatta Fern</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/452498-Manhattan3SeaterwithConsoleandChaiseopen-RegattaFern.jpg?v=1686880375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            5979.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Coated in beautiful leather in a stunning fern hue, the Manhattan is a true modular, allowing you to customise it to your space. With recliners, a console with cupholders, a chaise for stretching out and extra comfy seating, this is your new go-to for modern reclining.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chaise lounge</s:tag>
+    <s:tag>leather</s:tag>
+    <s:tag>leather sofa</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7927482089708</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">5979.00</s:price>
+      <s:sku>452498</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7927488577772</id>
+    <published>2023-06-15T10:55:35+08:00</published>
+    <updated>2023-06-15T10:55:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/manhattan-3-seater-recliner-chaise-lounge-regatta-fern"/>
+    <title>Manhattan 3 Seater Recliner Chaise Lounge - Regatta Fern</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ManhattanReclinerLounge8-RegattaFern-designercarspic.jpg?v=1684899614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            5380.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Coated in </span><span data-mce-fragment="1">beautiful leather </span><span data-mce-fragment="1">in a stunning fern hue, the Manhattan is a true modular, allowing you to customise it to your space. Featuring 2 electric recliners and plush seating with a chaise for stretching out, this sofa allows you to truly relax in stylish, modern comfort.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>leather</s:tag>
+    <s:tag>leather chaise sofa</s:tag>
+    <s:tag>leather sofa</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7927488577772</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">5380.00</s:price>
+      <s:sku>452499</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7927428874476</id>
+    <published>2023-06-15T10:54:34+08:00</published>
+    <updated>2023-06-15T10:54:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/manhattan-2-seater-with-console-regatta-fern"/>
+    <title>Manhattan 2 Seater Recliner Lounge with Console - Regatta Fern</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/452497-Manhattan2SeaterwithConsole_2.jpg?v=1684888211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            4579.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Coated in beautiful leather in a stunning fern hue, the Manhattan is a true modular, allowing you to customise it to your space. With recliners, a console with cupholders and extra comfy seating, this is your new go-to for modern reclining.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>electric recliner</s:tag>
+    <s:tag>leather</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7927428874476</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">4579.00</s:price>
+      <s:sku>452497</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7927477633260</id>
+    <published>2023-06-15T10:53:52+08:00</published>
+    <updated>2023-06-15T10:53:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/manhattan-2-seater-regatta-fern"/>
+    <title>Manhattan 2 Seater Recliner Lounge - Regatta Fern</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/452496-Manhattan2Seater-RegattaFern.jpg?v=1684897498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3980.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Coated in </span><span data-mce-fragment="1">beautiful leather </span><span data-mce-fragment="1">in a stunning fern hue, the Manhattan is a true modular, allowing you to customise it to your space. Electric recliners and plush seating allow you to truly relax in stylish, modern comfort.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>leather sofa</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7927477633260</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3980.00</s:price>
+      <s:sku>452496</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840509198572</id>
+    <published>2022-12-05T22:43:18+08:00</published>
+    <updated>2022-12-05T22:43:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/normandy-rocker-recliner-steel"/>
+    <title>Normandy Rocker Recliner - Steel</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/62ab30811692c2228021c541_Normandy_20recliner_20WB_20steeljpg_0c337373-f9e3-4888-907e-8ca899540e96.jpg?v=1670251399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Relax in pure comfort with this classic recliner, featuring vegan leather, plump cushioning and studded detailing."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Relax in pure comfort with this classic <a href="https://thefurnituregallery.com.au/collections/recliner">recliner</a>, featuring vegan <a href="https://thefurnituregallery.com.au/collections/leather-sofas">leather</a>, plump cushioning and studded detailing.</span><quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840509198572</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>445687</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669976924396</id>
+    <published>2022-06-19T12:50:24+08:00</published>
+    <updated>2022-06-19T12:50:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/newport-5-piece-power-recliner-suite"/>
+    <title>Newport 5 Piece Power Recliner Suite</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/611f239a09fcd60eb1269db1_Newport_20Modular_20Suite_20with_20Extra_20Single.jpg?v=1655614224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            6495.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Create the ultimate power <a href="https://thefurnituregallery.com.au/collections/recliner">recliner</a> <a href="https://thefurnituregallery.com.au/collections/lounges">lounge</a> to suit your space, with the incredibly versatile Newport. With 5 unique pieces, the Newport 5 Piece Suite boasts an abundance of practical features including power adjustable headrests, power recliners, wireless phone charging, cupholders, tap light and USB port, this suite has everything you need at your fingertips. Gorgeously plush, the Newport offers luxuriously wide seating and plush cushions for extra cosiness. </p>
+<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>grey recliner</s:tag>
+    <s:tag>recliner</s:tag>
+    <s:tag>reclining corner lounge</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669976924396</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">6495.00</s:price>
+      <s:sku>447052P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669976891628</id>
+    <published>2022-06-19T12:50:23+08:00</published>
+    <updated>2022-06-19T12:50:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/newport-4-piece-power-recliner-suite"/>
+    <title>Newport 4 Piece Power Recliner Suite</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/611f277751535426a2ad303f_Newport_20Loveseat.jpg?v=1655614223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            4996.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Create the ultimate power recliner <a href="https://thefurnituregallery.com.au/collections/lounges">lounge</a> to suit your space, with the incredibly versatile Newport. With 4 unique pieces, the Newport 4 Piece Suite boasts an abundance of practical features including power adjustable headrests, power <a href="https://thefurnituregallery.com.au/collections/recliner">recliners</a>, wireless phone charging, cupholders, tap light and USB port, this suite has everything you need at your fingertips. Gorgeously plush, the Newport offers luxuriously wide seating and plush cushions for extra cosiness. </p>
+<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>grey</s:tag>
+    <s:tag>grey corner lounge</s:tag>
+    <s:tag>grey recliner</s:tag>
+    <s:tag>reclining corner lounge</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669976891628</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">4996.00</s:price>
+      <s:sku>447052</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

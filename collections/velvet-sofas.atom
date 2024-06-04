@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/velvet-sofas.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2023-09-08T15:05:48+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669972435180</id>
+    <published>2023-09-08T15:05:48+08:00</published>
+    <updated>2023-09-08T15:05:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bloomsburg-sofa-apple"/>
+    <title>Bloomsburg 3 Seater Sofa - Apple Green</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/61c0fee715270c5085f82d70_Bloomsburg_20Sofa_20Set.jpg?v=1673311481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SPECIAL ORDER ONLY! </strong></p>
+<p><meta charset="utf-8">Embellished with classic buttoned tufting, the Bloomsburg sofa offers a modern twist on the traditional <meta charset="utf-8"><a href="https://thefurnituregallery.com.au/products/mayfair-3-seater" data-mce-href="https://thefurnituregallery.com.au/products/mayfair-3-seater" target="_blank" data-mce-fragment="1">Chesterfield</a> design that will instantly lift your living room interior. Draped in shimmering <meta charset="utf-8"><a href="https://thefurnituregallery.com.au/collections/velvet" data-mce-href="https://thefurnituregallery.com.au/collections/velvet" target="_blank" data-mce-fragment="1">velvet</a> in a vibrant hue, the Bloomsburg is both bold and beautiful. Matching <meta charset="utf-8"><a href="https://thefurnituregallery.com.au/collections/armchairs" data-mce-href="https://thefurnituregallery.com.au/collections/armchairs" target="_blank" data-mce-fragment="1">armchair</a> available <span style="text-decoration: underline;"><a title="Bloomsburg Armchair - Apple Green" href="https://thefurnituregallery.com.au/products/bloomsburg-armchair-apple">here</a></span>.</p>
+<p>Please note: <meta charset="utf-8">12-16 week wait on special order colours.</p>
+<p>Available to order online or in store: <a title="BLOOMSBURG SOFA - FOREST" href="https://thefurnituregallery.com.au/products/bloomsburg-sofa-forest">Forest</a>, <a title="BLOOMSBURG SOFA - INDIGO" href="https://thefurnituregallery.com.au/products/bloomsburg-sofa-indigo" target="_blank">Indigo</a>, and <a title="BLOOMSBURG SOFA - GOLD" href="https://thefurnituregallery.com.au/products/bloomsburg-sofa-gold" target="_blank">Gold</a>. </p>
+<p><meta charset="utf-8"><span data-mce-fragment="1">More colours available exclusively in store (please see image with colour swatches). </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chesterfield</s:tag>
+    <s:tag>classic style</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>velvet lounge</s:tag>
+    <s:tag>Velvet sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669972435180</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2499.00</s:price>
+      <s:sku>449131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669972467948</id>
+    <published>2022-11-29T10:00:20+08:00</published>
+    <updated>2022-11-29T10:00:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bloomsburg-sofa-indigo"/>
+    <title>Bloomsburg 3 Seater Sofa - Indigo</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BloomsburgSofa-indigo1..jpg?v=1713835823"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Embellished with classic buttoned tufting, the Bloomsburg <a href="https://thefurnituregallery.com.au/collections/sofas" target="_blank">sofa</a> offers a modern twist on the traditional <a href="https://thefurnituregallery.com.au/products/mayfair-3-seater" target="_blank">Chesterfield</a> design that will instantly lift your living room interior. Draped in shimmering <a href="https://thefurnituregallery.com.au/collections/velvet" target="_blank">velvet</a> in a bold hue, the Bloomsburg is both bold and beautiful. Matching armchair available <a title="Bloomsburg Armchair - Indigo" href="https://thefurnituregallery.com.au/products/bloomsburg-armchair-indigo">here</a>.</p>
+<p>Also available in <a href="https://thefurnituregallery.com.au/products/bloomsburg-sofa-gold" title="BLOOMSBURG SOFA - GOLD" target="_blank">Gold</a> &amp; <a href="https://thefurnituregallery.com.au/products/bloomsburg-sofa-forest" title="BLOOMSBURG SOFA - FOREST">Forest</a>. <meta charset="utf-8"><span data-mce-fragment="1">More colours available exclusively in store (please see image with colour swatches).  12-16 week wait on special order colours.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>blue velvet sofa</s:tag>
+    <s:tag>chesterfield</s:tag>
+    <s:tag>classic style</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>velvet</s:tag>
+    <s:tag>Velvet sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669972467948</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2499.00</s:price>
+      <s:sku>448976</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669972402412</id>
+    <published>2022-11-28T17:50:05+08:00</published>
+    <updated>2022-11-28T17:50:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bloomsburg-sofa-gold"/>
+    <title>Bloomsburg 3 Seater Sofa - Gold</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6123724be1787c087c3b469c_bloomsburg.png?v=1673312468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Embellished with classic buttoned tufting, the Bloomsburg <a href="https://thefurnituregallery.com.au/collections/sofas" target="_blank">sofa</a> offers a modern twist on the traditional <a href="https://thefurnituregallery.com.au/products/mayfair-3-seater" target="_blank">Chesterfield</a> design that will instantly lift your living room interior. Draped in shimmering <a href="https://thefurnituregallery.com.au/collections/velvet" target="_blank">velvet</a> in a vivid hue for a sumptuous, inviting look and feel, the Bloomsburg is both bold and beautiful. Matching armchair available <span style="text-decoration: underline;"><a title="Bloomsburg Armchair - Gold" href="https://thefurnituregallery.com.au/products/bloomsburg-armchair-gold">here</a></span>.</p>
+<p>Also available in <a title="BLOOMSBURG SOFA - INDIGO" href="https://thefurnituregallery.com.au/products/bloomsburg-sofa-indigo" target="_blank">Indigo</a> &amp; <a title="BLOOMSBURG SOFA - FOREST" href="https://thefurnituregallery.com.au/products/bloomsburg-sofa-forest">Forest</a>. <meta charset="utf-8"><span data-mce-fragment="1">More colours available exclusively in store (please see image with colour swatches). 12-16 week wait on special order colours.</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chesterfield</s:tag>
+    <s:tag>classic style</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>Velvet sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669972402412</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2499.00</s:price>
+      <s:sku>448113</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833296699628</id>
+    <published>2022-11-28T13:13:34+08:00</published>
+    <updated>2022-11-28T13:13:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bloomsburg-sofa-forest"/>
+    <title>Bloomsburg 3 Seater Sofa - Forest</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/BloomsburgSofa_ArmChair-Fores.jpg?v=1673312597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            2499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Embellished with classic buttoned tufting and draped in <a href="https://thefurnituregallery.com.au/collections/velvet" target="_blank">velvet</a> in a subtle forest green hue, the Bloomsburg <a href="https://thefurnituregallery.com.au/collections/sofas" target="_blank">sofa</a> offers a modern twist on the traditional <a href="https://thefurnituregallery.com.au/products/mayfair-3-seater" target="_blank">Chesterfield</a>. Matching <a href="https://thefurnituregallery.com.au/collections/armchairs" target="_blank">armchair</a> available <a href="https://thefurnituregallery.com.au/products/bloomsburg-armchair-forest" title="Bloomsburg Armchair - Forest">here</a>.</p>
+<p>Also available in <a title="BLOOMSBURG SOFA - INDIGO" href="https://thefurnituregallery.com.au/products/bloomsburg-sofa-indigo" target="_blank">Indigo</a> &amp; <a title="BLOOMSBURG SOFA - GOLD" href="https://thefurnituregallery.com.au/products/bloomsburg-sofa-gold" target="_blank">Gold</a>. <meta charset="utf-8"><span data-mce-fragment="1">More colours available exclusively in store (please see image with colour swatches). 12-16 week wait on special order colours.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833296699628</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2499.00</s:price>
+      <s:sku>450238</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7827064127724</id>
+    <published>2022-11-21T13:08:13+08:00</published>
+    <updated>2022-11-21T13:08:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/casablanca-corner-lounge-mink"/>
+    <title>Casablanca Corner Lounge - Mink</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/CasablancaLoungeresized_f8a797cb-5fe0-45af-a810-594d0f292f9b.jpg?v=1669007168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            4999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For those who like their <a href="https://thefurnituregallery.com.au/collections/lounges">lounges</a> extra plush, the Casablanca <a href="https://thefurnituregallery.com.au/collections/corner-lounges">Corner Lounge</a> features a decadent mix of high resilience, high density foam seat cushions and feather blend back cushions on a solid <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">timber</a> frame. Finished in luxe <a href="https://thefurnituregallery.com.au/collections/velvet">velvet</a> with silver studding and extra scatter cushions for an upscale look and feel, the Casablanca is a statement piece that will transform your lounge room. </p>
+<p><strong>Available for special order in store only.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silver sofa</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>studded velvet lounge</s:tag>
+    <s:tag>velvet corner lounge</s:tag>
+    <s:tag>velvet sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7827064127724</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">4999.00</s:price>
+      <s:sku>445646</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669973188844</id>
+    <published>2022-11-18T09:04:45+08:00</published>
+    <updated>2022-11-18T09:04:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/casablanca-3-seater"/>
+    <title>Casablanca 3 Seater - Stone</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/60fa565814922eab4b5cae6b_Casablanca_203str.jpg?v=1655613957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>SPECIAL DISPLAY STOCK SALE PRICE - $1999 (contact Cockburn for more details).  ALL NEW SPECIAL ORDERS, AS PER LISTED PRICING.</span></p>
+<p>For those who like their <a href="https://thefurnituregallery.com.au/collections/lounges" target="_blank">lounges</a> extra plush, the Casablanca Collection features a decadent mix of high resilience, high density foam seat cushions and feather blend back cushions on a solid <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection" target="_blank">timber</a> frame. Finished in luxe <a href="https://thefurnituregallery.com.au/collections/velvet" target="_blank">velvet</a> with silver studding and extra scatter cushions for an upscale look and feel. </p>
+<p><strong>Available for special order in store only.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>grey velvet</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>Velvet sofa</s:tag>
+    <s:tag>velvet studded sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669973188844</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2499.00</s:price>
+      <s:sku>447573</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669976006892</id>
+    <published>2022-06-19T12:49:25+08:00</published>
+    <updated>2022-06-19T12:49:25+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/mayfair-4-seater"/>
+    <title>Mayfair 4 Seater</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/Mayfair4str.jpg?v=1670213440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Exuding moody glamour, the <a href="https://thefurnituregallery.com.au/products/mayfair-3-seater" target="_blank">Mayfair</a> offers a fresh twist on the iconic <a href="https://thefurnituregallery.com.au/products/bloomsburg-sofa-apple" target="_blank">Chesterfield</a> with its sumptuous navy <a href="https://thefurnituregallery.com.au/collections/velvet" target="_blank">velvet</a> upholstery and shimmering gold legs. Featuring classic features such as buttoned tufting and a curvaceous silhouette, this <a href="https://thefurnituregallery.com.au/collections/sofas" target="_blank">sofa</a> is perfect for achieving a luxe living room look.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue velvet sofa</s:tag>
+    <s:tag>chesterfield</s:tag>
+    <s:tag>classic style</s:tag>
+    <s:tag>navy</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>velvet lounge</s:tag>
+    <s:tag>Velvet sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669976006892</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2399.00</s:price>
+      <s:sku>448630P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669975974124</id>
+    <published>2022-06-19T12:49:24+08:00</published>
+    <updated>2022-06-19T12:49:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/mayfair-3-seater"/>
+    <title>Mayfair 3 Seater</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/Mayfair3.png?v=1670213307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Exuding moody glamour, the <a href="https://thefurnituregallery.com.au/products/mayfair-4-seater" target="_blank" rel="noopener noreferrer">Mayfair</a> offers a fresh twist on the iconic <a href="https://thefurnituregallery.com.au/products/bloomsburg-sofa-apple" target="_blank" rel="noopener noreferrer">Chesterfield</a> with its sumptuous navy <a href="https://thefurnituregallery.com.au/collections/velvet" target="_blank" rel="noopener noreferrer">velvet</a> upholstery and shimmering gold legs. Featuring classic features such as buttoned tufting and a curvaceous silhouette, this <a href="https://thefurnituregallery.com.au/collections/sofas" target="_blank" rel="noopener noreferrer">sofa</a> is perfect for achieving a luxe living room look. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue velvet sofa</s:tag>
+    <s:tag>chesterfield</s:tag>
+    <s:tag>classic style</s:tag>
+    <s:tag>navy</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>velvet</s:tag>
+    <s:tag>Velvet sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669975974124</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1999.00</s:price>
+      <s:sku>448631P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669973254380</id>
+    <published>2022-06-19T12:46:01+08:00</published>
+    <updated>2022-06-19T12:46:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/casablanca-3-seater-lounge-with-chaise"/>
+    <title>Casablanca 3 Seater Lounge with Chaise - Smoke</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/60fa546df078ee989f8458e4_Casablanca_20Chaise_cffd187a-f1e7-4b39-9072-a2047e48c596_1800x1200copy.jpg?v=1678688704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For those who like their lounges extra plush, the Casablanca <a href="https://thefurnituregallery.com.au/products/xander-3-seater-sofa" rel="noopener noreferrer" target="_blank">3 Seater</a> <a href="https://thefurnituregallery.com.au/collections/lounges" rel="noopener noreferrer" target="_blank">Lounge</a> with <a href="https://thefurnituregallery.com.au/collections/chaises" rel="noopener noreferrer" target="_blank">Chaise</a> features a decadent mix of high resilience, high density foam seat cushions and feather blend back cushions on a solid timber frame. Finished in luxe <a href="https://thefurnituregallery.com.au/collections/velvet" rel="noopener noreferrer" target="_blank">velvet</a> with silver studding and extra scatter cushions for an upscale look and feel. </p>
+<p><strong>Available for special order in store only.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>studded velvet sofa</s:tag>
+    <s:tag>velvet lounge</s:tag>
+    <s:tag>Velvet sofa</s:tag>
+    <s:tag>velvet sofa chaise</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669973254380</id>
+      <title>Left Chaise</title>
+      <s:price currency="AUD">3999.00</s:price>
+      <s:sku>447582</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669973254380</id>
+      <title>Right Chaise</title>
+      <s:price currency="AUD">3999.00</s:price>
+      <s:sku>447578</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669973221612</id>
+    <published>2022-06-19T12:46:00+08:00</published>
+    <updated>2022-06-19T12:46:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/casablanca-corner-lounge-royal-blue"/>
+    <title>Casablanca Corner Lounge - Royal Blue</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/61234afcff3ba919e1a76cc0_casablanca_20in_20royal_20blue.png?v=1655613960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            4999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For those who like their <a href="https://thefurnituregallery.com.au/collections/lounges">lounges</a> extra plush, the Casablanca <a href="https://thefurnituregallery.com.au/collections/corner-lounges">Corner Lounge</a> features a decadent mix of high resilience, high density foam seat cushions and feather blend back cushions on a solid <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">timber</a> frame. Finished in luxe <a href="https://thefurnituregallery.com.au/collections/velvet">velvet </a>with silver studding and extra scatter cushions for an upscale look and feel, the Casablanca is a statement piece that will transform your lounge room. </p>
+<p><strong>Available for special order in store only.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue velvet sofa</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>studded velvet lounge</s:tag>
+    <s:tag>velvet corner lounge</s:tag>
+    <s:tag>velvet sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669973221612</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">4999.00</s:price>
+      <s:sku>446459</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

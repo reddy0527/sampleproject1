@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/vases.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-04-26T08:12:56+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8398696251628</id>
+    <published>2024-04-26T08:12:56+08:00</published>
+    <updated>2024-04-26T08:12:56+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/splatter-glass-vase-1"/>
+    <title>Splatter Glass Vase</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/SplatterGlassVase_7e209d8a-d90b-43fa-b39d-9c0d9f5ab80a.webp?v=1714087886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Sculptural vase with stunning green splatters.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass vase</s:tag>
+    <s:tag>vases</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8398696251628</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">34.00</s:price>
+      <s:sku>409068</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8386867626220</id>
+    <published>2024-04-24T13:14:14+08:00</published>
+    <updated>2024-04-24T13:14:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/sven-glass-vase"/>
+    <title>Sven Glass Vase</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/SvenGlassVase.jpg?v=1713935283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Crafted with precision, the Sven glass vase features a sleek cylinder with a ballooning centrepiece, adding a touch of modern flair to your home décor. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass vase</s:tag>
+    <s:tag>ornamental vase</s:tag>
+    <s:tag>vases</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8386867626220</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">59.00</s:price>
+      <s:sku>448901</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152878481644</id>
+    <published>2024-02-02T09:09:04+08:00</published>
+    <updated>2024-02-02T09:09:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/zelma-vase-matt-white"/>
+    <title>Zelma Vase - Matt White</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ZelmaVase22cm_2f5c2c4c-49f1-47c0-b24b-1fb52801a576.webp?v=1706676592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            54.00 - 129.00
+            <a href="https://thefurnituregallery.com.au/products/zelma-vase-matt-white">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Embrace modern elegance with the Zelma curved asymmetric white ceramic vase.  Ideal for showcasing greenery or florals, while equally captivating when displayed as a standalone piece.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceramic vase</s:tag>
+    <s:tag>vases</s:tag>
+    <s:tag>white vase</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152878481644</id>
+      <title>22cm (H)</title>
+      <s:price currency="AUD">129.00</s:price>
+      <s:sku>452096</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152878481644</id>
+      <title>15 cm (H)</title>
+      <s:price currency="AUD">54.00</s:price>
+      <s:sku>452095</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152877596908</id>
+    <published>2024-01-31T14:07:29+08:00</published>
+    <updated>2024-01-31T14:07:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/demi-vase-blue"/>
+    <title>Demi Vase - Blue</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/DemiVase-blue.webp?v=1706675528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            54.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Arrange beautiful blooms in the delightful Demi Vase in blue.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass vase</s:tag>
+    <s:tag>vases</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152877596908</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">54.00</s:price>
+      <s:sku>452099</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152870650092</id>
+    <published>2024-01-31T12:20:21+08:00</published>
+    <updated>2024-01-31T12:20:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ming-vase"/>
+    <title>Ming Vase</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/MingVase.webp?v=1706672650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Striking ornamental vase perfectly showcased on its own or featuring greenery or floral arrangements.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decorative pieces</s:tag>
+    <s:tag>ornamental vase</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152870650092</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">129.00</s:price>
+      <s:sku>452092</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8152847909100</id>
+    <published>2024-01-31T11:04:28+08:00</published>
+    <updated>2024-01-31T11:04:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/charlotte-vase-brown-multi-35cm"/>
+    <title>Charlotte Vase - Brown Multi</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CharlotteVase-brownmulti35cm.webp?v=1706669295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Charlotte Vase is perfect for displaying floral or greenery stems, creating a point of difference and natural flair to your décor.  Available in two sizes - (H) 35cm or (H) 41cm</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceramic vase</s:tag>
+    <s:tag>decorative pieces</s:tag>
+    <s:tag>vases</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8152847909100</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">69.00</s:price>
+      <s:sku>452271</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7929999786220</id>
+    <published>2023-07-18T15:35:51+08:00</published>
+    <updated>2023-07-18T15:35:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/zaira-vase-amber"/>
+    <title>Zaira Vase - Amber</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Zairavase_002.jpg?v=1696801228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass vase</s:tag>
+    <s:tag>vases</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7929999786220</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">70.00</s:price>
+      <s:sku>450293</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7937517388012</id>
+    <published>2023-07-18T15:35:16+08:00</published>
+    <updated>2023-07-18T15:35:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/wilbur-tapered-vase"/>
+    <title>Wilbur Tapered Vase</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/WilburTaperedVase.webp?v=1687312270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceramic vase</s:tag>
+    <s:tag>white vase</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7937517388012</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">50.00</s:price>
+      <s:sku>451588</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7937518174444</id>
+    <published>2023-07-18T15:34:55+08:00</published>
+    <updated>2023-07-18T15:34:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/wilbur-tall-vase"/>
+    <title>Wilbur Tall Vase</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/WilburTallVase.webp?v=1687312382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vases</s:tag>
+    <s:tag>white vase</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7937518174444</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">70.00</s:price>
+      <s:sku>451589</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7930000048364</id>
+    <published>2023-07-18T15:34:36+08:00</published>
+    <updated>2023-07-18T15:34:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/taza-vase"/>
+    <title>Taza Vase</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/TazaVase-white.webp?v=1685422132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceramic vase</s:tag>
+    <s:tag>vases</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7930000048364</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">99.00</s:price>
+      <s:sku>451794</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7937506672876</id>
+    <published>2023-07-18T15:34:23+08:00</published>
+    <updated>2023-07-18T15:34:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/shell-vase-blue"/>
+    <title>Shell Vase - Blue</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ShellVase-blue.webp?v=1687309426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceramic vase</s:tag>
+    <s:tag>vases</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7937506672876</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">30.00</s:price>
+      <s:sku>450940</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7937505984748</id>
+    <published>2023-07-18T15:28:10+08:00</published>
+    <updated>2023-07-18T15:28:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/scallop-vase"/>
+    <title>Scallop Vase</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ScallopVase.webp?v=1687309035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vases</s:tag>
+    <s:tag>white vase</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7937505984748</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">55.00</s:price>
+      <s:sku>450443</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7930002702572</id>
+    <published>2023-07-18T15:18:11+08:00</published>
+    <updated>2023-07-18T15:18:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/omega-vase"/>
+    <title>Omega Vase</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/OmegaVase-White.webp?v=1685423471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            129.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceramic vase</s:tag>
+    <s:tag>vases</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7930002702572</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">129.00</s:price>
+      <s:sku>451797</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7928825676012</id>
+    <published>2023-07-18T15:17:58+08:00</published>
+    <updated>2023-07-18T15:17:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/lucena-vase-white"/>
+    <title>Lucena Vase - White</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/LucenaVase-White.webp?v=1685084526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vases</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7928825676012</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">99.00</s:price>
+      <s:sku>451827</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7928773148908</id>
+    <published>2023-07-18T15:17:24+08:00</published>
+    <updated>2023-07-18T15:17:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/lucena-vase-terracotta"/>
+    <title>Lucena Vase - Terracotta</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/lucenavase-terracotta.webp?v=1685083159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>terracotta vase</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7928773148908</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">99.00</s:price>
+      <s:sku>452325</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7928772526316</id>
+    <published>2023-07-18T15:17:05+08:00</published>
+    <updated>2023-07-18T15:17:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/lucena-vase-crimson"/>
+    <title>Lucena Vase - Crimson</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/LucenaVase-Crimson.jpg?v=1685085587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>decorative pieces</s:tag>
+    <s:tag>vases</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7928772526316</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">99.00</s:price>
+      <s:sku>452323</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7928822530284</id>
+    <published>2023-07-18T15:16:52+08:00</published>
+    <updated>2023-07-18T15:16:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/lucena-vase-cloud-blue"/>
+    <title>Lucena Vase - Cloud Blue</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/LucenaVase-Cloudblue.webp?v=1685084239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>vases</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7928822530284</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">99.00</s:price>
+      <s:sku>451800</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7937514602732</id>
+    <published>2023-07-18T15:16:36+08:00</published>
+    <updated>2023-07-18T15:16:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/frill-tall-vase"/>
+    <title>Frill Tall Vase</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/FrillTallVase.webp?v=1687311873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceramic vase</s:tag>
+    <s:tag>terracotta vase</s:tag>
+    <s:tag>vases</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7937514602732</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">80.00</s:price>
+      <s:sku>451317</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7937511457004</id>
+    <published>2023-07-18T15:16:21+08:00</published>
+    <updated>2023-07-18T15:16:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/frill-round-vase"/>
+    <title>Frill Round Vase</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/FrillRoundVase.webp?v=1687311697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceramic vase</s:tag>
+    <s:tag>vases</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7937511457004</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">49.00</s:price>
+      <s:sku>451316</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7937506738412</id>
+    <published>2023-07-18T15:16:03+08:00</published>
+    <updated>2023-07-18T15:16:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-faces-vase"/>
+    <title>Faces Vase</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/FacesVase_9428ad6d-04de-49c4-aa78-ba1cefab55bd.webp?v=1687309492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            59.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceramic vase</s:tag>
+    <s:tag>modern style</s:tag>
+    <s:tag>vases</s:tag>
+    <s:tag>white vase</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7937506738412</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">59.00</s:price>
+      <s:sku>448436</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7930258161900</id>
+    <published>2023-07-18T15:15:38+08:00</published>
+    <updated>2023-07-18T15:15:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/enzo-vase-amber"/>
+    <title>Enzo Vase - Amber</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/EnzoVase-Amber.webp?v=1685509993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass vase</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7930258161900</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">299.00</s:price>
+      <s:sku>452103</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7930257703148</id>
+    <published>2023-07-18T15:15:07+08:00</published>
+    <updated>2023-07-18T15:15:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/enzo-small-vase-dusty-green"/>
+    <title>Enzo Small Vase - Dusty Green</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/EnzoVase-Green-short.webp?v=1685509818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass vase</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>vases</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7930257703148</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">199.00</s:price>
+      <s:sku>452102</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7930258391276</id>
+    <published>2023-07-18T15:14:39+08:00</published>
+    <updated>2023-07-18T15:14:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/enzo-large-vase-dusty-green"/>
+    <title>Enzo Large Vase - Dusty Green</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/EnzoVase-greenlarge.webp?v=1685510226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass vase</s:tag>
+    <s:tag>vases</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7930258391276</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">299.00</s:price>
+      <s:sku>452104</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7929998901484</id>
+    <published>2023-07-18T15:14:23+08:00</published>
+    <updated>2023-07-18T15:14:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/batley-vase"/>
+    <title>Batley Vase</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BatleyVase-White.webp?v=1685421390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ceramic vase</s:tag>
+    <s:tag>vases</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7929998901484</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">300.00</s:price>
+      <s:sku>451349</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

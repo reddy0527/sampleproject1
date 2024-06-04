@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/coastal-collection.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-03-19T13:10:37+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8249472680172</id>
+    <published>2024-03-19T13:10:37+08:00</published>
+    <updated>2024-03-19T13:10:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/long-beach-3-drawer-3-door-sideboard-1"/>
+    <title>Long Beach Elite 3 Drawer 3 Door Sideboard</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/621569c981ab4816e8ed2b3f_Long_20Beach_203_20Door_203_20Drawer_20Buffet_849b9e00-bd31-4d6b-a75d-d054f0f0df12.jpg?v=1710822780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Featuring both drawers and cupboards for ample storage space, the Long Beach 3 Drawer 3 Door <a href="https://thefurnituregallery.com.au/products/storm-sideboard">Sideboard</a> is made from crisp <a href="https://thefurnituregallery.com.au/products/hampton-4-door-4-drawer-sideboard">white pine timber</a> with contrasting black handles. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>coastal style</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>sideboard</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>storage</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8249472680172</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>409909</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8159285018860</id>
+    <published>2024-02-09T09:07:53+08:00</published>
+    <updated>2024-02-09T09:07:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hampton-elite-4-door-sideboard"/>
+    <title>Hampton Elite 4 Door Sideboard</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Hampton4DoorSideboard_bf350b4c-3987-46ff-8b18-4b17562e2196.jpg?v=1707439832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Capture the magic of <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> home styling with the Hampton 4 Doors Sideboard. With plenty of practical storage, this <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired sideboard is defined by crisp <a href="https://thefurnituregallery.com.au/products/hampton-4-door-4-drawer-sideboard">white timber</a> and cross detailing, offering a timeless, classic look. *Matching hutch available</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>sideboard</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8159285018860</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>408947</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669975187692</id>
+    <published>2024-01-26T09:22:04+08:00</published>
+    <updated>2024-01-26T09:22:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/long-beach-2-drawer-console"/>
+    <title>Long Beach Elite 2 Drawer Console</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6215688b937256ea7e85d045_Long_20Beach_202_20Drawer_20Console..jpg?v=1655614122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This elegant, <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired <a href="https://thefurnituregallery.com.au/collections/consoles-sideboards">console</a> is made from <a href="https://thefurnituregallery.com.au/products/long-beach-3-drawer-console">pine</a>, painted crisp white, and finished with contrasting black handles and drawers for useful storage. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coastal style</s:tag>
+    <s:tag>hall table</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>white console</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669975187692</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">899.00</s:price>
+      <s:sku>259015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8148464894188</id>
+    <published>2024-01-26T09:11:36+08:00</published>
+    <updated>2024-01-26T09:11:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/long-beach-elite-3-drawer-console"/>
+    <title>Long Beach Elite 3 Drawer Console</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/621567d98a22f859bf57669b_Long_20Beach_203_20Drawer_20Console_e7460b6d-9304-4485-9c6c-95fa1f7d8f2d.jpg?v=1706231424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This elegant, <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired <a href="https://thefurnituregallery.com.au/collections/consoles-sideboards">console</a> is made from <a href="https://thefurnituregallery.com.au/products/long-beach-2-drawer-console">pine</a>, painted crisp white, and finished with contrasting black handles and drawers for useful storage. Featuring 3 drawers for storage.</p>
+<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coastal style</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>storage</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>white console</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8148464894188</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>259014</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8120643420396</id>
+    <published>2023-12-22T08:42:23+08:00</published>
+    <updated>2023-12-22T08:42:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/long-beach-large-entertainment-unit-1"/>
+    <title>Long Beach Elite Large Entertainment Unit</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/6215645c20de8c357278e561_Long_20Beach_20Large_20ETU_f187070a-cbe3-4f3c-b5e4-f49228c88830.jpg?v=1703205571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring a <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a> chic look to your <a href="https://thefurnituregallery.com.au/collections/living">living room</a> with the Long Beach Large <a href="https://thefurnituregallery.com.au/collections/entertainment-units">Entertainment Unit</a>. Offering ample storage, this entertainment unit is made from pine <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">timber </a>and finished in crisp white for a bright, airy feel. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8120643420396</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>259202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8113759387884</id>
+    <published>2023-12-12T09:41:20+08:00</published>
+    <updated>2023-12-12T09:41:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-two-seater"/>
+    <title>Cloud - Two Seater</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CloudModularSetup5_d10d35f2-e2d5-4f8a-a66a-9a52367f10b5.jpg?v=1702340251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2390.00 - 4520.00
+            <a href="https://thefurnituregallery.com.au/products/cloud-two-seater">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The ultimate sofa - 100% goose feather filled cushions encased in your choice of soft linen or supple cognac leather, and 3 separate modular pieces (corner, armless and ottoman) allowing endless configurations for your space. The Cloud offers unparalleled comfort and comes with a comprehensive lifetime warranty, due to its outstanding craftsmanship. *Scatter cushions included ONLY with FABRIC Cloud Modular not LEATHER.  </span></p>
+<p><meta charset="utf-8"><span data-mce-fragment="1">More colours available exclusively in store.</span><span data-mce-fragment="1"> </span></p>
+<p> </p>
+<p><br><meta charset="utf-8"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>bestseller</s:tag>
+    <s:tag>cloud</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113759387884</id>
+      <title>Optical White</title>
+      <s:price currency="AUD">2390.00</s:price>
+      <s:sku>408988</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113759387884</id>
+      <title>Cognac Leather</title>
+      <s:price currency="AUD">4520.00</s:price>
+      <s:sku>408994</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8113776328940</id>
+    <published>2023-12-12T09:39:43+08:00</published>
+    <updated>2023-12-12T09:39:43+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-three-seater"/>
+    <title>Cloud - Three Seater</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CloudModularSetup4_a156883e-ff2a-4918-8610-1057ea17484c.jpg?v=1702341276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3470.00 - 6515.00
+            <a href="https://thefurnituregallery.com.au/products/cloud-three-seater">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The ultimate sofa - 100% goose feather filled cushions encased in your choice of soft linen or supple cognac leather, and 3 separate modular pieces (corner, armless and ottoman) allowing endless configurations for your space. The Cloud offers unparalleled comfort and comes with a comprehensive lifetime warranty, due to its outstanding craftsmanship. *Scatter cushions included ONLY with FABRIC Cloud Modular not LEATHER.  </span></p>
+<p><span data-mce-fragment="1"><meta charset="utf-8">More colours available exclusively in store.</span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>bestseller</s:tag>
+    <s:tag>cloud</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113776328940</id>
+      <title>Optical White</title>
+      <s:price currency="AUD">3470.00</s:price>
+      <s:sku>408989</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113776328940</id>
+      <title>Cognac Leather</title>
+      <s:price currency="AUD">6515.00</s:price>
+      <s:sku>408995</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8113781833964</id>
+    <published>2023-12-12T09:37:10+08:00</published>
+    <updated>2023-12-12T09:37:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-three-seater-with-chaise"/>
+    <title>Cloud - Three Seater With Chaise</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CloudModularSetup3_89094302-6041-4565-9a7c-caa93825a44a.jpg?v=1702341561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            4339.00 - 8005.00
+            <a href="https://thefurnituregallery.com.au/products/cloud-three-seater-with-chaise">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The ultimate sofa - 100% goose feather filled cushions encased in your choice of soft linen or supple cognac leather, and 3 separate modular pieces (corner, armless and ottoman) allowing endless configurations for your space. The Cloud offers unparalleled comfort and comes with a comprehensive lifetime warranty, due to its outstanding craftsmanship. **Scatter cushions included ONLY with FABRIC Cloud Modular not LEATHER.  </span></p>
+<p><meta charset="utf-8"><span data-mce-fragment="1">More colours available exclusively in store.</span><span data-mce-fragment="1"> </span><br><meta charset="utf-8"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>bestseller</s:tag>
+    <s:tag>cloud</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113781833964</id>
+      <title>Optical White</title>
+      <s:price currency="AUD">4339.00</s:price>
+      <s:sku>408990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113781833964</id>
+      <title>Cognac Leather</title>
+      <s:price currency="AUD">8005.00</s:price>
+      <s:sku>408996</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8113786192108</id>
+    <published>2023-12-12T09:34:42+08:00</published>
+    <updated>2023-12-12T09:34:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-corner-lounge"/>
+    <title>Cloud - Corner Lounge</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CloudModularSetup8_e3479a90-bce3-4ea0-a244-e370ec0a20df.jpg?v=1702341771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            5745.00 - 10770.00
+            <a href="https://thefurnituregallery.com.au/products/cloud-corner-lounge">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">The ultimate sofa - 100% goose feather filled cushions encased in your choice of soft linen or supple cognac leather, and 3 separate modular pieces (corner, armless and ottoman) allowing endless configurations for your space. The Cloud offers unparalleled comfort and comes with a comprehensive lifetime warranty, due to its outstanding craftsmanship. *Scatter cushions included ONLY with FABRIC Cloud Modular not LEATHER.  </span></p>
+<p><span data-mce-fragment="1"><meta charset="utf-8">More colours available exclusively in store.</span></p>
+<p><span data-mce-fragment="1">This bundle is comprised of 3x corner pieces and 2x armless pieces.</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>cloud</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113786192108</id>
+      <title>Optical White</title>
+      <s:price currency="AUD">5745.00</s:price>
+      <s:sku>408991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113786192108</id>
+      <title>Cognac Leather</title>
+      <s:price currency="AUD">10770.00</s:price>
+      <s:sku>408997</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8113788682476</id>
+    <published>2023-12-12T09:26:47+08:00</published>
+    <updated>2023-12-12T09:26:47+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-u-shaped-lounge"/>
+    <title>Cloud - U Shaped Lounge</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CloudModularSetup1_6fa24c18-0e52-4655-9c26-3ceba2c4bc4a.jpg?v=1702341874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            5630.00 - 10505.00
+            <a href="https://thefurnituregallery.com.au/products/cloud-u-shaped-lounge">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The ultimate sofa - 100% goose feather filled cushions encased in your choice of soft linen or supple cognac leather, and 3 separate modular pieces (corner, armless and ottoman) allowing endless configurations for your space. The Cloud offers unparalleled comfort and comes with a comprehensive lifetime warranty, due to its outstanding craftsmanship. *Scatter cushions included ONLY with FABRIC Cloud Modular not LEATHER.   </span></p>
+<p><meta charset="utf-8"><span data-mce-fragment="1">More colours available exclusively in store.</span><span data-mce-fragment="1"> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>cloud</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113788682476</id>
+      <title>Optical White</title>
+      <s:price currency="AUD">5630.00</s:price>
+      <s:sku>408992</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113788682476</id>
+      <title>Cognac Leather</title>
+      <s:price currency="AUD">10505.00</s:price>
+      <s:sku>408998</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8113796382956</id>
+    <published>2023-12-12T09:24:32+08:00</published>
+    <updated>2023-12-12T09:24:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-family-suite-1"/>
+    <title>Cloud - Family Suite</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CloudModularSetup9_7360eef7-f35b-4cd1-9588-093a1c2e398b.jpg?v=1702342219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            6499.00 - 11995.00
+            <a href="https://thefurnituregallery.com.au/products/cloud-family-suite-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The ultimate sofa - 100% goose feather filled cushions encased in your choice of soft linen or supple cognac leather, and 3 separate modular pieces (corner, armless and ottoman) allowing endless configurations for your space. The Cloud offers unparalleled comfort and comes with a comprehensive lifetime warranty, due to its outstanding craftsmanship. *Scatter cushions included ONLY with FABRIC Cloud Modular not LEATHER.  </span></p>
+<p><span data-mce-fragment="1"><meta charset="utf-8">More colours available exclusively in store.</span> </p>
+<p>This bundle is comprised of 2x corner pieces, 3x armless pieces and 1x ottoman.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>cloud</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113796382956</id>
+      <title>Optical White</title>
+      <s:price currency="AUD">6499.00</s:price>
+      <s:sku>408993</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113796382956</id>
+      <title>Cognac Leather</title>
+      <s:price currency="AUD">11995.00</s:price>
+      <s:sku>408999</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8077055983852</id>
+    <published>2023-11-10T13:04:12+08:00</published>
+    <updated>2023-11-10T13:04:12+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hampton-elite-side-table-1"/>
+    <title>Hampton Elite Side Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/6100c8afb46480b345168bfd_Hampton_20Side_20Table_a7db4d78-d6f5-4fd6-8abb-9a575c865d25.jpg?v=1699591904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Capture the magic of <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> home styling with our Hampton Elite <a href="https://thefurnituregallery.com.au/collections/side-tables">Side Table</a>. This <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired side table is defined by crisp white timber and cross detailing, offering a timeless, classic look. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>coastal style</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>side table</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8077055983852</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">349.00</s:price>
+      <s:sku>259009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8076952699116</id>
+    <published>2023-11-10T11:49:24+08:00</published>
+    <updated>2023-11-10T11:49:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-hampton-2-drawer-console"/>
+    <title>Hampton Elite 2 Drawer Console</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/6118762130cfd7e8cb0e2c00_Hampton_202_20Drawer_20Console_99477352-8ab1-4b32-ae01-3aa8c42243a3.jpg?v=1699582642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Capture the magic of <a href="https://thefurnituregallery.com.au/products/hampton-3-drawer-console" data-mce-href="https://thefurnituregallery.com.au/products/hampton-3-drawer-console">Hamptons</a> home styling with the Hampton 2 Drawer <a href="https://thefurnituregallery.com.au/collections/consoles-sideboards">Console</a>. Perfect for the hallway or living room, this <a href="https://thefurnituregallery.com.au/collections/coastal-collection" data-mce-href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired console is defined by crisp white timber and cross detailing, offering a timeless, classic look. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coastal style</s:tag>
+    <s:tag>hall table</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>white console</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8076952699116</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>259008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8076919079148</id>
+    <published>2023-11-10T10:19:23+08:00</published>
+    <updated>2023-11-10T10:19:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-hampton-4-door-4-drawer-sideboard"/>
+    <title>Hampton Elite 4 Door 4 Drawer Sideboard</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/61187cd4e10dfd1af691bd49_Hampton_204_20Door_204_20Drawer_20Sideboard_20copy_87c2978e-013a-42d0-b453-409c1fb0f146.jpg?v=1699580182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Capture the magic of <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> home styling with the Hampton Elite 4 Door 4 Drawer <a href="https://thefurnituregallery.com.au/products/storm-sideboard">Sideboard</a>. With plenty of practical storage, this <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired sideboard is defined by crisp white timber and cross detailing, offering a timeless, classic look. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coastal style</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>sideboard</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>storage</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8076919079148</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>259002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8076821037292</id>
+    <published>2023-11-10T09:41:42+08:00</published>
+    <updated>2023-11-10T09:41:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-hampton-coffee-table-small"/>
+    <title>Hampton Elite Coffee Table (Small)</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/611874ab75eb546ba64e20c2_Hampton_20Coffee_20Table_20Small_fad89a77-53d5-463d-a4ed-5bcd7255a33a.jpg?v=1699574435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Capture the magic of Hamptons home styling in your living room with the Hampton Elite Coffee Table (Small). This coastal-inspired coffee table is defined by crisp white timber and cross detailing, with an elegant glass top, offering a timeless, classic look. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>coastal style</s:tag>
+    <s:tag>Glass coffee table</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>square coffee table</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8076821037292</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>259004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8063584731372</id>
+    <published>2023-11-03T07:12:01+08:00</published>
+    <updated>2023-11-03T07:12:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-long-beach-display-cabinet"/>
+    <title>Long Beach Elite Display Cabinet</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/62156b2420de8ca6bf7921dd_Long_20Beach_20Display_20Cabinet._a8dbb29c-ce44-4780-8751-6dbf7e038e2d.jpg?v=1698966698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            2799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Embrace <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a> chic style with the Long Beach <a href="https://thefurnituregallery.com.au/products/chantelle-display-cabinet">Display Cabinet</a>, featuring crisp white pine <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">timber</a>, contrasting black handles and plenty of storage space. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coastal style</s:tag>
+    <s:tag>display cabinet</s:tag>
+    <s:tag>sideboard</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>storage</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8063584731372</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2799.00</s:price>
+      <s:sku>408824</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7991427105004</id>
+    <published>2023-11-01T07:42:41+08:00</published>
+    <updated>2023-11-01T07:42:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/luna-3-seater-playful-optical"/>
+    <title>Luna 3 Seater - Playful Optical</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Luna3Seater-Modular-7.jpg?v=1709275469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Filled with goose feathers and featuring latex core reversible cushions for superb comfort, the Luna is the effortless sofa that's made to last <meta charset="utf-8">(10 year seating warranty, 10 year frame warranty). Low maintenance and easy to keep clean, the slip covers are removable, waterproof and machine washable. </span><span data-mce-fragment="1">The Luna is upholstered in a hardwearing, durable fabric that looks as luxurious as it feels.</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hamptons lounge</s:tag>
+    <s:tag>hamptons sofa</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>white fabric sofa</s:tag>
+    <s:tag>white lounge</s:tag>
+    <s:tag>white sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7991427105004</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2599.00</s:price>
+      <s:sku>452739</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7991427563756</id>
+    <published>2023-11-01T07:41:51+08:00</published>
+    <updated>2023-11-01T07:41:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/luna-4-seater-playful-optical"/>
+    <title>Luna 4 Seater - Playful Optical</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Luna4Seater-PlayfulOpticalModular-6.jpg?v=1709275419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Filled with goose feathers and featuring latex core reversible cushions for superb comfort, the Luna is the effortless sofa that's made to last <meta charset="utf-8">(10 year seating warranty, 10 year frame warranty). Low maintenance and easy to keep clean, the slip covers are removable, waterproof and machine washable. </span><span data-mce-fragment="1">The Luna is upholstered in a hardwearing, durable fabric that looks as luxurious as it feels.</span><br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hamptons lounge</s:tag>
+    <s:tag>hamptons sofa</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>white fabric lounge</s:tag>
+    <s:tag>white fabric sofa</s:tag>
+    <s:tag>white lounge</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7991427563756</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3299.00</s:price>
+      <s:sku>452771</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7991469867244</id>
+    <published>2023-10-23T08:46:48+08:00</published>
+    <updated>2023-10-23T08:46:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/luna-ottoman"/>
+    <title>Luna Ottoman - Playful Optical</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/LunaModularOttoman.jpg?v=1698021669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">Add this luxurious ottoman to your Luna lounge look for effortless style - perfect for using as a coffee table or as a place to elevate your legs.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Purchase any Luna Sofa in store and receive the Luna Ottoman for $799.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fabric ottoman</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>ottoman</s:tag>
+    <s:tag>white ottoman</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7991469867244</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">899.00</s:price>
+      <s:sku>452740</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7991480582380</id>
+    <published>2023-10-23T08:37:45+08:00</published>
+    <updated>2023-10-23T08:37:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/luna-large-modular-with-right-chaise-playful-optical"/>
+    <title>Luna Large Corner Suite with Right Chaise - Playful Optical</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/LunaModular1-styled.jpg?v=1709791148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            7199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="ProductMeta__Description" data-mce-fragment="1">
+<div class="Rte" data-mce-fragment="1"><strong>Please note: Ottoman pictured in-situ photo is purchased separately - available <a title="Luna Ottoman - Playful Optical" href="https://thefurnituregallery.com.au/products/luna-ottoman?_pos=2&amp;_sid=1a02d9ba7&amp;_ss=r"><span style="text-decoration: underline;">here</span></a>.</strong></div>
+<div class="Rte" data-mce-fragment="1"><strong></strong></div>
+<div class="Rte" data-mce-fragment="1">
+<span data-mce-fragment="1">Filled with goose feathers and featuring latex core reversible cushions for superb comfort, the Luna is the effortless sofa that's made to last <meta charset="utf-8">(10 year seating warranty, 10 year frame warranty). Low maintenance and easy to keep clean, the slip covers are removable, waterproof and machine washable. </span><span data-mce-fragment="1">The Luna is upholstered in a hardwearing, durable fabric that looks as luxurious as it feels. </span>This is the dream sofa.</div>
+<div class="Rte" data-mce-fragment="1"><br></div>
+<div class="Rte" data-mce-fragment="1"><br></div>
+<div class="Rte" data-mce-fragment="1"><br></div>
+<div class="Rte" data-mce-fragment="1">
+<meta charset="utf-8">
+<p><br></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chaise lounge</s:tag>
+    <s:tag>hamptons lounge</s:tag>
+    <s:tag>hamptons sofa</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>white fabric sofa</s:tag>
+    <s:tag>white lounge</s:tag>
+    <s:tag>white sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7991480582380</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">7199.00</s:price>
+      <s:sku>452772M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7991436443884</id>
+    <published>2023-10-02T15:40:30+08:00</published>
+    <updated>2023-10-02T15:40:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/luna-3-seater-playful-optical-1"/>
+    <title>Luna 3 Seater with Chaise - Playful Optical</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/LunaModular3.jpg?v=1697699598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="ProductMeta__Description" data-mce-fragment="1">
+<div class="Rte" data-mce-fragment="1">
+<meta charset="utf-8"> <span data-mce-fragment="1">Filled with goose feathers and featuring latex core reversible cushions for superb comfort, the Luna is the effortless sofa that's made to last <meta charset="utf-8">(10 year seating warranty, 10 year frame warranty). Low maintenance and easy to keep clean, the slip covers are removable, waterproof and machine washable. </span><span data-mce-fragment="1">The Luna is upholstered in a hardwearing, durable fabric that looks as luxurious as it feels.</span>
+</div>
+</div>
+<div class="dimension-container" data-mce-fragment="1"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chaise lounge</s:tag>
+    <s:tag>hamptons lounge</s:tag>
+    <s:tag>hamptons sofa</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>white fabric sofa</s:tag>
+    <s:tag>white lounge</s:tag>
+    <s:tag>white sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7991436443884</id>
+      <title>RHS</title>
+      <s:price currency="AUD">3999.00</s:price>
+      <s:sku>452772</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7991436443884</id>
+      <title>LHS</title>
+      <s:price currency="AUD">3999.00</s:price>
+      <s:sku>452773</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7969432404204</id>
+    <published>2023-09-08T06:12:14+08:00</published>
+    <updated>2023-09-08T06:12:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-hampton-3-drawer-console"/>
+    <title>Hampton Elite 3 Drawer Console</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/61187ffce10dfd96ac91df38_Hampton_203_20Drawer_20Console_a43ffdc3-37df-4811-adf1-b7c9b7725212.jpg?v=1693353415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1099.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Capture the magic of <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> home styling with the Hampton Elite 3 Drawer <a href="https://thefurnituregallery.com.au/collections/consoles-sideboards">Console</a>. This <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired console is crafted using top grade hard wood and finished in crisp white, with cross detailing. Offering a timeless, classic look, it will bring a light, bright feel to your living room, hallway or dining room. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>coastal style</s:tag>
+    <s:tag>console</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>storage</s:tag>
+    <s:tag>white console</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7969432404204</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1099.00</s:price>
+      <s:sku>259001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7997286645996</id>
+    <published>2023-09-06T08:56:35+08:00</published>
+    <updated>2023-09-06T08:56:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hampton-elite-2-door-1-drawer-entertainment-unit"/>
+    <title>Hampton Elite 2 Door 1 Drawer Entertainment Unit</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/61187da77c91279ca74acb3d_Hampton_20ETU_e2cfac7c-a78b-4f43-9673-4dfb3ebbf513.jpg?v=1693961773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the magic of <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> home styling to your <a href="https://thefurnituregallery.com.au/collections/living">living room</a> with the Hampton Elite <a href="https://thefurnituregallery.com.au/collections/entertainment-units">Entertainment Unit</a>. With plenty of practical storage, this <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired unit is crafted using top grade hard wood, then finished in crisp white to offer a timeless, classic look. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>coastal style</s:tag>
+    <s:tag>entertainment unit</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>storage</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7997286645996</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>259200</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7969433780460</id>
+    <published>2023-08-30T09:11:56+08:00</published>
+    <updated>2023-08-30T09:11:56+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-long-beach-elite-4-door-cabinet"/>
+    <title>Long Beach Elite 4 Door Cabinet</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/62156a9421a72c0751eff482_Long_20Beach_204_20Door_20Sideboard._77f0175a-7e76-4684-89f0-ce6e9671bac5.jpg?v=1693354219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Offering plenty of storage space for your valuables, the <a href="https://thefurnituregallery.com.au/products/long-beach-3-drawer-3-door-sideboard">Long Beach</a> 4 Door Cabinet is a gorgeous <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired piece crafted using top grade hard wood finished in crisp white, with contrasting black handles for just the right amount of detail. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coastal style</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>sideboard</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>storage</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7969433780460</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>259010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7969432535276</id>
+    <published>2023-08-30T09:09:21+08:00</published>
+    <updated>2023-08-30T09:09:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-hampton-desk"/>
+    <title>Hampton Elite Desk</title>
+    <s:type>Office</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/611ca0d92ed6f181f33a601c_Hampton_20Desk_20copy_33129bdf-e117-451e-8c54-1591c4a4bc03.jpg?v=1693353596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Office<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Capture the magic of <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> home styling with the Hampton Elite Desk. This <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired <a href="https://thefurnituregallery.com.au/collections/desks">desk</a> is crafted using top grade hard wood timber and finished in crisp white. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>coastal style</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>white</s:tag>
+    <s:tag>white desk</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7969432535276</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1399.00</s:price>
+      <s:sku>259005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

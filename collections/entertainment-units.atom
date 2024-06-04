@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/entertainment-units.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-03-20T15:35:07+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8250783957228</id>
+    <published>2024-03-20T15:35:07+08:00</published>
+    <updated>2024-03-20T15:35:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/donovan-entertainment-unit"/>
+    <title>Donovan Entertainment Unit</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/DonovanEntUnit.jpg?v=1710920103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Scandinavian-style entertainment unit crafted from blue gum timber. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>entertainment unit</s:tag>
+    <s:tag>timber entertainment unit</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8250783957228</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>452280</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8214567813356</id>
+    <published>2024-03-05T07:19:29+08:00</published>
+    <updated>2024-03-05T07:19:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pemberton-large-entertainment-unit-1"/>
+    <title>Pemberton Large Entertainment Unit</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/thumbnail_PembertonLargeEntertainmentUnit_Square.jpg?v=1710297765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="flex-1 overflow-hidden">
+<div class="react-scroll-to-bottom--css-ifsab-79elbk h-full">
+<div class="react-scroll-to-bottom--css-ifsab-1n7m0yu">
+<div class="flex flex-col text-sm pb-9">
+<div data-testid="conversation-turn-81" class="w-full text-token-text-primary">
+<div class="px-4 py-2 justify-center text-base md:gap-6 m-auto">
+<div class="flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] group final-completion">
+<div class="relative flex w-full flex-col agent-turn">
+<div class="flex-col gap-1 md:gap-3">
+<div class="flex flex-grow flex-col max-w-full">
+<div class="min-h-[20px] text-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto" data-message-id="3500243b-0be0-4d07-9d69-5f5307d0bbf8" data-message-author-role="assistant">
+<div class="markdown prose w-full break-words dark:prose-invert light">
+<p>Discover the Pemberton Large Entertainment Unit, meticulously fashioned from premium grade West Australian Marri, ensuring the highest quality entertainment experience with its stunning natural timber grain. </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>entertainment unit</s:tag>
+    <s:tag>marri timber</s:tag>
+    <s:tag>timber entertainment unit</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8214567813356</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2999.00</s:price>
+      <s:sku>408513</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970172338412</id>
+    <published>2024-01-24T11:15:10+08:00</published>
+    <updated>2024-01-24T11:15:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/lyon-oak-wood-entertainment-unit-black"/>
+    <title>Lyon Oak Wood Entertainment Unit - Black</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/LyonBlackentunit.jpg?v=1706066036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Lyon is an elegant entertainment unit featuring a French country-inspired design, beautifully crafted with oak timber in black, blending classic charm with modern functionality.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>entertainment unit</s:tag>
+    <s:tag>timber entertainment unit</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970172338412</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1699.00</s:price>
+      <s:sku>452309</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8120643420396</id>
+    <published>2023-12-22T08:42:23+08:00</published>
+    <updated>2023-12-22T08:42:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/long-beach-large-entertainment-unit-1"/>
+    <title>Long Beach Elite Large Entertainment Unit</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/6215645c20de8c357278e561_Long_20Beach_20Large_20ETU_f187070a-cbe3-4f3c-b5e4-f49228c88830.jpg?v=1703205571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring a <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a> chic look to your <a href="https://thefurnituregallery.com.au/collections/living">living room</a> with the Long Beach Large <a href="https://thefurnituregallery.com.au/collections/entertainment-units">Entertainment Unit</a>. Offering ample storage, this entertainment unit is made from pine <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">timber </a>and finished in crisp white for a bright, airy feel. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8120643420396</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>259202</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970172371180</id>
+    <published>2023-09-20T09:57:50+08:00</published>
+    <updated>2023-09-20T09:57:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-lyon-oak-wood-entertainment-unit-black"/>
+    <title>Lyon Oak Wood Entertainment Unit - Black &amp; Natural</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/LyonEntertainmentUnit-natural.jpg?v=1697496213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Lyon is an elegant entertainment unit featuring a French country-inspired design, beautifully crafted with a two-tone color scheme of black and natural oak timber, blending classic charm with modern functionality.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>entertainment unit</s:tag>
+    <s:tag>timber entertainment unit</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970172371180</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1699.00</s:price>
+      <s:sku>452310</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970251309292</id>
+    <published>2023-09-20T07:56:59+08:00</published>
+    <updated>2023-09-20T07:56:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/colorado-2-doors-2-niche-entertainment-unit"/>
+    <title>Colorado 2 Door Entertainment Unit</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/T2_1987ColoradosmallEntunitwithnicheandknobs_a9da40af-203f-4cc4-8f1d-411053a83dfd.jpg?v=1697602102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1099.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Add some rustic elegance in your living room with the Colorado 2 Door Entertainment Unit, crafted from acacia timber.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>entertainment unit</s:tag>
+    <s:tag>timber entertainment unit</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970251309292</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1099.00</s:price>
+      <s:sku>452487</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970251342060</id>
+    <published>2023-09-20T07:54:05+08:00</published>
+    <updated>2023-09-20T07:54:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/colorado-2-doors-4-drawers-entertainment-unit"/>
+    <title>Colorado 2 Doors 4 Drawers Entertainment Unit</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/T2_1927Colorado2Doors4DrawerLargeEntUnit_2f14e075-7ee3-42c3-885f-e2441d3c7a3f.jpg?v=1697601899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">A quaint farmhouse-style entertainment unit crafted from durable acacia wood, accentuated by charming antique-look metal handles for a touch of rustic elegance.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>entertainment unit</s:tag>
+    <s:tag>timber entertainment unit</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970251342060</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1699.00</s:price>
+      <s:sku>452488</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7966117069036</id>
+    <published>2023-09-15T08:23:16+08:00</published>
+    <updated>2023-09-15T08:23:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/byron-large-entertainment-unit"/>
+    <title>Bremer Bay Large Entertainment Unit</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BremerBaylargeEntunit_b3121a89-c476-4855-94d6-05287da08bc3.jpg?v=1697602780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Made from solid, reclaimed pine, the Bremer Bay Large Entertainment Unit features a rustic timber top along with an ivory washed base. Three drawers provide ample storage.</p>
+<p data-mce-fragment="1"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>entertainment unit</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>timber entertainment unit</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7966117069036</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>452518</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7997286645996</id>
+    <published>2023-09-06T08:56:35+08:00</published>
+    <updated>2023-09-06T08:56:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hampton-elite-2-door-1-drawer-entertainment-unit"/>
+    <title>Hampton Elite 2 Door 1 Drawer Entertainment Unit</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/61187da77c91279ca74acb3d_Hampton_20ETU_e2cfac7c-a78b-4f43-9673-4dfb3ebbf513.jpg?v=1693961773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring the magic of <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> home styling to your <a href="https://thefurnituregallery.com.au/collections/living">living room</a> with the Hampton Elite <a href="https://thefurnituregallery.com.au/collections/entertainment-units">Entertainment Unit</a>. With plenty of practical storage, this <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired unit is crafted using top grade hard wood, then finished in crisp white to offer a timeless, classic look. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>coastal style</s:tag>
+    <s:tag>entertainment unit</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>storage</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7997286645996</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>259200</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7939438313708</id>
+    <published>2023-07-18T07:17:03+08:00</published>
+    <updated>2023-07-18T07:17:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-harvard-entertainment-unit"/>
+    <title>Walpole Entertainment Unit</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/6230053c11d2051cf52d546c_Screen_20Shot_202022-03-15_20at_203.24.41_20pm_6a3ac902-9080-4a32-a56b-0159ddfcaef2.png?v=1687834065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Featuring clean lines and sleek angles, the Harvard Entertainment Unit is crafted from beautiful Tasmanian Oak."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Featuring clean lines and sleek angles, the Walpole <a href="https://thefurnituregallery.com.au/collections/entertainment-units">Entertainment Unit</a> is crafted from beautiful Tasmanian Oak.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>solid timber</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7939438313708</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>451978</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7928748900588</id>
+    <published>2023-05-30T07:04:08+08:00</published>
+    <updated>2023-05-30T07:04:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/verdelho-small-entertainment-unit"/>
+    <title>Verdelho Small Entertainment Unit</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/VerdelhoSmallEntUnit_77ee1399-1347-4220-95cc-37f7dbed1951.jpg?v=1697603009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><a href="https://thefurnituregallery.com.au/products/portland-entertainment-unit">American oak</a> combines with European Beech <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">Timber </a>to create the stunning <a href="https://thefurnituregallery.com.au/products/verdelho-entertainment-unit">Verdelho</a> <a href="https://thefurnituregallery.com.au/collections/entertainment-units">Entertainment Unit</a>. Featuring a gorgeous parquetry pattern top, with contrasting white base.</p>
+<p><span>This product is made exclusively with </span><strong data-mce-fragment="1">Blum </strong><span>hardware.</span></p>
+<p><img style="margin-bottom: 16px; float: none;" alt="" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Blum_480x480.jpg?v=1682635880" width="206" height="119" data-mce-selected="1" data-mce-src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Blum_480x480.jpg?v=1682635880"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>parquetry design</s:tag>
+    <s:tag>timber entertainment unit</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7928748900588</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>452566</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840521289964</id>
+    <published>2022-12-05T23:29:53+08:00</published>
+    <updated>2022-12-05T23:29:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-1800-entertainment-unit"/>
+    <title>Surrey Entertainment Unit (Small)</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/614a83e79e40a48f7b9e2353_Surrey_201800_20Entertainment_20Unit_20angle.jpg?v=1670644594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1099.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made from acacia and wedge wood in a two-tone design, the Surrey <a href="https://thefurnituregallery.com.au/collections/entertainment-units">Entertainment Unit</a> will bring a relaxed <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> feel to your <a href="https://thefurnituregallery.com.au/collections/living">living room</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840521289964</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1099.00</s:price>
+      <s:sku>405978</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840479740140</id>
+    <published>2022-12-05T21:49:28+08:00</published>
+    <updated>2022-12-05T21:49:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ignacio-entertainment-unit-marri-wood"/>
+    <title>Ignacio Entertainment Unit - Marri Wood</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6212f93fa04fa06c6b2abe96_444827_WB_Ignacio_20Entertainment_20Unit_20Marri_20angle.jpg?v=1670644528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-sheets-value='{"1":2,"2":"Bring the raw beauty of WAâ€™s South West into your living room with the Ignacio Entertainment Unit, made from native West Australian solid Marri timber."}' data-mce-fragment="1">Bring the raw beauty of WA'</span><span data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-sheets-value='{"1":2,"2":"Bring the raw beauty of WAâ€™s South West into your living room with the Ignacio Entertainment Unit, made from native West Australian solid Marri timber."}' data-mce-fragment="1">s South West into your <a href="https://thefurnituregallery.com.au/collections/living">living room</a> with the Ignacio <a href="https://thefurnituregallery.com.au/collections/entertainment-units">Entertainment Unit</a>, made from solid, premium grade <a href="https://thefurnituregallery.com.au/products/ignacio-dining-table-marri-wood">Marri timber</a>, native to West Australia and renowned for its superb quality and durability. The grain on this Marri piece features the distinctive intricate patterns that only Marri timber boasts, giving it a truly unique, stunning appearance.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840479740140</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2699.00</s:price>
+      <s:sku>444827</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7839480807660</id>
+    <published>2022-12-04T17:40:01+08:00</published>
+    <updated>2022-12-04T17:40:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cameo-entertainment-unit"/>
+    <title>Cameo Entertainment Unit</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/622ef45c8c724da63dbdc4ba_442778_WB_Cameo_20Entertainment_20Unit_20front_51b16255-dc15-4f41-9eb0-6e81f2e9035a.jpg?v=1670146802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Featuring a rustic finish, the Cameo Entertainment Unit is elevated on a metal frame for a modern industrial look."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Featuring a rustic finish, the Cameo <a href="https://thefurnituregallery.com.au/collections/entertainment-units">Entertainment Unit</a> is elevated on a metal frame for a modern industrial look.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7839480807660</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>442778</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833295913196</id>
+    <published>2022-11-28T13:13:07+08:00</published>
+    <updated>2022-11-28T13:13:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/antoinette-xtra-large-entertainment-unit"/>
+    <title>Antoinette Extra Large Entertainment Unit</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/623157eaa77b31b9abcd1d73_Antoinette_20Xtra_20Large_20ent_20unit_20styled_0ec5a34a-c067-4cf6-8e77-929dd066f3ba.jpg?v=1670644812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            1099.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Exuding old world charm, the Antoinette Extra Large <a href="https://thefurnituregallery.com.au/collections/entertainment-units">Entertainment Unit</a> will inject <a href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French Provincial</a> style into your <a href="https://thefurnituregallery.com.au/collections/living">living room</a> space with its two tone <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">timber </a>finish and antique look details.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833295913196</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1099.00</s:price>
+      <s:sku>444884</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669979971820</id>
+    <published>2022-06-19T12:53:37+08:00</published>
+    <updated>2022-06-19T12:53:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/verdelho-entertainment-unit"/>
+    <title>Verdelho Entertainment Unit</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/612359dacf99d16701fb4177_Verdelho_20Entertainment_20Coffee_20Console_20copy.jpg?v=1715912234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><a href="https://thefurnituregallery.com.au/products/portland-entertainment-unit">American oak</a> combines with European Beech Timber to create the stunning Verdelho <a href="https://thefurnituregallery.com.au/collections/entertainment-units">Entertainment Unit</a>. Featuring a gorgeous <a href="https://thefurnituregallery.com.au/products/verdelho-small-entertainment-unit">parquetry pattern top</a>, with contrasting white base.<br><span data-sheets-value='{"1":2,"2":"The Verdelho Coffee Table is crafted from beautiful American oak combined with European Beech Timber, featuring a gorgeous parquetry pattern table top to imbue your living room with classic elegance."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">This product is made exclusively with <strong data-mce-fragment="1">Blum </strong></span><span data-sheets-value='{"1":2,"2":"The Verdelho Coffee Table is crafted from beautiful American oak combined with European Beech Timber, featuring a gorgeous parquetry pattern table top to imbue your living room with classic elegance."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">hardware.</span><br></p>
+<p><span data-sheets-value='{"1":2,"2":"The Verdelho Coffee Table is crafted from beautiful American oak combined with European Beech Timber, featuring a gorgeous parquetry pattern table top to imbue your living room with classic elegance."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1"><img style="margin-bottom: 16px; float: none;" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Blum_480x480.jpg?v=1682635880" data-mce-selected="1" data-mce-src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Blum_480x480.jpg?v=1682635880" width="195" height="113"></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>parquetry design</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>timber entertainment unit</s:tag>
+    <s:tag>two-tone</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669979971820</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>445550</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669979414764</id>
+    <published>2022-06-19T12:52:54+08:00</published>
+    <updated>2022-06-19T12:52:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-2500-entertainment-unit"/>
+    <title>Surrey Entertainment Unit (Large)</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/622ee0779a2c510168649c84_Surrey_20Entertainment_20Unit.jpg?v=1655614374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made from acacia and wedge wood in a two-tone design, the Surrey <a href="https://thefurnituregallery.com.au/collections/entertainment-units">Entertainment</a> Unit will bring a relaxed <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> feel to your <a href="https://thefurnituregallery.com.au/collections/living">living room</a>. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>timber entertainment unit</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669979414764</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>442658</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669979054316</id>
+    <published>2022-06-19T12:52:29+08:00</published>
+    <updated>2022-06-19T12:52:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/sienna-entertainment-unit"/>
+    <title>Sienna Entertainment Unit</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/622edb0f8346c46d0aa2fb61_IMG_4920.jpg?v=1655614349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>AVAILABLE FOR SPECIAL ORDER IN STORE ONLY.</strong></p>
+<p>The Sienna <a href="https://thefurnituregallery.com.au/collections/entertainment-units">Entertainment Unit</a> features a combination of solid Marri and black glass to give it a unique, modern look. Renowned for its robust strength and durability, the <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">Marri timber</a> has a gorgeous live edge as well as a warm, honey-coloured tone which contrasts beautifully with the sleek black glass that runs through the middle. </p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>entertainment unit</s:tag>
+    <s:tag>modern style</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>timber entertainment unit</s:tag>
+    <s:tag>two-tone</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669979054316</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2399.00</s:price>
+      <s:sku>446696</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669978824940</id>
+    <published>2022-06-19T12:52:17+08:00</published>
+    <updated>2022-06-19T12:52:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/seville-entertainment-unit"/>
+    <title>Seville Entertainment Unit</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/SevilleEntertainment.jpg?v=1670644924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring effortless style to your <a href="https://thefurnituregallery.com.au/collections/living">living room</a> with the Seville <a href="https://thefurnituregallery.com.au/collections/entertainment-units">Entertainment Unit</a>, made from white oak and solid <a href="https://thefurnituregallery.com.au/products/verdelho-entertainment-unit">European beech</a> painted black, with a herringbone pattern and contrasting brass accents. </p>
+<p><span data-sheets-value='{"1":2,"2":"The Verdelho Coffee Table is crafted from beautiful American oak combined with European Beech Timber, featuring a gorgeous parquetry pattern table top to imbue your living room with classic elegance."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">This product is made exclusively with <strong data-mce-fragment="1">Blum </strong></span><span data-sheets-value='{"1":2,"2":"The Verdelho Coffee Table is crafted from beautiful American oak combined with European Beech Timber, featuring a gorgeous parquetry pattern table top to imbue your living room with classic elegance."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">hardware.</span></p>
+<p><img height="113" width="195" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Blum_480x480.jpg?v=1682635880" data-mce-selected="1"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>contemporary</s:tag>
+    <s:tag>dark wood</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>herringbone</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>timber</s:tag>
+    <s:tag>timber entertainment unit</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669978824940</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>449779</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669972861164</id>
+    <published>2022-06-19T12:45:32+08:00</published>
+    <updated>2022-06-19T12:45:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bondi-entertainment-unit"/>
+    <title>Bondi Entertainment Unit</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/61c11215bc8a9d642dcaf3ba_Bondi_20Entertainment.jpg?v=1655613932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Complete your <a href="https://thefurnituregallery.com.au/collections/living">living room</a> look with this <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a> style <a href="https://thefurnituregallery.com.au/collections/entertainment-units">entertainment unit</a> crafted from chestnut timber. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chestnut entertainment unit</s:tag>
+    <s:tag>coastal style</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>timber</s:tag>
+    <s:tag>timber entertainment unit</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669972861164</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1399.00</s:price>
+      <s:sku>444160</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

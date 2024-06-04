@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/bedroom.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-05-31T13:09:21+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840931709164</id>
+    <published>2024-05-31T13:09:21+08:00</published>
+    <updated>2024-05-31T13:09:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/boho-boutique-4-poster-bed"/>
+    <title>Boho Boutique 4 Poster Bed</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/612f17725712d744abbf86ac_Boho_20Bed_20-_20angle_33a5f5d6-b907-4eeb-bbe1-84e75d8f78b3.jpg?v=1670326146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"The Boho Bed is a striking 4 poster bed crafted from a blend of Mango wood solids and mixed timber veneers of teak, mahogany and ash, adding interest and detail. Featuring a statement inlaid pattern that adds to its nomadic, world traveller appeal, this bed will transform your bedroom into a Balinese inspired retreat."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">LAST CHANCE!  ONLY ONE LEFT COCKBURN!  <span>SPECIAL DISPLAY STOCK PRICE!</span> </span></p>
+<p><span data-sheets-value='{"1":2,"2":"The Boho Bed is a striking 4 poster bed crafted from a blend of Mango wood solids and mixed timber veneers of teak, mahogany and ash, adding interest and detail. Featuring a statement inlaid pattern that adds to its nomadic, world traveller appeal, this bed will transform your bedroom into a Balinese inspired retreat."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">The Boho Bed is a striking 4 poster <a href="https://thefurnituregallery.com.au/collections/beds">bed</a> crafted from a blend of Mango wood solids and mixed <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">timber</a> veneers of teak, mahogany and ash, adding interest and detail. Featuring a statement inlaid pattern that adds to its nomadic, world traveller appeal, this bed will transform your bedroom into a Balinese inspired retreat.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840931709164</id>
+      <title>King</title>
+      <s:price currency="AUD">1999.00</s:price>
+      <s:sku>448179</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8230095683820</id>
+    <published>2024-03-08T13:16:56+08:00</published>
+    <updated>2024-03-08T13:16:56+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/giselle-bed"/>
+    <title>Giselle Bed</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GiselleKingBed_33c9872d-399d-4c73-9248-e51dd542010e.jpg?v=1709871022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1999.00 - 2299.00
+            <a href="https://thefurnituregallery.com.au/products/giselle-bed">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This </span><a href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French Provincial</a><span> inspired bed features beautiful arches and a classic buttoned headboard with studding, surrounded by weathered, rustic timber.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>antique style</s:tag>
+    <s:tag>king bed</s:tag>
+    <s:tag>queen bed</s:tag>
+    <s:tag>upholstered bed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8230095683820</id>
+      <title>Queen</title>
+      <s:price currency="AUD">1999.00</s:price>
+      <s:sku>450976</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8230095683820</id>
+      <title>King</title>
+      <s:price currency="AUD">2299.00</s:price>
+      <s:sku>450975</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8230073663724</id>
+    <published>2024-03-08T12:06:30+08:00</published>
+    <updated>2024-03-08T12:06:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/orlando-bed-natural"/>
+    <title>Orlando Bed - Natural</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Image02.jpg?v=1716433714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1299.00 - 1599.00
+            <a href="https://thefurnituregallery.com.au/products/orlando-bed-natural">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Orlando Bed in Natural features a unique pillow-inspired headboard with rounded corners, offering superb comfort and support. Its </span><span>neutral colour scheme evokes a soft and inviting aesthetic that promises style in any bedroom setting. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fabric bed</s:tag>
+    <s:tag>king bed</s:tag>
+    <s:tag>neutral bed</s:tag>
+    <s:tag>queen bed</s:tag>
+    <s:tag>upholstered bed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8230073663724</id>
+      <title>Queen</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>452783</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8230073663724</id>
+      <title>King</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>452784</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8010629775596</id>
+    <published>2024-02-23T05:56:04+08:00</published>
+    <updated>2024-02-23T05:56:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-bremer-bay-bed"/>
+    <title>Bremer Bay Bed</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/bremerbay3.jpg?v=1709706635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1299.00 - 1599.00
+            <a href="https://thefurnituregallery.com.au/products/copy-of-bremer-bay-bed">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Crafted from solid, reclaimed pine, the Bremer Bay Bed showcases timber trim with a tawny stain to achieve a weathered look and ivory cross design headboard and footboard. </p>
+<p data-mce-fragment="1"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>king bed</s:tag>
+    <s:tag>queen bed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8010629775596</id>
+      <title>Queen</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>452521</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8010629775596</id>
+      <title>King</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>452520</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8168419164396</id>
+    <published>2024-02-20T09:06:22+08:00</published>
+    <updated>2024-02-20T09:06:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/willoughby-bed-sand-1"/>
+    <title>Willoughby Bed - Sand</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/WilloughbyKingBed-Sandresized_b7b52ec1-aa08-40f1-b53a-0c90d6f56e38.jpg?v=1708389328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            599.00 - 999.00
+            <a href="https://thefurnituregallery.com.au/products/willoughby-bed-sand-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Willoughby is a timeless beige fabric bed featuring a classic design characterised by sleek, clean lines for an effortlessly elegant aesthetic. Also available in <a title="Willoughby Bed - Charcoal" href="https://thefurnituregallery.com.au/products/willoughby-bed-charcoal?_pos=2&amp;_sid=a49645686&amp;_ss=r"><span style="text-decoration: underline;"><strong>Charcoal</strong></span></a>.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>upholstered bed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8168419164396</id>
+      <title>Queen</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>452720</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8168419164396</id>
+      <title>King</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>452721</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8168418672876</id>
+    <published>2024-02-20T09:06:11+08:00</published>
+    <updated>2024-02-20T09:06:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/willoughby-bed-charcoal"/>
+    <title>Willoughby Bed - Charcoal</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/WilloughbyKingBed-Charcoalresized_0766cb77-2a98-45c7-90d9-59e1875fe34f.jpg?v=1708389079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            599.00 - 999.00
+            <a href="https://thefurnituregallery.com.au/products/willoughby-bed-charcoal">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Willoughby is a timeless charcoal fabric bed featuring a classic design characterised by sleek, clean lines for an effortlessly elegant aesthetic. Also available in <a href="https://thefurnituregallery.com.au/products/willoughby-bed-sand" title="Willoughby Bed - Sand"><b>Sand.</b></a></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>upholstered bed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8168418672876</id>
+      <title>Queen</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>452722</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8168418672876</id>
+      <title>King</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>452723</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8095324700908</id>
+    <published>2023-12-15T13:32:36+08:00</published>
+    <updated>2023-12-15T13:32:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/alsace-chest-rustic-oak"/>
+    <title>Alsace Chest - Rustic Oak</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/AlsaceChest.jpg?v=1702618332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Channel an antique French Provincial look with the Alsace Chest in Rustic Oak.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5 drawer chest of drawers</s:tag>
+    <s:tag>chest of drawers</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>timber chest</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8095324700908</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>452776</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8100384047340</id>
+    <published>2023-12-15T13:22:58+08:00</published>
+    <updated>2023-12-15T13:22:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/piper-square-side-table"/>
+    <title>Piper Square Side Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PiperSquareSideTable.jpg?v=1702617749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Beautifully contrasting a timber top with a white antique-style painted base, the Piper Square Side Table creates a whimsical yet timeless addition to your bedroom or living space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>side table</s:tag>
+    <s:tag>white bedside</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8100384047340</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">299.00</s:price>
+      <s:sku>487008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8105813672172</id>
+    <published>2023-12-06T16:45:47+08:00</published>
+    <updated>2023-12-06T16:45:47+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/charlotte-chest"/>
+    <title>Charlotte Chest</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Charlottechestofdrawer.jpg?v=1701852311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stunning french provincial style 5 drawer Charlotte Chest of drawer, pairs beautifully with the Charlotte Bed and Charlotte Night stands.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5 drawer chest of drawers</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>timber chest</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8105813672172</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>486072</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8106157211884</id>
+    <published>2023-12-06T16:37:52+08:00</published>
+    <updated>2023-12-06T16:37:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/charlotte-side-table-1"/>
+    <title>Charlotte Side Table</title>
+    <s:type>Living;Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CharlotteSideTable_1a1d2548-2ea6-473e-b9b8-0256d987a5d7.jpg?v=1701839216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Bedroom<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">A French provincial style side table featuring a light timber finish, embodying classic elegance.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>round side table</s:tag>
+    <s:tag>side table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8106157211884</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">299.00</s:price>
+      <s:sku>486082</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8106167468268</id>
+    <published>2023-12-06T16:37:17+08:00</published>
+    <updated>2023-12-06T16:37:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/charlotte-night-stand-1"/>
+    <title>Charlotte Night Stand</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CharlotteBedside_5d7a75ef-0bfa-4f95-826b-f3fd43ef9e13.jpg?v=1701839302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A petite French Provincial style nightstand daintily poised atop lithe timber legs.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>antique bedside</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>timber bedside</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8106167468268</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">349.00</s:price>
+      <s:sku>486070</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8105813377260</id>
+    <published>2023-12-06T11:11:30+08:00</published>
+    <updated>2023-12-06T11:11:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/charlotte-dressing-table"/>
+    <title>Charlotte Dressing Table</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CharlotteDressingTable.jpg?v=1701825416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">A French provincial style dressing table featuring timeless detailing, complemented by antique-look handles and a light timber finish, embodying classic elegance.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>timber dressing table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8105813377260</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>486075</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8105820127468</id>
+    <published>2023-12-06T11:09:41+08:00</published>
+    <updated>2023-12-06T11:09:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/charlotte-bench"/>
+    <title>Charlotte Bench</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CharlotteBench1.jpg?v=1701825542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beautiful French provincial style button tufted bench seat,  The perfect companion to place at the foot of the <a href="https://thefurnituregallery.com.au/products/charlotte-bed" title="Charlotte Bed">Charlotte Bed</a>.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bed of bed bench</s:tag>
+    <s:tag>bench seat</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8105820127468</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>486071</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8105761439980</id>
+    <published>2023-12-06T08:07:50+08:00</published>
+    <updated>2023-12-06T08:07:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/charlotte-bed"/>
+    <title>Charlotte Bed</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CharlotteKingBed_2c7307f1-9f90-4254-812d-edfbb6b929ef.jpg?v=1701819117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1999.00 - 2299.00
+            <a href="https://thefurnituregallery.com.au/products/charlotte-bed">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A testament to elegant French Provincial Design, the Charlotte Bed is a very classy choice for the bedroom, with its beautiful lines, beige buttoned headboard and timber frame.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>button tufting</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>king bed</s:tag>
+    <s:tag>queen bed</s:tag>
+    <s:tag>upholstered bed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8105761439980</id>
+      <title>Queen</title>
+      <s:price currency="AUD">1999.00</s:price>
+      <s:sku>486068</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8105761439980</id>
+      <title>King</title>
+      <s:price currency="AUD">2299.00</s:price>
+      <s:sku>486069P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8095323980012</id>
+    <published>2023-12-05T09:42:31+08:00</published>
+    <updated>2023-12-05T09:42:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/picardy-bed"/>
+    <title>Picardy Bed</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PicardyKingBedwithConsole.jpg?v=1701740631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1899.00 - 2199.00
+            <a href="https://thefurnituregallery.com.au/products/picardy-bed">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Picardy is an elegant French Provincial style bed exuding timeless charm, showcasing a buttoned beige linen upholstered headboard, complemented by a rustic oak bedframe.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>upholstered bed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8095323980012</id>
+      <title>Queen</title>
+      <s:price currency="AUD">1899.00</s:price>
+      <s:sku>452779</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8095323980012</id>
+      <title>King</title>
+      <s:price currency="AUD">2199.00</s:price>
+      <s:sku>452780</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8095324537068</id>
+    <published>2023-12-05T09:36:22+08:00</published>
+    <updated>2023-12-05T09:36:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/alsace-night-stand"/>
+    <title>Alsace Night Stand - Rustic Oak</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/AlsaceNightStand-RusticOak.jpg?v=1701740160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">An elegant French provincial style bedside crafted from rustic oak, featuring gracefully ornate legs and two drawers, embodying old-world charm and functional sophistication in its design. Perfectly complements the <a title="Alsace Bed" href="https://thefurnituregallery.com.au/products/alsace-bed?_pos=1&amp;_sid=b3b6f4146&amp;_ss=r" data-mce-fragment="1" data-mce-href="https://thefurnituregallery.com.au/products/alsace-bed?_pos=1&amp;_sid=b3b6f4146&amp;_ss=r">Alsace Bed</a> and <a href="https://thefurnituregallery.com.au/products/alsace-dressing-table-mirror-rustic-oak?_pos=3&amp;_sid=b3b6f4146&amp;_ss=r" title="Alsace Dressing Table &amp; Mirror">Alsace Dressing Table &amp; Mirror.</a></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>antique bedside</s:tag>
+    <s:tag>timber bedside</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8095324537068</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>452775</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8095325290732</id>
+    <published>2023-12-05T09:31:44+08:00</published>
+    <updated>2023-12-05T09:31:44+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/alsace-dressing-table-mirror-rustic-oak"/>
+    <title>Alsace Dressing Table &amp; Mirror - Rustic Oak</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/AlsaceDTM.jpg?v=1701739888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Channelling the rustic allure of French Country, the Alsace Dressing Table and Mirror perfectly complements the <a href="https://thefurnituregallery.com.au/products/alsace-bed?_pos=1&amp;_sid=b3b6f4146&amp;_ss=r" title="Alsace Bed">Alsace Bed</a> and Alsace <a href="https://thefurnituregallery.com.au/products/alsace-night-stand?_pos=2&amp;_sid=b3b6f4146&amp;_ss=r" title="Alsace Nightstand">Nightstand</a>.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>antique dressing table</s:tag>
+    <s:tag>dressing table and mirror</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>timber dressing table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8095325290732</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1899.00</s:price>
+      <s:sku>452777P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8095324274924</id>
+    <published>2023-12-05T09:27:27+08:00</published>
+    <updated>2023-12-05T09:27:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/alsace-bed"/>
+    <title>Alsace Bed - Rustic Oak</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/AlsaceKingBed.jpg?v=1701740002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1999.00 - 2299.00
+            <a href="https://thefurnituregallery.com.au/products/alsace-bed">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Alsace is an exquisite French provincial style bed boasting a tall, arched headboard in upholstered linen, harmonizing with a rustic oak timber bedframe to exude timeless elegance.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french provincial</s:tag>
+    <s:tag>king bed</s:tag>
+    <s:tag>neutral bed</s:tag>
+    <s:tag>queen bed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8095324274924</id>
+      <title>Queen</title>
+      <s:price currency="AUD">1999.00</s:price>
+      <s:sku>452781</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8095324274924</id>
+      <title>King</title>
+      <s:price currency="AUD">2299.00</s:price>
+      <s:sku>452782</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8016139976940</id>
+    <published>2023-11-24T09:19:36+08:00</published>
+    <updated>2023-11-24T09:19:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/edison-bed-silver-velvet"/>
+    <title>Edison Bed - Silver Velvet</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/EdisonKingBed-silver.jpg?v=1697156261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1199.00 - 1499.00
+            <a href="https://thefurnituregallery.com.au/products/edison-bed-silver-velvet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Infuse your bedroom with opulent charm with this silver velvet bed featuring a stunning panelled headboard, inviting luxurious comfort and a striking focal point to your space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>grey velvet</s:tag>
+    <s:tag>velvet bed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8016139976940</id>
+      <title>Queen</title>
+      <s:price currency="AUD">1199.00</s:price>
+      <s:sku>452729</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8016139976940</id>
+      <title>King</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>452728</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8016142696684</id>
+    <published>2023-11-24T09:18:33+08:00</published>
+    <updated>2023-11-24T09:18:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/edison-bed-blue-velvet"/>
+    <title>Edison Bed - Blue Velvet</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/EdisonKingBed-blue.jpg?v=1697156203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            899.00 - 999.00
+            <a href="https://thefurnituregallery.com.au/products/edison-bed-blue-velvet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Infuse your bedroom with opulent charm and vibrant flair with this bright blue velvet bed featuring a stunning panelled headboard, inviting luxurious comfort and a striking focal point to your space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>grey velvet</s:tag>
+    <s:tag>velvet bed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8016142696684</id>
+      <title>Queen</title>
+      <s:price currency="AUD">899.00</s:price>
+      <s:sku>452727</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8016142696684</id>
+      <title>King</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>452726</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8047475753196</id>
+    <published>2023-10-25T08:05:30+08:00</published>
+    <updated>2023-10-25T08:05:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-wentworth-elite-4-piece-bedroom-suite-with-dressing-table-mirror"/>
+    <title>Wentworth Elite 4 Piece Bedroom Suite with Dressing Table &amp; Mirror</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Wentworth4PiceBedroomSuitewithDTM_4eccc473-9061-433f-a3c1-2ece26002ade.jpg?v=1698188850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            3396.00 - 3696.00
+            <a href="https://thefurnituregallery.com.au/products/copy-of-wentworth-elite-4-piece-bedroom-suite-with-dressing-table-mirror">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p>Crafted by artisans from top grade hardwood, known for its resilience, and finished in brilliant white - the Wentworth Elite 4 Piece Bedroom Suite is a beautiful choice for a <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>, Hamptons or cottage quaint bedroom look. </p>
+<p><meta charset="utf-8"><span>Includes 1 x Queen</span><a href="https://thefurnituregallery.com.au/products/portland-king-bed-1"> Bed</a>/King Bed<span>, 2 x </span><a href="https://thefurnituregallery.com.au/collections/bedsides">Bedsides</a><span> and 1 x </span><a href="https://thefurnituregallery.com.au/collections/dressing-tables">Dressing Table &amp; Mirror</a><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bed drawer</s:tag>
+    <s:tag>storage bed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8047475753196</id>
+      <title>Queen</title>
+      <s:price currency="AUD">3396.00</s:price>
+      <s:sku>451138L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8047475753196</id>
+      <title>KIng</title>
+      <s:price currency="AUD">3696.00</s:price>
+      <s:sku>451139L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8047467954412</id>
+    <published>2023-10-25T08:04:36+08:00</published>
+    <updated>2023-10-25T08:04:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-wentworth-elite-3-piece-bedroom-suite"/>
+    <title>Wentworth Elite 3 Piece Bedroom Suite</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Wentworth3PiceBedroomSuitewithDTM_706dff7b-9f10-4f07-99da-263cd07c44e0.jpg?v=1698188743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            2297.00 - 2597.00
+            <a href="https://thefurnituregallery.com.au/products/copy-of-wentworth-elite-3-piece-bedroom-suite">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p>Crafted by artisans from top grade hardwood, known for its resilience, and finished in brilliant white - the Wentworth Elite 3 Piece Bedroom Suite is a beautiful choice for a <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>, Hamptons or cottage quaint bedroom look. </p>
+<p><meta charset="utf-8"><span></span><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Includes 1 x </span><a href="https://thefurnituregallery.com.au/products/giselle-bed" style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Queen Bed</a>/King Bed<span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;"> and 2 x </span><a href="https://thefurnituregallery.com.au/collections/bedsides" style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Bedsides.</a><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bed drawer</s:tag>
+    <s:tag>storage bed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8047467954412</id>
+      <title>Queen</title>
+      <s:price currency="AUD">2297.00</s:price>
+      <s:sku>451138S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8047467954412</id>
+      <title>King</title>
+      <s:price currency="AUD">2597.00</s:price>
+      <s:sku>451139S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8047337308396</id>
+    <published>2023-10-25T07:04:06+08:00</published>
+    <updated>2023-10-25T07:04:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-wentworth-elite-4-piece-bedroom-suite-with-chest-1"/>
+    <title>Wentworth Elite 4 Piece Bedroom Suite with Chest</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/61230fda866ed204d4ebbd2a_Wentworth_20Queen_20Bedroom_20Suite_643914d3-abbe-46eb-acfe-2cc1878aa220.jpg?v=1698186251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            2996.00 - 3296.00
+            <a href="https://thefurnituregallery.com.au/products/copy-of-wentworth-elite-4-piece-bedroom-suite-with-chest-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafted by artisans from top grade hardwood, known for its resilience, and finished in brilliant white - the Wentworth Elite 4 Piece Bedroom Suite is a beautiful choice for a <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>, Hamptons or cottage quaint bedroom look. </p>
+<p><meta charset="utf-8"><span></span><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Includes 1 x </span><a href="https://thefurnituregallery.com.au/products/giselle-bed" style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Queen Bed</a>/King Bed<span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">, 2 x </span><a href="https://thefurnituregallery.com.au/collections/bedsides" style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Bedsides</a><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;"> and 1 x </span><a href="https://thefurnituregallery.com.au/collections/chests" style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Chest</a><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">.</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>bed drawer</s:tag>
+    <s:tag>storage bed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8047337308396</id>
+      <title>Queen</title>
+      <s:price currency="AUD">2996.00</s:price>
+      <s:sku>451138P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8047337308396</id>
+      <title>King</title>
+      <s:price currency="AUD">3296.00</s:price>
+      <s:sku>451139P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8012490146028</id>
+    <published>2023-09-22T13:31:30+08:00</published>
+    <updated>2023-09-22T13:31:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/valonz-bed"/>
+    <title>Valonz Bed</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ValonzKingBed.jpg?v=1697496400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            899.00 - 1199.00
+            <a href="https://thefurnituregallery.com.au/products/valonz-bed">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">The Valonz exudes contemporary chic with its relaxed exposed seam headboard. A true blank canvas, you can keep the look neutral and minimalistic or add colourful, textured cushions.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>upholstered</s:tag>
+    <s:tag>upholstered bed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8012490146028</id>
+      <title>Queen</title>
+      <s:price currency="AUD">899.00</s:price>
+      <s:sku>452713</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8012490146028</id>
+      <title>King</title>
+      <s:price currency="AUD">1199.00</s:price>
+      <s:sku>452714</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970179842284</id>
+    <published>2023-09-20T08:01:02+08:00</published>
+    <updated>2023-09-20T08:01:02+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/colorado-bed-with-drawers"/>
+    <title>Colorado Bed with Two Sliding Drawers</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/coloradobedstyled2.jpg?v=1710203988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1899.00 - 2199.00
+            <a href="https://thefurnituregallery.com.au/products/colorado-bed-with-drawers">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Experience rustic elegance with the Colorado Bed, meticulously crafted from acacia wood and designed with convenient underbed drawers - adorned with country-inspired steel metal handles - for a harmonious blend of charm and functionality.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bed drawer</s:tag>
+    <s:tag>king bed</s:tag>
+    <s:tag>queen bed</s:tag>
+    <s:tag>storage bed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970179842284</id>
+      <title>Queen</title>
+      <s:price currency="AUD">1899.00</s:price>
+      <s:sku>452475</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970179842284</id>
+      <title>King</title>
+      <s:price currency="AUD">2199.00</s:price>
+      <s:sku>452476</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

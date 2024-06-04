@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/last-chance.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-03-19T08:58:21+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8249112330476</id>
+    <published>2024-03-19T08:58:21+08:00</published>
+    <updated>2024-03-19T08:58:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/brighton-sideboard"/>
+    <title>Brighton Sideboard</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/brighton_sideboard_custom_resized.jpg?v=1710799201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Evoke a sense of coastal tranquillity with the oak Brighton Sideboard.  Harmonizing natural textures and classic design.  </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>rattan</s:tag>
+    <s:tag>sideboard</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8249112330476</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>445643</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8116122321132</id>
+    <published>2024-01-19T12:47:31+08:00</published>
+    <updated>2024-01-19T12:47:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/arwana-sideboard"/>
+    <title>Arwana Sideboard</title>
+    <s:type>Dining;Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ArwanaSideboard.jpg?v=1702598432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining;Living<br>
+        <strong>Price: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Arwana Sideboard features beautiful Teak timber.  With black contrasting features, including an open shelf. This sideboard imbues a modern classic style.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>sideboard</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8116122321132</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1999.00</s:price>
+      <s:sku>403803</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7960676860140</id>
+    <published>2023-09-20T10:34:25+08:00</published>
+    <updated>2023-09-20T10:34:25+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/navone-6-piece-suite-encore-caviar"/>
+    <title>Navone 6 Piece Modular WITH Ottoman - Encore Caviar</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Navone6piecemodular-SeoulOptical.jpg?v=1694667641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            6199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span>A stunning replica of acclaimed Italian designer Paola Navone’s iconic lounge, the Navone 6 Piece Modular in <strong>Encore Caviar</strong> offers casual yet refined seating that reflects her contemporary ethos. With plush goose feathers encased in a soft fabric, the sofa’s deep, low silhouette invites you to relax.</span></p>
+<p data-mce-fragment="1">This bundle is comprised of 1x Left Side Arm, 2x armless, 1x corner, 1x Right Side Arm and 1x Ottoman.  *<strong>Please note, this particular Navone modular bundle is available only in Encore Caviar NOT the white as pictured (see swatch image for Encore Caviar).</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>feather cushion</s:tag>
+    <s:tag>feather sofa</s:tag>
+    <s:tag>modular</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7960676860140</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">6199.00</s:price>
+      <s:sku>448944P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7915961549036</id>
+    <published>2023-09-06T09:29:14+08:00</published>
+    <updated>2023-09-06T09:29:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cambridge-dining-chair"/>
+    <title>Cambridge Dining Chair</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Cambridgechairnotable.jpg?v=1693963769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A classic, comfortable dining chair upholstered in charcoal fabric with contrasting timber legs.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>upholstered dining chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7915961549036</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">199.00</s:price>
+      <s:sku>450981</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7856658809068</id>
+    <published>2023-07-19T12:18:59+08:00</published>
+    <updated>2023-07-19T12:18:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/spencer-3-seater"/>
+    <title>Spencer 3 Seater - Natural</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/Spencer3strSofa-natural-resize.jpg?v=1672715997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1099.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Exposed seams and a natural beige fabric give the <a href="https://thefurnituregallery.com.au/collections/sofas" target="_blank">Spencer</a> a cool modern look. Keep the theme neutral or play with pops of colour.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3 seater sofa</s:tag>
+    <s:tag>neutral sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7856658809068</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1099.00</s:price>
+      <s:sku>451230</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7890211504364</id>
+    <published>2023-06-19T10:49:00+08:00</published>
+    <updated>2023-06-19T10:49:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/triboa-console"/>
+    <title>Triboa Console</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/TriboaConsole.jpg?v=1678251288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            219.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7890211504364</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">219.00</s:price>
+      <s:sku>444016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7935848874220</id>
+    <published>2023-06-16T09:02:33+08:00</published>
+    <updated>2023-06-16T09:02:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/townser-home-office-desk"/>
+    <title>Townser Home Office Desk</title>
+    <s:type>Office</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/TownserHomeOfficeDesk-styled.jpg?v=1686877082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Office<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Inspired by the timeless appeal, the Townser <a href="https://thefurnituregallery.com.au/collections/desks">home office desk</a> revisits tradition in style. Rough milled pine wood is naturally textured and enhanced by a deep finish with grey undertones. Planked surface infuses an element of rustic refinement. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>classic style</s:tag>
+    <s:tag>dark wood desk</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7935848874220</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>441877</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7914528702700</id>
+    <published>2023-05-16T13:39:36+08:00</published>
+    <updated>2023-05-16T13:39:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/beckham-coffee-table-black"/>
+    <title>Beckam Coffee Table - Black</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/FT.079.BK-BeckhamCoffeeTableblkwb.jpg?v=1682391776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>round coffee table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7914528702700</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">499.00</s:price>
+      <s:sku>452413</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7917079068908</id>
+    <published>2023-05-02T07:11:18+08:00</published>
+    <updated>2023-05-02T07:11:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/odyssey-dining-chair"/>
+    <title>Odyssey Dining Chair</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/403137_WB_OdysseyDiningChairfront.jpg?v=1682980602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Complete your dining room decor with this simple, comfortable dining chair.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7917079068908</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">299.00</s:price>
+      <s:sku>403137</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7868136161516</id>
+    <published>2023-02-01T13:46:42+08:00</published>
+    <updated>2023-02-01T13:46:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/milan-armchair-natural"/>
+    <title>Milan Armchair - Natural</title>
+    <s:type>Living;Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/DDMILANRN001_Milan_Chair_Riva_Natural_B.jpg?v=1674607210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living;Bedroom<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The Milan Armchair features a beautiful neutral toned upholstery and gold frame.  A modern take on traditional style.</span></p>
+<div class="ProductMeta__Description">
+<div class="Rte">
+<p><meta charset="utf-8"> </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent chair</s:tag>
+    <s:tag>contemporary</s:tag>
+    <s:tag>cream</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7868136161516</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>447524</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840719765740</id>
+    <published>2022-12-06T12:25:15+08:00</published>
+    <updated>2022-12-06T12:25:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ascari-coffee-table"/>
+    <title>Ascari Coffee Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/AscariCoffeeTableRectangle.jpg?v=1670294322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LAST CHANCE! ONLY ONE LEFT.  CLICK ON BUY IN STORE BUTTON TO LOCATE.</p>
+<p>Crafted from beautiful WA <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">Marri timber</a>, the Ascari <a href="https://thefurnituregallery.com.au/collections/coffee-tables">Coffee Table</a> features a clean, simple design.</p>
+<p><meta charset="utf-8"><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>country style</s:tag>
+    <s:tag>solid timber</s:tag>
+    <s:tag>timber table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840719765740</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>406540A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7838843994348</id>
+    <published>2022-12-02T23:28:23+08:00</published>
+    <updated>2022-12-02T23:28:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/artia-mirrored-console"/>
+    <title>Artia Mirrored Console</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/62d8e452426f59f6e1e79491_Artia_20Console_20_2B_20Poppy_20Chair_177c5c3e-acae-4040-a6ca-30aaeb6c1dca.jpg?v=1669994904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"The stunning Artia Mirrored Console features a solid wood frame, crystal-like handles and a mirror panelled design to inject old Hollywood glam into your interior."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">The stunning Artia Mirrored <a href="https://thefurnituregallery.com.au/collections/consoles-sideboards">Console</a> features a solid wood frame, crystal-like handles and a <a href="https://thefurnituregallery.com.au/products/cutler-mirrored-console">mirror</a> panelled design to inject old Hollywood glam into your interior.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7838843994348</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>405936</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833296077036</id>
+    <published>2022-11-28T13:13:13+08:00</published>
+    <updated>2022-11-28T13:13:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/aster"/>
+    <title>Aster</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/aster_9b377758-1411-461b-b932-3248ead8a568.jpg?v=1709271836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            809.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">A stunning abstract print in vivid blue, the Aster will complement any contemporary interior and inject a pop of colour. Finished with glass overlay and a black gloss frame.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>modern art</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833296077036</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">809.10</s:price>
+      <s:sku>451082</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

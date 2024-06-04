@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/mattresses.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2023-04-26T12:07:34+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7914814603500</id>
+    <published>2023-04-26T12:07:34+08:00</published>
+    <updated>2023-04-26T12:07:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/shangri-la-mattress"/>
+    <title>Shangri LA Mattress</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ShangriLAmatress.jpg?v=1682478319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1499.00 - 3299.00
+            <a href="https://thefurnituregallery.com.au/products/shangri-la-mattress">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">The Shangri La is the first of its kind in Australia. Its features include:</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">- the highest quality <i data-mce-fragment="1">dual</i> <i data-mce-fragment="1">pocket spring</i> system at the base</span></p>
+<p data-mce-fragment="1"><span class="s2" data-mce-fragment="1"><i data-mce-fragment="1">- 70mm</i> layer of <i data-mce-fragment="1">memory foam</i> – the kind developed by NASA - which adapts, conforms to and evenly distributes the weight of your body. This relieves pressure and provides excellent spinal support and minimisation of partner disturbance through <i data-mce-fragment="1">motion absorption</i>. </span></p>
+<p data-mce-fragment="1"><span class="s2" data-mce-fragment="1">- a</span><span class="s2" data-mce-fragment="1"> soft pillowtop which removes via a simple interlocking zip system, allowing you to sleep directly<i data-mce-fragment="1"> on</i> the specially engineered <i data-mce-fragment="1">Cool Gel Pad</i> and thereby achieve the maximum possible reduction in temperature. It encourages proper circulation and dissipation of hot air, as well as creating a gentle massaging effect to provide relief from aching muscles and pressure sores.</span> Scientists and sleep researchers recognise the importance of this process of cooling in preparing your body for each of the critical stages of sleep and enabling recuperative, restorative rest. </p>
+<div class="product_desc" data-mce-fragment="1">
+<ul></ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Double Mattress</s:tag>
+    <s:tag>King mattress</s:tag>
+    <s:tag>latex mattress</s:tag>
+    <s:tag>memory foam mattress</s:tag>
+    <s:tag>queen mattress</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7914814603500</id>
+      <title>Queen / Firm</title>
+      <s:price currency="AUD">2799.00</s:price>
+      <s:sku>124483</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7914814603500</id>
+      <title>Queen / Medium</title>
+      <s:price currency="AUD">2499.00</s:price>
+      <s:sku>124483M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7914814603500</id>
+      <title>King / Firm</title>
+      <s:price currency="AUD">3299.00</s:price>
+      <s:sku>124484</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7914814603500</id>
+      <title>King / Medium</title>
+      <s:price currency="AUD">2999.00</s:price>
+      <s:sku>124484M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7914814603500</id>
+      <title>Double / Medium</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>124483MD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7914826170604</id>
+    <published>2023-04-26T12:06:38+08:00</published>
+    <updated>2023-04-26T12:06:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/utopia-mattress"/>
+    <title>Utopia Mattress</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/UtopiaMattress.jpg?v=1682479274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1599.00 - 1999.00
+            <a href="https://thefurnituregallery.com.au/products/utopia-mattress">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Utopia is a sensational mattress that offers superb comfort, featuring:<meta charset="utf-8">
+<ul type="disc" data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">A convoluted foam topper which compared to a flat foam mattress topper, the responsive structure of convoluted foam toppers provide good weight distribution. The peaks and dips present within the egg-crate shape help reduce pressure on shoulders and hips, making them an excellent, supportive solution for side sleepers.</span></li>
+<li data-mce-fragment="1">
+<span data-mce-fragment="1">30mm cool gel <b data-mce-fragment="1">swirled</b> (not infused) into the memory foam and designed to minimise partner disturbance and regulate body temperature. The </span>memory foam will contour your body shape and massage your pressure points</li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Medium gauge coils for added support and comfort.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King mattress</s:tag>
+    <s:tag>queen mattress</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7914826170604</id>
+      <title>Queen</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>124483P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7914826170604</id>
+      <title>King</title>
+      <s:price currency="AUD">1999.00</s:price>
+      <s:sku>124484P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7848274690284</id>
+    <published>2022-12-19T14:16:43+08:00</published>
+    <updated>2022-12-19T14:16:43+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/sapphire-mattress"/>
+    <title>Sapphire Mattress</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/sapphirematt.jpg?v=1671430925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1299.00 - 1599.00
+            <a href="https://thefurnituregallery.com.au/products/sapphire-mattress">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Get a superior night's rest with the Sapphire <a href="https://thefurnituregallery.com.au/collections/mattresses">Mattress</a>, featuring a handmade continuous pocket coil spring system and 30mm of cool gel <a href="https://thefurnituregallery.com.au/products/plush-memory-foam-mattress-queen">memory foam</a>.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7848274690284</id>
+      <title>King</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>259654</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7848274690284</id>
+      <title>Queen</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>259653</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833304793324</id>
+    <published>2022-11-28T13:17:59+08:00</published>
+    <updated>2022-11-28T13:17:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/plush-memory-foam-mattress-queen"/>
+    <title>Plush Memory Foam Mattress - Queen</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/62b27c5461a2f0af148e1634_Plush_20Memory_20foam_20Pocket_20Spring_20Pillowtop_20-_20Queen..jpg?v=1669612679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Plush <a href="https://thefurnituregallery.com.au/collections/mattresses">Memory Foam Mattress</a> features a 10mm layer of Gel Memory Foam to maximise support and comfort. Includes a <meta charset="utf-8">5 Year Warranty.<br> • Additional 30mm High Quality Medium Density Foam to enhance comfort<br> • Zoned Back Support<br> • Edge Support<br> • High Quality Pocket Spring Unit to minimise partner disturbance</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833304793324</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>259596</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833304662252</id>
+    <published>2022-11-28T13:17:53+08:00</published>
+    <updated>2022-11-28T13:17:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/performance-mattress-queen"/>
+    <title>Performance Mattress - Queen</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/62b27e4a1a32f3a10c10c18d_Performance_20Pocket_20Spring_20Pillowtop_20-_20Queen..jpg?v=1669612673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A superb quality <a href="https://thefurnituregallery.com.au/collections/mattresses">mattress</a> featuring 35mm Wave Foam for additional comfort, complete with a 5 Year Warranty.<br> • Zoned Back Support<br> • High Quality Pocket Spring Unit to minimise partner disturbance</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833304662252</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">499.00</s:price>
+      <s:sku>259595</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833298567404</id>
+    <published>2022-11-28T13:14:38+08:00</published>
+    <updated>2022-11-28T13:14:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/comfort-deluxe-memory-foam-mattress"/>
+    <title>Comfort Deluxe Memory Foam Mattress</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/62b28042527a9447cf308481_Comfort_20Deluxe_20Pocket_20Spring_20Pillowtop_20Mattress._865a1015-1dad-48b5-8296-24d8d3ad63e5.jpg?v=1669615453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            799.00 - 999.00
+            <a href="https://thefurnituregallery.com.au/products/comfort-deluxe-memory-foam-mattress">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Featuring a 60mm Pillowtop which incudes 30mm of Cool Gel Memory Foam, the Comfort Deluxe <a href="https://thefurnituregallery.com.au/collections/mattresses">Memory Foam Mattress</a> comes with a 10 Year Warranty due to its incredible quality. Also features:<br> • Centre Third Zoning<br> • Edge Support<br> • High Quality Pocket Spring Unit to minimise partner disturbance</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833298567404</id>
+      <title>King</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>259608</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833298567404</id>
+      <title>Double</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>259606</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833298567404</id>
+      <title>Queen</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>259607</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/corner-lounges.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-05-31T11:28:32+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8488623997164</id>
+    <published>2024-05-31T11:28:32+08:00</published>
+    <updated>2024-05-31T11:28:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/axel-4-seater-with-ottoman"/>
+    <title>Axel Full Modular Lounge - Grey Gum</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Axel4SeaterwithOttomanstyled.jpg?v=1717125480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3497.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1"><span>Introducing the Axel Full Modular Lounge, the ultimate spacious lounge for families - with plenty of room for everyone. Comfortable, chic and versatile, this lounge features separate modular pieces that allow you to customise your seating arrangement, so you can create the perfect layout for your space and lifestyle. Each modular piece features extra wide seating, enabling more people to fit onto the lounge and giving it a luxurious feel. </span></span></p>
+<p><span data-mce-fragment="1"><span>This configuration features:</span></span><span data-mce-fragment="1"><span></span></span></p>
+<ul type="disc">
+<li class="x_MsoListParagraph"><span>1 x 1.5 Seater with Left Armrest</span></li>
+<li class="x_MsoListParagraph"><span>1 x Armless piece</span></li>
+<li class="x_MsoListParagraph"><span>1 x Ottoman</span></li>
+<li class="x_MsoListParagraph"><span>1 x Corner Seat</span></li>
+<li class="x_MsoListParagraph"><span>1 x 1.5 Seater with Right Terminal</span></li>
+</ul>
+<p><span data-mce-fragment="1">More colours available exclusively in store.</span><span data-mce-fragment="1"> </span></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>large family lounge</s:tag>
+    <s:tag>modular</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8488623997164</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3497.00</s:price>
+      <s:sku>409025</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8306716279020</id>
+    <published>2024-04-12T08:52:49+08:00</published>
+    <updated>2024-04-12T08:52:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/callista-corner-suite-with-chaise"/>
+    <title>Callista Corner Suite with Chaise</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Callista_Corner_Suite_RHS_styled_f90904fe-b1bd-4ada-8f5f-919d02a2292f.jpg?v=1712727504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Callista Corner Suite with Chaise features sleek lines and a modern design, an ideal addition to any contemporary living space. With reversible seat cushions for added versatility and four throw cushions included for extra comfort and style.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>corner lounge</s:tag>
+    <s:tag>grey corner lounge</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8306716279020</id>
+      <title>RHS</title>
+      <s:price currency="AUD">2699.00</s:price>
+      <s:sku>408941</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8306716279020</id>
+      <title>LHS</title>
+      <s:price currency="AUD">2699.00</s:price>
+      <s:sku>410007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8118559015148</id>
+    <published>2024-01-30T11:13:41+08:00</published>
+    <updated>2024-01-30T11:13:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/monaco-6-seater-corner-suite-denim"/>
+    <title>Monaco 6 Seater  - Denim</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/monaco6seater-denim.jpg?v=1706584241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Upholstered in a WATERPROOF fabric, the </span><a href="https://thefurnituregallery.com.au/products/monaco-5-piece-corner-lounge" data-mce-fragment="1" data-mce-href="https://thefurnituregallery.com.au/products/monaco-5-piece-corner-lounge">Monaco</a><span data-mce-fragment="1"> is a classic </span><a href="https://thefurnituregallery.com.au/collections/sofas" data-mce-fragment="1" data-mce-href="https://thefurnituregallery.com.au/collections/sofas">sofa</a><span data-mce-fragment="1"> that seamlessly blends into any interior, with a versatile colour that offers endless styling potential. Its modern, elegant form is complemented by extra wide seating, featuring a combination of high-density foam and goose feathers for incredible comfort. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>corner lounge</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8118559015148</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3799.00</s:price>
+      <s:sku>450848</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8128083493100</id>
+    <published>2024-01-24T16:20:07+08:00</published>
+    <updated>2024-01-24T16:20:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/mornington-modular-family-suite"/>
+    <title>Mornington Modular - Family Suite</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Mornington-Modular-with-Ottoman.jpg?v=1704506893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            6289.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Featuring premium goose feather filled cushions, the Mornington Modular has slender track arms and is upholstered in a serene shade of grey. As a true modular, the Mornington features 5 unique pieces that can be arranged in almost endless combinations to suit your space.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">This bundle includes 1x Right arm, 1x Left Arm, 1x Corner, 3x Armless and an Ottoman.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>modular</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8128083493100</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">6289.00</s:price>
+      <s:sku>409008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8128082936044</id>
+    <published>2024-01-24T14:42:11+08:00</published>
+    <updated>2024-01-24T14:42:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/mornington-modular-u-shaped-lounge"/>
+    <title>Mornington Modular -  U Shaped Lounge</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Mornington-Modular-Setup-4.jpg?v=1704506872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            7384.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Featuring premium goose feather filled cushions, the Mornington Modular has slender track arms and is upholstered in a serene shade of grey. As a true modular, the Mornington features 5 unique pieces that can be arranged in almost endless combinations to suit your space. Features a</span><span data-mce-fragment="1"> solid beech wood frame.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"></span><span data-mce-fragment="1">This bundle includes 1x Right Arm, 1x Left Arm, 4x Armless and 2x Corner pieces (as pictured in first photo.) </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>modular</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8128082936044</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">7384.00</s:price>
+      <s:sku>409009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8113786192108</id>
+    <published>2023-12-12T09:34:42+08:00</published>
+    <updated>2023-12-12T09:34:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-corner-lounge"/>
+    <title>Cloud - Corner Lounge</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CloudModularSetup8_e3479a90-bce3-4ea0-a244-e370ec0a20df.jpg?v=1702341771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            5745.00 - 10770.00
+            <a href="https://thefurnituregallery.com.au/products/cloud-corner-lounge">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">The ultimate sofa - 100% goose feather filled cushions encased in your choice of soft linen or supple cognac leather, and 3 separate modular pieces (corner, armless and ottoman) allowing endless configurations for your space. The Cloud offers unparalleled comfort and comes with a comprehensive lifetime warranty, due to its outstanding craftsmanship. *Scatter cushions included ONLY with FABRIC Cloud Modular not LEATHER.  </span></p>
+<p><span data-mce-fragment="1"><meta charset="utf-8">More colours available exclusively in store.</span></p>
+<p><span data-mce-fragment="1">This bundle is comprised of 3x corner pieces and 2x armless pieces.</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>cloud</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113786192108</id>
+      <title>Optical White</title>
+      <s:price currency="AUD">5745.00</s:price>
+      <s:sku>408991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113786192108</id>
+      <title>Cognac Leather</title>
+      <s:price currency="AUD">10770.00</s:price>
+      <s:sku>408997</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8113788682476</id>
+    <published>2023-12-12T09:26:47+08:00</published>
+    <updated>2023-12-12T09:26:47+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-u-shaped-lounge"/>
+    <title>Cloud - U Shaped Lounge</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CloudModularSetup1_6fa24c18-0e52-4655-9c26-3ceba2c4bc4a.jpg?v=1702341874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            5630.00 - 10505.00
+            <a href="https://thefurnituregallery.com.au/products/cloud-u-shaped-lounge">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The ultimate sofa - 100% goose feather filled cushions encased in your choice of soft linen or supple cognac leather, and 3 separate modular pieces (corner, armless and ottoman) allowing endless configurations for your space. The Cloud offers unparalleled comfort and comes with a comprehensive lifetime warranty, due to its outstanding craftsmanship. *Scatter cushions included ONLY with FABRIC Cloud Modular not LEATHER.   </span></p>
+<p><meta charset="utf-8"><span data-mce-fragment="1">More colours available exclusively in store.</span><span data-mce-fragment="1"> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>cloud</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113788682476</id>
+      <title>Optical White</title>
+      <s:price currency="AUD">5630.00</s:price>
+      <s:sku>408992</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113788682476</id>
+      <title>Cognac Leather</title>
+      <s:price currency="AUD">10505.00</s:price>
+      <s:sku>408998</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8113796382956</id>
+    <published>2023-12-12T09:24:32+08:00</published>
+    <updated>2023-12-12T09:24:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-family-suite-1"/>
+    <title>Cloud - Family Suite</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CloudModularSetup9_7360eef7-f35b-4cd1-9588-093a1c2e398b.jpg?v=1702342219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            6499.00 - 11995.00
+            <a href="https://thefurnituregallery.com.au/products/cloud-family-suite-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">The ultimate sofa - 100% goose feather filled cushions encased in your choice of soft linen or supple cognac leather, and 3 separate modular pieces (corner, armless and ottoman) allowing endless configurations for your space. The Cloud offers unparalleled comfort and comes with a comprehensive lifetime warranty, due to its outstanding craftsmanship. *Scatter cushions included ONLY with FABRIC Cloud Modular not LEATHER.  </span></p>
+<p><span data-mce-fragment="1"><meta charset="utf-8">More colours available exclusively in store.</span> </p>
+<p>This bundle is comprised of 2x corner pieces, 3x armless pieces and 1x ottoman.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>cloud</s:tag>
+    <s:tag>modular</s:tag>
+    <s:tag>Modular leather sofa</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113796382956</id>
+      <title>Optical White</title>
+      <s:price currency="AUD">6499.00</s:price>
+      <s:sku>408993</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8113796382956</id>
+      <title>Cognac Leather</title>
+      <s:price currency="AUD">11995.00</s:price>
+      <s:sku>408999</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8090885619948</id>
+    <published>2023-11-17T10:33:35+08:00</published>
+    <updated>2023-11-17T10:33:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-power-recliner-family-suite-with-ottoman-opulence-optical"/>
+    <title>Cloud Power Recliner Family Suite with Ottoman - Opulence Optical</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CloudPowerReclinerFamilySuitewithOttomantoday_b065e4f1-fe69-4ee4-9add-94122548059b.jpg?v=1700184203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            10095.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-pm-slice="1 1 []" dir="auto" data-mce-fragment="1">Experience the ultimate in luxury and comfort with the Cloud Power Recliner Corner Suite with Ottoman. Upholstered in "Opulence" fabric, designed to provide the highest grade of stain resistance. With power recliners, ottoman and a convenient console for storage, elevate your living space with this exquisite lounge suite that seamlessly combines style and comfort.</p>
+<p data-pm-slice="1 1 []" dir="auto" data-mce-fragment="1"><span data-mce-fragment="1">This bundle consists of 1 x left recliner, 1 x right recliner, 2 x armless recliners, 1 x corner piece, 1 x console and 1 x ottoman.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>electric recliner</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>modular</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8090885619948</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">10095.00</s:price>
+      <s:sku>452741O</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8090864550124</id>
+    <published>2023-11-17T09:46:32+08:00</published>
+    <updated>2023-11-17T09:46:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-power-recliner-corner-suite-opulence-optical"/>
+    <title>Cloud Power Recliner Corner Suite - Opulence Optical</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CloudPowerReclinerCornerSuite.jpg?v=1700183496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            7897.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Experience the ultimate in luxury and comfort with the Cloud Power Recliner Corner Suite. Upholstered in "Opulence" fabric, designed to provide the highest grade of stain resistance. With power recliners and a convenient console for storage, elevate your living space with this exquisite lounge suite that seamlessly combines style and comfort.</span></p>
+<p><span data-mce-fragment="1">This bundle consists of 1 x left recliner, 1 x right recliner, 2 x armless recliners, 1 x corner piece and 1 x console.﻿</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>electric recliner</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>modular</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8090864550124</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">7897.00</s:price>
+      <s:sku>452741C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7991480582380</id>
+    <published>2023-10-23T08:37:45+08:00</published>
+    <updated>2023-10-23T08:37:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/luna-large-modular-with-right-chaise-playful-optical"/>
+    <title>Luna Large Corner Suite with Right Chaise - Playful Optical</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/LunaModular1-styled.jpg?v=1709791148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            7199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="ProductMeta__Description" data-mce-fragment="1">
+<div class="Rte" data-mce-fragment="1"><strong>Please note: Ottoman pictured in-situ photo is purchased separately - available <a title="Luna Ottoman - Playful Optical" href="https://thefurnituregallery.com.au/products/luna-ottoman?_pos=2&amp;_sid=1a02d9ba7&amp;_ss=r"><span style="text-decoration: underline;">here</span></a>.</strong></div>
+<div class="Rte" data-mce-fragment="1"><strong></strong></div>
+<div class="Rte" data-mce-fragment="1">
+<span data-mce-fragment="1">Filled with goose feathers and featuring latex core reversible cushions for superb comfort, the Luna is the effortless sofa that's made to last <meta charset="utf-8">(10 year seating warranty, 10 year frame warranty). Low maintenance and easy to keep clean, the slip covers are removable, waterproof and machine washable. </span><span data-mce-fragment="1">The Luna is upholstered in a hardwearing, durable fabric that looks as luxurious as it feels. </span>This is the dream sofa.</div>
+<div class="Rte" data-mce-fragment="1"><br></div>
+<div class="Rte" data-mce-fragment="1"><br></div>
+<div class="Rte" data-mce-fragment="1"><br></div>
+<div class="Rte" data-mce-fragment="1">
+<meta charset="utf-8">
+<p><br></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chaise lounge</s:tag>
+    <s:tag>hamptons lounge</s:tag>
+    <s:tag>hamptons sofa</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>white fabric sofa</s:tag>
+    <s:tag>white lounge</s:tag>
+    <s:tag>white sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7991480582380</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">7199.00</s:price>
+      <s:sku>452772M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7960676860140</id>
+    <published>2023-09-20T10:34:25+08:00</published>
+    <updated>2023-09-20T10:34:25+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/navone-6-piece-suite-encore-caviar"/>
+    <title>Navone 6 Piece Modular WITH Ottoman - Encore Caviar</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Navone6piecemodular-SeoulOptical.jpg?v=1694667641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            6199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span>A stunning replica of acclaimed Italian designer Paola Navone’s iconic lounge, the Navone 6 Piece Modular in <strong>Encore Caviar</strong> offers casual yet refined seating that reflects her contemporary ethos. With plush goose feathers encased in a soft fabric, the sofa’s deep, low silhouette invites you to relax.</span></p>
+<p data-mce-fragment="1">This bundle is comprised of 1x Left Side Arm, 2x armless, 1x corner, 1x Right Side Arm and 1x Ottoman.  *<strong>Please note, this particular Navone modular bundle is available only in Encore Caviar NOT the white as pictured (see swatch image for Encore Caviar).</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>feather cushion</s:tag>
+    <s:tag>feather sofa</s:tag>
+    <s:tag>modular</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7960676860140</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">6199.00</s:price>
+      <s:sku>448944P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7997143023852</id>
+    <published>2023-09-11T18:40:58+08:00</published>
+    <updated>2023-09-11T18:40:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/oregon-4-seater"/>
+    <title>Oregon Corner Lounge</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/OregonCornerLounge.jpg?v=1693960143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3089.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cosy and inviting, the <a href="https://thefurnituregallery.com.au/products/monaco-6-piece-corner-lounge">Oregon</a> features minimal detail and a low profile for an understated, versatile look. Exposed seams add a relaxed, modern touch. </p>
+<p><meta charset="utf-8"><strong>This product is available in more colours exclusively in store, for special order.</strong></p>
+<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>comfy couch</s:tag>
+    <s:tag>fabric sofa</s:tag>
+    <s:tag>grey corner lounge</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:tag>sofa with ottoman</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7997143023852</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3089.00</s:price>
+      <s:sku>449128P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7997282582764</id>
+    <published>2023-09-11T18:15:02+08:00</published>
+    <updated>2023-09-11T18:15:02+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/oregon-family-suite"/>
+    <title>Oregon Family Suite</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/OregonFamilySuite.jpg?v=1693975385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cosy and inviting, the <a href="https://thefurnituregallery.com.au/products/monaco-6-piece-corner-lounge">Oregon</a> features minimal detail and a low profile for an understated, versatile look. Exposed seams add a relaxed, modern touch. </p>
+<p><meta charset="utf-8"><strong>This product is available in more colours exclusively in store, for special order.</strong></p>
+<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>comfy couch</s:tag>
+    <s:tag>fabric sofa</s:tag>
+    <s:tag>grey corner lounge</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:tag>sofa with ottoman</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7997282582764</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3900.00</s:price>
+      <s:sku>449128Q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7992910676204</id>
+    <published>2023-09-05T18:17:32+08:00</published>
+    <updated>2023-09-05T18:17:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/oregon-corner-lounge-with-ottoman"/>
+    <title>Oregon Corner Lounge with Ottoman</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/OregonCornerLoungewithOttoman.jpg?v=1693898286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3579.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cosy and inviting, the <a href="https://thefurnituregallery.com.au/products/monaco-6-piece-corner-lounge">Oregon</a> features minimal detail and a low profile for an understated, versatile look. Exposed seams add a relaxed, modern touch. </p>
+<p><meta charset="utf-8"><strong>This product is available in more colours exclusively in store, for special order.</strong></p>
+<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>comfy couch</s:tag>
+    <s:tag>fabric sofa</s:tag>
+    <s:tag>grey corner lounge</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:tag>sofa with ottoman</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7992910676204</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3579.00</s:price>
+      <s:sku>452493L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7934454333676</id>
+    <published>2023-06-13T13:50:05+08:00</published>
+    <updated>2023-06-13T13:50:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-oregon-corner-suite-with-ottoman-pebble"/>
+    <title>Oregon Corner Suite with Ottoman - Pebble</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/OregonSofa-right_57cfb83a-41e6-4001-9fd5-fe8228614d30.jpg?v=1686635494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cosy and inviting, the <a href="https://thefurnituregallery.com.au/products/monaco-6-piece-corner-lounge">Oregon</a> features minimal detail and a low profile for an understated, versatile look. Exposed seams add a relaxed, modern touch. </p>
+<p><meta charset="utf-8"><strong>This product is available in more colours exclusively in store, for special order.</strong></p>
+<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>comfy couch</s:tag>
+    <s:tag>fabric sofa</s:tag>
+    <s:tag>grey corner lounge</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:tag>sofa with ottoman</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7934454333676</id>
+      <title>Left Hand Arm</title>
+      <s:price currency="AUD">2999.00</s:price>
+      <s:sku>449129</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7934454333676</id>
+      <title>Right Hand Arm</title>
+      <s:price currency="AUD">2999.00</s:price>
+      <s:sku>449128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7908107518188</id>
+    <published>2023-05-17T11:28:55+08:00</published>
+    <updated>2023-05-17T11:28:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-modular-cognac-leather"/>
+    <title>Cloud Corner Lounge with Ottoman - Cognac Leather</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/cloud.jpg?v=1681186782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11995.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7908107518188</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">11995.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7856674799852</id>
+    <published>2023-04-19T09:06:23+08:00</published>
+    <updated>2023-04-19T09:06:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/xavier-corner-lounge"/>
+    <title>Xavier 5 Seater Corner Lounge - Stone</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Xavier5SeaterCorner-compressed.jpg?v=1698359256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A fresh, crisp corner lounge that feels relaxed and refined at the same time. Style it with coastal accessories or monochrome décor for an effortless look.</p>
+<p><meta charset="utf-8"><strong>This product is available in more colours exclusively in store, for special order.  *Please note:  scatter cushions not included.  Sold separately.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>comfy couch</s:tag>
+    <s:tag>corner lounge</s:tag>
+    <s:tag>neutral sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7856674799852</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2999.00</s:price>
+      <s:sku>451224</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7911677788396</id>
+    <published>2023-04-18T14:25:12+08:00</published>
+    <updated>2023-04-18T14:25:12+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/vienna-6-piece-corner-suite"/>
+    <title>Vienna 6 Seater Corner Suite</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/ViennaModularLounge-greygum-resized.jpg?v=1681785808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            3999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>This item is available for special order only in store.</strong></p>
+<p>The Vienna 6 Seater Corner Suite features extra deep feather seating, constructed and upholstered to the highest standards with on trend low slung lounging for comfort and style.</p>
+<p>Available in more colours in store.</p>
+<div class="dimension-container" data-mce-fragment="1"><br></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>comfy couch</s:tag>
+    <s:tag>grey corner lounge</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7911677788396</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3999.00</s:price>
+      <s:sku>448577</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7908109320428</id>
+    <published>2023-04-11T12:22:15+08:00</published>
+    <updated>2023-04-11T12:22:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cloud-optical-white"/>
+    <title>Cloud Corner Lounge with Ottoman - Optical White</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/2_3d64608e-d90a-4e83-897b-91c4c2b829f1.jpg?v=1681186908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7908109320428</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">6499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7901623451884</id>
+    <published>2023-03-30T10:44:51+08:00</published>
+    <updated>2023-03-30T10:44:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/harlow-4-seater-with-ottoman-sand"/>
+    <title>Harlow 4 Seater Lounge with Ottoman - Sand</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/HarlowLounge1.jpg?v=1686621348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This versatile 4 seater lounge can be configured in different ways, with the ottoman forming part of the sofa or a separate piece. The light fabric upholstery and classic design make it the perfect blank canvas in any living room. </p>
+<p><strong>This product is available in more colours exclusively in store, for special order.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>comfy couch</s:tag>
+    <s:tag>neutral sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7901623451884</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1999.00</s:price>
+      <s:sku>451225</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833303744748</id>
+    <published>2022-12-23T07:58:17+08:00</published>
+    <updated>2022-12-23T07:58:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/monaco-5-piece-corner-lounge"/>
+    <title>Monaco 5 Seater - Light Grey</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/632a732ad5fc845da2a78d59_Monaco_205_20Piece_20Cnr_20Modular_20small_20-_20light_20grey.jpg?v=1669612639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            2999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Upholstered in a WATERPROOF fabric, the <a href="https://thefurnituregallery.com.au/products/monaco-6-piece-corner-lounge">Monaco</a> is a classic <a href="https://thefurnituregallery.com.au/collections/sofas">sofa</a> that seamlessly blends into any interior, with a versatile colour that offers endless styling potential. Its modern, elegant form is complemented by extra wide seating, featuring a combination of high-density foam and goose feathers for incredible comfort.</p>
+<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833303744748</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2999.00</s:price>
+      <s:sku>408185</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840430489836</id>
+    <published>2022-12-05T20:35:28+08:00</published>
+    <updated>2022-12-05T20:35:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hampton-corner-lounge"/>
+    <title>Hampton Corner Lounge</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/60ed3745bf73eb079e5842d1_Hampton_20Cnr_20Suite_20stone_0d2d3cc9-1076-4d01-ba36-e51e2c0bb357.jpg?v=1670243728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style data-mce-fragment="1" type="text/css"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-mce-fragment="1" data-sheets-userformat='{"2":14977,"3":{"1":0},"10":2,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-sheets-value='{"1":2,"2":"Like the famous region known for hosting the vacationing elites in Summer, the Hampton is the ultimate coastal-inspired lounge that will make you feel like youâ€™re always on holiday - even when youâ€™re at home. The Hampton Corner Lounge can be tailored to suit your space.\n Separate pieces available: Right Arm, Left Arm, Armless, Corner. Dimensions as pictured - 305L x 305W x 112D x 90H"}'>Like the famous region known for hosting the vacationing elites in Summer, the <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hampton</a> is the ultimate <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired <a href="https://thefurnituregallery.com.au/collections/lounges">lounge</a> that will make you feel like you're always on holiday - even when you're at home. The Hampton <a href="https://thefurnituregallery.com.au/collections/corner-lounges">Corner Lounge</a> can be tailored to suit your space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840430489836</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3999.00</s:price>
+      <s:sku>443748</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833303810284</id>
+    <published>2022-11-28T13:17:21+08:00</published>
+    <updated>2022-11-28T13:17:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/monaco-6-piece-corner-lounge"/>
+    <title>Monaco 6 Seater - Light Grey</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/62fdf45b8b35ff723474fe96_Bordeaux_20Corner_20Modular_20-_20light_20grey.jpg?v=1669612641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            3799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Upholstered in a WATERPROOF fabric, the <a href="https://thefurnituregallery.com.au/products/monaco-5-piece-corner-lounge">Monaco</a> is a classic <a href="https://thefurnituregallery.com.au/collections/sofas">sofa</a> that seamlessly blends into any interior, with a versatile colour that offers endless styling potential. Its modern, elegant form is complemented by extra wide seating, featuring a combination of high-density foam and goose feathers for incredible comfort. </p>
+<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833303810284</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">3799.00</s:price>
+      <s:sku>450849</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7827064127724</id>
+    <published>2022-11-21T13:08:13+08:00</published>
+    <updated>2022-11-21T13:08:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/casablanca-corner-lounge-mink"/>
+    <title>Casablanca Corner Lounge - Mink</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/CasablancaLoungeresized_f8a797cb-5fe0-45af-a810-594d0f292f9b.jpg?v=1669007168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            4999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For those who like their <a href="https://thefurnituregallery.com.au/collections/lounges">lounges</a> extra plush, the Casablanca <a href="https://thefurnituregallery.com.au/collections/corner-lounges">Corner Lounge</a> features a decadent mix of high resilience, high density foam seat cushions and feather blend back cushions on a solid <a href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">timber</a> frame. Finished in luxe <a href="https://thefurnituregallery.com.au/collections/velvet">velvet</a> with silver studding and extra scatter cushions for an upscale look and feel, the Casablanca is a statement piece that will transform your lounge room. </p>
+<p><strong>Available for special order in store only.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>silver sofa</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>studded velvet lounge</s:tag>
+    <s:tag>velvet corner lounge</s:tag>
+    <s:tag>velvet sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7827064127724</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">4999.00</s:price>
+      <s:sku>445646</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

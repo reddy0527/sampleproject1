@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/coffee-tables.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-05-24T13:09:05+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8477624959212</id>
+    <published>2024-05-24T13:09:05+08:00</published>
+    <updated>2024-05-24T13:09:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/akala-marble-coffee-table"/>
+    <title>Akala Marble Coffee Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/AkalaMarbleCoffeeTable.webp?v=1716523648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Featuring an exquisite pink marble surface atop a contemporary gold-finished metal base the Akala Marble Coffee Table will add a touch of opulence to any room.</p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent coffee table</s:tag>
+    <s:tag>Marble coffee table</s:tag>
+    <s:tag>round coffee table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8477624959212</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>409274b</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446656676076</id>
+    <published>2024-05-10T11:08:29+08:00</published>
+    <updated>2024-05-10T11:08:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/travertine-coffee-table"/>
+    <title>Travertine Coffee Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ukyhhaeQ.jpg?v=1716513263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Crafted with a natural stone top and an oak veneer base the Travertine Coffee Table is a captivating centre-piece, anchoring your lounge space with its classic-contemporary charm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>square coffee table</s:tag>
+    <s:tag>timber coffee table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446656676076</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>409210</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446652678380</id>
+    <published>2024-05-10T11:07:38+08:00</published>
+    <updated>2024-05-10T11:07:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/manarola-coffee-table-nest-set-of-2"/>
+    <title>Manarola Coffee Table - Set of 2</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/oba2t25w.jpg?v=1716265680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Manarola Coffee Table nesting set displays contemporary elegance and functionality. Featuring a sleek black metal frame and glass top, these tables are a versatile addition to any living space large or small.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass coffee table</s:tag>
+    <s:tag>glass metal coffee table</s:tag>
+    <s:tag>nesting coffee table</s:tag>
+    <s:tag>round coffee table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446652678380</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1399.00</s:price>
+      <s:sku>409208</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8384125239532</id>
+    <published>2024-04-24T07:19:23+08:00</published>
+    <updated>2024-04-24T07:19:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/wyatt-coffee-table"/>
+    <title>Wyatt Coffee Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Image01_2.jpg?v=1717407441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Wyatt Coffee Table effortlessly combines functionality with distinctive design. Crafted from white-washed mango wood and showcasing a unique ribbed silhouette, adding character to any space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>white washed</s:tag>
+    <s:tag>wooden table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8384125239532</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1200.00</s:price>
+      <s:sku>409086</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8283867775212</id>
+    <published>2024-04-03T12:32:54+08:00</published>
+    <updated>2024-04-03T12:32:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/jana-coffee-table"/>
+    <title>Jana Coffee Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/JanaCoffeeTable2.jpg?v=1712104656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Jana coffee table is crafted with precision from stunning Marri wood, this beautiful piece showcases the natural beauty and unique grain patterns of this Australian native timber.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent coffee table</s:tag>
+    <s:tag>coffee table</s:tag>
+    <s:tag>timber coffee table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8283867775212</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>408832</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7891679477996</id>
+    <published>2024-02-26T15:02:12+08:00</published>
+    <updated>2024-02-26T15:02:12+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pippard-coffee-table-black"/>
+    <title>Pippard Coffee Table - Black</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/PippardCoffeeTable-Black.jpg?v=1678421518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="ProductMeta__Description">
+<div class="Rte"><span data-mce-fragment="1">The Pippard Coffee Table features a mirrored top and black metal frame for an ultra modern, sleek look.</span></div>
+</div>
+<div class="dimension-container"><br></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>contemporary</s:tag>
+    <s:tag>Glass coffee table</s:tag>
+    <s:tag>glass metal coffee table</s:tag>
+    <s:tag>rectangle coffee table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7891679477996</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>449411</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970172993772</id>
+    <published>2024-01-24T11:19:57+08:00</published>
+    <updated>2024-01-24T11:19:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-lyon-oakwood-coffee-table-black"/>
+    <title>Lyon Oak Wood Coffee Table - Black &amp; Natural</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/LyonOakCoffeeTable-blackandnaturual_89718979-ab8f-436d-af6c-652515e11df2.jpg?v=1706067595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Lyon Oak Wood Coffee Table is defined by a solid oak frame in black with a natural toned top, resulting in a regal design that pairs perfectly with timeless décor and elegant touches.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coffee table</s:tag>
+    <s:tag>solid timber</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970172993772</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>452314</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7934693605612</id>
+    <published>2024-01-17T12:03:40+08:00</published>
+    <updated>2024-01-17T12:03:40+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-nya-coffee-table"/>
+    <title>Nya Coffee Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/oMe6UpLA.jpg?v=1716849770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style data-mce-fragment="1" type="text/css"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p>The perfect statement piece for your <a href="https://thefurnituregallery.com.au/collections/living">living room</a>. The Nya <a href="https://thefurnituregallery.com.au/collections/coffee-tables">Coffee Table</a> features an ivory and blue shell <a href="%20https://thefurnituregallery.com.au/products/cheyenne-s-2-inlay-tables">inlay design</a> with a luxe gold base.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7934693605612</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>449691</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8127045959916</id>
+    <published>2024-01-03T15:03:01+08:00</published>
+    <updated>2024-01-03T15:03:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/oro-metal-coffee-table"/>
+    <title>Oro Metal Coffee Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/OroMetalCoffeeTable.jpg?v=1704263927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Crafted from aluminum and covered in a gold finish, the Oro Metal Coffee Table, showcases a conical base design for a perfect blend of elegance and modern flair.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coffee table</s:tag>
+    <s:tag>round coffee table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8127045959916</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>408321</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8127044714732</id>
+    <published>2024-01-03T15:02:03+08:00</published>
+    <updated>2024-01-03T15:02:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/cleo-wood-coffee-table"/>
+    <title>Cleo Wood Coffee Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CleoWoodCoffeeTable.webp?v=1704263405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Cleo Wood Coffee Table in white wash achieves the perfect laid back beach style for your living space.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>round coffee table</s:tag>
+    <s:tag>timber coffee table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8127044714732</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>408325</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8095325946092</id>
+    <published>2023-12-01T08:14:25+08:00</published>
+    <updated>2023-12-01T08:14:25+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/piper-coffee-table"/>
+    <title>Piper Coffee Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/PiperCoffeeTable.jpg?v=1701389660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Piper Coffee Table offers an elegant, classic look for the living room - featuring a glass top, rattan bottom shelf and cream timber finish.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french provincial</s:tag>
+    <s:tag>Glass coffee table</s:tag>
+    <s:tag>square coffee table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8095325946092</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">899.00</s:price>
+      <s:sku>487009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8053068595436</id>
+    <published>2023-11-21T14:29:28+08:00</published>
+    <updated>2023-11-21T14:29:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/juliette-coffee-table"/>
+    <title>Juliette Coffee Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/JulietteCoffeeTable3..jpg?v=1700607674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1" data-pm-slice="1 1 []" dir="auto">Effortlessly combining elegance and versatility, the Juliette Coffee Table features a gold-coloured metal frame and sleek glass top.  A perfect fit for both modern and classic interiors.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Glass coffee table</s:tag>
+    <s:tag>glass metal coffee table</s:tag>
+    <s:tag>glass table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8053068595436</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>486085</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8076821037292</id>
+    <published>2023-11-10T09:41:42+08:00</published>
+    <updated>2023-11-10T09:41:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-hampton-coffee-table-small"/>
+    <title>Hampton Elite Coffee Table (Small)</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/611874ab75eb546ba64e20c2_Hampton_20Coffee_20Table_20Small_fad89a77-53d5-463d-a4ed-5bcd7255a33a.jpg?v=1699574435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Capture the magic of Hamptons home styling in your living room with the Hampton Elite Coffee Table (Small). This coastal-inspired coffee table is defined by crisp white timber and cross detailing, with an elegant glass top, offering a timeless, classic look. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>coastal style</s:tag>
+    <s:tag>Glass coffee table</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>square coffee table</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8076821037292</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>259004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8015180464364</id>
+    <published>2023-09-27T15:03:37+08:00</published>
+    <updated>2023-09-27T15:03:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/donovan-round-coffee-table"/>
+    <title>Donovan Round Coffee Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/DonovanRoundCoffeeTable.jpg?v=1697156072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">This modern round coffee table </span><span data-mce-fragment="1">features a light-washed </span><a data-mce-fragment="1" href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection" data-mce-href="https://thefurnituregallery.com.au/collections/the-solid-wa-marri-collection">timber</a><span data-mce-fragment="1"> crafted from beautiful hard waring blue gum, making it ideal for a coastal, Scandi or minimalist home.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>round coffee table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8015180464364</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1199.00</s:price>
+      <s:sku>452281</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970172961004</id>
+    <published>2023-09-20T10:24:40+08:00</published>
+    <updated>2023-09-20T10:24:40+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/lyon-oakwood-coffee-table-black"/>
+    <title>Lyon Oak Wood Coffee Table - Black</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/LyonCoffeeTable-black.jpg?v=1697496049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">The Lyon Oak Wood Coffee Table is defined by a solid oak frame and striking black timber, resulting in a regal design that pairs perfectly with timeless decor and elegant touches.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coffee table</s:tag>
+    <s:tag>solid timber</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970172961004</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>452313</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970201272556</id>
+    <published>2023-09-20T07:59:28+08:00</published>
+    <updated>2023-09-20T07:59:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/colorado-coffee-table"/>
+    <title>Colorado Coffee Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ColoradoCoffeeTablewhite.jpg?v=1695780101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Crafted from acacia timber with a pedestal base, the Colorado Coffee Table is country chic at its best.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rectangle coffee table</s:tag>
+    <s:tag>solid timber</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970201272556</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">799.00</s:price>
+      <s:sku>452490</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7966116937964</id>
+    <published>2023-09-15T08:17:03+08:00</published>
+    <updated>2023-09-15T08:17:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/byron-cross-leg-coffee-table"/>
+    <title>Bremer Bay Cross Leg Coffee Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BremerBayCrossLegCoffeeTablestyled.jpg?v=1696305683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Crafted from solid, reclaimed pine, the Bremer Bay Cross Leg Coffee Table features timber tops with a tawny stain to achieve a weathered look. Trestle style legs give it an open airy feel. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>rectangle coffee table</s:tag>
+    <s:tag>timber coffee table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7966116937964</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.00</s:price>
+      <s:sku>452516</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7966101766380</id>
+    <published>2023-09-15T08:11:25+08:00</published>
+    <updated>2023-09-15T08:11:25+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/byron-coffee-table"/>
+    <title>Bremer Bay Coffee Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BremerBayCoffeeTablestyled.webp?v=1696305117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1" data-pm-slice="1 1 []" dir="auto">Experience the perfect balance between style and functionality with the Bremer Bay Coffee table. Fashioned from reclaimed pine, the contrasting timber top sits on a white washed base. Two drawers and an open shelf provide ample storage.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>rectangle coffee table</s:tag>
+    <s:tag>timber coffee table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7966101766380</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>452514</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7969432764652</id>
+    <published>2023-08-30T09:07:58+08:00</published>
+    <updated>2023-08-30T09:07:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-hampton-glass-coffee-table-large"/>
+    <title>Hampton Elite Glass Coffee Table (Large)</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/6118737d7e15e3a84efccec6_Hampton_20Coffee_20Table_20Large_6c8441aa-8007-4a1b-8db7-0b1f0ab3784b.jpg?v=1693353746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Capture the magic of <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a> home styling with the Hampton Elite Glass Coffee Table (Large). This stunning <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>-inspired <a href="https://thefurnituregallery.com.au/collections/coffee-tables">coffee table</a> is crafted using top grade hard wood, finished in crisp white. Featuring cross detailing, practical shelving and a glass top, it offers a timeless, classic look. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coastal style</s:tag>
+    <s:tag>Glass coffee table</s:tag>
+    <s:tag>hamptons style</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>square coffee table</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7969432764652</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>259007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7965690364140</id>
+    <published>2023-08-23T06:01:59+08:00</published>
+    <updated>2023-08-23T06:01:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/antoinette-coffee-table"/>
+    <title>Antoinette Oval Coffee Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/AntoinetteOvalCoffeeTablestyled.jpg?v=1692684880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Elevating the art of traditional country styling, the Antoinette oval coffee has an antiqued two-tone aesthetic with a distressed wood finished top for added charm. Classic cabriole legs and shapely lower shelf are a lovely twist. Decorative corbels add refinement.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>coffee table</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7965690364140</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>450700</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7939438608620</id>
+    <published>2023-07-18T07:17:35+08:00</published>
+    <updated>2023-07-18T07:17:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-harvard-coffee-table"/>
+    <title>Walpole Coffee Table</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/62143e22681fac1fe97946f9_405711_WB_Harvard_20Coffee_20Table_20Tasmanian_20Oak_20front_5eb245ff-0d4a-4d75-8b7d-153207a865fd.jpg?v=1687834213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Featuring clean lines and sleek angles, the Harvard Coffee Table is a natural beauty, crafted from beautiful Tasmanian Oak."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Featuring clean lines and sleek angles, the Walpole Coffee Table is a natural beauty, crafted from beautiful Tasmanian Oak.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>rectangle coffee table</s:tag>
+    <s:tag>timber coffee table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7939438608620</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>451979</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7939409314028</id>
+    <published>2023-06-27T11:11:31+08:00</published>
+    <updated>2023-06-27T11:11:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hudson-coffee-table-champagne"/>
+    <title>Hudson Coffee Table - Champagne</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/HudsonCoffeeTable-styledchampagne.jpg?v=1687819703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            649.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">An exquisite oval-shaped Art Deco coffee table featuring two-tiered glass surfaces elegantly held by a champagne gold frame, exuding timeless glamour and sophistication in any living space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>glass metal coffee table</s:tag>
+    <s:tag>glass table</s:tag>
+    <s:tag>mirrored</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7939409314028</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">649.00</s:price>
+      <s:sku>448168</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7932793848044</id>
+    <published>2023-06-07T10:07:32+08:00</published>
+    <updated>2023-06-07T10:07:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/soho-nest-coffee-tables"/>
+    <title>Soho Nest Coffee Tables</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/sohonestcoffeetables.jpg?v=1686112059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Contemporary styling feels effortless with the Soho Nest of Coffee Tables, designed with a simple black frame and clear glass top. Use these round coffee tables in your living room to elevate your interior.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>black table</s:tag>
+    <s:tag>glass metal coffee table</s:tag>
+    <s:tag>nesting coffee table</s:tag>
+    <s:tag>round coffee table</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7932793848044</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>449851</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7932548808940</id>
+    <published>2023-06-06T12:11:11+08:00</published>
+    <updated>2023-06-06T12:11:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-torrance-side-table-silver"/>
+    <title>Torrance Coffee Table - Silver</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/TorranceCoffeeTablestyled.jpg?v=1686024793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="vspace vspace--small">
+<div id="product-description" class="product__description">
+<div class="text-box text-box--small">
+<p>Sleek, clean and contemporary, the Torrance <a href="https://thefurnituregallery.com.au/collections/coffee-tables">Coffee<span> </span>Table</a> in Silver features a smoked grey <a href="https://thefurnituregallery.com.au/products/kent-coffee-table">glass top</a> and silver<span> </span><a href="https://thefurnituregallery.com.au/products/canterbury-coffee-table">metal frame</a>.</p>
+</div>
+</div>
+</div>
+<p> </p>
+<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>metal side table</s:tag>
+    <s:tag>side table</s:tag>
+    <s:tag>silver</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7932548808940</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>449376</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7932548776172</id>
+    <published>2023-06-06T12:10:52+08:00</published>
+    <updated>2023-06-06T12:10:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-torrance-coffee-table-black"/>
+    <title>Torrance Coffee Table - Black</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/61e64cd93b0c9484f94c1dec_Torrance_20Coffee_20Table_201_1f22358c-9a0c-47bc-bc04-a5d110a96286.jpg?v=1686023553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Torrance <a href="https://thefurnituregallery.com.au/products/torrance-coffee-table-silver">Coffee Table</a> in Black features a smoked grey glass top and <a href="https://thefurnituregallery.com.au/products/pippard-coffee-table-black">black metal frame</a>.<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7932548776172</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>447429</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

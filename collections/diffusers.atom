@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/diffusers.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-05-10T13:24:05+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446684168428</id>
+    <published>2024-05-10T13:24:05+08:00</published>
+    <updated>2024-05-10T13:24:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/glasshouse-sunsets-in-capri-380g-candle-white-peach-sea-breeze-copy"/>
+    <title>Glasshouse Sunsets in Capri 380g Candle - White Peach &amp; Sea Breeze</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GlasshouseSunsetinCapricandlestyled_8b88387f-f12d-42d5-828f-cdc92e09ffa1.webp?v=1715318437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Immerse yourself in the sweet and refreshing scent of white peach, perfectly complemented by the invigorating aroma of sea breeze. </span></p>
+<p><strong>Top Notes: Cassis Bud, Mandarin, Green, Peach<br>Middle Notes: Jasmine, Lily, Peach<br>Base Notes: Amber, Musk, Marine Notes </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candle</s:tag>
+    <s:tag>scented candle</s:tag>
+    <s:tag>soy candles</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446684168428</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">54.95</s:price>
+      <s:sku>450534</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446672175340</id>
+    <published>2024-05-10T13:10:09+08:00</published>
+    <updated>2024-05-10T13:10:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/glasshouse-sunsets-in-capri-380g-white-peach-sea-breeze-copy"/>
+    <title>Glasshouse Arabian Nights 380g Candle - White Oud</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GlasshouseArabianNightsCandle-front.webp?v=1715314403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Immerse yourself in the rich and captivating aroma of saffron, known for its warm and spicy notes, perfectly balanced by the subtle elegance of white oud.</p>
+<p><strong>Top Notes: Saffron, Olibanum </strong><br><strong>Middle Notes: White Rose, Jasmine</strong><br><strong>Base Notes: Oud (Agarwood), Sandalwood, Amber </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candle</s:tag>
+    <s:tag>scented candle</s:tag>
+    <s:tag>soy candles</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446672175340</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">54.95</s:price>
+      <s:sku>447139</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446672732396</id>
+    <published>2024-05-10T13:09:50+08:00</published>
+    <updated>2024-05-10T13:09:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/glasshouse-bora-bora-bungalow-380-g-candle"/>
+    <title>Glasshouse Bora Bora Bungalow 380g Candle - Cilantro &amp; Orange Zest</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GlasshouseBoraBorabungalowcandle-front.webp?v=1715318324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Sun-dappled orange blossoms, salty skin, cilantro mimosas and Tahitian vanilla sorbet.</span></p>
+<p><strong>Top Notes: Cilantro Leaves, Orange Zest </strong><br><strong>Middle Notes: Orange Blossom, Clementine</strong><br><strong>Base Notes: Galbanum Resin, Vanilla Bean</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candle</s:tag>
+    <s:tag>scented candle</s:tag>
+    <s:tag>soy candles</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446672732396</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">54.95</s:price>
+      <s:sku>447137</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446673420524</id>
+    <published>2024-05-10T13:09:34+08:00</published>
+    <updated>2024-05-10T13:09:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/glasshouse-melbourne-muse-380g-candle-coffee-flower-vanilla"/>
+    <title>Glasshouse Melbourne Muse 380g Candle - Coffee Flower &amp; Vanilla</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GlasshouseMelbourneMuseCandle.front-jpeg.webp?v=1715315347"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Immerse yourself in the comforting warmth of sweet vanilla, uplifted by the invigorating notes of coffee flowers and the refreshing scent of orange blossoms.</span></p>
+<p><strong>Top Notes: Acacia, Neroli, Orange Flower </strong><br><strong>Middle Notes: Coffee Flower, Jasmine, White Floral</strong><br><strong>Base Notes: Patchouli, Sandalwood, Vanilla </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candle</s:tag>
+    <s:tag>scented candle</s:tag>
+    <s:tag>soy candles</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446673420524</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">54.95</s:price>
+      <s:sku>447159</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446673879276</id>
+    <published>2024-05-10T13:09:18+08:00</published>
+    <updated>2024-05-10T13:09:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/glasshouse-rendezvous-380g-candle-amber-orchid"/>
+    <title>Glasshouse Rendezvous 380g Candle - Amber &amp; Orchid</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GlasshouseRendezvoousCandlefront.webp?v=1715315758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The delicate fragrance of white florals intertwines with the sweetness of sugar cane, maturing into something softer and more nuanced over time.</span></p>
+<p><strong>Top Notes: White Floral Bouquet, Sugar Cane </strong><br><strong>Middle Notes: Orchid, Gardenia, Neroli</strong><br><strong>Base Notes: Amber, Vanilla, Musk </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candle</s:tag>
+    <s:tag>scented candle</s:tag>
+    <s:tag>soy candles</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446673879276</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">54.95</s:price>
+      <s:sku>447155</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446674305260</id>
+    <published>2024-05-10T13:08:51+08:00</published>
+    <updated>2024-05-10T13:08:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/glasshouse-250ml-montego-bay-rhythm-coconut-lime"/>
+    <title>Glasshouse 250ml Montego Bay Rhythm Diffuser - Coconut &amp; Lime</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GlasshouseMontegoBayRhythmdiffuserfront.webp?v=1715316082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Immerse yourself in the zesty freshness of lime, perfectly balanced by the creamy sweetness of coconut and the rich warmth of boozy vanilla.</p>
+<p><strong>Top Notes: Lime and Lemon </strong><br><strong>Middle Notes: Vanilla and Amber</strong><br><span><strong>Base Notes: Coconut and Mandarin Oranges</strong> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diffuser</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446674305260</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">54.95</s:price>
+      <s:sku>447147</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8446675615980</id>
+    <published>2024-05-10T13:08:37+08:00</published>
+    <updated>2024-05-10T13:08:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/glasshouse-250ml-the-hamptons-diffuser-teak-petitgrain"/>
+    <title>Glasshouse 250ml The Hamptons Diffuser - Teak &amp; Petitgrain</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GlasshouseTheHamptonsfrontDiffuser.webp?v=1715316328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by the coastal escape, you’ll sense sunshine, soft cashmere, and expensive gin.</p>
+<p><strong>Top Notes: Juniper berry, Green Cognac, Petitgrain </strong><br><strong>Middle Notes: Lemon Verbena, Iris, Fig Leaves</strong><br><strong>Base Notes: Ambergris, Teak, White Patchouli </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diffuser</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8446675615980</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">54.95</s:price>
+      <s:sku>447144</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8439109484780</id>
+    <published>2024-05-08T13:05:39+08:00</published>
+    <updated>2024-05-08T13:05:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/glasshouse-250ml-tahaa-affair-frangrance-diffuser-vanilla-caramel-copy"/>
+    <title>Glasshouse 250ml Tahaa Affair Fragrance Diffuser - Vanilla Caramel</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GlasshouseTahaaAffair-vanillacarmel_a6a9538f-4725-4ad6-9656-9a79e6ce9624.webp?v=1715143849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Ambrosial with lush caramel, vanilla and coconut notes, the Tahaa Affair Diffuser will transport you to the beaches of Tahaa.</span></p>
+<p><span>Top Notes: Pineapple <br>Middle Notes: Coconut Fruity, Frankincense<br>Base Notes: Caramel and Vanilla</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diffuser</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8439109484780</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">54.95</s:price>
+      <s:sku>405881</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8438268231916</id>
+    <published>2024-05-08T12:50:16+08:00</published>
+    <updated>2024-05-08T12:50:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/glasshouse-250ml"/>
+    <title>Glasshouse 250ml Kyoto In Bloom Fragrance Diffuser - Camellia &amp; Lotus</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GlasshouseKyotoinbloomDiffuserfront.webp?v=1715141545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Sweet, ethereal, diaphanous - like lotus and cherry blossoms caught in a spring breeze, enjoy the indulgent scent of the Glasshouse Kyoto in Bloom diffuser.</span></p>
+<p><span>Top Notes: Fresh lime, Bergamot, Citrus <br>Middle Notes: Camellia and Lotus<br>Base Notes: Amber, Sandalwood, Musk,Vanilla</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diffuser</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8438268231916</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">54.95</s:price>
+      <s:sku>406729</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8438546170092</id>
+    <published>2024-05-08T12:49:57+08:00</published>
+    <updated>2024-05-08T12:49:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/glasshouse-250ml-one-night-in-rio-fragrance-diffuser-passionfruit-lime"/>
+    <title>Glasshouse 250ml One Night in Rio Fragrance Diffuser - Passionfruit &amp; Lime</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/GlasshouseOneNightinRioDiffuserfront.webp?v=1715141858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            54.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Passionfruit and lime are effervescent, like vibrant dancers. Melon keeps things sweet with the Glasshouse One Night in Rio Diffuser.</span></p>
+<p><span>Top Notes: Passionfruit and Lime <br>Middle Notes: Raspberry and Orange<br>Base Notes: Rose and Melon </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diffuser</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8438546170092</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">54.95</s:price>
+      <s:sku>405880</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8436661485804</id>
+    <published>2024-05-08T10:13:51+08:00</published>
+    <updated>2024-05-08T10:13:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/welton-london-imperial-white-musk-candle-small"/>
+    <title>Welton London Imperial White Musk Candle - Small</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/WELTON_LONDON_IMPERIAL_WHITE_MUSK_SCENTED_CANDLE_SMALL_4365b180-9e24-47a5-8ac5-24955838810e.jpg?v=1715130787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Enjoy the enchanting allure of Welton London Imperial White Musk. This scented candle, crafted with meticulous care in France, offers a sensory journey like no other.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candle</s:tag>
+    <s:tag>scented candle</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8436661485804</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">99.00</s:price>
+      <s:sku>451510</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8436661584108</id>
+    <published>2024-05-08T10:12:49+08:00</published>
+    <updated>2024-05-08T10:12:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/welton-london-onyx-no2-amber-scented-candle-small"/>
+    <title>Welton London Onyx No 2 Amber Scented Candle - Small</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/WeltonLondonOnyxNo2AMber.jpg?v=1715131112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Experience the magic of Welton London Onyx No 2 Amber scented candle and transform your space into a sanctuary of luxury and elegance. Crafted with meticulous care in France.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candle</s:tag>
+    <s:tag>scented candle</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8436661584108</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">0.00</s:price>
+      <s:sku>451511</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8436664074476</id>
+    <published>2024-05-08T10:11:49+08:00</published>
+    <updated>2024-05-08T10:11:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/christian-lacroix-jardin-andalou-scented-candle"/>
+    <title>Christian Lacroix Jardin Andalou Scented Candle</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CLXWeltonLondonCandle-JardinAndalou_540x_e8605fae-da59-492d-9584-1f8460c65c69.webp?v=1715132485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Welton London and Christian Lacroix Maison invite you on a sensorial journey to the heart of Andalusia.  Discover this exquisite fragrance in finely chiselled glass, engraved with the symbolic Paseo pattern</span><span>.</span></p>
+<p><strong>Citrus - Spicy</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candle</s:tag>
+    <s:tag>scented candle</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8436664074476</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">89.00</s:price>
+      <s:sku>451509</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8436663615724</id>
+    <published>2024-05-08T10:11:29+08:00</published>
+    <updated>2024-05-08T10:11:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/christian-lacroix-fleurs-de-seville-scented-candle-copy"/>
+    <title>Christian Lacroix Nuit Gitane Scented Candle</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CLXWeltonLondonCandle-NuitGitane_540x_712bf142-86cd-402a-bab2-6211e0725588.webp?v=1715132224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Welton London and Christian Lacroix Maison invite you on a sensorial journey to the heart of Andalusia.  Discover this exquisite fragrance in finely chiselled glass, engraved with the symbolic Paseo pattern</span><span>.</span></p>
+<p><strong>Citrus - Leather - Woody</strong></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candle</s:tag>
+    <s:tag>scented candle</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8436663615724</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">89.00</s:price>
+      <s:sku>451508</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8436662960364</id>
+    <published>2024-05-08T10:11:17+08:00</published>
+    <updated>2024-05-08T10:11:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/christian-lacroix-fleurs-de-seville-scented-candle"/>
+    <title>Christian Lacroix Fleurs De Seville Scented Candle</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CLXWeltonLondonCandle-FleursdeSeville_540x_1.webp?v=1715131939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            89.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Welton London and Christian Lacroix Maison invite you on a sensorial journey to the heart of Andalusia.  Discover this exquisite fragrance in finely chiselled glass, engraved with the symbolic Paseo pattern</span><span>.</span></p>
+<p><strong>Rose - Eglantine - Orange Blossom</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candle</s:tag>
+    <s:tag>scented candle</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8436662960364</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">89.00</s:price>
+      <s:sku>451507</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8284040593644</id>
+    <published>2024-04-03T13:10:39+08:00</published>
+    <updated>2024-04-03T13:10:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/al-ive-mini-soy-candle-a-moment-to-bloom"/>
+    <title>Al.ive Mini Soy Candle - A Moment to Bloom</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/mini-soy-candle-a-moment-to-bloom-withflowers.webp?v=1712119388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Al.ive Mini Soy Candle is hand-poured in a beautifully designed vessel.  Immerse yourself in uplifting floral fragrances, elevating your space and celebrating nature's beauty.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>al.ive</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8284040593644</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">28.00</s:price>
+      <s:sku>409085</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8284035514604</id>
+    <published>2024-04-03T13:10:19+08:00</published>
+    <updated>2024-04-03T13:10:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/al-ive-mini-diffuser-a-moment-to-bloom"/>
+    <title>Al.ive Mini Diffuser - A Moment to Bloom</title>
+    <s:type>decor</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/mini-diffuser-a-moment-to-bloom-syledwithflowers.webp?v=1712119123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>decor<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">With a subtle fragrance release that lingers, the Al.ive mini diffuser will add a touch of elegance and create a sense of calm and ease in any space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>al.ive</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8284035514604</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">34.00</s:price>
+      <s:sku>409084</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7914867818732</id>
+    <published>2023-05-03T10:21:15+08:00</published>
+    <updated>2023-05-03T10:21:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hallmark-diffuser-fig-leaf-cedar"/>
+    <title>Hallmark Diffuser - Fig Leaf &amp; Cedar</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/FlowerboxDiffuserrose-figleaf.jpg?v=1682489247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Hand poured in Perth, the beautiful <a href="https://thefurnituregallery.com.au/products/hallmark-diffuser-fresh-lemongrass">Hallmark Diffuser</a> is contained in a French-made glass decanter. With a 12 month diffusion lifespan, this <a href="https://thefurnituregallery.com.au/collections/diffusers">diffuser</a> will add luxury and ambience to any space.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cedar Scented diffuser</s:tag>
+    <s:tag>Fig Leaf scented diffuser</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7914867818732</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">130.00</s:price>
+      <s:sku>452298</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7914867851500</id>
+    <published>2023-05-03T10:20:59+08:00</published>
+    <updated>2023-05-03T10:20:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hallmark-diffuser-fresh-lemongrass"/>
+    <title>Hallmark Diffuser - Fresh Lemongrass</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Hallmarkdiffuser-freshlemon.jpg?v=1682489313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Hand poured in Perth, the beautiful <a href="https://thefurnituregallery.com.au/products/hallmark-diffuser-fig-leaf-cedar">Hallmark Diffuser</a> is contained in a French-made glass decanter. With a 12 month diffusion lifespan, this <a href="https://thefurnituregallery.com.au/collections/diffusers">diffuser</a> will add luxury and ambience to any space.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>citrus scent</s:tag>
+    <s:tag>lemongrass scented diffuser</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7914867851500</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">130.00</s:price>
+      <s:sku>452299</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7914868801772</id>
+    <published>2023-05-03T10:20:34+08:00</published>
+    <updated>2023-05-03T10:20:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hallmark-diffuser-french-rose"/>
+    <title>Hallmark Diffuser - French Rose</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/FlowerboxDiffuser-FrenchRose.jpg?v=1682490520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Hand poured in Perth, the beautiful <a href="https://thefurnituregallery.com.au/products/hallmark-diffuser-magnolia-green-leaves">Hallmark Diffuser</a> is contained in a French-made glass decanter. With a 12 month diffusion lifespan, this <a href="https://thefurnituregallery.com.au/collections/diffusers">diffuser</a> will add luxury and ambience to any space.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>floral scented diffuser</s:tag>
+    <s:tag>french rose scented diffuser</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7914868801772</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">130.00</s:price>
+      <s:sku>452302</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7917413761260</id>
+    <published>2023-05-03T10:19:51+08:00</published>
+    <updated>2023-05-03T10:19:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hallmark-diffuser-pink-flowers"/>
+    <title>Hallmark Diffuser - Pink Flowers</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/HallmarkDiffuser-PinkFlowers.jpg?v=1683075051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Hand poured in Perth, the beautiful <a href="https://thefurnituregallery.com.au/products/hallmark-diffuser-sweet-orange-lavendar">Hallmark Diffuser</a> is contained in a French-made glass decanter. With a 12 month diffusion lifespan, this <a href="https://thefurnituregallery.com.au/collections/diffusers">diffuser</a> will add luxury and ambience to any space.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diffuser</s:tag>
+    <s:tag>floral scented diffuser</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7917413761260</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">130.00</s:price>
+      <s:sku>452301</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7917413466348</id>
+    <published>2023-05-03T10:19:35+08:00</published>
+    <updated>2023-05-03T10:19:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hallmark-diffuser-magnolia-green-leaves"/>
+    <title>Hallmark Diffuser - Magnolia &amp; Green Leaves</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/FlowerboxDiffuser-magnoliaandgreenleaves.jpg?v=1683074808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Hand poured in Perth, the beautiful <a href="https://thefurnituregallery.com.au/products/hallmark-diffuser-french-rose">Hallmark Diffuser</a> is contained in a French-made glass decanter. With a 12 month diffusion lifespan, this <a href="https://thefurnituregallery.com.au/collections/diffusers">diffuser</a> will add luxury and ambience to any space.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diffuser</s:tag>
+    <s:tag>fresh scented diffuser</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7917413466348</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">130.00</s:price>
+      <s:sku>452300</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7914867130604</id>
+    <published>2023-05-03T10:19:21+08:00</published>
+    <updated>2023-05-03T10:19:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hallmark-diffuser-aqua"/>
+    <title>Hallmark Diffuser - Aqua</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/FlowerboxDiffuser-Aqua.jpg?v=1682488718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Hand poured in Perth, the beautiful <a href="https://thefurnituregallery.com.au/products/hallmark-diffuser-fig-leaf-cedar">Hallmark Diffuser</a> is contained in a French-made glass decanter. With a 12 month diffusion lifespan, this <a href="https://thefurnituregallery.com.au/collections/diffusers">diffuser</a> will add luxury and ambience to any space.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diffuser</s:tag>
+    <s:tag>fresh scented diffuser</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7914867130604</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">130.00</s:price>
+      <s:sku>452297</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7917413859564</id>
+    <published>2023-05-03T10:17:23+08:00</published>
+    <updated>2023-05-03T10:17:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hallmark-diffuser-sweet-orange-lavendar"/>
+    <title>Hallmark Diffuser - Sweet Orange &amp; Lavender</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Hallmarkdiffuser-Orangeandlavendar.jpg?v=1683075194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Hand poured in Perth, the beautiful <a href="https://thefurnituregallery.com.au/products/hallmark-diffuser-pink-flowers">Hallmark Diffuser</a> is contained in a French-made glass decanter. With a 12 month diffusion lifespan, this <a href="https://thefurnituregallery.com.au/collections/diffusers">diffuser</a> will add luxury and ambience to any space.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>citrus scent</s:tag>
+    <s:tag>diffuser</s:tag>
+    <s:tag>fresh scented diffuser</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7917413859564</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">130.00</s:price>
+      <s:sku>452304</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7917415858412</id>
+    <published>2023-05-03T10:13:28+08:00</published>
+    <updated>2023-05-03T10:13:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hallmark-candles"/>
+    <title>Hallmark Candle</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/HallmarkCandle.jpg?v=1683076786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candle</s:tag>
+    <s:tag>scented candle</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7917415858412</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">130.00</s:price>
+      <s:sku>452318</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

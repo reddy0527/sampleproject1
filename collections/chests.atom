@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/chests.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2023-12-15T13:32:36+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8095324700908</id>
+    <published>2023-12-15T13:32:36+08:00</published>
+    <updated>2023-12-15T13:32:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/alsace-chest-rustic-oak"/>
+    <title>Alsace Chest - Rustic Oak</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/AlsaceChest.jpg?v=1702618332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Channel an antique French Provincial look with the Alsace Chest in Rustic Oak.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5 drawer chest of drawers</s:tag>
+    <s:tag>chest of drawers</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>timber chest</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8095324700908</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>452776</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8105813672172</id>
+    <published>2023-12-06T16:45:47+08:00</published>
+    <updated>2023-12-06T16:45:47+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/charlotte-chest"/>
+    <title>Charlotte Chest</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/Charlottechestofdrawer.jpg?v=1701852311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Stunning french provincial style 5 drawer Charlotte Chest of drawer, pairs beautifully with the Charlotte Bed and Charlotte Night stands.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5 drawer chest of drawers</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>timber chest</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8105813672172</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>486072</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7970254520556</id>
+    <published>2023-09-20T07:46:49+08:00</published>
+    <updated>2023-09-20T07:46:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/colorado-1-door-5-drawer-tallboy"/>
+    <title>Colorado Tallboy</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/T2_1865Colorado1Door5DrawersTallboyangle.jpg?v=1693543466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">A quaint tallboy crafted from durable acacia wood, accentuated by charming antique-look metal handles for a touch of rustic elegance.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chest of drawers</s:tag>
+    <s:tag>tallboy</s:tag>
+    <s:tag>timber chest</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7970254520556</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1199.00</s:price>
+      <s:sku>452478</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7966120116460</id>
+    <published>2023-09-15T08:03:28+08:00</published>
+    <updated>2023-09-15T08:03:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/byron-4-drawer-tallboy"/>
+    <title>Bremer Bay 4 Drawer Tallboy</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/BYN152_TTR04D_IV15AByronChest.jpg?v=1692765939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1099.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Bremer Bay Tallboy sits perfectly in a coastal Hampton style bedroom, fashioned from reclaimed pine with an airy ivory painted base.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chest of drawers</s:tag>
+    <s:tag>french country</s:tag>
+    <s:tag>french provincial</s:tag>
+    <s:tag>timber chest</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7966120116460</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1099.00</s:price>
+      <s:sku>452523</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7963738570988</id>
+    <published>2023-08-16T14:29:11+08:00</published>
+    <updated>2023-08-16T14:29:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-elite-long-beach-king-headboard"/>
+    <title>Long Beach Elite Tallboy</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/2BEAF233-2BFE-4F29-8F5B-8130D08A0540.heic?v=1711497105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Fresh and coastal, the  Long Beach <meta charset="utf-8">Elite Tallboy is crafted with premium grade hard wood and finished in crisp white for a bright and airy Hamptons feel. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bedhead</s:tag>
+    <s:tag>coastal style</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7963738570988</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>259011</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7934684332268</id>
+    <published>2023-06-14T10:46:16+08:00</published>
+    <updated>2023-06-14T10:46:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/monroe-mirrored-chest-smoke"/>
+    <title>Monroe Mirrored Chest - Smoke</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/MonroeMirroredChest-Smoke.jpg?v=1686707847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Add some old Hollywood glamour to your bedroom with the <a href="https://thefurnituregallery.com.au/products/monroe-mirrored-chest-clear">Monroe Mirrored Chest</a> in Smoke. Featuring plenty of storage space for your items, and crystal-like handles for an up-market look. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mirrored</s:tag>
+    <s:tag>mirrored chest of drawers</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7934684332268</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>400827</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7858140774636</id>
+    <published>2023-04-18T15:41:01+08:00</published>
+    <updated>2023-04-18T15:41:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/surrey-tallboy"/>
+    <title>Surrey Tallboy</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/SurreyTallboy-resized.jpg?v=1672977463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Surrey Tallboy is crafted from solid acacia, featuring a two-tone design perfectly suited to <a href="https://thefurnituregallery.com.au/collections/hamptons-collection">Hamptons</a>-inspired bedrooms.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7858140774636</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>446222</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7908107092204</id>
+    <published>2023-04-11T14:04:20+08:00</published>
+    <updated>2023-04-11T14:04:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-wentworth-tallboy-chest"/>
+    <title>Wentworth Elite Tallboy Chest</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6125c0ce3c35b281e36846dc_Wentworth_20Chest_954b19fa-bedf-4050-b140-a88d11e4db05.png?v=1681186265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1099.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafted by artisans from top grade hardwood, known for its resilience, and finished in brilliant white - the Wentworth Elite Tallboy <a href="https://thefurnituregallery.com.au/collections/chests">Chest</a> is a beautiful choice to complete your <a href="https://thefurnituregallery.com.au/collections/coastal-collection">coastal</a>, Hamptons or cottage quaint bedroom look. </p>
+<p> </p>
+<p> </p>
+<p><span> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>bedroom drawers</s:tag>
+    <s:tag>bedroom storage</s:tag>
+    <s:tag>chest of drawers</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>white</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7908107092204</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1099.00</s:price>
+      <s:sku>451141</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7867865759980</id>
+    <published>2023-03-10T11:00:35+08:00</published>
+    <updated>2023-03-10T11:00:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/lofty-chest"/>
+    <title>Lofty Chest - Wormy Chestnut</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/407056_WB_LoftyChestWormyChestnutfront.jpg?v=1674535079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">Compliment the Lofty <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">bedroom</a> range with this rustic <a href="https://thefurnituregallery.com.au/collections/chests">chest of drawers</a>, crafted from wormy chestnut.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>country style</s:tag>
+    <s:tag>timber chest</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7867865759980</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>407056</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7857050878188</id>
+    <published>2023-02-03T14:01:54+08:00</published>
+    <updated>2023-02-03T14:01:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bondi-chest"/>
+    <title>Bondi Chest</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/BondiChest.jpg?v=1675400723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">Built from quality wormy chestnut timber, this Bondi <a href="https://thefurnituregallery.com.au/collections/chests">Chest</a> will bring warmth and a natural, organic feel to your <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">bedroom</a>.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>solid timber</s:tag>
+    <s:tag>timber chest</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7857050878188</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>447048</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7857065066732</id>
+    <published>2023-01-06T12:35:47+08:00</published>
+    <updated>2023-01-06T12:35:47+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/boho-boutique-4-drawer-chest"/>
+    <title>Boho Boutique 4 Drawer Chest</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/Boho4drawerchest.jpg?v=1672795446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">This beautiful <a href="https://thefurnituregallery.com.au/collections/chests">chest of drawers</a> is perfect for adding a modern edge, with its dark timber and statement inlaid pattern. Crafted from a blend of Mango wood solids and mixed timber veneers of teak, mahogany and ash.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7857065066732</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>449872</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7838775607532</id>
+    <published>2022-12-02T20:40:11+08:00</published>
+    <updated>2022-12-02T20:40:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/antoinette-large-5-drawer-chest"/>
+    <title>Antoinette Large 5 Drawer Chest</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/623156eeaee9b02782a4b3c2_Antoinette_205_20Drawer_20Chest_20styled_ca322f3e-f157-4017-a975-ce66e900d115.jpg?v=1669984812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style data-mce-fragment="1" type="text/css"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p>A true representation of French Provincial design, the Antoinette 5 Drawer Chest features an antique two-tone finish, completed with ornate handles to complete the look.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7838775607532</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>445388</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7833295651052</id>
+    <published>2022-11-28T13:12:55+08:00</published>
+    <updated>2022-11-28T13:12:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/antoinette-compact-chest"/>
+    <title>Antoinette Compact Chest</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/63086f84b2b86f99652fee9c_Antoinette_20compact_20chest_20styled_e5c46900-96a7-40b5-967d-95149a746ca6.jpg?v=1670647970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A true representation of <a href="https://thefurnituregallery.com.au/collections/french-provincial-collection">French Provincial</a> design, the Antoinette Compact <a href="https://thefurnituregallery.com.au/collections/chests">Chest</a> features an antique two-tone finish, completed with ornate handles to complete the look.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>french provincial</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7833295651052</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>447465</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669976269036</id>
+    <published>2022-06-19T12:49:41+08:00</published>
+    <updated>2022-06-19T12:49:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/monroe-mirrored-chest-clear"/>
+    <title>Monroe Mirrored Chest - Clear</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6114b3e5e088ddd79c2b23fd_400826_WB_Monroe_20Mirrored_20Chest_20Clear.jpg?v=1655614181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add some old Hollywood glamour to your <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">bedroom</a> with the Monroe Mirrored <a href="https://thefurnituregallery.com.au/collections/chests">Chest</a>. Featuring plenty of storage space for your items, and crystal-like handles for an up-market look. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>contemporary</s:tag>
+    <s:tag>mirrored</s:tag>
+    <s:tag>mirrored chest of drawers</s:tag>
+    <s:tag>modern style</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669976269036</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>400826</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669971878124</id>
+    <published>2022-06-19T12:44:23+08:00</published>
+    <updated>2022-06-19T12:44:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/armani-chest"/>
+    <title>Armani Chest - Marri Wood</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ArmaniChest.jpg?v=1711495412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made from solid, premium grade Marri, the Armani <a href="https://thefurnituregallery.com.au/collections/chests">Chest</a> showcases this honey-coloured West Australian timber in all its glory. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5 drawer chest of drawers</s:tag>
+    <s:tag>chest of drawers</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>tallboy</s:tag>
+    <s:tag>timber</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669971878124</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1899.00</s:price>
+      <s:sku>116886</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669971386604</id>
+    <published>2022-06-19T12:43:48+08:00</published>
+    <updated>2022-06-19T12:43:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/amberley-3-drawer-wide-chest"/>
+    <title>Amberley 3 Drawer Wide Chest</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/Amberley3DrawerWideChest915x420x813mm_1.jpg?v=1661920015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Amberley Chest is a stunning addition to your <a href="https://thefurnituregallery.com.au/collections/bedroom-suites">bedroom</a>, with its gold metallic accents and antique <a href="https://thefurnituregallery.com.au/collections/mirrored-furniture">mirrored</a> design. Featuring 3 large drawers for ample storage space.<br><meta charset="utf-8"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bedroom drawers</s:tag>
+    <s:tag>bedroom storage</s:tag>
+    <s:tag>chest of drawers</s:tag>
+    <s:tag>drawer</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>storage</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669971386604</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>449372</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

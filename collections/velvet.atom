@@ -1,0 +1,1124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://thefurnituregallery.com.au/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://thefurnituregallery.com.au/collections/velvet.atom"/>
+  <title>The Furniture Gallery</title>
+  <updated>2024-03-26T07:23:24+08:00</updated>
+  <author>
+    <name>The Furniture Gallery</name>
+  </author>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8250794672364</id>
+    <published>2024-03-26T07:23:24+08:00</published>
+    <updated>2024-03-26T07:23:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/como-accent-chair-black"/>
+    <title>Como Accent Chair - Black</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ComoChair-blackangle.jpg?v=1711409001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Como Accent chair is a classic tub-style chair boasting understated elegance with its plush velvet upholstery.   Both comfort and sophistication combine in a design that transcends trends, making it a versatile and stylish choice for any room.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent chair</s:tag>
+    <s:tag>curved accent chair</s:tag>
+    <s:tag>velvet accent chair</s:tag>
+    <s:tag>velvet chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8250794672364</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1199.00</s:price>
+      <s:sku>451831</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8250785628396</id>
+    <published>2024-03-20T15:40:01+08:00</published>
+    <updated>2024-03-20T15:40:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/como-accent-chair-navy"/>
+    <title>Como Accent Chair - Navy</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ComoChair-navy.jpg?v=1710920277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">The Como Accent chair is a classic tub-style chair boasting understated elegance with its plush velvet upholstery.   Both comfort and sophistication combine in a design that transcends trends, making it a versatile and stylish choice for any room.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent chair</s:tag>
+    <s:tag>velvet accent chair</s:tag>
+    <s:tag>velvet armchair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8250785628396</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1199.00</s:price>
+      <s:sku>451832</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8104681406700</id>
+    <published>2023-12-06T07:06:39+08:00</published>
+    <updated>2023-12-06T07:06:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/charlotte-sofa"/>
+    <title>Charlotte Sofa</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/CharlotteSofa.jpg?v=1701817721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>LAST CHANCE!  <span>ONLY TWO LEFT - SPECIAL DISPLAY STOCK PRICE!</span></p>
+<p><span>CONTACT OSBORNE PARK OR JOONDALUP STORES.</span></p>
+<p>The Charlotte Sofa features a rounded silhouettte, luxe velvet upholstery and subtle timber legs for a sensational look.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>neutral sofa</s:tag>
+    <s:tag>sofa</s:tag>
+    <s:tag>white fabric sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8104681406700</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>486073</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8016139976940</id>
+    <published>2023-11-24T09:19:36+08:00</published>
+    <updated>2023-11-24T09:19:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/edison-bed-silver-velvet"/>
+    <title>Edison Bed - Silver Velvet</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/EdisonKingBed-silver.jpg?v=1697156261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1199.00 - 1499.00
+            <a href="https://thefurnituregallery.com.au/products/edison-bed-silver-velvet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Infuse your bedroom with opulent charm with this silver velvet bed featuring a stunning panelled headboard, inviting luxurious comfort and a striking focal point to your space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>grey velvet</s:tag>
+    <s:tag>velvet bed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8016139976940</id>
+      <title>Queen</title>
+      <s:price currency="AUD">1199.00</s:price>
+      <s:sku>452729</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8016139976940</id>
+      <title>King</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>452728</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8016142696684</id>
+    <published>2023-11-24T09:18:33+08:00</published>
+    <updated>2023-11-24T09:18:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/edison-bed-blue-velvet"/>
+    <title>Edison Bed - Blue Velvet</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/EdisonKingBed-blue.jpg?v=1697156203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            899.00 - 999.00
+            <a href="https://thefurnituregallery.com.au/products/edison-bed-blue-velvet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Infuse your bedroom with opulent charm and vibrant flair with this bright blue velvet bed featuring a stunning panelled headboard, inviting luxurious comfort and a striking focal point to your space.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>grey velvet</s:tag>
+    <s:tag>velvet bed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8016142696684</id>
+      <title>Queen</title>
+      <s:price currency="AUD">899.00</s:price>
+      <s:sku>452727</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8016142696684</id>
+      <title>King</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>452726</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840392741100</id>
+    <published>2023-10-30T16:10:45+08:00</published>
+    <updated>2023-10-30T16:10:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/gigi-velvet-dining-chair-navy"/>
+    <title>Gigi Velvet Dining Chair - Navy</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/6124993e084c079b1d9bc622_Gigi_20Navy_20Velvet_20Dining_20Chair_20-_20Front_d780f50a-9dfb-4318-955d-b1547399699b.png?v=1670241570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Bring an eclectic, luxe look to your dining room interior with the Gigi Velvet Dining Chair in Navy. With contrasting brass metal legs, this dining chair is sure to make a style statement."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Bring an eclectic, luxe look to your dining room interior with the Gigi Velvet Dining Chair in Navy. With contrasting brass metal legs, this dining chair is sure to make a style statement.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840392741100</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">499.00</s:price>
+      <s:sku>444835</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/8015172993260</id>
+    <published>2023-09-27T12:13:11+08:00</published>
+    <updated>2023-09-27T12:13:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/scarlett-dining-chair-sapphire"/>
+    <title>Scarlett Dining Chair - Sapphire</title>
+    <s:type>Dining</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/ScarlettDiningChair-sapphire_63ff0ddc-f28a-4c04-8acd-26b07187b647.jpg?v=1697156779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Dining<br>
+        <strong>Price: </strong>
+            399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">A stunningly glamorous dining chair featuring sumptuous sapphire velvet upholstery, elegantly paired with a brass base, exuding contemporary sophistication and opulence for a luxurious dining experience.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>upholstered dining chair</s:tag>
+    <s:tag>velvet</s:tag>
+    <s:tag>velvet chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/8015172993260</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">399.00</s:price>
+      <s:sku>452705</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669972304108</id>
+    <published>2023-09-08T15:06:57+08:00</published>
+    <updated>2023-09-08T15:06:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bloomsburg-armchair-apple"/>
+    <title>Bloomsburg Armchair - Apple Green</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/619dd99577e47aabfd2438d5_1.png?v=1655613902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>THIS COLOUR IS AVAILABLE FOR SPECIAL ORDER ONLY IN STORE.</strong></p>
+<p>Embellished with classic buttoned tufting, the Bloomsburg <a href="https://thefurnituregallery.com.au/collections/armchairs">Armchair</a> in Apple is draped in shimmering <a href="https://thefurnituregallery.com.au/collections/velvet">velvet</a> in a vivid green hue for a sumptuous, inviting look and feel. </p>
+<p>Also available:  <a href="https://thefurnituregallery.com.au/products/bloomsburg-armchair-indigo" title="Bloomsburg Armchair - Indigo">Indigo</a>, <a href="https://thefurnituregallery.com.au/products/bloomsburg-armchair-gold" title="Bloomsburg Armchair - Gold">Gold</a> &amp; <a href="https://thefurnituregallery.com.au/products/bloomsburg-armchair-forest" title="Bloomsburg Armchair - Forest">Forest</a>. <meta charset="utf-8"><span data-mce-fragment="1">More colours available exclusively in store (please see image with colour swatches).  12-16 week wait on special order colours.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chesterfield</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>green armchair</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>velvet chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669972304108</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>449132</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669972435180</id>
+    <published>2023-09-08T15:05:48+08:00</published>
+    <updated>2023-09-08T15:05:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/bloomsburg-sofa-apple"/>
+    <title>Bloomsburg 3 Seater Sofa - Apple Green</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/61c0fee715270c5085f82d70_Bloomsburg_20Sofa_20Set.jpg?v=1673311481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            2499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>SPECIAL ORDER ONLY! </strong></p>
+<p><meta charset="utf-8">Embellished with classic buttoned tufting, the Bloomsburg sofa offers a modern twist on the traditional <meta charset="utf-8"><a href="https://thefurnituregallery.com.au/products/mayfair-3-seater" data-mce-href="https://thefurnituregallery.com.au/products/mayfair-3-seater" target="_blank" data-mce-fragment="1">Chesterfield</a> design that will instantly lift your living room interior. Draped in shimmering <meta charset="utf-8"><a href="https://thefurnituregallery.com.au/collections/velvet" data-mce-href="https://thefurnituregallery.com.au/collections/velvet" target="_blank" data-mce-fragment="1">velvet</a> in a vibrant hue, the Bloomsburg is both bold and beautiful. Matching <meta charset="utf-8"><a href="https://thefurnituregallery.com.au/collections/armchairs" data-mce-href="https://thefurnituregallery.com.au/collections/armchairs" target="_blank" data-mce-fragment="1">armchair</a> available <span style="text-decoration: underline;"><a title="Bloomsburg Armchair - Apple Green" href="https://thefurnituregallery.com.au/products/bloomsburg-armchair-apple">here</a></span>.</p>
+<p>Please note: <meta charset="utf-8">12-16 week wait on special order colours.</p>
+<p>Available to order online or in store: <a title="BLOOMSBURG SOFA - FOREST" href="https://thefurnituregallery.com.au/products/bloomsburg-sofa-forest">Forest</a>, <a title="BLOOMSBURG SOFA - INDIGO" href="https://thefurnituregallery.com.au/products/bloomsburg-sofa-indigo" target="_blank">Indigo</a>, and <a title="BLOOMSBURG SOFA - GOLD" href="https://thefurnituregallery.com.au/products/bloomsburg-sofa-gold" target="_blank">Gold</a>. </p>
+<p><meta charset="utf-8"><span data-mce-fragment="1">More colours available exclusively in store (please see image with colour swatches). </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>chesterfield</s:tag>
+    <s:tag>classic style</s:tag>
+    <s:tag>green</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>velvet lounge</s:tag>
+    <s:tag>Velvet sofa</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669972435180</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">2499.00</s:price>
+      <s:sku>449131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7856633282796</id>
+    <published>2023-09-05T11:36:08+08:00</published>
+    <updated>2023-09-05T11:36:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/botanica-arm-chair"/>
+    <title>Botanica Armchair</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/BotanicaArmChair-emerald-resize.jpg?v=1672710351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Botanica is a gorgeous statement <a href="https://thefurnituregallery.com.au/collections/armchairs">chair</a> to inject colour into your room, featuring emerald green <a href="https://thefurnituregallery.com.au/collections/velvet">velvet</a>, a curved back with buttoned design and tall gold legs.<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent chair</s:tag>
+    <s:tag>button tufting</s:tag>
+    <s:tag>velvet accent chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7856633282796</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">499.00</s:price>
+      <s:sku>450635p</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7967330042092</id>
+    <published>2023-08-25T09:22:53+08:00</published>
+    <updated>2023-08-25T09:22:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-jasmine-bed"/>
+    <title>Jasmine Bed</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/620793bb93badb8426e1b89c_Jasmine_20Queen_20Bed._27da1d43-62a1-4d8b-93f2-65409543e879.jpg?v=1692924735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            499.00 - 699.00
+            <a href="https://thefurnituregallery.com.au/products/copy-of-jasmine-bed">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bring some urban chic style to your bedroom with Jasmine <a href="https://thefurnituregallery.com.au/collections/beds">Bed</a>. The neutral headboard features straight lines that give it a clean, modern look, while the <a href="https://thefurnituregallery.com.au/collections/velvet">velvet</a> upholstery adds an inviting, cosy feel. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>double bed</s:tag>
+    <s:tag>grey</s:tag>
+    <s:tag>king bed</s:tag>
+    <s:tag>modern style</s:tag>
+    <s:tag>queen bed</s:tag>
+    <s:tag>silver</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>velvet bed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7967330042092</id>
+      <title>Queen</title>
+      <s:price currency="AUD">599.00</s:price>
+      <s:sku>259657</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7967330042092</id>
+      <title>Double</title>
+      <s:price currency="AUD">499.00</s:price>
+      <s:sku>449307</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7967330042092</id>
+      <title>King</title>
+      <s:price currency="AUD">699.00</s:price>
+      <s:sku>259658</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7936880083180</id>
+    <published>2023-06-20T07:10:42+08:00</published>
+    <updated>2023-06-20T07:10:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-kingdom-bed"/>
+    <title>Kingdom Bed</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/61036f1b70915a5a31d92b36_Kingdom_20Bed_23633d54-a304-498d-9af6-d0643020c4b5.jpg?v=1687213240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1199.00 - 1499.00
+            <a href="https://thefurnituregallery.com.au/products/copy-of-kingdom-bed">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Plush and luxurious, the imposing presence of the Kingdom <a href="https://thefurnituregallery.com.au/collections/beds">Bed</a> evokes the most on-trend bedroom design with its statement tall <a href="https://thefurnituregallery.com.au/collections/velvet">velvet</a> headboard, buttoned detail and fluid lines. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>grey</s:tag>
+    <s:tag>grey velvet</s:tag>
+    <s:tag>large headboard</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>tufted bedhead</s:tag>
+    <s:tag>velvet bed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7936880083180</id>
+      <title>Queen</title>
+      <s:price currency="AUD">1199.00</s:price>
+      <s:sku>451382</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7936880083180</id>
+      <title>King</title>
+      <s:price currency="AUD">1499.00</s:price>
+      <s:sku>451878</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7930224279788</id>
+    <published>2023-05-31T10:08:24+08:00</published>
+    <updated>2023-05-31T10:08:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-charlize-bed"/>
+    <title>Charlize Bed - Platinum Velvet</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/611c85dca2c3fd0766040b02_69013735_1100620570132449_5351209666594471936_n_6a63ce65-a355-41e6-8da9-ce8123c324ca.jpg?v=1685497662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1599.00 - 1899.00
+            <a href="https://thefurnituregallery.com.au/products/copy-of-charlize-bed">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-value='{"1":2,"2":"Glamorous and luxurious. Upholstered in stunning crushed platinum velvet and blessed with all the trimmings, the Charlize makes the ultimate bedroom statement."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Glamorous and luxurious. Upholstered in stunning crushed platinum <a href="https://thefurnituregallery.com.au/collections/velvet">velvet</a> and blessed with all the trimmings, the Charlize makes the ultimate <a href="https://thefurnituregallery.com.au/collections/bedroom">bedroom</a> statement.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>velvet</s:tag>
+    <s:tag>velvet bed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7930224279788</id>
+      <title>King</title>
+      <s:price currency="AUD">1899.00</s:price>
+      <s:sku>451538</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7930224279788</id>
+      <title>Queen</title>
+      <s:price currency="AUD">1599.00</s:price>
+      <s:sku>451537</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7917484441836</id>
+    <published>2023-05-03T19:05:24+08:00</published>
+    <updated>2023-05-03T19:05:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-grand-prague-bed-champagne"/>
+    <title>Grand Prague Bed - Champagne</title>
+    <s:type>Advanced</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/6359c8786780b626810a40f9_Prague_20Grand_20King_20Bed_20-_20Champagne_20PRINT_6d86451e-bbd8-49b4-92ad-5efca2793b09.jpg?v=1683111760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Advanced<br>
+        <strong>Price: </strong>
+            999.00 - 1299.00
+            <a href="https://thefurnituregallery.com.au/products/copy-of-grand-prague-bed-champagne">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Take your bedroom to new heights of elegance and grandeur with the <a href="https://thefurnituregallery.com.au/products/copy-of-grand-prague-bed-cobalt">Grand Prague Bed</a>. Draped in plush champagne <a href="https://thefurnituregallery.com.au/collections/velvet">velvet</a>, the tall headboard features a chic pleated design, commanding attention.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>gold velvet</s:tag>
+    <s:tag>velvet bed</s:tag>
+    <s:tag>velvet headboard</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7917484441836</id>
+      <title>Queen</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>451380</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7917484441836</id>
+      <title>King</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>451379</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669973319916</id>
+    <published>2023-04-11T14:45:33+08:00</published>
+    <updated>2023-04-11T14:45:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/chelsea-armchair-indigo"/>
+    <title>Chelsea Armchair - Indigo</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/61404f391d71890fbb1e0d28_Chelsea_20Arm_20Chair_20indigo.jpg?v=1655613964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Featuring a classic tub shape, gold legs and luminous <a href="https://thefurnituregallery.com.au/collections/velvet">velvet</a> in a vibrant hue, the <a href="https://thefurnituregallery.com.au/products/chelsea-armchair-apple-green">Chelsea Armchair</a> offers high resiliency foam seating for extra comfort. </p>
+<p>Also available in: <a href="https://thefurnituregallery.com.au/products/chelsea-armchair-apple-green" title="Chelsea Armchair - Apple Green">Apple Green.</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>accent chair</s:tag>
+    <s:tag>blue velvet armchair</s:tag>
+    <s:tag>curved accent chair</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>velvet accent chair</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669973319916</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>448109</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7898871464172</id>
+    <published>2023-03-22T12:08:13+08:00</published>
+    <updated>2023-03-22T12:08:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/copy-of-allure-bed-with-drawers-midnight"/>
+    <title>Allure Bed with Drawers - Midnight</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/AllureKing_8c222d0f-f720-4660-9eba-d39fafd32ce2.jpg?v=1679451446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            1399.00 - 1699.00
+            <a href="https://thefurnituregallery.com.au/products/copy-of-allure-bed-with-drawers-midnight">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Make your bedroom truly alluring and inviting with the Allure <a href="https://thefurnituregallery.com.au/collections/beds">Bed</a> in Midnight. Upholstered in a plush black <a href="https://thefurnituregallery.com.au/collections/velvet">velvet</a>, this stunning piece features a statement vertical panel headboard that oozes grandeur, and practical under-bed storage. </p>
+<p>Also available in <a href="https://thefurnituregallery.com.au/products/allure-bed-natural" title="Allure Bed With Drawers - Natural"><span style="text-decoration: underline;">Natural</span></a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Best Seller</s:tag>
+    <s:tag>bed drawer</s:tag>
+    <s:tag>black bed</s:tag>
+    <s:tag>king bed</s:tag>
+    <s:tag>queen bed</s:tag>
+    <s:tag>sd_preorder</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>storage bed</s:tag>
+    <s:tag>upholstered bed</s:tag>
+    <s:tag>velvet bed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7898871464172</id>
+      <title>Queen</title>
+      <s:price currency="AUD">1399.00</s:price>
+      <s:sku>451377</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7898871464172</id>
+      <title>King</title>
+      <s:price currency="AUD">1699.00</s:price>
+      <s:sku>451376</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7850806608108</id>
+    <published>2023-01-16T10:24:08+08:00</published>
+    <updated>2023-01-16T10:24:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/perugia-armchair-green"/>
+    <title>Perugia Armchair - Green</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/files/WEB5179255-1DB60153-5CD1-FBF0-77AF-64E111218EA5.jpg?v=1692163264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">The Perugia <a href="https://thefurnituregallery.com.au/collections/armchairs">Armchair</a> is a classic tub style chair with ruched <a href="https://thefurnituregallery.com.au/collections/velvet">velvet</a>, soft contours and a stunning emerald hue, making it ideal for bringing refined modern glam to your <a href="https://thefurnituregallery.com.au/collections/living">living room</a>. </span></p>
+<p><span data-mce-fragment="1">Also available in:  <a href="https://thefurnituregallery.com.au/products/perugia-armchair-silver-grey" title="Perugia Armchair - Silver Grey">Silver Grey</a>, <a href="https://thefurnituregallery.com.au/products/perugia-armchair-rosewater" title="Perugia Armchair - Rosewater">Rosewater</a>, <a href="https://thefurnituregallery.com.au/products/perugia-armchair-navy?_pos=2&amp;_sid=c5c82749d&amp;_ss=r" title="Perugia Armchair - Navy">Navy</a> &amp; <a href="https://thefurnituregallery.com.au/products/perugia-armchair-black" title="Perugia Armchair - Black">Black</a>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7850806608108</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">899.00</s:price>
+      <s:sku>448678</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7669978169580</id>
+    <published>2022-12-21T08:25:51+08:00</published>
+    <updated>2022-12-21T08:25:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/ravello-bed-denim"/>
+    <title>Ravello Bed - Denim Blue</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery 1</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/RavelloKingBed-megdenim..jpg?v=1671582153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery 1<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            2599.00 - 2899.00
+            <a href="https://thefurnituregallery.com.au/products/ravello-bed-denim">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Refined, elegant and beautiful - the Ravello <a href="https://thefurnituregallery.com.au/collections/beds">Bed</a> in Denim Blue is upholstered in smooth <a href="https://thefurnituregallery.com.au/collections/velvet">velvet</a> and finished with classic buttoned tufting. </p>
+<p>Also available in:  <a href="https://thefurnituregallery.com.au/products/ravello-bed-cobblestone" title="RAVELLO BED - COBBLESTONE">Cobblestone</a> &amp; <a href="https://thefurnituregallery.com.au/products/ravello-bed-fern" title="RAVELLO BED - FERN">Fern</a>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>king bed</s:tag>
+    <s:tag>queen bed</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>spo-notify-me-disabled</s:tag>
+    <s:tag>tufted bedhead</s:tag>
+    <s:tag>velvet</s:tag>
+    <s:tag>velvet bed</s:tag>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669978169580</id>
+      <title>Queen</title>
+      <s:price currency="AUD">2599.00</s:price>
+      <s:sku>449951</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7669978169580</id>
+      <title>King</title>
+      <s:price currency="AUD">2899.00</s:price>
+      <s:sku>449950</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7849316516076</id>
+    <published>2022-12-20T16:57:18+08:00</published>
+    <updated>2022-12-20T16:57:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/coco-swivel-chair-in-vintage-marigold"/>
+    <title>Coco Swivel Chair - Vintage Marigold</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/DDSWIVELVMG001_Coco_Swivel_Chair_B.jpg?v=1671526638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">The Coco <a href="https://thefurnituregallery.com.au/products/murray-swivel-velvet-chair-black">Swivel Chair</a> is a contemporary chair that swivels on an almost hidden metal base, offering comfort, functionality and a super stylish look. Upholstered in a stunning, vivid Marigold hue.</p>
+<p data-mce-fragment="1">Also available in:  <a href="https://thefurnituregallery.com.au/products/copy-of-coco-swivel-chair-vintage-marigold?_pos=2&amp;_sid=8fac0b62c&amp;_ss=r" title="COCO SWIVEL CHAIR - VINTAGE GOLD">V</a><a href="https://thefurnituregallery.com.au/products/copy-of-coco-swivel-chair-vintage-marigold" title="COCO SWIVEL CHAIR - VINTAGE GOLD">intage Gold</a>  <a href="https://thefurnituregallery.com.au/products/copy-of-coco-swivel-chair-vintage-gold" title="COCO SWIVEL CHAIR - HOUNDSTOOTH">Houndstooth</a>  <a href="https://thefurnituregallery.com.au/products/copy-of-coco-swivel-chair-vintage-gold-1" title="COCO SWIVEL CHAIR - TEXTURED PEARL">Textured Pearl</a></p>
+<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7849316516076</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>450318</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840512999660</id>
+    <published>2022-12-20T16:18:46+08:00</published>
+    <updated>2022-12-20T16:18:46+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/pandora-bed"/>
+    <title>Pandora Bed - Royal Blue with Silver Legs</title>
+    <s:type>Bedroom</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/PandoraKingBed-silverlegscopy.jpg?v=1671524234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Bedroom<br>
+        <strong>Price: </strong>
+            2499.00 - 2799.00
+            <a href="https://thefurnituregallery.com.au/products/pandora-bed">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The grand, ultra-high headboard of the <a href="https://thefurnituregallery.com.au/products/pandora-king">Pandora</a> exudes refined class, while offering comfortable backing for reading in <a href="https://thefurnituregallery.com.au/collections/beds">bed</a>. Its elegance is further elevated by distinctive stainless steel framing and silver legs.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840512999660</id>
+      <title>King</title>
+      <s:price currency="AUD">2799.00</s:price>
+      <s:sku>450401</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840512999660</id>
+      <title>Queen</title>
+      <s:price currency="AUD">2499.00</s:price>
+      <s:sku>450400</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840929644780</id>
+    <published>2022-12-06T19:17:15+08:00</published>
+    <updated>2022-12-06T19:17:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/avery-armchair-rosewater"/>
+    <title>Avery Armchair - Rosewater</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/61402027608e626f578f2f53_DDAVRW001_Avery_Chair_Rose_Water_B-1_1cd529ce-898f-4130-b9a5-180e7de74a6b.jpg?v=1670325432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"Add warmth and interest to your living room with the Avery Armchair in Rosewater, featuring light pink velvet and gold legs."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Add warmth and interest to your <a href="https://thefurnituregallery.com.au/collections/living">living room</a> with the Avery <a href="https://thefurnituregallery.com.au/collections/armchairs">Armchair</a> in Rosewater, featuring light pink <a href="https://thefurnituregallery.com.au/collections/velvet">velvet</a> and gold legs.</span></p>
+<p><span data-sheets-value='{"1":2,"2":"Add warmth and interest to your living room with the Avery Armchair in Rosewater, featuring light pink velvet and gold legs."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1"><meta charset="utf-8">Also available in<a title="Avery Armchair - Taupe" href="https://thefurnituregallery.com.au/products/avery-armchair-taupe?_pos=1&amp;_sid=ed417a90f&amp;_ss=r"> </a><a href="https://thefurnituregallery.com.au/products/avery-armchair-taupe" title="Avery Armchair - Taupe"><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;">Taupe</span></a>, <a href="https://thefurnituregallery.com.au/products/avery-armchair-honeycomb" title="Avery Armchair - Honeycomb"><span style="text-decoration: underline;" mce-data-marked="1" data-mce-style="text-decoration: underline;">Honeycomb</span></a>, <a href="https://thefurnituregallery.com.au/products/avery-armchair-olive" title="Avery Armchair - Olive"><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;">Olive</span></a>, <a href="https://thefurnituregallery.com.au/products/avery-armchair-navy" title="Avery Armchair - Navy"><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;">Navy</span></a> and <a href="https://thefurnituregallery.com.au/products/avery-armchair-black" title="Avery Armchair - Black">Black</a><a href="https://thefurnituregallery.com.au/products/avery-armchair-black?_pos=3&amp;_sid=614c9195b&amp;_ss=r" title="Avery Armchair - Black">.</a></span></p>
+<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840929644780</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">999.00</s:price>
+      <s:sku>448419</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840493469932</id>
+    <published>2022-12-05T22:02:21+08:00</published>
+    <updated>2022-12-05T22:02:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/manhattan-shell-chair-honeycomb"/>
+    <title>Manhattan Shell Chair - Honeycomb</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/621c57adcedd7b63374cc2df_DDSHELLHC002_Shell_Chair_Honeycomb_B.jpg?v=1670900894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1099.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"Make a glamorous statement in your living room with the stunning Manhattan Shell Chair in Honeycomb. Featuring a unique clam-like shape, with deco inspired curves, this chair is made from soft velvet in a bright gold hue to provide both comfort and style."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Make a glamorous statement in your <a href="https://thefurnituregallery.com.au/collections/living">living room</a> with the stunning Manhattan <a href="https://thefurnituregallery.com.au/products/manhattan-shell-chair-rose-water">Shell Chair</a> in <a href="https://thefurnituregallery.com.au/products/hunter-accent-chair-honeycomb">Honeycomb</a>. Featuring a unique clam-like shape, with deco inspired curves, this chair is made from soft <a href="https://thefurnituregallery.com.au/collections/velvet">velvet</a> in a bright gold hue to provide both comfort and style.</span></p>
+<p><span data-sheets-value='{"1":2,"2":"Make a glamorous statement in your living room with the stunning Manhattan Shell Chair in Honeycomb. Featuring a unique clam-like shape, with deco inspired curves, this chair is made from soft velvet in a bright gold hue to provide both comfort and style."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Also available in:  <a href="https://thefurnituregallery.com.au/products/manhattan-shell-chair-green?_pos=10&amp;_sid=15061ab62&amp;_ss=r" title="Manhattan Shell Chair - Green">Green</a> &amp; <a href="https://thefurnituregallery.com.au/products/manhattan-shell-chair-black?_pos=11&amp;_sid=15061ab62&amp;_ss=r" title="Manhattan Shell Chair - Black">Black</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840493469932</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1099.00</s:price>
+      <s:sku>449939</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840490881260</id>
+    <published>2022-12-05T22:00:01+08:00</published>
+    <updated>2022-12-05T22:00:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/manhattan-shell-chair-green"/>
+    <title>Manhattan Shell Chair - Green</title>
+    <s:type></s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/621c590edd1021bbec5365b8_DDSHELLGR002_Shell_Chair_Green_C_a9a7ef05-533c-4ba5-b659-40e75ac9dc86.jpg?v=1670248803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1099.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css" data-mce-fragment="1"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"Make a glamorous statement in your living room with the stunning Manhattan Shell Chair in Green. Featuring a unique clam-like shape, with deco inspired curves, this chair is made from soft velvet in a deep emerald hue to provide both comfort and style."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Make a glamorous statement in your <a href="https://thefurnituregallery.com.au/collections/living">living room</a> with the stunning Manhattan <a href="https://thefurnituregallery.com.au/products/manhattan-shell-chair-honeycomb">Shell Chair</a> in <a href="https://thefurnituregallery.com.au/products/perugia-armchair-green">Green</a>. Featuring a unique clam-like shape, with deco inspired curves, this chair is made from soft <a href="https://thefurnituregallery.com.au/collections/velvet">velvet</a> in a deep emerald hue to provide both comfort and style.</span></p>
+<p><span data-sheets-value='{"1":2,"2":"Make a glamorous statement in your living room with the stunning Manhattan Shell Chair in Green. Featuring a unique clam-like shape, with deco inspired curves, this chair is made from soft velvet in a deep emerald hue to provide both comfort and style."}' data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-mce-fragment="1">Also available in:  <a href="https://thefurnituregallery.com.au/products/manhattan-shell-chair-honeycomb?_pos=7&amp;_sid=15061ab62&amp;_ss=r" title="Manhattan Shell Chair - Honeycomb">Honeycomb</a> &amp; <a href="https://thefurnituregallery.com.au/products/manhattan-shell-chair-black?_pos=11&amp;_sid=15061ab62&amp;_ss=r" title="Manhattan Shell Chair - Black">Black</a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840490881260</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1099.00</s:price>
+      <s:sku>449940</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840470991084</id>
+    <published>2022-12-05T21:40:52+08:00</published>
+    <updated>2022-12-05T21:40:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hunter-accent-chair-navy"/>
+    <title>Hunter Accent Chair - Navy</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/614038ced814f219adb4a7e6_DDHUNTNA001_Hunter_Chair_Navy_B_dabfde0a-7939-48e1-b2da-0fce7fbd8a43.jpg?v=1670247653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style data-mce-fragment="1" type="text/css"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-mce-fragment="1" data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-sheets-value='{"1":2,"2":"A gorgeous velvet statement chair in a stunning colour, the Hunter Accent Chair in Navy will instantly add flair to your living room."}'>A gorgeous <a href="https://thefurnituregallery.com.au/collections/velvet">velvet</a> statement <a href="https://thefurnituregallery.com.au/collections/armchairs">chair</a> in a stunning colour, the Hunter <a href="https://thefurnituregallery.com.au/products/dericka-accent-chair-gold">Accent Chair</a> in Navy will instantly add flair to your <a href="https://thefurnituregallery.com.au/collections/living">living room</a>.</span></p>
+<p><span data-mce-fragment="1" data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-sheets-value='{"1":2,"2":"A gorgeous velvet statement chair in a stunning colour, the Hunter Accent Chair in Navy will instantly add flair to your living room."}'>Also available in: <a href="https://thefurnituregallery.com.au/products/hunter-accent-chair-honeycomb" title="Hunter Accent Chair - Honeycomb">Honeycomb</a>, <a href="https://thefurnituregallery.com.au/products/hunter-accent-chair-olive" title="Hunter Accent Chair - Olive">Olive</a> &amp; <a href="https://thefurnituregallery.com.au/products/hunter-accent-chair-charcoal" title="Hunter Accent Chair - Charcoal">Charcoal</a></span></p>
+<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840470991084</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>447868</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://thefurnituregallery.com.au/products/7840467976428</id>
+    <published>2022-12-05T21:38:07+08:00</published>
+    <updated>2022-12-05T21:38:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://thefurnituregallery.com.au/products/hunter-accent-chair-honeycomb"/>
+    <title>Hunter Accent Chair - Honeycomb</title>
+    <s:type>Living</s:type>
+    <s:vendor>The Furniture Gallery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0650/2190/3084/products/61403fe1128d6b82229199aa_DDHUNTHC001_Hunter_Chair_Honeycomb_B-1_86c93d41-fee3-4f97-b7a0-8d9759f8be86.jpg?v=1670247488"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Furniture Gallery<br>
+        <strong>Type: </strong>Living<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style data-mce-fragment="1" type="text/css"><!--
+td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-mce-fragment="1" data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-sheets-value='{"1":2,"2":"A gorgeous velvet statement chair in a vibrant gold colour, the Hunter Accent Chair in Honeycomb will instantly add flair to your living room."}'>A gorgeous <a href="https://thefurnituregallery.com.au/collections/velvet">velvet</a> statement <a href="https://thefurnituregallery.com.au/collections/armchairs">chair</a> in a vibrant gold colour, the Hunter <a href="https://thefurnituregallery.com.au/products/dericka-accent-chair-gold">Accent Chair</a> in Honeycomb will instantly add flair to your <a href="https://thefurnituregallery.com.au/collections/living">living room</a>.</span></p>
+<p><span data-mce-fragment="1" data-sheets-userformat='{"2":15233,"3":{"1":0},"10":2,"11":0,"12":0,"14":{"1":2,"2":0},"15":"Calibri, sans-serif","16":11}' data-sheets-value='{"1":2,"2":"A gorgeous velvet statement chair in a vibrant gold colour, the Hunter Accent Chair in Honeycomb will instantly add flair to your living room."}'>Also available in: <a href="https://thefurnituregallery.com.au/products/hunter-accent-chair-olive" title="Hunter Accent Chair - Olive">Olive</a>, <a href="https://thefurnituregallery.com.au/products/hunter-accent-chair-navy" title="Hunter Accent Chair - Navy">Navy</a></span></p>
+<quillbot-extension-portal></quillbot-extension-portal></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://thefurnituregallery.com.au/products/7840467976428</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">1299.00</s:price>
+      <s:sku>448676</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
